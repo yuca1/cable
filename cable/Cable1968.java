@@ -82,9 +82,19 @@ public class Cable1968{
                 }
                 sign = sign + "?";
             }
+
+
+            if (name.indexOf("•") != -1) {
+                if (name.indexOf("• ") != -1) {
+                    name = name.substring(name.indexOf("•") + 2, name.length());
+                }
+                else {
+                    name = name.substring(name.indexOf("•") + 1, name.length());
+                }
+                sign = sign + "?";
+            }
             System.out.print(name + "\t");
 
-            
             
             // Mark the next "—"
             mark = s.indexOf("—", start + 1);
@@ -94,23 +104,23 @@ public class Cable1968{
             if (mark == -1) {
                 end = s.length();
             }
-            else {
+            else {              
                 end = s.lastIndexOf("\n", mark);
             }
             sub = s.substring(start, end);
-
+            
             
             // Copied
             if (s.substring(start + 1, start + 4).equals("See") ||
             s.substring(start + 2, start + 5).equals("See")) {
                 System.out.print("1" + "\t");
                 String seeTemp = s.substring(start + 1, end);
-                if (seeTemp.indexOf("\n") != -1) {
-                    System.out.print(seeTemp.substring(seeTemp.indexOf("\n") + 1, seeTemp.length()) + "\n");
-                }
-                else {
-                    System.out.print(seeTemp + "\n");
-                }
+                //if (seeTemp.indexOf("\n") != -1) {
+                    //System.out.print(seeTemp.substring(seeTemp.indexOf("\n") + 1, seeTemp.length()) + "\n");
+                //}
+                
+                System.out.print(seeTemp + "\n");
+                
                 start = s.indexOf("—", start + 1);
                 continue;
             }
@@ -322,6 +332,7 @@ public class Cable1968{
             // Sign
             System.out.print(sign);
                 
+            
             // Start next
             start = s.indexOf("—", end);
             System.out.println();
