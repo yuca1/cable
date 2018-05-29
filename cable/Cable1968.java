@@ -10,19 +10,80 @@ public class Cable1968{
         String sub;
         String name;
         String note;
+        String sign;
         
         while (start != -1) {
             note = "";
+            sign = "";
             
             // Town name †
             name = s.substring(end + 1, start);
             if (name.indexOf("\t") != -1) {
-                System.out.print(name.substring(0, name.indexOf("\t")) + 
-                name.substring(name.indexOf("\t") + 1, name.length()) + "\t");
+                name = name.substring(0, name.indexOf("\t")) + name.substring(name.indexOf("\t") + 1, name.length());
             }
-            else {
-                System.out.print(name + "\t");
+            
+            if (name.indexOf("t ") == 0) {
+                if (name.indexOf("t ") != -1) {
+                    name = name.substring(name.indexOf("t") + 2, name.length());
+                }
+                else {
+                    name = name.substring(name.indexOf("t") + 1, name.length());
+                }
+                sign = sign + "†";
             }
+            
+            if (name.indexOf("f ") == 0) {
+                if (name.indexOf("f ") != -1) {
+                    name = name.substring(name.indexOf("f") + 2, name.length());
+                }
+                else {
+                    name = name.substring(name.indexOf("f") + 1, name.length());
+                }
+                sign = sign + "†";
+            }
+            
+            if (name.indexOf("+") != -1) {
+                if (name.indexOf("+ ") != -1) {
+                    name = name.substring(name.indexOf("+") + 2, name.length());
+                }
+                else {
+                    name = name.substring(name.indexOf("+") + 1, name.length());
+                }
+                sign = sign + "†";
+            }
+            
+            if (name.indexOf("*") != -1) {
+                if (name.indexOf("* ") != -1) {
+                    name = name.substring(name.indexOf("*") + 2, name.length());
+                }
+                else {
+                    name = name.substring(name.indexOf("*") + 1, name.length());
+                }
+                sign = sign + "*";
+            }
+            
+            if (name.indexOf("♦") != -1) {
+                if (name.indexOf("♦ ") != -1) {
+                    name = name.substring(name.indexOf("♦") + 2, name.length());
+                }
+                else {
+                    name = name.substring(name.indexOf("♦") + 1, name.length());
+                }
+                sign = sign + "?";
+            }
+            
+            
+            if (name.indexOf("»") != -1) {
+                if (name.indexOf("» ") != -1) {
+                    name = name.substring(name.indexOf("»") + 2, name.length());
+                }
+                else {
+                    name = name.substring(name.indexOf("»") + 1, name.length());
+                }
+                sign = sign + "?";
+            }
+            System.out.print(name + "\t");
+
             
             
             // Mark the next "—"
@@ -60,25 +121,27 @@ public class Cable1968{
             
             // Population
             int populationIndex = sub.indexOf("Population");
+            String pop = "";
             if (populationIndex != -1) {
                 int popStartIndex = s.indexOf("Population", start) + 12;
                 int popEndIndex = s.indexOf(".", popStartIndex);
-                
-                // N -> N.A
-                // if (s.charAt(popEndIndex + 1) == 'A') {
-                    // popEndIndex = s.indexOf(".", popEndIndex + 1);
-                // }
+                pop = s.substring(popStartIndex, popEndIndex);
                 
                 // NumberFix
-
+                if (Character.isDigit(s.charAt(popEndIndex + 1))) {
+                    int newPopEndIndex = s.indexOf(".", popEndIndex + 1);
+                    pop = s.substring(popStartIndex, popEndIndex) + "," +
+                    s.substring(popEndIndex + 1, newPopEndIndex);
+                }
                 
                 // including
                 if (s.substring(popStartIndex, popEndIndex).indexOf("cluding") != -1) {
                     note += "Population " + s.substring(popStartIndex, s.indexOf(")", popStartIndex)) + " ";
                     popStartIndex = s.indexOf(":", popStartIndex) + 2;
+                    pop = s.substring(popStartIndex, popEndIndex);
                 }
                 
-                System.out.print(s.substring(popStartIndex, popEndIndex) + "\t");
+                System.out.print(pop + "\t");
                 }
             else {
                 System.out.print("N/A" + "\t");
@@ -133,18 +196,24 @@ public class Cable1968{
                 int subscribersEndIndex = s.indexOf(".", subscribersStartIndex);
                 String subscribersTemp = s.substring(subscribersStartIndex, subscribersEndIndex);
                 
+                // NumberFix
+                if (Character.isDigit(s.charAt(subscribersEndIndex + 1))) {
+                    int newSubscribersEndIndex = s.indexOf(".", subscribersEndIndex + 1);
+                    subscribersTemp = s.substring(subscribersStartIndex, subscribersEndIndex) + "," +
+                    s.substring(subscribersEndIndex + 1, newSubscribersEndIndex);
+                }
+                
                 // Commercial/Program
                 if (subscribersTemp.indexOf("Commer") != -1) {
                     subscribersEndIndex = s.indexOf("Commer", subscribersStartIndex) - 2;
-                    System.out.print(s.substring(subscribersStartIndex, subscribersEndIndex) + "\t");
+                    subscribersTemp = s.substring(subscribersStartIndex, subscribersEndIndex);
                 }
                 else if (subscribersTemp.indexOf("Program") != -1){
                     subscribersEndIndex = s.indexOf("Program", subscribersStartIndex) - 2;
-                    System.out.print(s.substring(subscribersStartIndex, subscribersEndIndex) + "\t");
+                    subscribersTemp = s.substring(subscribersStartIndex, subscribersEndIndex);
                 }
-                else {
-                    System.out.print(subscribersTemp + "\t");
-                }
+                
+                System.out.print(subscribersTemp + "\t");
             }
             else {
                 System.out.print("N/A" + "\t");
@@ -156,14 +225,23 @@ public class Cable1968{
             if (potentialIndex != -1) {
                 int potentialStartIndex = s.indexOf("Potential", start) + 11;
                 int potentialEndIndex = s.indexOf(".", potentialStartIndex);
+                String potentialTemp = s.substring(potentialStartIndex, potentialEndIndex);
+                
+                // NumberFix
+                if (Character.isDigit(s.charAt(potentialEndIndex + 1))) {
+                    int newPotentialEndIndex = s.indexOf(".", potentialEndIndex + 1);
+                    potentialTemp = s.substring(potentialStartIndex, potentialEndIndex) + "," +
+                    s.substring(potentialEndIndex + 1, newPotentialEndIndex);
+                }
                 
                 // including
                 if (s.substring(potentialStartIndex, potentialEndIndex).indexOf("cluding") != -1) {
                     note += "Potential " + s.substring(potentialStartIndex, s.indexOf(")", potentialStartIndex)) + " ";
                     potentialStartIndex = s.indexOf(":", potentialStartIndex) + 2;
+                    potentialTemp = s.substring(potentialStartIndex, potentialEndIndex);
                 }
                 
-                System.out.print(s.substring(potentialStartIndex, potentialEndIndex) + "\t");
+                System.out.print(potentialTemp + "\t");
             }
             else {
                 System.out.print("N/A" + "\t");
@@ -175,7 +253,16 @@ public class Cable1968{
             if (homeIndex != -1) {
                 int homeStartIndex = s.indexOf("t of plant", start) + 12;
                 int homeEndIndex = s.indexOf(".", homeStartIndex);
-                System.out.print(s.substring(homeStartIndex, homeEndIndex) + "\t");
+                String homeTemp = s.substring(homeStartIndex, homeEndIndex);
+                
+                // Number Fix
+                if (Character.isDigit(s.charAt(homeEndIndex + 1))) {
+                    int newHomeEndIndex = s.indexOf(".", homeEndIndex + 1);
+                    homeTemp = s.substring(homeStartIndex, homeEndIndex) + "," +
+                    s.substring(homeEndIndex + 1, newHomeEndIndex);
+                }
+                
+                System.out.print(homeTemp + "\t");
             }
             else {
                 System.out.print("N/A" + "\t");
@@ -225,12 +312,15 @@ public class Cable1968{
             homeIndex == -1 &&
             capacityIndex == -1 &&
             topIndex == -1) {
-                System.out.print("Empty");
+                System.out.print("Empty \t");
             }
             else {
-                System.out.print(note);
+                System.out.print(note + "\t");
             }
             
+            
+            // Sign
+            System.out.print(sign);
                 
             // Start next
             start = s.indexOf("—", end);
@@ -243,7 +333,7 @@ public class Cable1968{
         System.out.print("Name\tCopied\tLocation copied\tPopulation\tWhen service began\tSubscribers\t"
         + "Potential\t"
         + "Home in front of plant\tChannels capicity\tTop-100 market\t"
-        + "Note");
+        + "Note\tSign");
         System.out.println();
         FileResource fr = new FileResource();
         String s = fr.asString();
