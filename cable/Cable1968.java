@@ -173,11 +173,11 @@ public class Cable1968{
                 
                 // comma + space
                 int commaIndex = s.indexOf(",", dateStartIndex) + 1;
-                if (s.charAt(commaIndex) == '1') {
-                    dateOutput = s.substring(dateStartIndex, commaIndex) + " " + s.substring(commaIndex, dateEndIndex) + "\t";
+                if (s.charAt(commaIndex) == '1' && commaIndex < dateEndIndex) {
+                    dateOutput = s.substring(dateStartIndex, commaIndex) + " " + s.substring(commaIndex, dateEndIndex);
                 }
                 else {
-                    dateOutput = s.substring(dateStartIndex, dateEndIndex) + "\t";
+                    dateOutput = s.substring(dateStartIndex, dateEndIndex);
                 }
                 
                 // new line in dates
@@ -192,7 +192,21 @@ public class Cable1968{
                     dateOutput.substring(dateOutput.indexOf(".") + 1, dateOutput.length());
                 }
                 
-                System.out.print(dateOutput);
+                // channel capacity included
+                if (dateOutput.indexOf("Chan") != -1) {
+                    dateOutput = dateOutput.substring(0, dateOutput.indexOf("Chan") - 1);
+                }
+                
+                // add comma
+                int spaceIndex = dateOutput.lastIndexOf(" ");
+                if (spaceIndex != -1 &&
+                Character.isDigit(dateOutput.charAt(spaceIndex - 1)) &&
+                Character.isDigit(dateOutput.charAt(spaceIndex + 1))) {
+                    dateOutput = dateOutput.substring(0, spaceIndex) + "," + dateOutput.substring(spaceIndex, dateOutput.length());
+                }
+                
+                
+                System.out.print(dateOutput + "\t");
             }
             else {
                 System.out.print("N/A" + "\t");
@@ -221,6 +235,11 @@ public class Cable1968{
                 else if (subscribersTemp.indexOf("Program") != -1){
                     subscribersEndIndex = s.indexOf("Program", subscribersStartIndex) - 2;
                     subscribersTemp = s.substring(subscribersStartIndex, subscribersEndIndex);
+                }
+                
+                // potential included
+                if (subscribersTemp.indexOf("Pot") != -1) {
+                    subscribersTemp = subscribersTemp.substring(0, subscribersTemp.indexOf("Pot") - 1);
                 }
                 
                 System.out.print(subscribersTemp + "\t");
@@ -286,11 +305,15 @@ public class Cable1968{
                 int capEndIndex = s.indexOf(".", capStartIndex);
                 if (s.substring(capStartIndex, capEndIndex).indexOf("(") != -1) {
                     capEndIndex = s.indexOf("(", capStartIndex);
-                    System.out.print(s.substring(capStartIndex, capEndIndex) + "\t");
                 }
-                else {
-                    System.out.print(s.substring(capStartIndex, capEndIndex) + "\t");
+                String capacityTemp = s.substring(capStartIndex, capEndIndex);
+                
+                if (capacityTemp.indexOf("TV") != -1) {
+                    capacityTemp = capacityTemp.substring(0, capacityTemp.indexOf("TV") - 1);
                 }
+                
+                System.out.print(capacityTemp + "\t");
+                
             }
             else {
                 System.out.print("N/A" + "\t");
