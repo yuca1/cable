@@ -102,7 +102,7 @@ Ownership: Rubin S. Frels, pres., 5%; Dorothy W. Frels, v.p.; Marjorie S. Frels.
 t Bellaire—King Community Bcstg. Co., Houston. R. V. King, pres.
 BELTON—KBC Corp., 505 N. 4th (76541).
 Subscribers: 84. Potential: N.A. Top-100 market? No.
-Population: 8.163. Began: Jan. 1. 1966. Channel capacitv: 12.
+Population: 8.163. Began: Jan. 1. 1966. Channel capacity: 12.
 TV stations (picked off-air): KCEN-TV Temple-Waco; KWTX-TV Waco: KTBC-TV Austin; 2 FMs. TV stations (via micro-wave): KTVT. KRLD-TV & WFAA-TV Ft. Worth-Dallas.
 Current originations (hours weekly): Local live (1-2).
 Ownership: See CATV Group Ownership.
@@ -165,7 +165,7 @@ Subscriber fee: $25 installation, $5 monthly.
 Ownership: Don B. Crenshaw, pres., 54%; Don Crenshaw Jr., v.p., 6%; Richard A. Crenshaw, secy.-treas.. 6%; G. W. Ewing Jr. & Elinor Sheffield, 14% each; Nancy E. Bickham, 6%.
 BROWNFIELD—GT&E Communications Inc., 320 W. Main St. (79316). Phone: 637-2882.
 Subscribers: 130. Potential: 1,200. Top-100 market: No.
-Ponulation: 10 000. Beean: March 1966. Channel capacity: 12.
+Population: 10,000. Began: March 1966. Channel capacity: 12.
 TV stations (picked off-air): KSWS-TV & KBIM-TV Roswell; KMID-TV Midland: KVKM-TV Monahans; KOSA-TV Odessa; KCBD-TV. KT.BK-TV & KTXT-TV Lubbock: FM
 Current originations (hours weekly): Time & weather (168).
 Subscriber fee: Free installation, $6.25 monthly.
@@ -593,7 +593,7 @@ Subscriber fee: $25 Installation, $7.50 monthly.
 Ownership: L. V. Williamson, 50%; W. A. Henley, 25%; W. H. Meredith, 25%.
 t Kermit—American Cable Vision (Joe Chastain).
 KERRVILLE—Hill Country Cablevision Inc., Box 230, 510 Main (78028). Phone: 257-4700.
-Subscribers: 3,400. Potential: 3,500. Top-100 market: No. Population: 10.369. Besran: 1957. Channel capacity: 12.
+Subscribers: 3,400. Potential: 3,500. Top-100 market: No. Population: 10.369. Began: 1957. Channel capacity: 12.
 TV stations (picked off-air): WOAI-TV, KENS-TV & KONO-TV San Antonio; KTBC-TV Austin; KLRN-TV Austln-San Antonio: 2 FMs.
 Current originations (hours weekly): Background music (126). Equipment: Jerrold headend; Jerrold & CAS amplifiers; Vikoa & General cable.
 Subscriber fee: $25 installation, $5 monthly.
@@ -639,7 +639,7 @@ Local manager: J. E. Moore Jr. City fee: 2% of gross.
 Ownership: See CATV Group Ownership.
 t Lancaster—Hill Tower Inc. (KRLD-TV & WFAA-TV, both Dallas). Clvde Rembert (KRLD-TV), pres.; Mike Shapiro (WFAA-TV), v.p.
 LAREDO—Vumore Co. of Laredo, 916 Hidalgo (78041). Phone: 722-1749.
-Subscribers: 4,000. Potential: 5,000. Top-100 market? No. Population: 65.000. Began: Nov. 1, 1961. Channel capacitv: 12.
+Subscribers: 4,000. Potential: 5,000. Top-100 market? No. Population: 65.000. Began: Nov. 1, 1961. Channel capacity: 12.
 TV stations (picked off-air): KGNS-TV Laredo; XEEE-TV Nuevo Laredo. TV stations (via microwave): KONO-TV, WOAI-TV. KENS-TV & KWEX-TV San Antonio; KLRN-TV Austin-San Antonio.
 Current originations (hours weekly): Time & weather (168). Equipment: Jerrold. Homes in front of plant: 5,800.
 Subscriber fee: Free installation, $5 monthly.
@@ -649,7 +649,7 @@ George W. Spence. 16-2/2%: Bess <fe C V. Jones. 8-1/3% each. Other communication
 *	Laredo—Donrey Media, Southwestern House, 920 Rogers Ave.,
 Ft. Smith, Ark. (see CATV Group Ownership).
 LEVELLAND—GTEC Cable TV. 911 Austin (79336). Phone: 894-4996.
-Subscribers: N.A. Potential: N.A. Top-100 market: No. Population: 10.153. Began: 1967. Chsnne1 capo^tv: 12.
+Subscribers: N.A. Potential: N.A. Top-100 market: No. Population: 10.153. Began: 1967. Channel capacity: 12.
 TV stations (picked off-air): KLBK-TV, KCBD-TV. KTXT-TV & KKBC-TV Lubbock; KSWS-TV & KBIM-TV Roswell: FM.
 Current originations: Local live.
 Local manager: Don Reese.
@@ -658,7 +658,7 @@ LINDALE—See Mineola, Tex.
 t Littlefield—Dr. J. M. Orr & Herschel Tyler.
 LIVINGSTON—Tele-Vue Cable Co., 407 N. Washington (77351). Phone: 327-4512.
 Subscribers: 430 Potential: 800. Top-100 market: No.
-Population: 3.398. Began: April 26. 1963. Channel capacitv: 5. TV stations (picked off-air): KPRC-TV, KHOU-TV & KTRK-TV Houston; KJAC-TV Port Arthur; KFDM-TV Beaumont; 4 FMs.
+Population: 3.398. Began: April 26. 1963. Channel capacity: 5. TV stations (picked off-air): KPRC-TV, KHOU-TV & KTRK-TV Houston; KJAC-TV Port Arthur; KFDM-TV Beaumont; 4 FMs.
 Equipment: Entron & CAS.
 Subscriber fee: $15 installation, $4.95 monthly.
 Miles of plant: 14. Homes in front of plant: 700.
@@ -1997,14 +1997,14 @@ Subscriber fee: $40 installation, $4 monthly.
 Miles of plant. 20; additional miles planned, 2.
 Ownership: W. A. Baker, pres.; Richard Baker, v.p.; Marion Baker, secy.-treas., 1/3 each. Note: Purchased from original owner Gus Schwartz.
 CONCONULLY—Conconully TV Cable Co., 221 First Ave., Okanogan, Wash. (98840). Phone: 422-3380.
-Subscribers: 40. Potenial: N.A. Top-100 market? No.
+Subscribers: 40. Potential: N.A. Top-100 market? No.
 Population: 200. Began: 1956. Channel capacity: 3.
 TV stations (picked off-air): KXLY-TV, KREM-TV & KHQ-TV Spokane.
 Subscriber fee: $25 installation, $3.50 monthly.
 Ownership: Dave Kahlow, 100%.
 CONCRETE—Concrete TV Cable Co., Concrete (98237).
 Subscribers: 39. Potential: 50. Top-100 market? No.
-Population: 850. Began: 1950. Channel capacitv: 12.
+Population: 850. Began: 1950. Channel capacity: 12.
 TV stations (picked off-air): KOMO-TV, KING-TV & KIRO-TV Seattle; KTNT-TV & KTVW Tacoma; KVOS-TV Bellingham; 3 FMs.
 Equipment: Blonder-Tongue headend & amplifiers.
 Subscriber fee: $10 installation, $3.25 monthly.
@@ -2137,7 +2137,7 @@ t Kent—Telecable (Jim Hirschfleld, rep.).
 t Kent—Colorcable (Russ Stone, rep.).
 KETTLE FALLS—See Colville. Wash.
 KING COUNTY—Northwest Cablevision Jnc., 4217 S. W. Oregon, Seattle, Wash. (98116). Phone: 633-3344. Serves: Lake Sammamish District, of King Countv.
-Subscribers: 406. Potential: N.A. Top-100 market? Yes. Population: 2.500. Began: 1955. Channel capacitv: 12.
+Subscribers: 406. Potential: N.A. Top-100 market? Yes. Population: 2.500. Began: 1955. Channel capacity: 12.
 TV stations (picked off-air): KOMO-TV. KING-TV, KIRO-TV & KCTS-TV Seattle: KTNT-TV & KTVW Tacoma; plans FM. Ownership: See CATV Group Ownership.
 *	King & Snohomish Counties (Seattle area)-System under con-
 struction there by Color Cable Inc. (see CATV Group Ownership).
@@ -2170,7 +2170,7 @@ Subscriber fee: $19.50 installation & $4.50 monthly, $5 installation & $5.50 mon
 Miles of plant, 29.5; additional miles planned, 3.
 Ownership: Cox Cablevision, 100% (see CATV Group Ownership).
 LONGVIEW—Cowlitz Cableview Co., 12th & Broadway (98632). Also serves: Columbia Hts. & Kelso. Holds franchise for Cowlitz County.
-Subscribers: 2,300. Potential: 5,000. Top-100 market? Yes. Population: 33,955. Began: Nov. 1965. Channel capacitv: 12. TV stations (picked off-air): KATU, KOIN-TV, KGW-TV, KOAP-TV & KPTV Portland; KOMO-TV, KING-TV, KIRO-TV & KCTS-TV Seattle; KTNT-TV & KTVW Tacoma; FM. Current originations (hours weekly): Time & weather (168), news ticker (168).
+Subscribers: 2,300. Potential: 5,000. Top-100 market? Yes. Population: 33,955. Began: Nov. 1965. Channel capacity: 12. TV stations (picked off-air): KATU, KOIN-TV, KGW-TV, KOAP-TV & KPTV Portland; KOMO-TV, KING-TV, KIRO-TV & KCTS-TV Seattle; KTNT-TV & KTVW Tacoma; FM. Current originations (hours weekly): Time & weather (168), news ticker (168).
 Planned originations (hours weekly): Film, local live, local events by delaved videotape (28).
 Subscriber fee: $9.50 installation, $5.40 monthly.
 Ownership: See CATV Group Ownership. J. M. McClelland Jr., pres.; Jay Wright, exec, v.p.; Payson Hall, v.p.; W. L. Brigman, v.p.; D. H. Cairns, secy.-treas.: Ed H. Hewson Jr., asst, secy.; Cowlitz Cablevision Inc. & King Videocable Inc., 50% each. Cowlitz Cablevision ownership: McClelland, pres., 4%; John W. Blood, v.p., and wife Garnet A.. 17% jointly; Brigman. secy.-treas., 4%; Longview Publishing Co., 75%. Longview Publishing ownership: McClelland, 51%; Loula Combs, 25%; Robert A. L. Ellis, 4%; remaining 20% held by others, none with as much as 5%.
@@ -2383,7 +2383,7 @@ Miles of plant, 12: additional miles planned. 6.
 Ownership: Samuel P. Boyd. 100%.
 t Sequim—Port Angeles Telecable Inc.
 SHELTON—Taylor Radio Electric Service. 4th St cola (9B584). Phone: 426-6602.
-Sub'C’-'hera: 300 Potential: 2.000. Top-100 market: Yea. Population: 5.000. Began: 1958. Channel capacity: 12.
+Subscribers: 300 Potential: 2.000. Top-100 market: Yea. Population: 5.000. Began: 1958. Channel capacity: 12.
 TV stations (picked off-air): KING-TV. KIRO-TV. KCTS <fc KOMO-TV Seattle: KTNT-TV & KTVv.' Taccma Equipment: Blonder-Tongue & Jerrold.
 Subscriber fee: 325 installation. $4.50 monthly or $48 annually. Miles or plant: 5. Home?. In front nf plant: BOO. City fee: None. Ownership: Garold Taylor. 100%.
 *	Sheton—Thomas Brokaw, Grapevlcw. Wash.
@@ -2406,8 +2406,8 @@ t Spokane—TV Services Inc.
 t Spokane—Total Telecable Inc.
 t Spokane—Power City Communication*.
 STARBUCK—Starbuck Community Ar.tenna Systems, 91? S. 4th St.. Dayton. Wash. (99328). Phone: 3B2-2761.
-Subscribers: 39. Potential - 60. Top-100 market? -.
-Population: N A. Began: 1955. Channel capacity: 5.
+Subscribers: 39. Potential: 60. Top-100 market? -.
+Population: N.A. Began: 1955. Channel capacity: 5.
 TV stations (picked off-air): KHQ-TV. KREM-TV Si KXLY-TV Spokane.
 Equipment: Viking. Hornet in front of plant: 75.
 Subscriber fee: 97i installation. 84 monthly.
@@ -2416,7 +2416,7 @@ Ownership: WByne Spoonemor*. 100%.
 *	Sultan—Cnlorcable Corp. Inc. (sec CATV Group Ownership).
 SUMAS—Town of Sumas TV Cable System. Cherry St. (9B295). Phone: 898-4713.
 Subscribers: 145. Potential: 200. Top-100 market’ Ye-s.
-Population: 628. Bogan: March 1953. Channel capacity: 6.
+Population: 628. Began: March 1953. Channel capacity: 6.
 TV stations (picked ofT-air): KING-TV, KIRO-TV. KOMO-TV d» KCTS-TV Seattle; KTNT-TV Tacoma; CBUT Vancouver. Equipment; Blondcr-Tonguc headend 8: amplifiers.
 Subscriber fee: $?5 installation. J2 monthly.
 Miles of plant. 15. Homes In front of plant: 120.
@@ -2456,7 +2456,7 @@ t University Place (Plcrcc County)—KTNT-TV Tucoroa-Senttle (Tribune ruhll9hing
 t Vancouver—Total TV Inc. (Richard Evanson, pres.).
 WATTSBURG—Waitsburg TV Cable System, 702 Orchard Bt.
 (99361)	.
-Subscribers: 300. Potential: N.A. Top-100 market? No. Population: 1.010. Began: 1934. Channel capuclty: 3.
+Subscribers: 300. Potential: N.A. Top-100 market? No. Population: 1.010. Began: 1934. Channel capacity: 3.
 TV Btatlona (picked off-air): KHQ-TV. KREM-TV & KXLY-TV Spokane.
 Ownership: John W. Thompson, 100%.
 WALLA WALLA—Blue Mountains TV Cable Co.. 221 E. Main St-
@@ -2469,7 +2469,7 @@ Ownership: HUB Communications. 100% Isec CATV Group Ownership).
 *	Warden—C. W. Vleck lEllensburg. Waeh.) & C. A. Bartley
 (Kittitas, Waeh,).
 WASHTUCNA—Waehtucna Cable System. Bov 874 (99371). Subscribers: 90. Potential; 90. Top-100 market: No.
-PoouJatlon: 331. Began: 1952. Channel capacity: 3.
+Population: 331. Began: 1952. Channel capacity: 3.
 TV Btatlona (picked off-air): KREM-TV. KXLY-TV & KHQ-TV Spokane.
 Equipment: Jerrold headend; nionder-Toncue amplifiers. Subscriber fee: $5 installation. $3.50 monthly.
 Miles of plant. 5: additional miles planned, none.
