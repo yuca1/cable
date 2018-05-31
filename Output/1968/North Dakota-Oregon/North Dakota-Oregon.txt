@@ -184,7 +184,7 @@ Chauncey—See Nelsonville. O.
 *	Chesapeake—Chessie Cable Co. (Multi-Channel Cable Co.). See
 CATV Group Ownership.
 CHILLICOTHE—Chillicothe Telcom Inc., 38 E. Water St. (45601). Phone: 775-4300.
-Subscribers: 3.078. Potential: 8,000. Top-100 market? Yes. Population: 24,957. Beaan: Sept. 11, 1964. Channel capacity: 12. TV stations (picked off-air): WSAZ-TV & WHTN-TV Hunting-ton: WLWC, WTVN-TV, WOSU-TV & WBNS-TV Columbus; WLWT & WKRC-TV Cincinnati; WHIO-TV & WKEF Day-ton; WOUB-TV Athens; allband FM.
+Subscribers: 3.078. Potential: 8,000. Top-100 market? Yes. Population: 24,957. Began: Sept. 11, 1964. Channel capacity: 12. TV stations (picked off-air): WSAZ-TV & WHTN-TV Hunting-ton: WLWC, WTVN-TV, WOSU-TV & WBNS-TV Columbus; WLWT & WKRC-TV Cincinnati; WHIO-TV & WKEF Day-ton; WOUB-TV Athens; allband FM.
 Current originations (hours weekly): Film (5), local live (10), time, temperature & recorded music.
 Equipment: Spencer-Kennedy & Jerrold headend; Spencer-Kennedy amplifiers; Superior & Plastoid cable.
 Subscriber fee: $5 installation, $5 monthly.
@@ -448,8 +448,8 @@ Equipment: Jerrold. Miles of plant, 25.
 Subscriber fee: $4.50 monthly.
 Ownership: Neptune Bcstg., 100% (see CATV Group Ownership).
 MASSILLON—Massillon Cable TV Inc., Box 532, City Hall St. S.E. (44646). Also serves: Jackson Twp. & Perry Twp.
-Subscribers: 2.400. Potential: N.A. Tod-100 market: Yes.
-Population: N.A. Began: Nov. i960. Channe capacity: 12.
+Subscribers: 2.400. Potential: N.A. Top-100 market: Yes.
+Population: N.A. Began: Nov. 1960. Channe capacity: 12.
 Stations (picked off-air): WKYC-TV, WEWS, WJW-TV & WVIZ Cleveland; WKBN-TV. WYTV & WFMJ-TV Youngstown; WJAN-TV Canton; WSTV-TV Steubenville. Seeks waiver for WTR^-TV Wheeling, KDKA-TV Pittsburgh, WBNS-TV & WOSU-TV Columbus.
 Subscriber fee: Free installation, $3.95 monthly.
 Principal: Richard W. Gessner, pres, (see Gessner under CATV Group Ownership).
@@ -476,7 +476,7 @@ Stevanus, pres.) & Ohio Valley Publishing (Richard S. Owen,
 pres.). See listing for each under CATV Group Ownership.
 + Milan—Ohio Radio Inc. Robert W. Reider, pres.
 MILLERSBURG—Millersburg Community TV System Inc., W. Jackson St. (44654). Phone: 674-5866.
-Subscribers: 750. Potential: N A. Top-100 market: No.
+Subscribers: 750. Potential: N.A. Top-100 market: No.
 Population: 3.101. Began: 1951. Channel capacity: 12.
 TV stations (picked off-air): WJW-TV, WKYC-TV & WEWS Cleveland:	WBNS-'t'V Columbus; WHIZ-TV Zanesville;
 WAKR-TV Akron; WSTV-TV Steubenville; 2 FMs.
@@ -970,7 +970,7 @@ KWTV, WKY-TV, KOCO-TV & KETA Oklahoma City; KAKE-TV Wichita.
 FT. SILL—Ft. Sill TV Distribution System, Signal Office Bldg. 1645 (73503).
 Subscribers: 2,785. Potential: N.A. Top-100 market? Yes. Population: 19,023. Began: March 26, 1959. Channel capacity: 5. TV stations (picked off-air): KSWO-TV Lawton: WKY-TV & KWTV Oklahoma City; KFDX-TV & KAUZ-TV Wichita Falls.
 Principal: Lt. Col. Willis H. Drehm, chief signal officer.
-GRANITE—Granite Televue, Box 296 (73547). Phone: 539-2124. Subscribers: 190. Potential: N.A. Tod-100 market? No. Population: 952. Began: Nov. 1957. Channel capacity: 5.
+GRANITE—Granite Televue, Box 296 (73547). Phone: 539-2124. Subscribers: 190. Potential: N.A. Top-100 market? No. Population: 952. Began: Nov. 1957. Channel capacity: 5.
 TV stations (picked off-air): KWTV. WKY-TV & KOCO-TV Oklahoma City; KFDX-TV & KAUZ-TV Wichita Falls; KSWO-TV Lawton; KFDA-TV Amarillo; 5 FMs.
 Planned originations (hours weekly): Time & weather (168).
 local live (3).
@@ -1707,7 +1707,7 @@ Subscriber fee: $100 installation, $1 monthly.
 Principals: Eli Brault, pres.; Gordon Kight, v.p.; Cortland M.
 Smith, secy.-treas.
 ROCKAWAY—Prlcketts Radio & TV. Hwy. 101 & Nector St.. Wheeler. Ore. (97147). Phone: 368-5195. Also serves: Bay City & Garibaldi.
-Subscribers: 425. Potential: 850. Tod-100 market: -.
+Subscribers: 425. Potential: 850. Top-100 market: -.
 Population: 2,190. Began: June 1956. Channel capacity: 5.
 TV cations Cnicked off-nlr): KOTN-TV, KGW-TV, KATU &
 KPTV Portland; KOAC-TV Corvallis.
@@ -1716,8 +1716,8 @@ Miles of Diant: 16.5. Homes in front of plant: 631.
 Ownership: See CATV Group Ownership.
 ROSEBURG—Douglas Antenna Cable TV, 629 S.E. Rose St.
 (97470). Phone: 673-6290.
-Subscribers: 1.500. Potential: 3.000. Tod-100 market: No.
-Pooulation: 11,467. Began: 1954. Channel capacity; 12.
+Subscribers: 1.500. Potential: 3.000. Top-100 market: No.
+Population: 11,467. Began: 1954. Channel capacity; 12.
 TV stations (picked off-air): KPIC Roseburg: KEZI-TV <fe KVAL-TV Eugene; KMED-TV Medford; FM. TV stations (via microwave): KTVM Medford; KPTV Portland; KOAC-TV Corvallis.
 Current originations (hours weekly): Time & weather (168).
 Planned originations (hours weekly): News ticker (168), local live (168), news thru local newspaper (168).
