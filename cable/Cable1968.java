@@ -319,9 +319,9 @@ public class Cable1968{
             
             
             // Capacity
-            int capacityIndex = sub.indexOf("capacity");
+            int capacityIndex = sub.indexOf("capacit");
             if (capacityIndex != -1) {
-                int capStartIndex = s.indexOf("capacity", start) + 10;
+                int capStartIndex = s.indexOf("capacit", start) + 10;
                 int capEndIndex = s.indexOf(".", capStartIndex);
                 if (s.substring(capStartIndex, capEndIndex).indexOf("(") != -1) {
                     capEndIndex = s.indexOf("(", capStartIndex);

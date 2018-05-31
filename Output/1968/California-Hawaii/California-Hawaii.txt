@@ -82,7 +82,7 @@ Subscriber fee: $25 installation, $5.40 monthly. Miles of plant: 23.
 Ownership: Eugene Knox, pres.; Marie Knox, secy.-treas.; 50% each.
 t Banning—Video Communications Inc.
 BARSTOW—Continental Transmission Corp., 27790 W. Hwy. 66 (92311). Phone: 256-8911. Also serves: Lenwood & Marine Corps Supply Center.
-Subscribers: 5,600 Potential: 7,000. Tod-100 market: No.
+Subscribers: 5,600 Potential: 7,000. Top-100 market: No.
 Population: 28,000. Began: Nov 1952. Channel capacity: 12.
 TV stations (picked off-air): KBAK-TV Bakersfield: 6 FMs. TV stations (via American TV Relay microwave): KNXT, KNBC, KTLA, KABC-TV. KHJ-TV. KTTV & KCOP Los Angeles.
 Current originations (hours weekly): Time-weather (168).
@@ -100,7 +100,7 @@ Subscribers: 1,100. Potential: N.A. Top-100 market: .
 Population: N.A. Began: 1967. Channel capacity: 20.
 Ownership: Verne Laughton, pres.; Victor Sharar, v.p.; 50'; each (see listing for each under CATV Group Ownership).
 BELMONT—See also San Mateo County, Cal.
-T Benbow—Wayne F. Sheldon (see Humboldt County).
+t Benbow—Wayne F. Sheldon (see Humboldt County).
 BIG BEAR CITY—See Big Bear Lake, Cal.
 BIG BEAR LAKE—Continental Transmission Corp., Box 1589. Beaver Lane & Bartlett Rd. (92315). Phone: 866-4611. Also server; Big Bear City, Boulder Bay, Fawnskin & Moonridge.
 Subscribers: 1.786. Potential: 3,000. Top-100 market: No.
@@ -138,7 +138,7 @@ Miles of plant, 65: additional miles planned, 30. Homes in front of plant: 4,183
 Ownership: Continental Transmission Corp., 100% (see CATV Group Ownership). Note: Purchased from Fred Ford in Oct. 1967, who bought system in 1966 from Bruce Merrill.
 BORREGO SPRINGS—1Tele-Cable Service Corp., Box 336, 2322 Stirrup Rd. (92004). Phone: 767-5607.
 Subscribers: 300. Potential: 1,000. Top-100 market? No.
-Population: 1,500. Began: Sept. 1 19R3. Channel capacity: 5.
+Population: 1,500. Began: Sept. 1 1963. Channel capacity: 5.
 TV stations (picked off-air): KRLU-TV Yuma. TV stations (via microwave): KABC-TV, KNBC & KNXT Los Angeles.
 Equipment: Ent.ron.
 Subscriber fee: $125 installation. $8 monthly.
@@ -376,7 +376,7 @@ Local manager: Harlow Jones. County fee: $250 per yr.
 Ownership: Harlow Jones, 100% (see CATV Group Ownership). Note: Originally was owned by Kaiser Steel Corp., rebuilt into co-axial system by present owner.
 EL CAJON—Pacific Video Cable Co., 1175 N. Cuyamaca St. (92020). Phone: 448-6411.
 Subscribers: 7,300. Potential: N.A. Top-100 market: Yes.
-Population: 37.618. Began: 1962. Channel caoaHtv: 12.
+Population: 37.618. Began: 1962. Channel capacity: 12.
 TV stations (picked off-air): KOGO-TV, KCST. KEBS-TV & KFMB-TV San Diego; XETV Tijuana-San Diego; KNXT, KNBC, KTLA, KABC-TV, KHJ-TV, KTTV & KCOP Los Angeles; 3 FMs.
 Current originations: Stock ticker.
 Planned originations: Local live.
@@ -474,8 +474,8 @@ t Garden Grove—Datavideo Systems, San Francisco.
 t Garden Grove—KWIZ Santa Ana.
 GASQUET—Harry’s Mountain TV Cable Co., 359 W. 9th (95543). Also serves: Hiouchi.
 Subscribers: N.A. Potential: N.A. Top-100 market: . Population: N.A. Began: N.A. Channel capacity: N.A. Ownership: Robert H. Hatley, 100%.
-rGILROY—Gilroy Cable TV, 381 First St.
-Subscribers: 650. Potential: N.A. Top-100 market: . population: N.A. Began: Nov. 1967. Channel capacity: 12.
+GILROY—Gilroy Cable TV, 381 First St.
+Subscribers: 650. Potential: N.A. Top-100 market: . Population: N.A. Began: Nov. 1967. Channel capacity: 12.
 TV stations (picked off-air): KTVU Oakland; KRON-TV, KPIX, KGO-TV & KQED San Francisco; KNTV San Jose; KSBW-TV Salinas.
 principals: Frank J. Caliri, pres.; Edwin F. Driscoll Jr. & Ben Tsuda.
 GLENDALE—National Trans-Video Inc., 1235 W. Glenoaks Blvd. (91201). Phone: 845-2940. Also serves: Burbank & Sun Valley (Los Angeles).
@@ -800,7 +800,7 @@ Miles of plant, 5; additional miles planned, 2. Homes in front of plant: 225.
 Ownership: Lynton K. Bridges & Claude C. Walton, co-owners (see Walton under CATV Group Ownership).
 MARTINEZ—Televents of California Inc., 714 Main St. (94553! Phone: 228-0600. Also serves Pleasant Hill & surrounding Contra Costa County.
 Subscribers: 6,500. Potential: 13,500. Top-100 market: Yes.
-PoDUlation: 50,000. Began: 1952. Channel capacity: 12.
+Population: 50,000. Began: 1952. Channel capacity: 12.
 TV stations (picked off-air): KTVU Oakland; KCRA-TV, KXTV & KOVR Sacramento: KRON-TV, KPIX, KGO-TV & KQED San Francisco; KHSL-TV Chico; 5 FMs.
 Equipment: Jerrold headend; Jerrold & Ameco amplifiers. Subscriber fee: $14.95 Installation, $4.95 monthly.
 Miles of plant, 140; additional miles planned, 60.
@@ -810,9 +810,9 @@ Other communications holdings: See listings for Carl Williams & Winston Cox unde
 t Martinez—Cable Vision North.
 *	Martinez—Crockett Cable System.
 •	Martinez—Walnut Creek Cable TV.
-<	Marysville—Oroville Communications Corp. (see CATV Group
+*	Marysville—Oroville Communications Corp. (see CATV Group
 Ownership).
-<	Marysville—Video Communications Inc.
+t	Marysville—Video Communications Inc.
 McCLOUD—McCloud TV Co., Box 275 (96057). Phone: 964-2340. Subscribers: 310. Potential: 500. Top-100 market: No.
 Population: 3,000. Began: 1956. Channel capacity: 4.
 TV stations (picked off-air): KRCR-TV Redding; KIXE-TV & KHSL-TV Chico.
@@ -963,10 +963,10 @@ Miles of plant: 53.
 Ownership: See CATV Group Ownership.
 PALISADES BOWL—TeSCo TV-FM Cable, Box 1166, Malibu, cal. (90265). Phone: 454-4777.
 Subscribers: 94. Potential: N.A. Top-100 market: Yes.
-population: 325. Began: June 1963. Channel capacity: 12.
+Population: 325. Began: June 1963. Channel capacity: 12.
 TV stations (picked off-air): KNXT, KCET, KNBC, KTLA, KMEX-TV, KABC-TV, KHJ-TV, KTTV & KCOP Los Angeles.
 Ownership: Telesystems Co., 100% (see CATV Group Ownership).
-paLMDALE—WGN Televents Inc., 330 E. Palmdale Blvd. (93550).
+PALMDALE—WGN Televents Inc., 330 E. Palmdale Blvd. (93550).
 r' Phone: 947-3139. Also serves: Quartz Hill.
 Subscribers: 2,750. Potential: N.A. Top-100 market: Yes.
 population: 20,861. Began: Aug. 24, 1964. Channel capacity: 12.
@@ -1030,7 +1030,8 @@ Diego County authorities to serve above area.
 *	Perris—Video Communications Inc. (see CATV Group Owner-
 ship). Pre-subscribers: 1,000. Subscriber fee: $15 installation, $4.95 monthly. Miles of plant planned: 35.
 PETALUMA—Tele-Vue Systems Inc., 411 “B” St. (94952). Phone: 763-2272.
-Subscribers: 3 000. Potential: 3,500. Ton-100 market: Yes. Population: 14,035. Began: Dec. 1965. Channel capacity: 12.
+Subscribers: 3,
+000. Potential: 3,500. Top-100 market: Yes. Population: 14,035. Began: Dec. 1965. Channel capacity: 12.
 TV stations (picked off-air): KTVU Oakland; KCRA-TV, KXTV & KOVR Sacramento: KRON-TV, KPIX, KGO-TV & KQED San Francisco; KSBW-TV Salinas; KNTV San Jose; allband FM.
 Planned originations (hours weekly): Time & weather (168), public service information (168).
 Equipment, composite headend, amplifiers & cable.
@@ -1126,7 +1127,7 @@ Equipment: Ameco.	\
 Principals: Fred G. Goddard, William Montgomery, Homer A , Bergren & Newell Priess, 6% each.
 Other communications holdings: Each is shareholder of Tele-Vue Systems (see listing).
 REDDING—Finer Living Inc., 1436 Sacramento St. (96001). Phone: 241-7300. Also serves: Enterprise. Also plans to serve Anderson & parts of Shasta County (south to Cottonwood north to Central Valley).
-Subscribers: 5,600. Potential: N.A. Too-100 market: No. Population: N.A. Began: Dec. 1966. Channel capacity: 12.
+Subscribers: 5,600. Potential: N.A. Top-100 market: No. Population: N.A. Began: Dec. 1966. Channel capacity: 12.
 TV stations (picked off-air): KRCR-TV & KIXE-TV Red- 1 ding: KHSL-TV Chico; 3 FMs. TV stations (via microwave): KTVU Oakland; KPIX & KGO-TV San Francisco; KCRA-TV Sacramento.
 Current originations (hours weekly): Time & weather (168), news programs.
 Equipment: Spencer-Kennedy & Delta. Miles of plant: 145. Subscriber fee: $19.95 installation, $5 monthly.
@@ -1138,13 +1139,13 @@ t Redway—Wayne F. Sheldon (see Humboldt County).
 I
 * Redwood City—Peninsula Cable TV Corp. Ownership: Verne Laughton, pres., 20%; Nation Wide Cablevision Inc., 6(%: Victor Sharar, 20% (see listing for each under CATV Group Ownership).
 REDWOOD CITY—See also San Mateo County, Cal.
-♦	Richmond—Cox Cablevision Corp.
-, Rio Nido—Mel’s TV (see CATV Group Ownership).
-, Rjpon—General Electric Cablevision.
-, Riverbank—Tuolumne Cablevision Inc. (see CATV Group Ownership).
-I , Riverbank—Com-Cable TV Inc. (see CATV Group Ownership).
-♦	Riverside—John Convery, Alameda, Cal.
-i Riverside—Riverside Cable Corp.
+t	Richmond—Cox Cablevision Corp.
+* Rio Nido—Mel’s TV (see CATV Group Ownership).
+t Ripon—General Electric Cablevision.
+* Riverbank—Tuolumne Cablevision Inc. (see CATV Group Ownership).
+* Riverbank—Com-Cable TV Inc. (see CATV Group Ownership).
+t Riverside—John Convery, Alameda, Cal.
+t Riverside—Riverside Cable Corp.
 RIVERSIDE COUNTY—Riverside Cable Corp., 3730 Pontiac Ave., Riverside, Cal. (92509). Phone: 682-7181. Serves: Jurupa Hills, Rubidloux & Sunnyslope.
 Subscribers: 226. Potential: 4,000. Top-100 market: Yes. Population: 11,000. Began: Jan. 31, 1968. Channel capacity: 12. TV stations (picked off-air): KNXT, KNBC, KTLA, KABC-TV, KHJ-TV, KTTV, KCOP, KWHY-TV, KCET & KMEX-TV Los Angeles.
 Equipment: Ameco headend, amplifiers & cable.
@@ -1152,17 +1153,17 @@ Subscriber fee: $19.50 installation, $5 monthly.
 Miles of plant, 40; additional miles planned, 10. Homes in front of plant: 2,600.
 Local manager: Lewis L. Lemleux. County fee: 0.5% of gross. Ownership: P. W. Zonne, pres.; Lewis L. Lemieux, v.p.; T. R. Bridges, secy.; Riverside Communications Co., 100%. Note: Purchased from original owners, Feb. 1967.
 Other communications holdings: Ownership interlocks with Oroville Communications (see CATV Group Ownership).
-♦	Riverside County—Video Communications Corp. seeks franchise
+t Riverside County—Video Communications Corp. seeks franchise
 for unincorporated county areas.
-I ♦ Rohnert Park—Total TV of Santa Rosa.
-♦	Rohnert Park—Storer Cable TV Inc.
-| ROLLING HILLS—See Hermosa Beach & Palos Verdes Peninsula, Cal.
-♦	Ross—Tele-Vue Systems Inc., 125 Mariposa St., Pittsburg, Cal.(see CATV Group Ownership).
+t Rohnert Park—Total TV of Santa Rosa.
+t Rohnert Park—Storer Cable TV Inc.
+ROLLING HILLS—See Hermosa Beach & Palos Verdes Peninsula, Cal.
+*	Ross—Tele-Vue Systems Inc., 125 Mariposa St., Pittsburg, Cal.(see CATV Group Ownership).
 RUBIDIOUX—See Riverside County, Cal.
-I ♦ Sacramento—Perfect Picture TV. Dirs.: Kneeland H. Lobner, secy.; H. H. Hendren, Philip C. Wilkins, John Bayliss, Albert Westlake, Jerry Wymore. Telesis Corp. has minority interest.
-♦	Sacramento—Cal. Antenna TV Inc. (Kelly Bcstg. & McClatchy Newspapers).
-♦	Sacramento—Chronicle Publishing (KRON-TV San Francisco).
-i t Sacramento County—Cal. Antenna TV Inc. (Kelly Bcstg. & McClatchy Newspapers).
+t Sacramento—Perfect Picture TV. Dirs.: Kneeland H. Lobner, secy.; H. H. Hendren, Philip C. Wilkins, John Bayliss, Albert Westlake, Jerry Wymore. Telesis Corp. has minority interest.
+t	Sacramento—Cal. Antenna TV Inc. (Kelly Bcstg. & McClatchy Newspapers).
+t	Sacramento—Chronicle Publishing (KRON-TV San Francisco).
+t Sacramento County—Cal. Antenna TV Inc. (Kelly Bcstg. & McClatchy Newspapers).
 ST. HELENA—Redwood TV Cable Co., 1317 Main St. (94574). Subscribers: 1,200. Potential: 2,800. Top-100 market: . Population: N.A. Began: Nov. 1, 1967. Channel capacity: 12.
 Local manager: Carroll Courtnier.
 Ownership: Storer Cable TV Inc., 100% (see CATV Group Ownership).
@@ -1297,7 +1298,7 @@ Miles of plant, 270; additional miles planned, 50. Homes in front of plant: 17,0
 Ownership: TelePrompTer Corp., 100% (see CATV Group Ownership).
 SANTA CRUZ COUNTY—See Santa Cruz.
 SANTA MARIA—Santa Maria Cable TV Inc., 309 W. Main St. (93454). Phone: 925-9504.
-Subscribers: 7,200. Potential: 12,000. Too-100 market: No. Population: 45,000. Began: Nov. 1. 1966. Channel capacity: 12. TV stations (picked off-air): KSBY-TV San Luis Obispo; KEYT Santa Barbara; KCOY-TV Santa Maria. TV stations (via CARS microwave): KNXT. KWHY-TV. KNBC, KTLA, KABC-TV, KHJ-TV, KTTV, KMEX-TV & KCOP Los Angeles. Equipment: Jerrold headend & amplifiers; Times & Vikoa cab’e
+Subscribers: 7,200. Potential: 12,000. Top-100 market: No. Population: 45,000. Began: Nov. 1. 1966. Channel capacity: 12. TV stations (picked off-air): KSBY-TV San Luis Obispo; KEYT Santa Barbara; KCOY-TV Santa Maria. TV stations (via CARS microwave): KNXT. KWHY-TV. KNBC, KTLA, KABC-TV, KHJ-TV, KTTV, KMEX-TV & KCOP Los Angeles. Equipment: Jerrold headend & amplifiers; Times & Vikoa cab’e
 Subscriber fee: $10 Installation (refundable deposit), $4.75 monthly. City fee: 2% of gross.
 Miles of plant: 225; additional miles planned, 50. Homes in front of plant: 10,000.
 Local manager: Charier F. Swenter.
@@ -1330,7 +1331,7 @@ Local mgr.: James Monroe. City fee: 4% of monthly charges.
 !Corp., 49% (see each under CATV Group Ownership).
 SANTA VENETIA—See San Rafael, Cal.
 Santa Ynez—See Santa Ynez Valley, Cal.
-I. Santa Ynez Valley—Lompoc Valley Cable TV Inc., 32 N. “D” St., Lompoc, Cal. Phone: 736-3446. Estimated potential, 1,500. System under construction. Equipment Jerrold. Owned by H
+* Santa Ynez Valley—Lompoc Valley Cable TV Inc., 32 N. “D” St., Lompoc, Cal. Phone: 736-3446. Estimated potential, 1,500. System under construction. Equipment Jerrold. Owned by H
 I1	& B Communications Corp. (see CATV Group Ownership).
 Thomas H. Ritter, mgr. Stations: KNBC, KNXT, KTLA, KABC-TV, KHJ-TV, KTTV & KCOP. Los Angeles; KSBY-TV, San Luis Obispo; KCOY-TV, Santa Maria; KEYT, Santa Barbara (all picked off-air); also 5 FMs, weather. Installation
 (fee, $19.95; monthly charge, $5.50. Channel capacity: 12. Miles of plant under construction, 50; additional miles planned. 50. No. of homes in front of plant: 1,600. Note: Santa Ynez Valley consists of Ballard, Buellton, Happy Canyon, Los Olivos.
@@ -1359,10 +1360,10 @@ Equipment: Jerrold headend & amplifiers.
 Subscriber fee: $50 installation, $5 monthly. City fee: 2% of gross.
 Miles, of Diant: 4. Homes in front of plant: 500.
 Ownership: Martin Houweling, 100%.
-' Sausalito—Sundial Bcstg. Corp.
+Sausalito—Sundial Bcstg. Corp.
 SAUSALITO—See also San Geronimo Valley, Cal.
 SEARLES VALLEY—H.S. Anderson Co., 3002 Midvale Ave., Los Angeles (90034). Phone: 272-1070. Serves: Searles Valley (San Bernardino County).
-Subscribers: 1,100. Potential: 1,300. Top-100 market: No. i PoDulation: 4.000. Began: Feb. 1957. Channel capacitv: 12.
+Subscribers: 1,100. Potential: 1,300. Top-100 market: No. i PoDulation: 4.000. Began: Feb. 1957. Channel capacity: 12.
 TV stations (picked off-air): KABC-TV, KHJ-TV, KNBC, KNXT. KTTV, KCOP & KTLA Los Angeles; 12 FMs. Equipment: Jerrold headend; Vikoa amplifiers; Vikoa & Times
 Subscriber fee: $15 installation, $7 monthly.
 Miles of plant, 33; additional miles planned, none. Homes in front of plant: 1,300.
@@ -1488,7 +1489,7 @@ Ownership: Tehachapi TV Cable Co., 100% (see CATV Group Ownership).
 TERRA LINDA—See San Rafael. Cal.
 THOUSAND OAKS—Southern California Cable TV Corp., 888 Thousand Oaks Blvd. (91360). Phone: 495-8415. Also serves: Newbury Park.
 Subscribers: 2,475. Potential: 6,000. Top-100 market? Yes.
-Population: 20.000. Began: Feb. 1963. channel cap^hv: l?
+Population: 20.000. Began: Feb. 1963. channel capacity: 12
 TV stations (picked off-air): KNXT, KNBC, KTLA, KABC-TV, KHJ-TV, KTTV, KCOP, KWHY-TV. KCET & KMEX-TV Los Angeles; KEYT Santa Barbara; KFMB-TV San Diego; FM.
 Equipment: Jerrold headend & amplifiers.
 Subscriber fee: $15 installation, $6 monthly.
@@ -1504,10 +1505,10 @@ Subscriber fee: $15 installation, $4.63 monthly.
 Miles of plant, 3; additional miles planned. 2.
 Ownership: Telesystems Co., 100% (see CATV Group Ownership).
 TOPANGA RANCH—See Parker Mesa, Cal.
-† Toyon—Finer Living Inc., Redding, Cal.
-† Tracy—General Electric Cablevision (see CATV Group Ownership). Scheduled to begin service Sept. 1968. Subscriber fee: $15 installation, $4.95 monthly. Miles of plant planned: 42. Channel capacity: 20.
+t Toyon—Finer Living Inc., Redding, Cal.
+t Tracy—General Electric Cablevision (see CATV Group Ownership). Scheduled to begin service Sept. 1968. Subscriber fee: $15 installation, $4.95 monthly. Miles of plant planned: 42. Channel capacity: 20.
 TRI-PALMS ESTATES—Mobile Life Corp. of California, 32700 Desert Moon Dr., Thousand Palms, Cal. (92276). Phone: 346-2920.
-Subscribers: 151. Potential: 350. Top-100 market? . population: N.A. Began: 1963. Channel capacity: 12.
+Subscribers: 151. Potential: 350. Top-100 market? . Population: N.A. Began: 1963. Channel capacity: 12.
 TV stations (via microwave): KNXT, KHJ-TV, KTTV, KCOP, KNBC, KTLA & KABC-TV Los Angeles; FM.
 Equipment: Ameco headend & amplifiers.
 Subscriber fee: Installation by contract, monthly charge included in lot rental.
@@ -1522,9 +1523,9 @@ Ownership: King Videocable Co.. 100%, in turn wholly-owned by King Bcstg. Co. (s
 *	Tulare—Central Valley Cable TV Co. Inc. Owned by Triangle
 Publications (KFRE-TV Fresno) & Shasta Telecasting (KJEO Fresno).
 *	Tulare—General Electric Cablevision.
-†	Tulare—Cable TV Service Inc. Owned by Trans-Video Corp. &
+t	Tulare—Cable TV Service Inc. Owned by Trans-Video Corp. &
 Standard Radio & TV Co. (KNTV San Jose).
-†	Tulare—Tulare Cable TV Corp. (Central Cal. Communications
+t	Tulare—Tulare Cable TV Corp. (Central Cal. Communications
 Corp.).
 * Tulare—United Cal. Theaters Inc.
 TULARE COUNTY—Sierra Video Co., Box 150, 109 S. Holcomb St., Porterville, Cal. (93258). Serves Porterville & unincorporated county area east of Porterville.
@@ -1543,7 +1544,8 @@ Current originations (hours weekly): Time & weather (119).
 Equipment: Jerrold headend & amplifiers.
 Subscriber fee: Free Installation, $4.75 monthly.
 Ownership: H & B Communications, 100% (see CATV Group Ownership).
-VANDENBERG VILLAGE—See Lompoc, Cal. t Van NuysMalibu Cable TV Inc.
+VANDENBERG VILLAGE—See Lompoc, Cal. 
+t Van Nuys—Malibu Cable TV Inc.
 VENTURA—Avenue TV Coaxial Cable Service, 1963 E. Main St. (93003). Phone: 643-8106. Serves: Ventura Ave. District (Ventura) & Casitas Springs.
 Subscribers: 2,496. Potential: 4,500. Top-100 market: No.
 Population: 11,000. Began: Jan. 1951. Channel capacity: 12.
@@ -1561,7 +1563,7 @@ Bardsley Rd., Tulare, Cal. Harry J. Pappas, pres.
 TUSTIN—Co-Axial Systems Engineering Co., 31244 Palos Verdes Dr. W., Palos Verdes Peninsula, Cal. (90274). Phone: 377-9551
 Subscribers: 101. Potential: 3,000. Top-100 market: Yes. Population: 2,006. Began: N.A. Channel capacity: 12.
 Ownership: See CATV Group Ownership.
-' Twain Harte—Com-Cable TV Inc. (see CATV Group Ownership).
+* Twain Harte—Com-Cable TV Inc. (see CATV Group Ownership).
 TWENTYNINE PALMS—Elbac Inc., 73549 Twentynine Palms Hwy. (92277). Phone: 367-7525.
 Subscribers: 700. Potential: 2,500. Top-100 market? No. Population: 1,000. Began: Feb. 8. 1965. Channel capacity: 12.
 TV stations (via microwave): KNXT, KNBC, KABC-TV, KTLA, KHJ-TV, KTTV & KCET Los Angeles.
@@ -1700,9 +1702,9 @@ Subscriber fee: $20 installation, $7.50 monthly.
 Miles of plant: 18. Homes in front of plant: 1,200. plus 50 motels.
 Local mgr.: William R. Dunaway. City fee: 2% of gross.
 Ownership: See CATV Group Ownership.
-, Aurora—Mountain States Video Inc. Bill Daniels, pres.
+t Aurora—Mountain States Video Inc. Bill Daniels, pres.
 BOULDER—Community Communications Co., 1032 13th St. (80302). Phone: 443-6836.
-Subscribers: 875. Potential: 8,000. Top-100 market: Yes. population: 57,000. Began: Oct. 1965. Channel capacity: 12.
+Subscribers: 875. Potential: 8,000. Top-100 market: Yes. Population: 57,000. Began: Oct. 1965. Channel capacity: 12.
 TV stations (picked off-air): KWGN-TV, KOA-TV, KRMA-TV, KLZ-TV & KBTV Denver; KFBC-TV Cheyenne; 12 FMs.
 Planned originations: Time & weather, local live.
 Equipment: Jerrold headend & amplifiers; Times cable.
@@ -1907,6 +1909,7 @@ CATV Group Ownership).
 *	Weld County—Greeley Video Inc. (see Mountain States Video
 under CATV Group Ownership). Potential: 1,000. Principals: Bill Daniels, pres.; Robert M. Clark, v.p.; Frank A. Berger, Robert M. Gilbert, John L. Haley, R. Price Hopkins. Stations: KWGN-TV. KBTV, KRMA-TV, KOA-TV & KLZ-TV Denver; KFBC-TV Cheyenne; news ticker, time & weather, stock ticker, sports channel, emergency warning. Seeks waiver for KTVU Oakland; KQED San Francisco; KTLA, KTTV, KCOP, KCET, KMEX-TV & KWHY-TV Los Angeles: KLXA-TV Fontana; KMTW-TV Corona.
 t Wheat Ridge—Mountain States Video Inc. Bill Daniels, pres.
+Bellefonte—AA.
 BLADES—See Seaford, Del.
 CAMDEN—See Dover, Del.
 *	Dagsboro—Lower Delaware CATV Inc. (see CATV Group Own-
@@ -1953,7 +1956,7 @@ TV stations (picked off-air): WBOC-TV Salisbury. TV stations (via microwave): KY
 Subscriber fee: $10 Installation, $4.95 monthly. Seasonal (summer) rates: $35 per season (4 mo.).
 Ownership: See CATV Group Ownership.
 SEAFORD—General TV Inc., 200 High St. (19973). Phone: 629-9207. Also serves: Blades & Laurel.
-Subscribers: 750. Potential: 2,500. Tcp-100 market: No. Population: 7,868. Began: 1963. Channel capacity: 5.
+Subscribers: 750. Potential: 2,500. Top-100 market: No. Population: 7,868. Began: 1963. Channel capacity: 5.
 TV stations (picked off-air): WBOC-TV Salisbury. TV stations (via microwave): WMAR-TV, WJZ-TV & WBAL-TV Baltimore; WTTG Washington.
 Subscriber fee: $10 Installation, $4.95 monthly.
 Miles of plant, 50.
@@ -1966,7 +1969,7 @@ ship).
 mated potential: 39,000. System under construction. Equipment: Jerrold. (See Rollins under CATV Group Ownership.) Stations: KYW-TV, WFIL-TV, WCAU-TV, WPHL-TV, WIBF-TV, WUHY-TV & WKBS-TV Philadelphia; WHYY-TV Wilmington; WMAR-TV, WBAL-TV & WJZ-TV Baltimore: WGAL-TV Lancaster (all picked off-air); time & weather. Seeks waiver for WNEW-TV, WOR-TV, WPIX, WCBS-TV, WNBC-TV, WABC-TV & WNDT New York. Subscriber fee: $10 installation, $6 monthly. Channel capacity: 12. Miles of plant planned, 800. Note: Will also serve New Castle County areas, including Elsmere & Greenville.
 WYOMING—See Dover, Del.
 t Washington—Frederick Cablevision Inc. Principals: John I. Han-ly, pres.; John Sinn, Robert Yamln, Frederick W. Zlv & Harry Plotkln.
-FLORIDA t Arcadia—Universal Cablevision.
+t Arcadia—Universal Cablevision.
 *	Archer—CAVU Ltd. (see CATV Group Ownership). 
 AUBURNDALE—See Winter Haven, Fla.
 AVON PARK—Highlands Cable TV Corp., Box 266 (33825). Phone: 453-3052. Also serves: Sebring.
@@ -2049,8 +2052,8 @@ Subscriber fee: Free Installation, $5 monthly.
 Miles of plant, 30; additional miles planned, 20. Homes in front of plant: 1,500.
 Ownership: Gregg Cablevision Inc., 70%; Cecil Anchors, J. D. Wingard, J. B. Porter Jr., James Lee & Hampton Reese, 6% each.
 Other communications holdings: Above stockholders have identical interests in Twin Cities Cable Co. Inc., Niceville, Fla. For Gregg holdings, see CATV Group Ownership.
-$ Cross City—Cross Tele-Cable Ltd. Owners include Michael J. Donziger & Isaac L. Levy (see listing for each under CATV Group Ownership). Subscriber fee: $15 installation, $5.95 monthly.
-«Crystal River—Five Beaches Cable TV Inc. (see CATV Group Ownership).
+* Cross City—Cross Tele-Cable Ltd. Owners include Michael J. Donziger & Isaac L. Levy (see listing for each under CATV Group Ownership). Subscriber fee: $15 installation, $5.95 monthly.
+* Crystal River—Five Beaches Cable TV Inc. (see CATV Group Ownership).
 ♦	Daytona Beach—Halifax Cable TV Inc., 315 Orange St. Potential:
 8,000.	Ownership: Gulf & Western Industries, 80.1%; Harry W. Bennett Jr. & Bernard Karlen, 6% each: Frank E. Pel-legrin, 5.9%; Philip H. Elliott Jr. & Kermit Coble, 1% each. (See listings for Bennett, Karlen & Pellegrin under CATV Group Ownership.) Scheduled to begin service May 1968. Equipment: Kaiser. Stations: WORU-TV, WESH-TV, WDBO-TV & WFTV Daytona Beach-Orlando. Seeks waiver for WMFE-TV Orlando; WUFT Gainesville; WJXT. WFGA-TV & WJKS-TV Jacksonville; also, when on-air, WDUV-TV Jacksonville & Ch. 51 Ocala. Note: Also will serve Pert Orange, South Daytona & contiguous Volusia County.
 DAYTONA BEACH SHORES—Halifax Cablevision Inc., 2136 S. Atlantic Ave. (32016). Phone: 255-4577. Also serves adjacent unincorporated South Peninsula.
@@ -2224,7 +2227,7 @@ ship). Potential: 1,200. Scheduled to begin service Jan. 1. 1968. Stations: WCTV
 Martin County—See Stuart, Fla.
 MARY ESTHER—See Ft. Walton Beach, Fla.
 MELBOURNE—Florida TV Cable Inc., 700 New Haven Ave. (32901). Phone: 727-1227. Also serves: Eau Gallie, Indialantic, Indian Harbor Beach, Melbourne Beach, Palm Bay, Palm Shores, Patrick A.F.B., Satellite Beach, West Melbourne. West Melbourne Village & other unincorporated areas of Brevard County.
-Subscribers: 14,400. Potential: 22,000. Top-100 market: No. Population: 100,000. Began: Oct. J. 1964. Channel capacity: 12. TV stations (picked off-air): WEPH-TV Davtona Beach; WPTV W. Palm Beach; WFLA-TV, WEDU & WTVT Tamoa; WDBO-TV, WFTV & WMFE-TV Orlando; 4 FMs.
+Subscribers: 14,400. Potential: 22,000. Top-100 market: No. Population: 100,000. Began: Oct. 1. 1964. Channel capacity: 12. TV stations (picked off-air): WEPH-TV Davtona Beach; WPTV W. Palm Beach; WFLA-TV, WEDU & WTVT Tamoa; WDBO-TV, WFTV & WMFE-TV Orlando; 4 FMs.
 Current originations (hours weekly): Time & weather (168). Equipment: Jerrold headend & amplifiers; Times cable. Subscriber fee: $25 installation, $4.95 monthly.
 Miles of plant, 425; additional miles planned, 26. Homes in front of plant: 22,000.
 Local manager: Orlando E. Brillante. City fee: 5% & 6% of gross beginning in 1973.
@@ -2245,7 +2248,7 @@ t Miami—Cable TV Inc., Chattanooga, Tenn. (Ray Joseph).
 ship).
 + Mt. Dora—Martin Andersen, publisher of Orlando Sentinel, 
 t Mt. Dora—WLBE Leesburg, Fla. Paul Husebo, pres.
-« Mt. Dora—Golden Triangle Cablevision Co. Principals: David A. Rawley Sr., David A. Rawley Jr. (WVGT Mt. Dora & The Mt. Dora Topic), Donald E. Bilger (of law Arm, Smith & Pepper, Washington, D.C.) & The High Point (N.C.) Enterprise. Raw-ley Jr. also has 65.6 of WLAF LaFollette, Tenn.
+t Mt. Dora—Golden Triangle Cablevision Co. Principals: David A. Rawley Sr., David A. Rawley Jr. (WVGT Mt. Dora & The Mt. Dora Topic), Donald E. Bilger (of law Arm, Smith & Pepper, Washington, D.C.) & The High Point (N.C.) Enterprise. Raw-ley Jr. also has 65.6 of WLAF LaFollette, Tenn.
 t Mt. Dora—Five Beaches Cable TV Inc.
 NAPLES—Gulf Coast TV, 541 8th St. (33940). Phone: 642-6131.
 Subscribers: 5,600. Potential: 7,000. Top-100 market: No.
@@ -2484,7 +2487,7 @@ Subscriber fee: $20 installation, $5.50 monthly.
 Miles of plant, 165; additional miles planned, 5.
 Local mgr.: Ralph M. LaPorte. City fee: None.
 Ownership: International Cablevision Corp., 100% (see CATV Group Ownership).
-► Vero Beach—Martin Andersen (publisher, Orlando Sentinel).
+t Vero Beach—Martin Andersen (publisher, Orlando Sentinel).
 VOLUSIA COUNTY—See Ormond Beach, Fla.
 Volusia County—See also Daytona Beach & Holly Hill, Fla.
 ♦	Walton County—Willie Collingsworth, Rt. 3, De Funiak Springs,
@@ -2600,7 +2603,7 @@ Local manager: John C. Foster. City fee: 3% of gross. Ownership: John C. Foster,
 Other communications holdings: Affiliated with Standard Telephone Co., Cornelia. Foster is v.p. of WCON Cornelia.
 *	Cumming—John Jacob Interests (see CATV Group Ownership).
 DALTON—MultiVl'lon Northwest Inc., 714 N. Hamilton (30720). Phone: 226-2052.
-Subscribers: 2,300. Potential: 5,000. Top-100 market: Yes. Pooulatlon: 28.000. Be^an: Sent. 24. 1965. Channel capacity: 12. TV stations (picked off-air): WATE-TV & WBTR-TV Knoxville: WDEF-TV, WRCB-TV & WTVC Chattanooga; WAGA-TV, WJRJ-TV, WAIT-TV & WSB-TV Atlanta: WCLP-TV Chats-worth: 15 FMs. Has FCC permission for carriage of WETV & WBMO-TV Atlanta.
+Subscribers: 2,300. Potential: 5,000. Top-100 market: Yes. Population: 28.000. Began: Sept. 24. 1965. Channel capacity: 12. TV stations (picked off-air): WATE-TV & WBTR-TV Knoxville: WDEF-TV, WRCB-TV & WTVC Chattanooga; WAGA-TV, WJRJ-TV, WAIT-TV & WSB-TV Atlanta: WCLP-TV Chats-worth: 15 FMs. Has FCC permission for carriage of WETV & WBMO-TV Atlanta.
 Current originations (hours weekly): Time & weather (138), local live (30).
 Equipment: Jerrold headend & amplifiers; Vlkoa cable; Ampex, Sony & Dvnair origination.
 Subscriber fee: $10 Installation, $5 monthly.
