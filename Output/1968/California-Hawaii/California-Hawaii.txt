@@ -74,7 +74,7 @@ Other communications holdings: Lincoln Dellar owns 100% of KLYD-TV-AM Bakersfiel
 Ballard—See Santa Ynez Valley, Cal.
 BANNING—Banning Communications Corp., Box 305 (92220). Phone: 849-4503.
 Subscribers: 758. Potential: 1.000. Top-100 market: No.
-Population: 13,500. Began: Feb. 1, 1953. Channel ca.nacitv: 8.
+Population: 13,500. Began: Feb. 1, 1953. Channel capacitv: 8.
 TV stations (picked off-air):	KABC-TV,	KCET,	KCOP,
 KHJ-TV. KNBC. KNXT, KTLA & KTTV Los Angeles.
 Equipment: Jerrold headend Az amplifiers.
@@ -325,7 +325,7 @@ Subscriber fee: $10 installation, $4.50 monthly.
 Ownership: See CATV Group Ownership.
 DEL ROSA—TV Receptors Inc., c/o Fair Pay-Less Sales & Service, 915 Scenic Dr., San Bernardino, Cal. (92405). Phone: 882-2024
 Subscribers: N.A. Potential: N.A. Top-100 market: Yes.
-Population: N A. Began: N.A. Channel capacity: 12.
+Population: N.A. Began: N.A. Channel capacity: 12.
 Ownership: See CATV Group Ownership.
 DESERT CENTER—See Eagle Mountain, Cal.
 DESERT HOT SPRINGS—Desertronics Inc., 1703 Palm Dr. (92240).
@@ -767,7 +767,7 @@ Subscribers: N.A. Potential: 350. Top-100 market? Yes. Population: N.A. Began: 1
 TV stations (picked off-air); KNXT, KNBC & KTLA Los Angeles.
 Equipment: Blonder-Tongue & Jerrold.
 Subscriber fee: $50 installation, $5 monthly.
-Miles of plant, 2; additional miles planned, 5. Homes in front of plant: HO.
+Miles of plant, 2; additional miles planned, 5. Homes in front of plant: 110.
 Principals: Richard T. Sampson, pres.; Helen V. Auvil, v.p,; Clifford J. Auvil, secy.-treas.
 *	Madera—Fresno Cable TV Co. (see CATV Group Ownership).
 Stations: KMJ-TV, KFRE-TV, KJEO & KAIL Fresno. Seeks waiver for KMEX-TV. KHJ-TV, KTLA & KTTV Los Angeles: KTVU Oakland; KQED San Francisco. Potential: 2,280.
@@ -942,7 +942,7 @@ Subscriber fee: $15 installation, $5.75 monthly.
 Miles of plant, 19; additional miles planned, none. Homes I: front of plant: 1,200.
 Local mgr.: Arnold H. Hills. City fee: 2% of monthly charges Ownership: See CATV Group Ownership.
 OROVILLE—Oroville Communications Co., 2128 Myers St. (95965 ' Phone: 533-0898. Holds county permit for expansion into Paradise area.
-Subscribers: 3,500. Potential: 5,000. Top-100 market: No. Ponulation: 32.440. Began: June 1965. Channel capacity: 11 TV stations (picked off-air): KIXE-TV Redding; plans FM. T. stations (via microwave): KTVU Oakland: KCRA-TV i KOVR Sacramento; KRON-TV, KPIX, KGO-TV & KBHK-TT San Francisco; KRCR-TV Redding; KHSL-TV Chico. Equipment: Ameco & Dynair. Miles of plant, 120.
+Subscribers: 3,500. Potential: 5,000. Top-100 market: No. Population: 32,440. Began: June 1965. Channel capacity: 11 TV stations (picked off-air): KIXE-TV Redding; plans FM. T. stations (via microwave): KTVU Oakland: KCRA-TV i KOVR Sacramento; KRON-TV, KPIX, KGO-TV & KBHK-TT San Francisco; KRCR-TV Redding; KHSL-TV Chico. Equipment: Ameco & Dynair. Miles of plant, 120.
 Subscriber fee: $24.50 installation & $5 monthly, $.99 installation & $5.50 monthly.
 Local manager: John E. Ray. City & county fees: 2% of gross Miles of plant: 77. Homes in front of plant: 4,700.
 Ownership: See CATV Group Ownership.
@@ -954,7 +954,7 @@ Local manager: Henry Gastman.
 Ownership: Morgan Murphy, pres.; Henry Gastman, v.p.; Tw Evening Telegram Co., 100% (see CATV Group Ownership)
 PACIFIC GROVE—Central Cal. Communications Corp., 1180-H
 r Forest Ave. (93950). Phone: 372-1014.
-subscribers: 2,483. Potential: N.A. Top-100 market: Yes.
+Subscribers: 2,483. Potential: N.A. Top-100 market: Yes.
 Population: 14,500. Began: April 2, 1965. Channel capacity: 12.
 nr stations (picked off-air): KSBW-TV Salinas; KNTV San Jose: 5 FMs. TV stations (via microwave): KTVU Oakland: KRON-TV, KPIX, KGO-TV & KQED San Francisco.
 Current originations (hours weekly): Time & weather (168).
@@ -969,7 +969,7 @@ Ownership: Telesystems Co., 100% (see CATV Group Ownership).
 PALMDALE—WGN Televents Inc., 330 E. Palmdale Blvd. (93550).
 r' Phone: 947-3139. Also serves: Quartz Hill.
 Subscribers: 2,750. Potential: N.A. Top-100 market: Yes.
-population: 20,861. Began: Aug. 24, 1964. Channel capacity: 12.
+Population: 20,861. Began: Aug. 24, 1964. Channel capacity: 12.
 TV stations (picked off-air): KNXT, KNBC, KTLA, KABC-TV, KHJ-TV, KTTV & KCOP Los Angeles: KBAK-TV & KERO-TV Bakersfield: 14 FMs.
 Current originations (hours weekly): Time & weather (168).
 Equipment: Jerrold & Entron headend; Entron, Jerrold & Delta amplifiers: Superior & Times cable.
@@ -1308,19 +1308,18 @@ ership).
 SANTA MONICA MOUNTAINS—See Malibu, Cal.
 SANTA PAULA—Storer Cable TV Inc., 925 E. Main St. (93060).
 I 5 phone: 525-6646.
-I subscribers: 1,500. Potential: 5,000. Top-100 market: No.
-Emulation: 13,279. Began: June 1964. Channel capacity: 12.
+I Subscribers: 1,500. Potential: 5,000. Top-100 market: No.
+Population: 13,279. Began: June 1964. Channel capacity: 12.
 I tv stations (picked off-air): KNXT, KNBC, KTLA, KABC-TV, KHJ-TV, KTTV, KCOP, KWHY-TV, KCET & KMEX-TV Los Angeles; FM.
 I current originations (hours weekly): Time & weather (168).
 I Equipment: Ameco headend & amplifiers.
 Subscriber fee: $10 installation, $5.50 monthly.
-' Miles of plant, 27; additional miles planned, 5. Homes in front
-11	' of plant: 3,500.
+' Miles of plant, 27; additional miles planned, 5. Homes in front of plant: 3,500.
 Ownership: Storer Bcstg. 100% (see CATV Group Ownership).
 SANTA ROSA—Total TV of Santa Rosa Inc., 1045 College Ave.,
 I ‘Box 1150 (95402). Phone: 544-7337.
 1 Subscribers: 4,000. Potential: 10,000. Top-100 market: No.
-population: 42,000. Began: Sept. 15, 1966. Channel capacity: 12.
+Population: 42,000. Began: Sept. 15, 1966. Channel capacity: 12.
 I TV stations (via CARS microwave): KTVU Oakland; KCRA-| TV. KXTV & KOVR Sacramento; KRON-TV. KPIX, KGO-TV & KQED San Francisco; KHSL-TV Chico. Also 12 FMs.
 I Current originations (hours weekly): Time & weather (168), news ticker (168).
 !i Equipment: Collins microwave; Dynair headend; Ameco, Vikoa <fc Jerrold amplifiers; Vikoa cable.
@@ -1363,7 +1362,7 @@ Ownership: Martin Houweling, 100%.
 Sausalito—Sundial Bcstg. Corp.
 SAUSALITO—See also San Geronimo Valley, Cal.
 SEARLES VALLEY—H.S. Anderson Co., 3002 Midvale Ave., Los Angeles (90034). Phone: 272-1070. Serves: Searles Valley (San Bernardino County).
-Subscribers: 1,100. Potential: 1,300. Top-100 market: No. i PoDulation: 4.000. Began: Feb. 1957. Channel capacity: 12.
+Subscribers: 1,100. Potential: 1,300. Top-100 market: No. i Population: 4,000. Began: Feb. 1957. Channel capacity: 12.
 TV stations (picked off-air): KABC-TV, KHJ-TV, KNBC, KNXT. KTTV, KCOP & KTLA Los Angeles; 12 FMs. Equipment: Jerrold headend; Vikoa amplifiers; Vikoa & Times
 Subscriber fee: $15 installation, $7 monthly.
 Miles of plant, 33; additional miles planned, none. Homes in front of plant: 1,300.
@@ -1529,7 +1528,7 @@ t	Tulare—Tulare Cable TV Corp. (Central Cal. Communications
 Corp.).
 * Tulare—United Cal. Theaters Inc.
 TULARE COUNTY—Sierra Video Co., Box 150, 109 S. Holcomb St., Porterville, Cal. (93258). Serves Porterville & unincorporated county area east of Porterville.
-Subscribers: 400. Potential: N.A. Top-100 market: Yes. Population: N.A. Began: 1962. Channel capacitv: N.A.
+Subscribers: 400. Potential: N.A. Top-100 market: Yes. Population: N.A. Began: 1962. Channel capacity: N.A.
 TV stations (picked off-air): KMJ-TV, KFRE-TV & KJEO Fresno: KICU-TV Visalia; KLYD-TV, KERO-TV & KBAK-TV Bakersfield.
 Owners: Russell A. Lane, Wayne A. Dunn & Jesse Dismuke.
 t Vallejo—KRON-TV San Francisco (Chronicle Publishing), 
@@ -1716,7 +1715,7 @@ Ownership: See CATV Group Ownership.
 ♦	Brighton—Time-Life Broadcast.
 ♦	Brush—Community TV Inc. (see CATV Group Ownership).
 BURLINGTON—Burlington TV Cable System, 1425 Senter Ave. (80807). Phone: 346-7644.
-Subscribers: 300. Potential: 700. Top-100 market? No. Population: 1,791. Began: Sept. 1963. Channel capacitv: 5.
+Subscribers: 300. Potential: 700. Top-100 market? No. Population: 1,791. Began: Sept. 1963. Channel capacity: 5.
 TV stations (picked off-air): KLOE-TV Goodland; KHPL-TV Hayes Center, KOMC McCook; KTVS Sterling; FM. Equipment: Dorate & Jerrold.
 Subscriber fee: $50 installation, $5.50 monthly.
 Ownership: Dorate Interstate, 100% (see CATV Group Ownership).
@@ -2236,7 +2235,7 @@ MELBOURNE BEACH—See Melbourne, Fla.
 MERRITT ISLAND—TV Cable Merritt Island, Box 1908, Cocoa Fla. (32922). Phone: 631-060C.
 Subscribers: 2,500. Potential: 5,500. Top-100 market? No. Population: 15,000. Began: July 1965. Channel capacity. 12 TV stations (picked off-air): WESH-TV Davtona Beach; WDBO-TV, WFTV & WFME-TV Orlando; WPTV W. Palm Beach; WEDU, WFLA-TV & WTVT Tampa; FM.
 Current originations (hours weeklv): Time & weather (168). Subscriber fee: $25 installation, $4.95 monthly.
-Miles of plant. 85. Homes in front of plant: 5 500.
+Miles of plant. 85. Homes in front of plant: 5,500.
 Ownership: Meredith-Avco, 100% (see CATV Group Ownership).
 *	Micanopy—Micanopy Cable TV Inc., owned by Freedom Com-
 munications System, 501 S.E. 2nd St.. Gainesville, Fla. (32601). Phone: 372-7641. Potential: 200. Scheduled to begin service March 1, 1963. Stations: WESH-TV & WFTV Daytona Beach-Orlando; WJXT & WFGA-TV Jacksonville; WUFT Gainesville: allband FM. Subscriber fee: $10 installation, $5 monthly. City fee: 3% of gross.*Equipment: Benco headend & amplifiers; Phelps Dodge cable. Miles of plant: 6. Homes in front of plant: 225. Principals: David S. McVoy, pres.; Richard G. Reynolds, v.p.; Donald Grauer, secy.-treas. Channel capacity: 12.
@@ -2454,7 +2453,7 @@ Herbert H. Maass Jr., secy.-treas.; V3 each.
 Other communications holdings: Oristano is pres, of WKWK AM-FM Wheeling, W. Va. & Wheeling-Muzak, cable-music system. Hall has interest in KEAP Fresno, Cal.
 ♦ Sun City—General Cablevision of Sun City Center Inc., Cocoa Beach, Fla.
 TALLAHASSEE—Clearview of Florida Inc., Box 3172, 1230 N. Monroe St. (32303). Phone: 222-2228.
-Subscribers: 2.500. Potential: 8-9,000. Top-100 market: No. population: 48,174. Began: Dec. 1963. Channel capacity: 12.
+Subscribers: 2.500. Potential: 8-9,000. Top-100 market: No. Population: 48,174. Began: Dec. 1963. Channel capacity: 12.
 TV stations (picked off-air):	WALB-TV	Albany; WTVY
 Dothan; WJHQ-TV Panama City; WCTV & WFSU-TV Tallahassee; 2 FMs.
 Current originations (hours weekly): Time & weather (168), background music (126).
@@ -2632,7 +2631,7 @@ Ownership: See CATV Group Ownership.
 EAST DUBLIN—See Dublin, Ga.
 EASTMAN—GT&E Communications Inc., Box 312 (31023). Phone: 374-2758.
 Subscribers: 421. Potential: 850. Top-100 market: No.
-population: 5,118. Began: June 1966. Channel capacity: 12.
+Population: 5,118. Began: June 1966. Channel capacity: 12.
 TV stations (picked off-air): WRBL-TV & WTVM Columbus; WXGA-TV Waycross; WALB-TV Albany; WMAZ-TV Macon.
 Current originations: Time & weather.
 Subscriber fee: Free installation, $5.95 monthly.
@@ -2815,7 +2814,7 @@ Subscribers: 2,898. Potential: 4,500. Top-100 market? No. Population: 18,633. Be
 Miles of plant: 110. Homes in front of plant: 7,000. Ownership: Telesystems Corp., 100% (see CATV Group Ownership).
 WAYCROSS—Waycross Cable Co. Inc., 409 Pendleton St. (31501). phone: 283-2332.
 Subscribers: 3,600. Potential: 5,200. Top-100 market? No.
-population: 23,565. Began: May 1964. Channel capacity: 12.
+Population: 23,565. Began: May 1964. Channel capacity: 12.
 TV stations (picked off-air): WXGA Waycross: WSAV-TV & WTOC-TV Savannah: WJXT, WJCT. WJKS-TV & WFGA-TV Jacksonville; WALB-TV Albany: 3 FMs.
 Current originations (hours weekly): Time & weather (168), taped music (168).
 Equipment: Entron headend Sc amplifiers.
