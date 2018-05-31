@@ -23,7 +23,7 @@ Local manager: J. Dige Bishop. City fee: $100 per yr.
 Subscriber fee: Free installation, $4.95 monthly.
 Ownership: J. Dige Bishop, pres., 57%; Julia H. Bishop, v.p., 1%; Albert L. Rankin, secy.-treas., and wife Carolyn R., 14% jointly; Robert B. Albritton, 7%; E. E. Anthony Sr., E. E. Anthony Jr. & J. M. Albritton, 5% each; remaining 6% held by 2 others, neither with as much as 5%.
 Other communications holdings: For J. Dige Bishop holdings, see Broadcaster-CATV listing.
-.ANNISTON—Cablevision Co. of Anniston, Box 698, 20 W. 14th St. (36201). Phone: 236-4422. Also serves: Ft. McClellan, Oxford & Saks. Plans expansion to Lenlock, Pelham Hts., Weaver & West Anniston.
+ANNISTON—Cablevision Co. of Anniston, Box 698, 20 W. 14th St. (36201). Phone: 236-4422. Also serves: Ft. McClellan, Oxford & Saks. Plans expansion to Lenlock, Pelham Hts., Weaver & West Anniston.
 subscribers: 4.000. Potential: 13,000. Top-100 market: No.
 Population: 41,000. Began: Oct. 1963. Channel canacitv: J2.
 TV stations (picked off-air): WAPI-TV. WBRC-TV. WBMG & WBIQ Birmingham; WHNT-TV Huntsville: 2 FMs. TV stations (via CARS microwave): WAGA-TV, WSB-TV, WAII-TV WJRJ-TV Atlanta.
@@ -90,14 +90,14 @@ Miles of plant: 145. Homes in front of plant: 10,000.
 Local manager: Max Hertweck. City fee: 3% of gross.
 Ownership: Div. of TeleCable Corp. (see CATV Group Ownership). Note: Purchased from Bruce Merrill in Oct. 1967.
 DEMOPOLIS—Demopolis CATV Co., 105 S. Cedar St. (36732). Phone: 289-0727.
-Subscribers: 750. Potential: 1,200. Top-100 market: No. Population: 9,000. Began: Oct. 1963. Channel canacitv: 5.
+Subscribers: 750. Potential: 1,200. Top-100 market: No. Population: 9,000. Began: Oct. 1963. Channel capacity: 5.
 TV stations (picked off-air): WAPI-TV & WBRC-TV Birmingham; WTOK-TV Meridian; WSFA-TV Montgomery; WCFT-TV Tuscaloosa; 2 FMs.
 Equipment: Jerrold headend & amplifiers; Times cable. Subscriber fee: $15 installation, $5 monthly.
 Miles of plant, 20; additional miles planned, 2. Homes in front of plant: 1,300.
 Local mgr.: Asa L. Goldman. City fee: None.
 Ownership: Asa L. Goldman, pres., 92%; Richard Manley, v.p., .5%; Myron Scales Jr., secy.-treas., 5%; Jim Byrd, 2.5%.
 DOTHAN—Dothan Cable TV Co., 109 E. Troy (36301). Phone: 794-3171.
-Subscribers: 2,600. Potential: 5,000. Top-100 market: No. Population: 31,440. Began: May 1, 1964. Channel caDaotty: 12. TV stations (picked off-air): WSFA-TV & WCOV-TV Montgomery; WALB-TV Albany; WTVM & WRBL-TV Columbus; WJHG-TV Panama City; WCTV Tallahassee; WTVY Dothan; WDIQ Dozier; 4 FMs.
+Subscribers: 2,600. Potential: 5,000. Top-100 market: No. Population: 31,440. Began: May 1, 1964. Channel capacity: 12. TV stations (picked off-air): WSFA-TV & WCOV-TV Montgomery; WALB-TV Albany; WTVM & WRBL-TV Columbus; WJHG-TV Panama City; WCTV Tallahassee; WTVY Dothan; WDIQ Dozier; 4 FMs.
 Current originations (hours weekly): Time & weather (168), news ticker (168).
 Equipment: Jerrold headend; Jerrold & Ameco amplifiers;
 Times & Viking cable.
@@ -183,9 +183,9 @@ Subscriber fee: $10 installation, $5.95 monthly.
 Miles of plant, 15: additional miles planned, 10.
 Ownership: Wilton H. Pollard Sr., pres., 97%; Wilton H. Pollard Jr., v.p., 19%; Anne Elliott, v.p., 1%; Plez A. Pollard, secy.-treas.. 1%.
 Other communications holdings: Pollard Sr. has 100% of WBHP Huntsville, Ala.
-i Haleyville—West Ala. TV Cable Co. Inc., Lindsey St., Fayette, Ala. Phone:	932-5252.	(See	CATV	Group	Ownership).
+* Haleyville—West Ala. TV Cable Co. Inc., Lindsey St., Fayette, Ala. Phone:	932-5252.	(See	CATV	Group	Ownership).
 Estimated potential, 400. Equipment, Entron. Installation fee, $15; monthly charge, $5.
-• Haleyville—Haleyville TV Cable Corp., Box 191 (35565). Phone: 486-2277. Ownership: John L. Slatton, pres., 25%; J. E. Stuart, v.p., 25%; Milton Underwood, v.p., 25%; Foy Guin Jr., secy.-treas., 25%. Slatton owns 100% of WJBB Haleyville, 47% of WLAY Muscle Shoals, 48% of WTRO Dyersburg, Tenn. Stuart has interest in systems in Red Bay, Ala. & Iuka, Miss.; also owns 50% of CP for AM in Red Bay. Underwood is mgr. of Florence, Ala. system.
+* Haleyville—Haleyville TV Cable Corp., Box 191 (35565). Phone: 486-2277. Ownership: John L. Slatton, pres., 25%; J. E. Stuart, v.p., 25%; Milton Underwood, v.p., 25%; Foy Guin Jr., secy.-treas., 25%. Slatton owns 100% of WJBB Haleyville, 47% of WLAY Muscle Shoals, 48% of WTRO Dyersburg, Tenn. Stuart has interest in systems in Red Bay, Ala. & Iuka, Miss.; also owns 50% of CP for AM in Red Bay. Underwood is mgr. of Florence, Ala. system.
 Planned originations (hours weekly): Time & weather (168).
 Subscriber fee: $20 installation, $5 monthly.
 Miles of plant: 450. Homes in front of plant: 33,000.
@@ -239,7 +239,7 @@ Ownership). Note: County permit is for unincorporated areas from Bluff Park to C
 Ownership). Note: County permit is for unincorporated areas from Bluff Park to Center Point.
 HOOVER—See Jefferson County, Ala.
 LANETT—See West Point. Ga.
-' Huey town—Alabama TV Cable Inc. (see CATV Group Ownership).
+* Huey town—Alabama TV Cable Inc. (see CATV Group Ownership).
 HUNTSVILLE—Alabama Cablevision Co., Box 770, 250 Governors Dr. S.E. (35804). Phone: 534-4549.
 Subscribers: 14,000. Potential: 33,000. Top-100 market: No.
 Population: 160,000. Began: 1957. Channel capacity: 12 (rebuilding in 1968).
