@@ -84,12 +84,32 @@ public class Cable1968{
             }
 
 
+            if (name.indexOf("■") != -1) {
+                if (name.indexOf("■ ") != -1) {
+                    name = name.substring(name.indexOf("■") + 2, name.length());
+                }
+                else {
+                    name = name.substring(name.indexOf("■") + 1, name.length());
+                }
+                sign = sign + "?";
+            }
+            
             if (name.indexOf("•") != -1) {
                 if (name.indexOf("• ") != -1) {
                     name = name.substring(name.indexOf("•") + 2, name.length());
                 }
                 else {
                     name = name.substring(name.indexOf("•") + 1, name.length());
+                }
+                sign = sign + "?";
+            }
+            
+            if (name.indexOf("?") != -1) {
+                if (name.indexOf("? ") != -1) {
+                    name = name.substring(name.indexOf("?") + 2, name.length());
+                }
+                else {
+                    name = name.substring(name.indexOf("?") + 1, name.length());
                 }
                 sign = sign + "?";
             }
@@ -367,7 +387,7 @@ public class Cable1968{
         System.out.print("Name\tCopied\tLocation copied\tPopulation\tWhen service began\tSubscribers\t"
         + "Potential\t"
         + "Home in front of plant\tChannels capicity\tTop-100 market\t"
-        + "Note\tSign");
+        + "Note\tOther");
         System.out.println();
         FileResource fr = new FileResource();
         String s = fr.asString();
