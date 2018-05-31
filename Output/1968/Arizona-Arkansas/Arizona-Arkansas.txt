@@ -34,7 +34,7 @@ Local manager: Robert E. Cowley.
 Ownership: Harriscope Cable Corp., 100% (see CATV Group Ownership).
 ♦Glendale—American Cable TV Inc. (Ameco Inc.), 2949 W. Osborn, Phoenix.
 I ♦ Glendale—Central Ariz. TV Inc. (Jack Kent Cooke, majority owner).
-I GLOBE-MIAMI—Globe-Miami Cable TV Inc., Box AN, Paxton Ave.-Country Club Manor, Miami, Ariz. (85539). Phone: 425-6351.
+GLOBE-MIAMI—Globe-Miami Cable TV Inc., Box AN, Paxton Ave.-Country Club Manor, Miami, Ariz. (85539). Phone: 425-6351.
 Subscribers: 1,500. Potential: 2,500. Top-100 market: No. Population: 14,000. Began: 1953. Channel capacity: 12.
 TV stations (via American TV Relay common carrier): KTVK, KPHO-TV, KAET, KOOL-TV, KPAZ-TV & KTAR-TV Phoenix; KGUN-TV & KVOA-TV Tucson. Also 8 FMs.
 Current originations (hours weekly): Time & weather (168).
@@ -415,7 +415,7 @@ Equipment: Jerrold. Benco. Cascade & Ameco.
 Subscriber fee: Free installation & $5.90 monthly, $19.50 installation & $4 90 monthly.
 Miles of plant: 17.5. Homes in front of plant: 1,235.
 Ownership: Dale E. & Aloyise F. Hart, 60°£; John Woodard, 20%; Dwight S. Reed, 10%; John & Mary Wilson, 10%.
-r Newark—Newark TV Cable Inc., Box 861, Batesville, Ark. (72501).
+* Newark—Newark TV Cable Inc., Box 861, Batesville, Ark. (72501).
 Phone: 743-3816. Potential: 350. (See Davco Electronics under CATV Group Ownership.) Stations: KATV & KARK-TV Little Rock; KTVE El Dorado; KAIT Jonesboro; WMC-TV & WHBQ-TV Memphis (all picked off-air); 4 FMs. Subscriber fee: $49.50 installation, $4.95 monthly. City fee: None. Miles of plant planned: 6. Channel capacity: 12.
 NEWPORT—Newport TV Cable Inc., 300 State St. (72112). Phone: 523-2219.
 Subscribers: 1,510. Potential: 2,200. Top-100 market: No . Population: 7,450. Began: Nov. 2, 1964. Channel capacity: 12. TV stations (picked off-air): WREC-TV, WKNO-TV. WHBQ-TV & WMCT Memphis; KAIT-TV Jonesboro; KETS, KATV, KARK-TV & KTHV Little Rock.
@@ -431,7 +431,7 @@ KFSA-TV Ft. Smith; KTUL-TV Tulsa.
 Equipment, composite; miles of plant, 12. Homes in front of plant: 600.
 Subscriber fee: $5 installation, $4.85 monthly.
 Ownership: Dane Jaggers, 100%.
-PARAGOULD—Paragould Cablevision Inc., 112 W. Emerson St. (72450). Phone: 236-6936. Also serves: Center Hill. Subscribers: 600. Potential: 2.500. Ton-100 market: No. Population: 10,731. Began: Sept. 1, 1965. Channel capacity: 12. TV stations (picked off-air):	KFVS-TV	Cape	Girardeau;
+PARAGOULD—Paragould Cablevision Inc., 112 W. Emerson St. (72450). Phone: 236-6936. Also serves: Center Hill. Subscribers: 600. Potential: 2.500. Top-100 market: No. Population: 10,731. Began: Sept. 1, 1965. Channel capacity: 12. TV stations (picked off-air):	KFVS-TV	Cape	Girardeau;
 KAIT-TV Jonesboro; KARK-TV Little Rock; WHBQ-TV, WKNO-TV, WMCT & WREC-TV Memphis; WPSD-TV Paducah; allband FM.
 Current originations (hours weekly): Time, weather & public service announcements (168).
 Equipment: Jerrold headend & amplifiers; Plastoid cable. Subscriber fee: $10 installation, $5 monthly.
