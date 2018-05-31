@@ -63,7 +63,7 @@ Subscriber fee: Free installation, $3.50 monthly.
 Ownership: Bettervision Systems Inc., 100% (see Shinnston, W Va. Purchased from George H. Sutton Group Feb. 15, 1967).
 BURNSVILLE—Marlinton Cable Co., Main St. (26335). Phone: 853-3271
 Subscribers: 155. Potential: 175. Top-100 market: No.
-Population: 728. Begaan: Dec. 1. 1952. Channel canacitv: 5.
+Population: 728. Began: Dec. 1. 1952. Channel canacity: 5.
 TV stations (picked off-air): WOAY-TV Oak Hill; WSAZ-TV & WHTN-TV Huntington; WCHS-TV Charleston; WDTV Weston; FM.
 Equipment: Jerrold. Homes in front of plant: 200.
 Subscriber fee: Free installation, $3.50 monthly.
@@ -895,7 +895,7 @@ t Manitowoc—Midland Community Antenna Systems Inc.
 Daggett St., Milwaukee. Wis. (see CATV Group Ownership). Potential: 3.150. Stations: WLUK-TV. WBAY-TV & WFRV-TV Green Bay; closed-circuit ETV, Marquette; time & weather, news ticker. Seeks waiver for WA^O-TV Rhinelander; WLUC-TV Marquette; WPBN-TV Traverse City: WWTV Cadillac. Subscriber fee:	$1*75	installation.	$5
 monthly. Robert O. Brissette, mgr. Service scheduled to begin March 1968. Miles of plant under construction: 75. Note: Also will serve Peshtigo. Wis. & Menominee, Mich.
 MARSHFIELD—Marshfield Valtronics Inc., Rt. 4 (54449). Phone: 384-9711.
-Subscribers: 980. Potential: 3,500. Top-100 market? No. Population: 14,153. Began: April 1963. Channel capacitv: 12. TV stations (picked off-air): WBAY-TV. WFRV-TV & WLUK-TV Green Bay; WSAU-TV & WAOW-TV Wausau; WKBT La Crosse; WEAU-TV Eau Claire; 5 FMs.
+Subscribers: 980. Potential: 3,500. Top-100 market? No. Population: 14,153. Began: April 1963. Channel capacity: 12. TV stations (picked off-air): WBAY-TV. WFRV-TV & WLUK-TV Green Bay; WSAU-TV & WAOW-TV Wausau; WKBT La Crosse; WEAU-TV Eau Claire; 5 FMs.
 Current originations (hours weekly): Time & weather (168). Equipment: Spencer-Kennedy. Homes in front of plant: 4,200. Subscriber fee: $25 installation, $5 monthly.
 Miles of plant, 41; additional miles planned, none.
 Ownership: See Valtronics under CATV Group Ownership.
@@ -910,7 +910,7 @@ t Menasha—Midland Community Antenna Systems Inc.
 + Menasha—Midwest CATV Inc., Menominee, Mich.
 + Menasha—Universal Cablevision Inc.
 MENOMONIE—Com-Tel Inc., 210 Main St. (54751). Phone: 235-3211.
-Subscribers: 1.050 Potential: N A. Ton-100 market: No. Population: 8,675. Began: Oct. 15, 1962. Channel capacity: 12.
+Subscribers: 1.050 Potential: N.A. Top-100 market: No. Population: 8,675. Began: Oct. 15, 1962. Channel capacity: 12.
 TV stations (picked off-air): WEAU-TV Eau Claire: WKBT Lacrosse; KMSP-TV, KSTP-TV, KTCA. WCCO-TV & WTCN-TV Minneapolis-St. Paul: KROC-TV Rochester. Equipment: Spencer-Kennedy headend & amplifiers. Subscriber fee: $15 installation, $5 monthly. City fee: $100 per yr.
 Miles nlant.; 3fi. Home" in fr~nt of plant: 1.500.
 Ownership: Bernard O’Connell, pres., 50%; Clare Talen, v.p.. 50%; Marjorie O’Connell, secy.-treas.
@@ -1236,7 +1236,7 @@ t Newcastle—Televents Inc.
 PARADISE VALLEY—See Casper, Wyo.
 PINE BLUFFS—Pine Bluffs Community TV System, 503 Maple (82082). Phone: 245-3392.
 Subscribers: 238. Potential: 300. Top-100 market? No.
-Population: 1,121. Began:July 1, 1957. Channel capacity: 12.
+Population: 1,121. Began: July 1, 1957. Channel capacity: 12.
 TV stations (picked off-air): KWGN-TV, KOA-TV, KRMA-TV, KLZ-TV & KBTV Denver; KTNE-TV Alliance; KFBC-TV Cheyenne: FM.
 Equipment: Jerrold headend; Jerrold & Blonder-Tongue amplifiers; Times, U.S. & General cable.
 Subscriber fee: $25 installation, $5.87 monthly.
