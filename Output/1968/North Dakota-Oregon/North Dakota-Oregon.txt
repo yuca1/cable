@@ -402,7 +402,7 @@ Subscribers: N.A. Potential: N.A. Top-100 market? -.
 Population: 783. Began: N.A. Channel capacity: N.A.
 Lyndhurst—See Shaker Hts., O.
 MANCHESTER—Southern Ohio Cable-Vision Co. Inc., 626 Forest Ave., Maysville, Ky. (41056). Phone: 564-3361.
-Subscribers: 653 Potential: N.A. Ton-100 market: No.
+Subscribers: 653 Potential: N.A. Top-100 market: No.
 Population: 2,200. Began: April 1, 1964. Channel capacity: 5.
 TV stations (picked off-air): WCPO-TV, WKRC-TV & WLWT Cincinnati; WHIO-TV Dayton; WHTN-TV Huntington.
 Equipment: Ameco headend & amplifier®.
@@ -411,7 +411,7 @@ Miles of plant, 12; additional miles planned, none.
 Ownership: See CATV Group Ownership.
 MANSFIELD—Multi-Channel TV Cable Co. of Mansfield, 315 Oxford Ave. (44901). Phone: 529-5451. Also serves: Ontario.
 Subscribers: 598. Potential: 10,000. Top-100 market? No.
-Population: 51.000. Began: June 1. 1965. Channel capacitv: 12.
+Population: 51.000. Began: June 1. 1965. Channel capacity: 12.
 TV stations (picked off-air): WKYC-TV. WVIZ-TV. WEWS & WJW-TV Cleveland; WLWC, WTVN-TV. WOSU-TV & WBNS-TV Columbus; WDHO-TV, WTOL-TV & WSPD-TV Toledo.
 Current originations (hours weekly): Time & weather (168), news ticker.
 Subscriber fee: $10 installation, $5 monthly.
@@ -539,7 +539,7 @@ Local manager: S. H. Swarny.
 Ownership: See CATV Group Ownership.
 t N. Baltimore—Wood TV Corp. (Roger Wise, rep.).
 NORTH CANTON—Stark CATV Inc.. 342 Hower St. (44720). Nearing completion for service to Jackson Twp., Perry Twp. & Plain Twp.
-Subscribers: 1,200. Potential: N.A. Too-100 market: Yes.
+Subscribers: 1,200. Potential: N.A. Top-100 market: Yes.
 Population: N.A. Began: Nov. 1966. Channel capacity: 12.
 TV stations (picked off-air): WEWS, WKYC-TV. WJW-TV & WVIZ Cleveland; WFMJ-TV, WKBN-TV & WYTV Younes-town; KDKA-TV Pittsburgh; WTRF-TV Wheeling; WSTV-TV Steubenville; WAKR-TV Akron; WJAN-TV Canton; FM.
 Current originations (hours weeklv): Time & weather (168).
@@ -660,7 +660,7 @@ t Sheffield Village—Lorain Cable TV Inc.
 Group Ownership). Scheduled to begin service Feb. 1968. Jack Remseyer, mgr.
 *	Shreve—Millersburg Community TV System Inc., W. Jackson St.,
 Millersburg, O. Phone: 674-2056. Estimated potential, 230. Rudy H. Eppley, pres, (see CATV Group Ownership).
-SIDNEY—Sidney Cable TV Co., Box 134, 113 E. Court (45365). Subscribers: 2.000. Potential: N.A. Top-100 market: Yes. Population: 14,663. Began: Feb 11. 1966. Channel capacitv: 12. TV stations (picked off-airl:	WTMA-TV	Lima:	W^TO-TV,
+SIDNEY—Sidney Cable TV Co., Box 134, 113 E. Court (45365). Subscribers: 2.000. Potential: N.A. Top-100 market: Yes. Population: 14,663. Began: Feb 11. 1966. Channel capacity: 12. TV stations (picked off-airl:	WTMA-TV	Lima:	W^TO-TV,
 WLWD & WKEF Dayton; WLWC. WTVN-TV. WBNS-TV & WOSU-TV Columbus; WLWT, WCPO-TV & WKRC-TV Cincinnati: FM.
 Current originations (hours weekly): Time & weather (168). Planned originations (hours weekly): Local live (5-10). Equipment: Jerrold headend & amplifiers; Times cable. Subscriber fee: $10 installation, $4.75 monthly.
 Miles of plant. 47; additional miles planned, one.
@@ -1509,7 +1509,7 @@ Ownership: John Weare, pres.; Mildred Corbett, v.p.: Leonard Bergseth, secy.-tre
 Other communications holdings: See each under CATV Group Ownership.
 LEBANON—Liberty TV Inc., 48 W. Oak St., Box 353 (97355).
 Subscribers: N.A. Potential: N.A. Top-100 market: No.
-PoDUlation: 5,858. Began: June 1967. Channel capacity: 12.
+Population: 5,858. Began: June 1967. Channel capacity: 12.
 TV stations (picked off-air): KATU, KOIN-TV, KGW-TV & KPTV Portland; KEZI-TV & KVAL-TV Eugene; KOAC-TV Corvallis.
 Ownership: See CATV Group Ownership.
 LINCOLN BEACH—See Taft, Ore.
@@ -1575,7 +1575,7 @@ Population: 327. Began: N.A. Channel capacity: N.A.
 Principal: George Benson, secy.
 MT. VERNON—Blue Mountain tv Cable Co., Box 267 (97865). Phone: 932-2983. Also serves: Canyon City & John Day.
 Subscribers: 750. Potential: N.A. Top-100 market? No.
-Population: 2,775. Began: 1954. Channel caDacity: 5.
+Population: 2,775. Began: 1954. Channel capacity: 5.
 TV stations (picked off-air): KBOI-TV & KTVB Boise.
 Equipment: Jerrold & Blonder-Tongue.
 Subscriber fee: $19.50 installation, $4.50 monthly.

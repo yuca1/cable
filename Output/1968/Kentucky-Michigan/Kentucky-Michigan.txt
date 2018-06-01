@@ -41,7 +41,7 @@ BEREA—Berea Cablevlsion Co. Inc., 323 Chestnut St. (40403). Phone: 986-3104.
 Subscribers: 430. Potential: 1.000. Top-100 market: No. Population: 4,302. Began: Nov. 18, 1966. Channel capacity: 12. TV stations (picked off-air): WLEX-TV & WKYT-TV Lexington; WHAS-TV, WAVE-TV & WLKY-TV Louisville; 2 FMs. Current originations (hours weekly): Time & weather (168). Equipment: Ameco headend & amplifiers; Rome cable. Subscriber fee: Free installation. $5 monthly.
 Miles of plant. 30; additional miles planned, unknown. Ownership: Gregg Cablevlsion, 100% (see CATV Group Ownership).
 BLAIR—See Cumberland, Ky.
-BOONEVILLE—Owsley Countv TV. Boonevllle (41314). Subscribers: 125. Potential: N.A. Top-100 market? No. Population: 400. Began: 1962. Channel capacltv: 2.
+BOONEVILLE—Owsley Countv TV. Boonevllle (41314). Subscribers: 125. Potential: N.A. Top-100 market? No. Population: 400. Began: 1962. Channel capacity: 2.
 TV stations (picked off-air): WKYT-TV & WLEX-TV Lexington.
 Equipment: Blonder-Tongue headend & amplifiers.
 Subscriber fee: Free installation. $3.50 monthly.
@@ -382,7 +382,7 @@ Subscriber fee: $50 installation, $2.70 monthly.
 Miles of plant, 6; additional miles planned, none. Homes In front of plant: 600.
 Ownership: Wayne Stewart & J. E. Taylor, partners.
 MURRAY—Murray Cablevision Co. Inc., Box 185, 105 N. 5th St. * (42071). Phone: 753-5005.
-Subscribers: 2,000. Potential: 2,500. Top-100 market: No. population: 9,303. Began: May 1985. Channel capacity: 12.
+Subscribers: 2,000. Potential: 2,500. Top-100 market: No. Population: 9,303. Began: May 1985. Channel capacity: 12.
 W stations (picked off-air): WDCN-TV. WSM-TV, WLAC-TV & WSIX-TV Nashville; WSIL-TV Harrisburg; KFVS-TV Cape Girardeau; WDXI-TV Jackson; WPSD-TV Paducah; FM. Current originations (hours weekly): Time & weather (168). Equipment, composite headend, amplifiers & cable.
 Subscriber fee: $10 installation, $5 monthly.
 Miles of plant, 36. Homes in front of plant: 2,500.
@@ -540,7 +540,7 @@ Ownership: Joe E. Hunt & Truman Blackburn, 50% each.
 Other communications holdings: See Blackburn under CATV Group Ownership.
 VANCEBURG—Love Hardware Co. Inc., 301 Lexington Ave. (41179). Phone: 796-2641.
 Subscribers: 175. Potential: 350. Top-100 market: No.
-Population: 1,881. Began: 1963. Channel capacitv: 5.
+Population: 1,881. Began: 1963. Channel capacity: 5.
 TV stations (picked off-air): WSAZ-TV & WHTN-TV Huntington; WCHS-TV Charleston; WLWT Cincinnati.
 Subscriber fee: Free installation, $3 monthly.
 Miles of plant: 3. Homes in front of plant: 200.
@@ -558,7 +558,7 @@ Miles of plant, 3; additional miles planned, none. Homes in front of plant: 600.
 Ownership: Non-profit. Jesse Feltner, pres.
 WALLINS CREEK—Wallins TV Cable Co. Inc., Box 128 (40873). Phone: 664-3895. Also serves: Baxter-Rosspoint.
 Subscribers: 323. Potential: N.A. Top-100 market? .
-Population: 1,075. Began: Jan. 1, 1965. Channel capacitv: 5.
+Population: 1,075. Began: Jan. 1, 1965. Channel capacity: 5.
 TV stations (picked off-air): WLOS-TV Asheville: WBIR-TV & WATE-TV Knoxville; WJHL-TV Johnson City; WCYB-TV Bristol.
 Principal: G. D. Saylor, pres.
 WAYLAND—Fraley & Vinson, Box 236 (41666).
@@ -579,14 +579,14 @@ Population: 1,518. Began: N.A. Channel capacity: N.A.
 WHITAKER—See Seco, Ky.
 WHITESBURG—Salyer Radio Co., River Rd. (41858). Phone: 633-2257.
 Subscribers: 217. Potential: N.A. Top-100 market? No.
-Population: 1,300. Began: 1952. Channel capacitv: 5.
+Population: 1,300. Began: 1952. Channel capacity: 5.
 TV stations (picked off-air): WHTN-TV <te WSAZ-TV Hunting-ton; WLOS-TV Asheville; WJHL-TV Johnson City; WCYB-TV Bristol: WHIS-TV Bluefleld; allband FM. TV stations (via translator): WBIR-TV Knoxville.
 Equipment: Jerrold headend & amplifiers.
 Subscriber fee: Free instruction, $5 monthly.
 Ownership: R.B. Salyer. 100%.
 WILLIAMSBURG—King Mountain Cable Corp., Box 422, N. 2nd St. (40769). Phone: 549-2353.
 Subscribers: 229. Potential: 600. Top-100 market: Yes.
-Population: 3,478. Began: May 15. 1966. Channel capacitv: 5.
+Population: 3,478. Began: May 15. 1966. Channel capacity: 5.
 TV stations (picked off-air): WTVK. WATE-TV & WBIR-TV Knoxville; WLEX-TV Lexington; WLOS-TV Asheville; FM.
 Planned originations: Time & weather.
 Equipment: Blonder-Tongue headend; Jerrold amplifiers; Vikoa cable.
@@ -877,7 +877,7 @@ TV stations (picked off-air): WAGM-TV & WMEM-TV Presque Isle; CHSJ-TV-1 Bon Acco
 Equipment: Jerrold headend & amplifiers; Times cable.
 Miles of plant, 12; additional miles planned, none. Homes in front of Diant: 800.
 Ownership: Reeves Bcstg., 100% (see CATV Group Ownership).
-FT. KENT—Aroostook Community TV, 142 Main St. (04756). Subscribers: 559. P tential: 700. Top-100 market: No.
+FT. KENT—Aroostook Community TV, 142 Main St. (04756). Subscribers: 559. Potential: 700. Top-100 market: No.
 Population: 4,731. Began: 1957. Channel capacity: 5.
 TV stations (picked off-air): WAGM-TV Presque Isle; WMEB-TV Orono; CHSJ-TV St. John; CJBR-TV Rimouski; CKRT-TV Riviere Du Loup.
 Equipment: Entron headend & amplifiers.
@@ -1186,7 +1186,7 @@ Other communications holdings: Cogswell has minor interest in General TV Inc. (s
 PRINCESS ANNE—Princess Anne CATV Inc., c/o Norris Dash-iell. Mansion Rd. (21853). Phone: 651-1531.
 Subscribers: N.A. Potential: N.A. Top-100 market? No. Population: 1,351. Began: N.A. Channel capacity: N.A. Principals: Dashiell, Thomas Simpkins, Robert Murphy, William C. Ford, King Miller & Sidney Miller.
 ST. CHARLES CITY—St. Charles CATV Inc.. 6414 Gifford Lane SE, Washington, D.C. (20031). Phone: 562-1177. Serves St. Charles City, satellite community of Waldorf, Md. in St. Charles County.
-Subscribers: 609. Potential: N.A. Top-100 market: Yes. Population: N.A. Began: Oct. 10, 1966. Channel canacity: 12.
+Subscribers: 609. Potential: N.A. Top-100 market: Yes. Population: N.A. Began: Oct. 10, 1966. Channel capacity: 12.
 TV stations (picked off-air): WMAR-TV. WBAL-TV & WJZ-TV Baltimore; WRC-TV, WTTG. WMAL-TV, WTOP-TV, WETA, WDCA-TV & WOOK-TV Washington.
 Miles of plant: 5. Homes in front of plant: 800.
 Local manager: D. Reeder.
@@ -1939,7 +1939,7 @@ OSSINEKE—See Alpena, Mich.
 PARCHMENT—See Kalamazoo. Mich.
 Pennfield Twp.—See Marshall, Mich.
 PENNFIELD TWP.—See Battle Creek, Mich.
-PETOSKEY—Great Lakes Community TV Inc., 413 Waukazoo (49770). Phone: 347-4352. Also serves: Bear Creek Twp., Harbor Springs, Little Traverse Twp. & Springvale Twp. Subscribers: 1,750. Potential: 2,500. Top-100 market: No. population: 8,000. Began: Aug. 1954. Channel capacity: 5.
+PETOSKEY—Great Lakes Community TV Inc., 413 Waukazoo (49770). Phone: 347-4352. Also serves: Bear Creek Twp., Harbor Springs, Little Traverse Twp. & Springvale Twp. Subscribers: 1,750. Potential: 2,500. Top-100 market: No. Population: 8,000. Began: Aug. 1954. Channel capacity: 5.
 TV stations (picked off-air): WWTV Cadillac; WPBN-TV Traverse City; one PM. TV stations (via Upper Peninsula Microwave common carrier): WJRT-TV Flint; WNEM-TV Bay City-Saginaw.
 Current originations (hours weekly): Time & weather (168). Subscriber fee: $25 installation, $5 monthly.
 Miles of plant, 45; additional miles planned, 5. Homes in front of plant: 2,600.

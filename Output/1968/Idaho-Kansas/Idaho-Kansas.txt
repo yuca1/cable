@@ -178,11 +178,11 @@ Local manager: Sam Haddock. City fee: None.
 Ownership: Samuel Haddock, Kyle Laughlin, Harold Lough 8t Everett Will, 25% each.
 Other communications holdings: See Haddock & Laughlin listings under CATV Group Ownership.
 MOSCOW—University Heights TV, 1440 Borah (83834). Phone: 883-4671.
-Subscribers: 50. Potential: 70. Top-100 market? No. population: 11,183. Began: Dec. 1953. Channel capacity: 5.
+Subscribers: 50. Potential: 70. Top-100 market? No. Population: 11,183. Began: Dec. 1953. Channel capacity: 5.
 TV stations (picked off-air): KHQ-TV, KREM-TV & KXLY-TV Spokane; KWSC-TV Pullman; KUID-TV Moscow; 5 FMs. Equipment: Jerrold & Viking. Miles of plant, 2; additional miles planned, none.
 Subscriber fee: $100 installation, no monthly charge, principals: C. I. Dobler, secy.-treas.
 MOSCOW—U. of Idaho, Physical Plant Div., Moscow (83843). Phone: 882-3511. Serves U. of Idaho campus.
-Subscribers: 160. Potential: 200. Top-100 market? No. population: 11,183. Began: 1955. Channel capacity: 8.
+Subscribers: 160. Potential: 200. Top-100 market? No. Population: 11,183. Began: 1955. Channel capacity: 8.
 TV stations (picked off-air): KHQ-TV, KREM-TV & KXLY-TV Spokane; 3 FMs.
 Current originations: Two channels of closed-circuit ETV programming.
 Equipment: Jerrold. Miles of plant, 4; additional miles planned, one.
@@ -423,7 +423,7 @@ t Forrest—Western TV Cable Co. (Roy E. Bliss). Worland, Wyo.
 *	Freeport—TV Cable Co. of Stephenson County, 1728 First St.
 Peru, Ill. (61354). Phone: 223-2673. Potential: 5,000. Ownership: Earle S. Nelson Jr. & Estate of Earle S. Nelson Sr,. 50% each. Stations: WRFX-TV to WTVO Rockford, WC*T-TV Freeport-Rockford; WHA-TV Madison; WTTW & WXXW Chicago. Request for WHBF-TV Rock Island; WQAD-TV Moline: WGN-TV, WCIU-TV & WFLD-TV Chicago: WISC-TV Madison is in consolidated hearing. Planned originations: Time & weather. City fee: 5% of monthly charges. Subscriber fee: $25 installation, $5 monthly. Channel capacity: 12.
 GALENA—Intercity Cable Corp., 305 S. Main (61036). Phone: 777-9299.
-Subscribers: 657. Potential: 900. Ton-100 market? No. Population: 4,500. Began: May 22, 1956. Channel caoacitv: 12. TV stations (picked off-air): WMT-TV & KCRG-TV Cedar Rapids; WIFC-TV & WHA-TV Madison: WHBF-TV Rock Island; WOC-TV Davenport; KWWL-TV Waterloo; WQAD-TV Moline; WREX-TV Rockford; 2 FMs.
+Subscribers: 657. Potential: 900. Top-100 market? No. Population: 4,500. Began: May 22, 1956. Channel capacity: 12. TV stations (picked off-air): WMT-TV & KCRG-TV Cedar Rapids; WIFC-TV & WHA-TV Madison: WHBF-TV Rock Island; WOC-TV Davenport; KWWL-TV Waterloo; WQAD-TV Moline; WREX-TV Rockford; 2 FMs.
 Equipment: Jerrold headend; Ameco amplifiers; Viking cable. Subscriber fee: $10 installation, $4.25 monthly.
 Miles of plant, 13; additional miles planned, none. Homes in front of plant: 1.010.
 Ownership: See CATV Group Ownership.
@@ -561,7 +561,7 @@ Other communications holdings: For Columbia TV holdings, see CATV Group Ownershi
 NAPLATE—See Ottawa, HI.
 NEWTON—Vandalia Cable TV Co. Inc., 429 S. 4th St.. Vandalla, HI. (62471). Phone: 283-2323.
 Subscribers: 150. Potential: 500. Top-100 market? No.
-Population: 2.901. Began: Oct. 1, 1966. Channel capacity: 12.
+Population: 2,901. Began: Oct. 1, 1966. Channel capacity: 12.
 TV stations (picked off-air): WTWO & WTHI-TV Terre Haute: WTVW Evansville; WCIA Champaign; WTTV Bloomington-Indianapolls; WICS Springfield; WAND Decatur; KPLR-TV & KSD-TV St. Louis; MPATI; FM.
 Current originations (hours weekly): Time & weather (168). local live (18).
 Equipment: Jerrold headend; CAS amplifiers; Viking cable.
@@ -730,7 +730,7 @@ t Urbana—General Electric Cablevision.
 t Urbana—Plains TV Inc.. Champaign.
 t Urbana—Mid-West TV Inc., Champaign.
 t Urbana—Illini Cable TV Inc., 3800 Lake Shore Dr., Chicago.
-VANDALIA—Vandalia Cable TV Co. Inc., 429 S. 4th St. (62471). Phone* 283-2323 Subscribers: 685. Potential: 1,500. Top-100 market? No. population: 5,537. Began: Jan. 1, 1966. Channel capacity: 12. TV stations (picked off-air): KMOX-TV, KSD-TV, KPLR-TV, KETC & KTVI St. Louis; WICS Springfield; WTVP Decatur; WCIA Champaign; WSIU Carbondale; FM.
+VANDALIA—Vandalia Cable TV Co. Inc., 429 S. 4th St. (62471). Phone* 283-2323 Subscribers: 685. Potential: 1,500. Top-100 market? No. Population: 5,537. Began: Jan. 1, 1966. Channel capacity: 12. TV stations (picked off-air): KMOX-TV, KSD-TV, KPLR-TV, KETC & KTVI St. Louis; WICS Springfield; WTVP Decatur; WCIA Champaign; WSIU Carbondale; FM.
 Current originations (hours weekly): Time & weather (168), local five (18).
 Equipment: Jerrold headend; CAS ampiflers; Viking cable. Subscriber fee: $15 installation, $6.50 monthly.
 Miles of plant, 25; additional miles planned, 3. Homes in front of plant: 2,000.
@@ -838,7 +838,7 @@ Subscriber fee: $10 installation, $5 monthly.
 Miles of plant, 23; additional miles planned, none.
 Principals: George O. Nichols, pres.; John Foster, v.p., 10%. Other communications holdings: Nichols has 3.9% of WTWO (TV) Terre Haute. For Foster holdings, see CATV Group Ownership.
 COLUMBUS—Columbus Communications Corp., 525 Washington St. (47201). Phone: 372-8424.
-Subscribers: 1.000. Potential: 6,750. Ton-100 market: Yes. Population: 30,000. Began: July 15, 1967. Channel capacity: 12. TV stations (picked off-air): WISH-TV, WLWI & WFBM-TV Indianapolis; WTTV Bloomington-Indianapolis; WAVE-TV, WHAS-TV & WLKY-TV Louisville: Ch. 72 & 76 MPATI; FM. Seeks waiver for WCPO-TV, WKRC-TV & WLWT Cincinnati. Current originations (hours weekly): Time-weather (168). Planned originations (hours weekly): Local live (15), film, VTR. Equipment: Jerrold headend & amplifiers; Superior cable;
+Subscribers: 1.000. Potential: 6,750. Top-100 market: Yes. Population: 30,000. Began: July 15, 1967. Channel capacity: 12. TV stations (picked off-air): WISH-TV, WLWI & WFBM-TV Indianapolis; WTTV Bloomington-Indianapolis; WAVE-TV, WHAS-TV & WLKY-TV Louisville: Ch. 72 & 76 MPATI; FM. Seeks waiver for WCPO-TV, WKRC-TV & WLWT Cincinnati. Current originations (hours weekly): Time-weather (168). Planned originations (hours weekly): Local live (15), film, VTR. Equipment: Jerrold headend & amplifiers; Superior cable;
 Telemation origination.
 Subscriber fee: $15 installation, $5 monthly.
 Miles of plant, 90; additional miles planned, 7.5. Homes in front of plant: 7,000.
@@ -1428,7 +1428,7 @@ HUMBOLDT—See Iola.
 struction Inc., Box 307, Iola, Kan. Principals: Fred Conger (KWBW Hutchinson), Thomas Armour & Harry Coberly; Cable TV Construction Inc. (General Communications Inc.), majority owner (see General Communications under CATV Group Ownership). Stations: KWIS-TV, KAKE-TV & KARD TV Wichita; KTVH Hutchinson. Seeks waiver for KCMO-TV. KMBC-TV, WDAF-TV, KBMA-TV, KCIT-TV & KPTC-TV Kansas City; WIBW-TV & KTWU Topeka. Potential: 5,000.
 INDEPENDENCE—Kansas CATV Inc. d/b as Cablevision, Box 902, 213 E. Main St. (67301). Phone: 331-3630.
 Subscribers: 1,088. Potential: 3,500. Top-100 market: No.
-Population: 11,816. Began: Oct. 1961. Channel capacitv: 12.
+Population: 11,816. Began: Oct. 1961. Channel capacity: 12.
 TV stations (picked off-air): KVOO-TV, KOTV, KTUL-TV & KOED-TV Tulsa; KOAM-TV Pittsburg; KODE-TV & KUHI-TV Joplin; KARD-TV Wichita; 6 FMs.
 Current originations (hours weekly): Time & weather (168).
 Equipment: Jerrold headend & amplifiers.
