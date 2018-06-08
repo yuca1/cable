@@ -9,15 +9,39 @@ public class CableTest{
 
         String sub;
         String name;
+        String symbol;
         
         while (start != -1) {
             // Town name
             name = s.substring(end + 1, start);
+            
+            // number in name
+            boolean numAlert = name.contains("1") ||
+                               name.contains("2") ||
+                               name.contains("3") ||
+                               name.contains("4") ||
+                               name.contains("5") ||
+                               name.contains("6") ||
+                               name.contains("7") ||
+                               name.contains("8") ||
+                               name.contains("9") ||
+                               name.contains("0");
+            
+            // start with symbol
+            if (! Character.isLetter(name.charAt(0))) {
+                symbol = name.substring(0, 1);
+                name = name.substring(1, name.length());
+            }
+            else {
+                symbol = "";
+            }
+            
             System.out.print(name + "\t");
             
             
             // Mark the next "—"
             mark = s.indexOf("—", start + 1);
+            
             
             // Substring
             if (mark == -1) {
@@ -48,6 +72,10 @@ public class CableTest{
                 // }
                 
                 String seeTemp = s.substring(start + 1, end - 1);
+                if (numAlert) {
+                    seeTemp = seeTemp + "\t!";
+                }
+                
                 if (seeTemp.indexOf("\n") != -1) {
                     System.out.print(seeTemp.substring(seeTemp.indexOf("\n") + 1, seeTemp.length()));
                 }
@@ -157,6 +185,11 @@ public class CableTest{
                 int subscribersEndIndex = s.indexOf("(", subscribersStartIndex) - 1;
                 String subscribersTemp = s.substring(subscribersStartIndex, subscribersEndIndex);
                 
+                // N.A
+                if (subscribersTemp.indexOf("N.A") != -1) {
+                    subscribersTemp = "N";
+                }
+                
                 // commercial/program included
                 if (subscribersTemp.indexOf("Commer") != -1) {
                     subscribersEndIndex = s.indexOf("Commer", subscribersStartIndex) - 2;
@@ -253,8 +286,8 @@ public class CableTest{
             
             
             // Tier 1
-            if (sub.indexOf("Tier 1") != -1) {
-                int tierStart = s.indexOf("Tier 1", start);
+            if (sub.indexOf("Tier 1") != -1 || sub.indexOf("Tierl") != -1) {
+                int tierStart = s.indexOf("Tier", start);
                 int tierStartIndex = s.indexOf("Subscribers", tierStart) + 13;
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
@@ -573,9 +606,22 @@ public class CableTest{
             if (sub.indexOf("Note") != -1 && sub.indexOf("Note") < sub.indexOf("Basic")) {
                 int noteStartIndex = s.indexOf("Note", start) + 6;
                 int noteEndIndex = s.indexOf("Basic", start);
-                System.out.print(s.substring(noteStartIndex, noteEndIndex));
+                System.out.print(s.substring(noteStartIndex, noteEndIndex) + "\t");
+            }
+            else {
+                System.out.print("" + "\t");
             }
                 
+            
+            // numAlert
+            if (numAlert) {
+                System.out.print("11");
+            }
+            else {
+                System.out.print("" + "\t");
+            }
+            
+            
             // Start next
             start = s.indexOf("—", end);
             System.out.println();
@@ -590,7 +636,7 @@ public class CableTest{
         + "Tier 1 Subscribers\tTier 2 Subscribers\tTier 3 Subscribers\tTier 4 Subscribers\tTier 5 Subscribers\t"
         + "Tier 6 Subscribers\tTier 7 Subscribers\tTier 8 Subscribers\t"
         + "HBO\tMTV\tHomes passed\tHomes in franchised area\tChannels capicity\tChannels available but not in use\t"
-        + "Note");
+        + "Note\tnumAlert");
         System.out.println();
         FileResource fr = new FileResource();
         String s = fr.asString();

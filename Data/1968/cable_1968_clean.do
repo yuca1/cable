@@ -1,5 +1,35 @@
-* cable_1968 clean up
+*Date: June 2018
+*Purpose: cable_1968 clean up
 
+/**************************************************
+* Melanie's Directory settings
+global data="XXX\data"
+global out="XXX\out"
+global do="XXX\do"
+***************************************************/
+/**************************************************
+* Emily's Directory settings
+global data="F:\econover\Research\MK_SP\cable\data"
+global out="F:\econover\Research\MK_SP\cable\out"
+global do="F:\econover\Research\MK_SP\cable\do"
+***************************************************/
+**************************************************
+* Sarah's Directory settings
+global data="C:\Documents and Settings\sapearlman\My Documents\WomenandCoding\Data\Factbooks"
+global out="C:\Documents and Settings\sapearlman\My Documents\WomenandCoding\Papers\pictures"
+global do="C:\Documents and Settings\sapearlman\My Documents\WomenandCoding\Programs"
+***************************************************/
+/**************************************************
+* Yunhao's Directory settings
+global data="XXX\data"
+global out="XXX\out"
+global do="XXX\do"
+***************************************************/
+
+clear all
+set more off
+
+import excel using "$data\cable_1968.xlsx", firstrow
 
 * Destring Population
 destring Population, generate(population) force
@@ -74,6 +104,20 @@ label variable potential_upper "Potential upper bound"
 label variable homes_lower "Homes lower bound"
 label variable homes_upper "Homes upper bound"
 
+*Replace range values in variables
+replace potential=(potential_lower+potential_upper)/2 if potential==. & potential_upper!=. & potential_lower!=.
+drop potential_lower potential_upper
+
+replace homes=(homes_lower+homes_upper)/2 if homes==. & homes_upper!=. & homes_lower!=.
+drop homes_lower homes_upper
 
 * Drop string variables
 drop Population Whenservicebegan Subscribers Channelscapicity Top100market Homeinfrontofplant Potential
+
+*Symbol
+*The 1968 book has symbols for areas with approved cable licenses but no service 
+* "*"-- holds franchise but not in operation yet
+*"cross"-- application for franchise pending 
+la var symbol "Symbol from legend at beginning of book"
+
+save "$data\cable_1968", replace

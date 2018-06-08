@@ -142,8 +142,8 @@ Fee: N.A.
 Equipment: U.S. Tower satellite antenna. Miles of plant: 28.0 (coaxial). Homes passed: 1,200.
 Ownership: Transwestern Video Inc. (see Cable Group Ownership), 100%.
 BASSETT—See JOINER, AR.
-BATESVILLE—Batesvllle Cable TV, Box 4158, 240 S. Fourth St., Batesville, AR 72501. Phone: 501-793-7277. County: Independence. Also serves Independence County portions), South Side. Popula-
-TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: December 31, 1999. Began: Septembers, 1951. Channel capacity: 12. Channels available but not in use: 3.
+BATESVILLE—Batesvllle Cable TV, Box 4158, 240 S. Fourth St., Batesville, AR 72501. Phone: 501-793-7277. County: Independence. Also serves Independence County portions), South Side. Population: 8,279.
+TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: December 31, 1999. Began: September 3, 1951. Channel capacity: 12. Channels available but not in use: 3.
 Basic Service
 Subscribers: 5,813 (11/01/85). Includes subscribers for Cave City, AR. Programming (received off air): KAIT-TV (A), Jonesboro; KARK-TV (N), KATV (A), KETS (P), KTHV (C), Little Rock; WHBQ-TV (A), WMC-TV (N), WREG-TV (C) Memphis; allband FM. Planned programming (received off air): KTEJ (P)
 Jonesboro; WKNO-W (P), WPTY-TV (I) Memphis. Planned programming (via satellite): WTBS (I) Atlanta.
@@ -277,7 +277,7 @@ County fee: 3% of gross.
 Ownership: Arkansas Cable TV Group, 70.0%; remainder undisclosed. Represented (legal): Flelschman & Walsh.
 BENTON COUNTY—See also BEAVER SHORES, AR.
 BENTONVILLE—TCA Cable TV, Box 489, 113 Midtown Shopping Center, Benton-vilte,. AR 72712. Phone: 501-273-5644. County: Benton. Population: 8,756.
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: Januaiyl, 1962.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1962.
 Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 3,166 (11/01/85). Programming (received off air): KHOG-TV (A), Fayetteville; KFSM-TV (C), Fort Smith; KODE-TV (A), KSNF (N), Joplin; KOAM-TV (C), Pittsburg-Joplln; KOLR (C), KYTV (N), Springfield; KJRH (N), KOED-TV (P), KOTV (C), KTUL-TV (A) Tulsa; allband FM. Planned programming (received off air): KPOM-TV (N) Fort Smith.
@@ -392,7 +392,7 @@ Manager: Kenneth R. Camp. Chief technician: Kendall Camp.
 City fee: 3% of gross.
 Ownership: Spectrum Teltronics Inc. (see Cable Group Ownership), 100%.
 BOONE COUNTY—See HARRISON, AR.
-BOONEVILLE—Warner Cable of Boonevllle, Box 864, 1101 N. El Paso, Russellville, AR 72801. Phone: 501-968-2223. County: Logan. Population: 3,239,
+BOONEVILLE—Warner Cable of Boonevllle, Box 864, 1101 N. El Paso, Russellville, AR 72801. Phone: 501-968-2223. County: Logan. Population: 3,239.
 TV Market Ranking: Below 100. Original franchise award date: November 1, 1963. Franchise expiration date: March 4, 2000. Began: November 1,1963. Channel capacity: 35. Channels available but not in use: 23.
 Basic Service
 Subscribers: 1,089 (11/01/85). Programming (received off air): KAFT (P), Fayetteville; KFSM-TV (C), KHBS (A), KPOM-TV (N), Fort Smith; KARK-TV (N), KTHV (C) Little Rock; allband FM. Programming (via satellite): WTBS (I) Atlanta; C-SPAN; CBN Cable Network; CNN; ESPN; Nickelodeon.
@@ -441,7 +441,7 @@ Manager: Harold Kinner.
 City fee: 3% of gross.
 Ownership: WEHCO Video Inc. (see Cable Group Ownership), 100%.
 BROOKLAND—Spectrum Teltronics Inc., 314A W. Washington, Jonesboro, AR 72401. Phone: 501-932-5249. County: Craighead. Population: 875.
-TV Market Ranking: Below 100. Original franchise award date: January 1,1982. Franchise expiration date: January 1, 2002. Began: Januaiy 1,1982.
+TV Market Ranking: Below 100. Original franchise award date: January 1,1982. Franchise expiration date: January 1, 2002. Began: January 1,1982.
 Channel capacity: N.A. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 213 (08/17/87). Programming (received off air): KAIT-TV (A), KTEJ (P), Jonesboro; KARK-TV (N), KATV (A), Little Rock; WHBQ-TV (A), WMC-TV (N), WPTY-TV (I), WREG-TV (C) Memphis.
@@ -559,7 +559,7 @@ Programming (received off air): KAIT-TV (A), Jonesboro; KARK-TV (N), KATV (A), K
 Miles of plant: 6.0 (coaxial).
 Ownership: TCA Cable TV Inc. (see Cable Group Ownership), 100%.
 CAVE SPRINGS—Dave’s TV Cable Systems Inc., Box 767, Springdale, AR 72665. Phone: 501-751-9012. Counties: Benton, AR; Adair OK. Also serves Pleasure Heights, AR; Watts, OK. Population: 1,126.
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 1,1977,
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 1,1977.
 Channel capacity: 12. Channels available but not In use: 2.
 Basic Service
 Subscribers: 176 (06/01/87). •Programming (received off air): KAFT (P), KHOG-TV (A), Fayetteville; KFSM-. TV (C), KPOM-TV (N), Fort Smith; KODE-TV (A), Joplin; KOAM-TV (C), Plttsburg-Joplin; KDEB-TV (I), KOLR (C), KYTV (N), Springfield; KTUL-TV (A) Tulsa; allband FM.
@@ -813,8 +813,7 @@ Ownership: WEHCO Video Inc. (see Cable Group Ownership), 100%.
 Note: Current information not available.
 DATTO—See RECTOR, AR.
 DE QUEEN—Tempo Cable, Box 517, De Queen, AR 71832. Phone: 501-642-2441. County: Sevier. Population: 4,594.
-TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: July
-I,	1963.
+TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: July 1, 1963.
 Channel capacity: 23. Channels available but not In use: 5.
 Basic Service
 Subscribers: 1,856 (12/01/87). Programming (received off air): KETG (P), Arkadelphia; KTHV (C), Little Rock; KSLA-TV (C), KTBS-TV (A), Shreveport; KTAL-TV (N) Shreveport-Texarkana; allband FM.
@@ -1030,7 +1029,7 @@ Basic Service
 Subscribers: 212 (11/30/86). Programming (received off air): KATV (A), KTHV (C), Little Rock; WMC-TV (N) Memphis.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; ACTS; CNN; ESPN; Nashville Network; USA Network.
 Fee: $25.00 Installation; $12.50 monthly.
-Tierl
+Tier 1
 Subscribers: 26 (11/30/86). Began: N.A. Programming (via satellite): Cinemax. Fee: $10.50 monthly.
 Miles of plant: 5.0 (coaxiai). Homes passed: 375.
 Manager: George Zanone. Chief technician: Bob Gardener.
@@ -1168,7 +1167,7 @@ Note: Current information not available.
 FOREMAN—See ASHDOWN, AR.
 FORREST CITY—East Arkansas Video Inc., Box 1079, Professional Bldg., Forrest City, AR 72335. Phone: 501-633-8932. County: St. Francis. Population: 13,803. TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Fran-
 chise expiration date: December 31, 1999. Began: January 1,1970.
-Channel capacity: 36. Channels available but not In use: S.
+Channel capacity: 36. Channels available but not In use: 5.
 Basic Service
 Subscribers: 4,027 (01/01/88). Programming (received off air): KAIT-TV (A), KTEJ (P), Jonesboro; KATV (A), KTHV (C), Little Rock; WHBQ-TV (A), WMC-TV (N), WREG-TV (C) Memphis; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; CNN; ESPN.
@@ -1299,7 +1298,7 @@ Miles of plant: 10.0 (coaxial).
 Manager: Dean Hill. Chief technician: Henry Welytok.
 City fee: 3% of gross.
 Ownership: TCA Cable TV Inc. (see Cable Group Ownership), 100%. Purchased from Twin Lakes TV Corp., April 1987. Note: Current information not available.
-GREENBRIER—Greenbrier Cable TV, 14 7th St., Greenbrier, AR 72058. Phone: 501-679-4236. Counties: Faulkner & Perry. Also serves Perryville. Population: N,A. (area served).
+GREENBRIER—Greenbrier Cable TV, 14 7th St., Greenbrier, AR 72058. Phone: 501-679-4236. Counties: Faulkner & Perry. Also serves Perryville. Population: N.A. (area served).
 TV Market Ranking: 50. Original franchise award date: December 1, 1983. Franchise expiration date: December 1, ’1998. Began: January 1,1984.
 .Channel capacity: 24. Channels available : but not In use: 5.
 Basic Service
@@ -1398,7 +1397,7 @@ Ownership: Barker, Jim, 100%.
 Note: Current information not available.
 HARDIN—Friendship Cable of Arkansas, Box 248, Rte. 8, Pine Bluff, AR 71602. Phone: 501-247-4751. County: Jefferson. Population: N.A. (area served).
 TV Market Ranking: 50. Original franchise award date: October 9,1981. Franchise
-expiration date: October 9,1996. Began: Mayl, 1982.
+expiration date: October 9,1996. Began: May 1, 1982.
 Channel capacity: 21. Channels available but not in use: 3.
 Basic Service
 Subscribers: 550 (01/01/85). Programming (received off air): KARK-TV (N), KATV (A), KETS (P), KLRT (I), KTHV (C), Little Rock; KJTM-TV (I) Pine Bluff.
@@ -1477,7 +1476,7 @@ Fee: $25.00 installation; $8.00 monthly; $1.50 monthly (each additional set). He
 Subscribers: N.A. Began: N.A. Programming (via satellite): The Movie Channel.
 Fee: $20.00 Installation; $8.00 monthly. Ownership: Empire Communications Inc. (see Cable Group Ownership), 100%. Note: Current information not available.
 HEBER SPRINGS—TCA Cable TV, 120 S. 5th St., Heber Springs, AR 72543. Phone: 501-362-3413. County: Cleburne. Population: 4,589.
-TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: January 1,1999. Began:, January 1,1960.
+TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: January 1,1999. Began: January 1, 1960.
 Channel capacity: 12. Channels available but not In use: N.A.
 Basic Service
 . Subscribers: 1,996 (11/01/85). Programming (received off air): KARK-TV (N), KATV (A), KETS (P), KTHV (C) Little Rock; allband FM.
@@ -1548,7 +1547,7 @@ City fee: 2% of gross.
 Ownership: WEHCO Video Inc. (see Cable Group Ownership), 80.0%; Mooney, David P. (see Cable Group Ownership), ■ 5.72%; Poindexter, K. W„ 5.72%; remainder undisclosed.
 Note: Current Information not available.
 HORATIO—Tempo Cable, Box 491, 315 S, 4th St., De Queen, AR 71832. Phone: 501-642-2441. County: Sevier. Population: 850.
-TV Market Ranking: Outside TV markets. Original franchise award date: April 1, 1975. Franchise expiration date: April 1, 1990. Began: January 1,1977,
+TV Market Ranking: Outside TV markets. Original franchise award date: April 1, 1975. Franchise expiration date: April 1, 1990. Began: January 1,1977.
 Channel capacity: 21. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 313 (11/01/85). Programming (received off air): KETG (P), Arkadelphia; KSLA-TV (C), KTBS-TV (A), Shreveport; KTAL-TV (N) Shreveport-Texarkana; allband FM. Programming (via microwave): KARK-TV (N), KATV (A). KTHV (C) Little Rock. Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; ESPN; USA Network.
@@ -1607,7 +1606,7 @@ Subscribers: 15,461 (02/04/86). Programming (received off air): KRZB-TV (1), Hot
 Programming (via microwave): KXTX-TV (I) Dallas-Fort Worth.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Arts & Entertainment; CBN Cable Network; CNN; CNN Headline News; Country Music TV; Financial News Network; Lifetime; MTV; Nashville Network; PTL; The Weather Channel; USA Network.
 Fee: $25.00 installation; $9.95 monthly, $8.45 monthly (Garland County only). Tier 1
-Subscribers: 1;617 (12/31/83). Began: N.A.
+Subscribers: 1,617 (12/31/83). Began: N.A.
 Programming (via satellite): Cinemax. Fee: $15.00 installation; $9.95 monthly; $9.00 monthly with HBO.
 Tier 2
 Subscribers: 4,353 (12/31/83). Began: November 1,1979.
@@ -1702,7 +1701,7 @@ Programming (received off air): KARK-TV (N), KATV (A), KETS (P), KLRT (1), KTHV 
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; CNN Headline News; Discovery Channel; FNN Score; Financial News Network; Home Shopping Network; The Weather Channel; USA Network; Viewer’s Choice.
 Current originations: Educational access; government access; Barker Channel.
 Fee: $19.95 Installation; $9.70 monthly. Expanded Basic 1
-Subscribers: Included with North Little Rock, AR. Began: December 10, 1976. Programming (via satellite): Arts & Entertainment; Black Entertainment TV; C-SPAN; ESPN; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; Video Hits One.
+Subscribers: Included with North Little Rock, AR.(Began: December 10, 1976. Programming (via satellite): Arts & Entertainment; Black Entertainment TV; C-SPAN; ESPN; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; Video Hits One.
 Fee: $4.00 monthly.
 Tier 1
 Subscribers: Included with North Little Rock, AR. Began: N.A.
@@ -1740,7 +1739,8 @@ Subscribers: N.A. Began: N.A. Programming (via satellite): Clnemax; HBO.
 Fee: $15.00 Installation; $7.00 monthly (Clnemax); $10.00 monthly (HBO). Manager: Arl Cops. Chief technician: Ronnie Shelton.
 Ownership: Buford Television Inc. (see Cable Group Ownership), 100%.
 JEFFERSON COUNTY (portions)—See PINE BLUFF, AR.
-JENNY LIND—See FORT SMITH, AR. JOHNSON-See SPRINGDALE, AR.
+JENNY LIND—See FORT SMITH, AR. 
+JOHNSON—See SPRINGDALE, AR.
 JOINER—Arkavlsion Cable TV, Box 149, Rte. 2, Hughes, AR 72348. Phone: 501-339-2305. County: Mississippi. Also serves Bassett. Population: 990.
 TV Market Ranking: 26. Original franchise award date: N.A. Franchise expiration date: N.A. Began: July 1,1984.
 Channel capacity: 12. Channels available but not In use: None.
@@ -2000,7 +2000,7 @@ Subscribers: 600 (06/12/81). Began: January 1,1976.
 Programming (via satellite): HBO. Planned programming (via satellite): The Movie Channel.
 Fee: N.A.
 Equipment: Sclentific-Atlanta satellite antenna.
-Total homes in franchised area: 3,500, Ownership: TCA Cable TV Inc. (see Cable Group Ownership), 100%.
+Total homes in franchised area: 3,500. Ownership: TCA Cable TV Inc. (see Cable Group Ownership), 100%.
 Note: Current information not available.
 MANILA—See JONESBORO, AR.
 MANSFIELD—Tempo Cable, Box 487, Mansfield, AR 72944. Phone: 501-782-8941. Counties: Scott & Sebastian. Also selves Huntington. Population: 1,662.
@@ -2208,7 +2208,7 @@ Fee: $10,00-$15.00 Installation; $8.00 monthly.
 City fee; 2% of gross.
 Ownership; Hatfield Cable TV Service Inc. (see Cable Group Ownership), 100%. Note: Current Information not available.
 MISSISSIPPI COUNTY (portions)—See BLYTHEVILLE, AR.
-MITCHELLVILLE-See McGEHEE, AR.
+MITCHELLVILLE—See McGEHEE, AR.
 MONETTE—Spectrum Teltronlcs Inc,, Box 576, 314A w. Washington Ave, Jonesboro, AR 72401. Phone: 501-932-5249. County: Craighead. Population: 1,168.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: N.A. Channels available but not In use: N.A.
 Basic Service
@@ -2275,7 +2275,7 @@ Subscribers: N.A. Began: N.A. Programming (via satellite): The Movie Channel.
 Fee: $9.00 monthly.
 Ownership: Empire Communications Inc. (see Cable Group Ownership), 100%. Note: Current Information not available.
 MOUNT PLEASANT—Independence County Cable TV Inc., Box 3799, Hwy. 167 N, Batesville, AR 72501. Phone: 501-793-4174. County: Izard. Population: 346.
-TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: Jan-uaty 1, 1972.
+TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1972.
 Channel capacity: 12. Channels available but not In use: N.A,
 Basic Service
 Subscribers: 106 (01/01/87). Programming (received off air): KAIT-TV (A), Jonesboro; KARK-TV (N), KATV (A), KTHV (C) Little Rock.
@@ -2554,7 +2554,7 @@ Programming (via satellite): HBO.
 Equipment: Composite headend; C-COR : amplifiers; composite cable; Sclentific-Atlanta satellite antenna,
 Miles of plant: 20.0 (coaxial).
 : Ownership: TCA Cable TV Inc. (see Cable Group Ownership), 100%..
-PALESTINE—Car/Lyde Cable Systems, Box 88; Waldenburg, AR 72475. Phone: 501-579-2379, County: St. Francis. Population: 976; .
+PALESTINE—Car/Lyde Cable Systems, Box 88; Waldenburg, AR 72475. Phone: 501-579-2379, County: St. Francis. Population: 976.
 TV Market Ranking: Outside TV markets. Original franchise award date: June 1, ,',1984-, Franchise expiration date: June 1,
 ’ 19991 Began: January 1,1986.
 Channel capacity;.20. Channels available tiiit not.fn use: N.A.
@@ -2570,7 +2570,7 @@ Miles, of plant: 5.0 (coaxial). Homes passed: 400.
 City fee: 2% of gross.
 Ownership: Bowen, Cards (see Cable ■Group Ownership), & Clyde Festone, •100% jointly.
 PANGBURN—Independence County Cable TV Inc., Box 3799, Hwy. 167 N., Bates-ville, AR 72501. Phone: 501-793-4174. County: White. Population: 673.
-TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: Janruary 1,1984.
+TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,1984.
 Channel capacity: N.A. Channels available but not In use: N.A.
 Basic Service.
 Subscribers: N.A.
@@ -2693,7 +2693,7 @@ Fee: $25.00 Installation; $18.00 monthly.
 Manager: Dave Lovett.
 Ownership: Lovett, Dave & Laura (see Cable Group Ownership), 100%.
 PLEASURE HEIGHTS—See also CAVE SPRINGS, AR.
-POCAHONTAS-Pocahontas TV Cable, Box 370, Pyburn St., Pocahontas, AR 72455. Phone: 501-892-5801. County: Randolph. Also serves East Pocahontas. Population: 6,000.
+POCAHONTAS—Pocahontas TV Cable, Box 370, Pyburn St., Pocahontas, AR 72455. Phone: 501-892-5801. County: Randolph. Also serves East Pocahontas. Population: 6,000.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: April 9, 1989. Began: January 1,1961.
 Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
@@ -2709,7 +2709,7 @@ PORTIA—See BLACK ROCK, AR.
 PORTLAND—See WILMOT, AR.
 Pottsville—See ATKINS, AR.
 PRAIRIE CREEK—See BEAVER SHORES, AR.
-PRAIRIE GROVE-Smith Two-Way Radio, 520 N. College, Fayetteville, AR 72701. Phone: 501-443-2222. County: Washington. Population: 1,648.
+PRAIRIE GROVE—Smith Two-Way Radio, 520 N. College, Fayetteville, AR 72701. Phone: 501-443-2222. County: Washington. Population: 1,648.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1959.
 Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
@@ -2740,7 +2740,7 @@ Manager: W. Tidwell.
 Ownership: WEHCO Video Inc. (see Cable Group Ownership), 80.0%; Mooney, David P. (see Cable Group Ownership), 20.0%.
 Note: Current information not available.
 PULASKI COUNTY (portions)—County Cable, Box 598, Mabelvale, AR 72103. Phone: 501-455-0988. County: Pulaski. Population: N.A. (area served).
-TV Market Ranking: 50. Original franchise award date: January 1,1986. Franchise expiration date: January 1, 2001. Began: Mayl, 1986.
+TV Market Ranking: 50. Original franchise award date: January 1,1986. Franchise expiration date: January 1, 2001. Began: May 1, 1986.
 Channel capacity: 36. Channels available but not in use: 6.
 Basic Service
 Subscribers: 280 (11/01/86). Programming (received off air): KARK-TV (N), KATV (A), KETS (P), KLRT (I), KTHV (C), Little Rock; KJTM-TV (I) Pine Bluff.
@@ -2804,7 +2804,7 @@ Fee: N.A.	,\r
 Manager: Arl Cope.	V,;
 Ownership: Buford Television Inc.jfsee Cable Group Ownership), 100%. -
 REYNO—Community TV Cable Co., *204 Washington, Doniphan, MO .'63935 Phone: 314-966-2171. County: Randolph. Also serves Biggers. Population: 878.
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January i, 1968.	■-
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1968.	■-
 Channel capacity: 12. Channels'available but not In use: 4.	"v'Tv’
 Basic Service
 Subscribers: 125 (06/30/76). Ki'l ■ Programming (received off air): KFVS-TV (C), Cape Girardeau; KAIT-TV (A), KTEJ (P), Jonesboro; WHBQ-TV (A),
@@ -2963,7 +2963,7 @@ Manager: Arl Cope.
 Ownership: Buford Television Inc. (see Cable Group Ownership), 100%.
 SHERWOOD—See JACKSONVILLE, AR.
 SHIRLEY—See FAIRFIELD BAY, AR.
-SILOAM SPRINGS-Siloam Springs Cable TV, 114 E. University, Siloam Springs, AR 72761. Phone: 501-524-6400. County: Benton. Population: 7,940.
+SILOAM SPRINGS—Siloam Springs Cable TV, 114 E. University, Siloam Springs, AR 72761. Phone: 501-524-6400. County: Benton. Population: 7,940.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1, 1953.
 Channel capacity: 12. Channels available but not in use: 2.
 Basic Service
@@ -3191,7 +3191,7 @@ Miles of plant: 6.0 (coaxial). Homes passed: 265.
 Manager: George Zanone. Chief technician: Bob Gardener.
 Ownership: Arkavision Cable TV (see Cable Group Ownership), 100%.
 UNION COUNTY—See CALION, AR.
-VAN BUREN-TV Cable Corp., 501 Main St.. Van Buren, AR 72956. Phone: 501-474-6809. County: Crawford. Also serves Alma. Population: 14,775.
+VAN BUREN—TV Cable Corp., 501 Main St.. Van Buren, AR 72956. Phone: 501-474-6809. County: Crawford. Also serves Alma. Population: 14,775.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: December 31, 1999. Began: March 1,1962.
 Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
@@ -3245,7 +3245,7 @@ Miles of plant: 18.0 (coaxial).
 Manager Paul Gardner.
 Ownership: Community Communications Co. (see Cable Group Ownership), 100%.
 Note: Current information not available.
-WASHINGTON COUNTY—See FAYETTE-. VILLE, AR.
+WASHINGTON COUNTY—See FAYETTEVILLE, AR.
 WATSON CHAPEL—See JEFFERSON COUNTY, AR.
 WEAREUS CHAPEL—Independence County Cable TV Inc.. Box 3799, Hwy. 167 N, Batesvllle, AR 72501. Phone: 501-793-4174. County: Independence. Also serves Good Earth, Independence County, Pfeiffer. Population: N.A, (area served). TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Fran-chlse'expiration date: N.A. Began: January 1,1974.
 Channel capacity: 12. Channels available but not In use: N.A.

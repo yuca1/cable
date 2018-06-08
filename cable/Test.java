@@ -19,8 +19,13 @@ public class Test {
     
     
     public void test() {
-        FileResource fr = new FileResource();
-        String s = fr.asString();
-        hello(s);
+        // FileResource fr = new FileResource();
+        // String s = fr.asString();
+        // hello(s);
+        
+        String s = "abc123";
+        boolean boo =  s.contains("1") ||
+        s.contains("2");
+        System.out.println(boo);
     }
 }
