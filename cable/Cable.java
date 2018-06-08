@@ -16,20 +16,20 @@ public class Cable{
             name = s.substring(end + 1, start);
             
             // number in name
-            boolean numAlert = name.contains("1") ||
-                               name.contains("2") ||
-                               name.contains("3") ||
-                               name.contains("4") ||
-                               name.contains("5") ||
-                               name.contains("6") ||
-                               name.contains("7") ||
-                               name.contains("8") ||
-                               name.contains("9") ||
-                               name.contains("0");
+            boolean nameNumAlert = name.contains("1") ||
+                                   name.contains("2") ||
+                                   name.contains("3") ||
+                                   name.contains("4") ||
+                                   name.contains("5") ||
+                                   name.contains("6") ||
+                                   name.contains("7") ||
+                                   name.contains("8") ||
+                                   name.contains("9") ||
+                                   name.contains("0");
             
-            // start with symbol
+            // name starts with symbol
             if (! Character.isLetter(name.charAt(0))) {
-                symbol = name.substring(0, 1);
+                symbol = "*";
                 name = name.substring(1, name.length());
             }
             else {
@@ -55,22 +55,8 @@ public class Cable{
             
             // Case of See...
             if (s.substring(start + 1, start + 4).equals("See") ||
-            s.substring(start + 2, start + 5).equals("See")) {
-                System.out.print("1" + "\t");
-                // end = s.indexOf(".", start + 1);
-                // while (s.indexOf(".", end + 1) < mark ) {
-                    // if (
-                    // s.substring(s.indexOf(".", end + 1) - 3, s.indexOf(".", end + 1)).equals("TWP") ||
-                    // s.substring(s.indexOf(".", end + 1) - 3, s.indexOf(".", end + 1)).equals("Twp") ||
-                    // s.substring(s.indexOf(".", end + 1) - 2, s.indexOf(".", end + 1)).equals("ST")
-                    // ) {
-                        // break;
-                    // }
-                    // else {
-                        // end = s.indexOf(".", end + 1);
-                    // }
-                // }
-                
+                s.substring(start + 2, start + 5).equals("See")) {
+                System.out.print("1" + "\t");                
                 String seeTemp = s.substring(start + 1, end - 1);
                 
                 if (seeTemp.indexOf("\n") != -1) {
@@ -78,12 +64,31 @@ public class Cable{
                     seeTemp.substring(seeTemp.indexOf("\n") + 1, seeTemp.length());
                 }
                 
+                seeTemp = seeTemp + "\t";
+                
                 if (seeTemp.indexOf("See", 5) != -1) {
-                    numAlert = true;
+                    seeTemp = seeTemp + "seeAlert"; 
                 }
                 
-                if (numAlert) {
-                    seeTemp = seeTemp + "\t1";
+                if (nameNumAlert) {
+                    seeTemp = seeTemp + "nameNumAlert";
+                }
+                
+                if (seeTemp.contains("1") ||
+                    seeTemp.contains("2") ||
+                    seeTemp.contains("3") ||
+                    seeTemp.contains("4") ||
+                    seeTemp.contains("5") ||
+                    seeTemp.contains("6") ||
+                    seeTemp.contains("7") ||
+                    seeTemp.contains("8") ||
+                    seeTemp.contains("9") ||
+                    seeTemp.contains("0")) {
+                    seeTemp = seeTemp + "seeNumAlert";
+                }
+                
+                if (seeTemp.indexOf("-") != -1) {
+                    seeTemp = seeTemp + "wordAlert";
                 }
                 
                 System.out.print(seeTemp);
@@ -96,40 +101,6 @@ public class Cable{
                 System.out.print("0" + "\t" + "" + "\t");
             }
 
-            
-            // Substring
-            // if (subTemp.indexOf("Note:") != -1) {
-                // end = s.indexOf(".", s.indexOf("Note:", start)) + 1;
-                // while (s.indexOf(".", end) < mark ) {
-                    // if (
-                    // s.substring(s.indexOf(".", end + 1) - 3, s.indexOf(".", end + 1)).equals("TWP") ||
-                    // s.substring(s.indexOf(".", end + 1) - 3, s.indexOf(".", end + 1)).equals("Twp") ||
-                    // s.substring(s.indexOf(".", end + 1) - 2, s.indexOf(".", end + 1)).equals("ST")
-                    
-                    // ) {
-                        // break;
-                    // }
-                    // else {
-                        // end = s.indexOf(".", end + 1) + 1;
-                    // }
-                // }
-            // }
-            // else if(subTemp.indexOf("Ownership") != -1) {
-                // end = s.indexOf(".", s.indexOf("Ownership:", start)) + 1;
-                // while (s.indexOf(".", end) < mark ) {
-                    // if (
-                    // s.substring(s.indexOf(".", end + 1) - 3, s.indexOf(".", end + 1)).equals("TWP") ||
-                    // s.substring(s.indexOf(".", end + 1) - 3, s.indexOf(".", end + 1)).equals("TOP") ||
-                    // s.substring(s.indexOf(".", end + 1) - 2, s.indexOf(".", end + 1)).equals("ST")
-                    
-                    // ) {
-                        // break;
-                    // }
-                    // else {
-                        // end = s.indexOf(".", end + 1) + 1;
-                    // }
-                // }
-            // }
             
             // Population
             if (sub.indexOf("Population") != -1) {
@@ -315,8 +286,11 @@ public class Cable{
                 
                 if (tierTemp.indexOf("Began") != -1) {
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
+                }  
+                
+                if (tierTemp.indexOf("Program") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Program") - 2);
                 }
-                    
                 
                 if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
                     int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
@@ -324,9 +298,6 @@ public class Cable{
                     s.substring(tierEndIndex + 1, newTierEndIndex);
                 }
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
-                }
                 
                 System.out.print(tierTemp + "\t");
                 
@@ -538,6 +509,9 @@ public class Cable{
                     passedTemp = passedTemp.substring(0, passedTemp.indexOf("Manag") -1);
                 }
                 
+                if (passedTemp.indexOf("Total") != -1) {
+                    passedTemp = passedTemp.substring(0, passedTemp.indexOf("Total") - 2);
+                }
                 
                 System.out.print(passedTemp + "\t");
                 
@@ -574,6 +548,11 @@ public class Cable{
                 if (capTemp.indexOf("(") != -1) {
                     capEndIndex = s.indexOf("(", capStartIndex);
                     capTemp = s.substring(capStartIndex, capEndIndex);
+                    
+                }
+                
+                if (capTemp.indexOf("Channel") != -1) {
+                    capTemp = capTemp.substring(0, capTemp.indexOf("Chan") - 2);
                 }
                 
                 System.out.print(capTemp + "\t");
@@ -613,26 +592,29 @@ public class Cable{
                 
                 System.out.print(rankingTemp + "\t");
             }
+            else {
+                System.out.print("N/A" + "\t");
+            }
             
             
-            // Note
+            // Note + symbol
             if (sub.indexOf("Note") != -1 && sub.indexOf("Note") < sub.indexOf("Basic")) {
                 int noteStartIndex = s.indexOf("Note", start) + 6;
                 int noteEndIndex = s.indexOf("Basic", start);
-                System.out.print(s.substring(noteStartIndex, noteEndIndex) + "\t");
+                System.out.print(symbol + s.substring(noteStartIndex, noteEndIndex) + "\t");
             }
             else {
-                System.out.print("" + "\t");
+                System.out.print(symbol + "\t");
             }
                 
             
-            // numAlert
-            if (numAlert) {
-                System.out.print("11");
+            // Alert
+            String alert = "";
+            if (nameNumAlert) {
+                alert = alert + "nameNumAlert";
             }
-            else {
-                System.out.print("" + "\t");
-            }
+            System.out.print(alert + "\t");
+            
             
             // Start next
             start = s.indexOf("—", end);
@@ -648,7 +630,7 @@ public class Cable{
         + "Tier 1 Subscribers\tTier 2 Subscribers\tTier 3 Subscribers\tTier 4 Subscribers\tTier 5 Subscribers\t"
         + "Tier 6 Subscribers\tTier 7 Subscribers\tTier 8 Subscribers\t"
         + "HBO\tMTV\tHomes passed\tHomes in franchised area\tChannels capicity\tChannels available but not in use\t"
-        + "TV Market Ranking\tNote\tnumAlert");
+        + "TV Market Ranking\tNote\tAlert");
         System.out.println();
         FileResource fr = new FileResource();
         String s = fr.asString();
