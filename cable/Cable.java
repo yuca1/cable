@@ -72,16 +72,22 @@ public class Cable{
                 // }
                 
                 String seeTemp = s.substring(start + 1, end - 1);
-                if (numAlert) {
-                    seeTemp = seeTemp + "\t!";
-                }
                 
                 if (seeTemp.indexOf("\n") != -1) {
-                    System.out.print(seeTemp.substring(seeTemp.indexOf("\n") + 1, seeTemp.length()));
+                    seeTemp =  seeTemp.substring(0, seeTemp.indexOf("\n")) + 
+                    seeTemp.substring(seeTemp.indexOf("\n") + 1, seeTemp.length());
                 }
-                else {
-                    System.out.print(seeTemp);
+                
+                if (seeTemp.indexOf("See", 5) != -1) {
+                    numAlert = true;
                 }
+                
+                if (numAlert) {
+                    seeTemp = seeTemp + "\t1";
+                }
+                
+                System.out.print(seeTemp);
+                
                 start = s.indexOf("—", start + 1);
                 System.out.println();
                 continue;
@@ -160,10 +166,10 @@ public class Cable{
                 String dateTemp;
 
                 if (s.charAt(commaIndex) == '1') {
-                    dateTemp = s.substring(dateStartIndex, commaIndex) + " " + s.substring(commaIndex, dateEndIndex) + "\t";
+                    dateTemp = s.substring(dateStartIndex, commaIndex) + " " + s.substring(commaIndex, dateEndIndex);
                 }
                 else {
-                    dateTemp = s.substring(dateStartIndex, dateEndIndex) + "\t";
+                    dateTemp = s.substring(dateStartIndex, dateEndIndex);
                 }
                 
                 if (dateTemp.indexOf("\n") != -1) {
@@ -171,8 +177,11 @@ public class Cable{
                     dateTemp.substring(dateTemp.indexOf("\n") + 1, dateTemp.length());
                 }
                 
+                if (dateTemp.indexOf("Channel") != -1) {
+                    dateTemp = dateTemp.substring(0, dateTemp.indexOf("Chan") - 1);
+                }
                 
-                System.out.print(dateTemp);
+                System.out.print(dateTemp + "\t");
             }
             else {
                 System.out.print("N/A" + "\t");
@@ -296,9 +305,18 @@ public class Cable{
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
                 
+                if (tierStartIndex > end) {
+                    tierTemp = "N/A";
+                }
+                
                 if (tierTemp.indexOf("N.A") != -1) {
                     tierTemp = "N";
                 }
+                
+                if (tierTemp.indexOf("Began") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
+                }
+                    
                 
                 if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
                     int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
@@ -334,10 +352,6 @@ public class Cable{
                     s.substring(tierEndIndex + 1, newTierEndIndex);
                 }
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N.A";
-                }
-                
                 System.out.print(tierTemp + "\t");
                 
             }
@@ -360,10 +374,6 @@ public class Cable{
                     int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
                     tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
                     s.substring(tierEndIndex + 1, newTierEndIndex);
-                }
-                
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N.A";
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -390,10 +400,6 @@ public class Cable{
                     s.substring(tierEndIndex + 1, newTierEndIndex);
                 }
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
-                }
-                
                 System.out.print(tierTemp + "\t");
                 
             }
@@ -416,10 +422,6 @@ public class Cable{
                     int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
                     tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
                     s.substring(tierEndIndex + 1, newTierEndIndex);
-                }
-                
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N.A";
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -446,10 +448,6 @@ public class Cable{
                     s.substring(tierEndIndex + 1, newTierEndIndex);
                 }
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N.A";
-                }
-                
                 System.out.print(tierTemp + "\t");
                 
             }
@@ -474,10 +472,6 @@ public class Cable{
                     s.substring(tierEndIndex + 1, newTierEndIndex);
                 }
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N.A";
-                }
-                
                 System.out.print(tierTemp + "\t");
                 
             }
@@ -500,10 +494,6 @@ public class Cable{
                     int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
                     tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
                     s.substring(tierEndIndex + 1, newTierEndIndex);
-                }
-                
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -606,6 +596,25 @@ public class Cable{
             }
             
             
+            // Ranking
+            if (sub.indexOf("Ranking") != -1) {
+                int rankingStartIndex = s.indexOf("Ranking", start) + 9;
+                int rankingEndIndex = s.indexOf(".", rankingStartIndex);
+                String rankingTemp = s.substring(rankingStartIndex, rankingEndIndex);
+                
+                if (rankingTemp.indexOf("Original") != -1) {
+                    rankingTemp = rankingTemp.substring(0, rankingTemp.indexOf("Original") - 2);
+                }
+                
+                if (rankingTemp.indexOf("\n") != -1) {
+                    rankingTemp = rankingTemp.substring(0, rankingTemp.indexOf("\n")) +
+                                  rankingTemp.substring(rankingTemp.indexOf("\n") + 1, rankingTemp.length());
+                }
+                
+                System.out.print(rankingTemp + "\t");
+            }
+            
+            
             // Note
             if (sub.indexOf("Note") != -1 && sub.indexOf("Note") < sub.indexOf("Basic")) {
                 int noteStartIndex = s.indexOf("Note", start) + 6;
@@ -625,7 +634,6 @@ public class Cable{
                 System.out.print("" + "\t");
             }
             
-            
             // Start next
             start = s.indexOf("—", end);
             System.out.println();
@@ -640,7 +648,7 @@ public class Cable{
         + "Tier 1 Subscribers\tTier 2 Subscribers\tTier 3 Subscribers\tTier 4 Subscribers\tTier 5 Subscribers\t"
         + "Tier 6 Subscribers\tTier 7 Subscribers\tTier 8 Subscribers\t"
         + "HBO\tMTV\tHomes passed\tHomes in franchised area\tChannels capicity\tChannels available but not in use\t"
-        + "Note\tnumAlert");
+        + "TV Market Ranking\tNote\tnumAlert");
         System.out.println();
         FileResource fr = new FileResource();
         String s = fr.asString();
