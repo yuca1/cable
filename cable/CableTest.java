@@ -641,8 +641,5 @@ public class CableTest{
         FileResource fr = new FileResource();
         String s = fr.asString();
         parser(s);
-        //for (String word: fr.words()) {
-            //System.out.println(word);
-        //}
     }
 }

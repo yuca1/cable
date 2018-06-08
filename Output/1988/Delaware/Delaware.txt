@@ -1,12 +1,12 @@
-﻿ARDEN-See WILMINGTON, DE.
+ARDEN—See WILMINGTON, DE.
 ARDENCROFT—Sea WILMINGTON, DE.
-ARDENTOWN-See WILMINGTON, DE.
+ARDENTOWN—See WILMINGTON, DE.
 BELLEFONTE—See WILMINGTON, DE.
-BETHANY BEACH-See MILLSBORO, DE.
+BETHANY BEACH—See MILLSBORO, DE.
 BLADES—See SEAFORD, DE.
-BOWERS BEACH-See HARRINGTON, DE.
-BRIDGEVILLE-See HARRINGTON, DE.
-CAMDEN-See DOVER, DE.
+BOWERS BEACH—See HARRINGTON, DE.
+BRIDGEVILLE—See HARRINGTON, DE.
+CAMDEN—See DOVER, DE.
 CANTERBURY—See HARRINGTON, DE.
 CLARKSVILLE—See MILLSBORO, DE.
 CLAYTON—See DOVER, DE.
@@ -29,13 +29,13 @@ Manager: Richard Clark. Chief technician: A. J. Aydelette.
 City fee: 3% of gross.
 Ownership: Storer Cable Communications (see Cable Group Ownership), 100%.
 DOVER AFB—See DOVER, DE.
-ELLENDALE-See HARRINGTON, DE.
-ELSMERE-See WILMINGTON, DE.
+ELLENDALE—See HARRINGTON, DE.
+ELSMERE—See WILMINGTON, DE.
 FARMINGTON—See HARRINGTON, DE.
 FELTON—See HARRINGTON, DE.
 FENWICK ISLAND—See OCEAN CITY, MD.
-FRANKFORD-See MILLSBORO, DE.
-FREDERICA-See HARRINGTON, DE.
+FRANKFORD—See MILLSBORO, DE.
+FREDERICA—See HARRINGTON, DE.
 GEORGETOWN—General Television of Delaware Inc., 426A N. Dupont Hwy., Georgetown, DE 19947. Phone: 302-856-4591. County: Sussex. Also serves Sussex County. Population: 1,844.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: February 14,1966.
 Channel capacity: 35. Channels available but not in use: N.A.
@@ -89,12 +89,12 @@ Miles of plant: 144.0 (coaxial). Homes passed: 10,592. Total homes in franchised
 Manager: Chris Fenger. Chief technician: Ron Carroll.
 City fee: 0.2% of gross.
 Ownership: Simmons Communications Inc. (see Cable Group Ownership), 100%.
-HOCKESSIN-See WILMINGTON, DE.
+HOCKESSIN—See WILMINGTON, DE.
 HOUSTON—See HARRINGTON, DE.
 KENT COUNTY—See DOVER, DE.
-KENT COUNTY (unincorporated areas)— See also MILFORD, DE.
+KENT COUNTY (unincorporated areas)—See also MILFORD, DE.
 LAUREL—See SEAFORD, DE.
-LEWES-See REHOBOTH BEACH, DE.
+LEWES—See REHOBOTH BEACH, DE.
 LINCOLN—See HARRINGTON, DE.
 MAGNOLIA—See HARRINGTON, DE.
 MIDDLETOWN—Del Mar Cablevislon, 15 N. Broad St., Middletown, DE 19709. Phone: 302-378-4423. Counties: New Castle, DE; Cecil, MD. Also serves Delaware City, Odessa, St. Georges, Townsend, DE; Perry Point, Perryville, Port Deposit, MD. Population: N.A. (area served).
@@ -254,7 +254,7 @@ SUSSEX COUNTY—See also OCEAN CITY, MD.
 SUSSEX COUNTY—See also REHOBOTH BEACH, DE.
 SUSSEX COUNTY—See also SALISBURY, MD.
 SUSSEX COUNTY—See also SEAFORD, DE.
-TOWNSEND-See MIDDLETOWN, DE.
+TOWNSEND—See MIDDLETOWN, DE.
 VIOLA—See HARRINGTON, DE.
 WILMINGTON—Heritage Cablevislon, 2215 N. DuPont Hwy„ New Castle, DE
 19720. Phone: 302-652-1454. County: New Castle. Also serves Arden, Arden-croft, Ardentown, Bellefonte, Elsmere, Hockessin, Newark, New Castle, New Castle County, Newport. Population: 400,000.
