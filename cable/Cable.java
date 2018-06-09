@@ -493,7 +493,7 @@ public class Cable{
             
             //Home passed
             if (sub.indexOf("passed") != -1) {
-                int homeStartIndex = s.indexOf("passed", s.indexOf("Basic", start)) + 8;
+                int homeStartIndex = s.indexOf("passed", s.lastIndexOf("Basic", end)) + 8;
                 int homeEndIndex = s.indexOf(".", homeStartIndex);
                 String passedTemp = s.substring(homeStartIndex, homeEndIndex);
                 
@@ -567,8 +567,13 @@ public class Cable{
             if (sub.indexOf("n use") != -1) {
                 int notStartIndex = s.indexOf("n use", start) + 7;
                 int notEndIndex = s.indexOf(".", notStartIndex);
+                String notTemp = s.substring(notStartIndex, notEndIndex);
                 
-                System.out.print(s.substring(notStartIndex, notEndIndex) + "\t");
+                if (notTemp.indexOf("Basic") != -1) {
+                    notTemp = notTemp.substring(0, notTemp.indexOf("Basic") - 2);
+                }
+                
+                System.out.print(notTemp + "\t");
             }
             else {
                 System.out.print("N/A" + "\t");
@@ -579,6 +584,10 @@ public class Cable{
             if (sub.indexOf("Ranking") != -1) {
                 int rankingStartIndex = s.indexOf("Ranking", start) + 9;
                 int rankingEndIndex = s.indexOf(".", rankingStartIndex);
+                
+                while (s.substring(rankingEndIndex - 2, rankingEndIndex).equals("wp")) {
+                    rankingEndIndex = s.indexOf(".", rankingEndIndex + 2);
+                }
                 String rankingTemp = s.substring(rankingStartIndex, rankingEndIndex);
                 
                 if (rankingTemp.indexOf("Original") != -1) {
@@ -600,7 +609,7 @@ public class Cable{
             // Note + symbol
             if (sub.indexOf("Note") != -1 && sub.indexOf("Note") < sub.indexOf("Basic")) {
                 int noteStartIndex = s.indexOf("Note", start) + 6;
-                int noteEndIndex = s.indexOf("Basic", start);
+                int noteEndIndex = s.indexOf("Basic", noteStartIndex + 5);
                 System.out.print(symbol + s.substring(noteStartIndex, noteEndIndex) + "\t");
             }
             else {
