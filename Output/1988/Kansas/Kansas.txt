@@ -1,4 +1,4 @@
-ABILENE—Cablecom of Abilene, Box 666, 203 N.W. 3rd, Abilene, KS 67410. Phone: 913-263-2529. County: Dickinson. Also serves Dickinson County. Population: 9 395
+ABILENE—Cablecom of Abilene, Box 666, 203 N.W. 3rd, Abilene, KS 67410. Phone: 913-263-2529. County: Dickinson. Also serves Dickinson County. Population: 9,395.
 TV Market Ranking: Below 100. Original franchise award date: September 2, 1962. Franchise expiration date: May 12, 2000. Began: September 1,1962. Channel capacity: 35. Channels available but not In use: 22,
 Basic Service
 Subscribers: 2,545 (01/31/86). Programming (received off air): KWCH-TV (C), Hutchlnson-Wlchlta; KSNT (N), KTWU (P), WIBW-TV (C), Topeka; KAKE-TV (A), KSNW (N) Wichita; 8 FMs. Programming (via microwave): KCTV (C), KMBC-TV (A), KSHB-TV (1), WDAF-TV (N) Kansas City.
@@ -66,7 +66,7 @@ Homes passed: 420. Total homes in franchised area: 420.
 Manager: Maiy Reed. Chief technician: Edward Mattox.
 Ownership: Municipally-owned & operated.
 Note: Current information not available.
-ALTOONA—C4 Media Mid-America Ltd. Partnership, Box 506, 104 N. Main St., Eureka, KS 67045. Phone: 316-583-5685. County: Wilson. Population: 564. TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,1985;
+ALTOONA—C4 Media Mid-America Ltd. Partnership, Box 506, 104 N. Main St., Eureka, KS 67045. Phone: 316-583-5685. County: Wilson. Population: 564. TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,1985.
 Channel capacity: N.A. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 133 (01/01/85). Programming (received off air): KODE-TV (A), KSNF (N), Joplin; KOAM-TV (C), Plttsburg-Joplln; KTWU (P) Topeka. Programming (via satellite): WTBS (I) Atlanta.
@@ -88,7 +88,7 @@ Ownership: Hurst Communications (see Cable Group Ownership), 100%. Purchased fro
 ANDALE—Universal Cable Communications, Box 487, Crested Butte, CO 81224. Phone: 913-524-4411. County: Sedgwick. Population: 538.
 TV Market Ranking: 67. Original franchise award date: April 1, 1982. Franchise expiration date: November 22, 1997. Began: N.A.
 Channel capacity: 36. Channels available but not In use: 23.
-Basle Service Subscribers: 81 (09/30/87). Programming (received off air): KPTS (P), KWCH-TV (C), Hutchinson-Wichita; KAKE-TV (A), KSNW (N) Wichita. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; ESPN; Nashville Network; USA Network. Fee: $11.00 monthly; $2.00 monthly (each additional set).
+Basic Service Subscribers: 81 (09/30/87). Programming (received off air): KPTS (P), KWCH-TV (C), Hutchinson-Wichita; KAKE-TV (A), KSNW (N) Wichita. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; ESPN; Nashville Network; USA Network. Fee: $11.00 monthly; $2.00 monthly (each additional set).
 Tier 1.
 Subscribers: 75 (09/30/87). Began: N.A. Programming (via satellite): Disney Channel; HBO; Showtime.
 Fee: $39.00 monthly.
@@ -468,7 +468,7 @@ Miles of plant: 5.0 (coaxial). Homes passed: 250. Total homes In franchised area
 Manager: Harold Daniels.
 City fee: 1% of gross.
 Ownership: Empire Communications Inc. (see Cable Group Ownership), 100%. Note: Current Information not available.
-‘Bentley—Brentwood Cablevlsion of Wichita, 300 W. Douglas, Wichita, KS 67202. Phone: 316-226-9500. County: Sedgwick. Population: 311. TV Market Ranking: 67. Original franchise award date: December 1,1986. Franchise expiration date: N.A. Basic ServicePlanned programming (received off air): KWCH-TV (C) Hutchlnson-WIchita; KAKE-TV (A), KSNW (N) Wichita. Fee: $12.95 monthly. Tier 1—Planned programming (via satellite): Disney Channel; HBO; Snowtime. Fee: $10.00 monthly (HBO). Ownership: Perry, Brent, 100%.
+‘Bentley—Brentwood Cablevlsion of Wichita, 300 W. Douglas, Wichita, KS 67202. Phone: 316-226-9500. County: Sedgwick. Population: 311. TV Market Ranking: 67. Original franchise award date: December 1,1986. Franchise expiration date: N.A. Basic ServicePlanned programming (received off air): KWCH-TV (C) Hutchlnson-WIchita; KAKE-TV (A), KSNW (N) Wichita. Fee: $12.95 monthly. Tier 1 Planned programming (via satellite): Disney Channel; HBO; Snowtime. Fee: $10.00 monthly (HBO). Ownership: Perry, Brent, 100%.
 BENTON—Douglas Cable Communications, 4100 SW Southgate Dr., Topeka, KS 66609. Phone: 913-266-7701. County: Butler. Population: 609.
 TV Market Ranking: 67. Original franchise award date: N.A. Franchise expiration date: August 1, 2001. Began: N.A. Channel capacity: 16. Channels available but not In use: N.A.
 Basic Service
@@ -783,8 +783,7 @@ Fee: $9.25 monthly.
 Miles of plant: 26.0 (coaxial).
 Manager: Holland Ellis.
 Ownership: Ellis Engineering & Construction Co. (see Cable Group Ownership), 100%.
-CHEROKEE COUNTY (Lowell-Riverton
-area)—Ellis Engineering & Construction Co., Box 205, Rte. 3, Galena, KS 66739. Phone: 316-848-3494. County: Cherokee. Population: N.A. (area served).
+CHEROKEE COUNTY (Lowell-Riverton area)—Ellis Engineering & Construction Co., Box 205, Rte. 3, Galena, KS 66739. Phone: 316-848-3494. County: Cherokee. Population: N.A. (area served).
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: March 1, 2002. Began: November 1,1983.
 Channel capacity: 14. Channels available but not in use: 3.
 Basic Service
@@ -830,8 +829,7 @@ Miles of plant: 11.1 (coaxial). Homes passed: 668.
 Manager: Sherrill Schroeder. Chief technician: Butch Ralls.
 City fee: 3% of gross.
 Ownership: Communications Services Inc. (see Cable Group Ownership), 100%.
-CIMARRON—United Communications Assn. Inc., Box 117,1107 McArtor Rd,, Dodge City, KS 67801. Phone: 316-227-8645. County: Gray. Population: 1,491. TV Market Ranking: Befow 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November
-1,1981.
+CIMARRON—United Communications Assn. Inc., Box 117,1107 McArtor Rd,, Dodge City, KS 67801. Phone: 316-227-8645. County: Gray. Population: 1,491. TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 1,1981.
 Channel capacity: 12. Channels available but not in use: 2.
 Basic Service
 Subscribers: 463 (01/01/88). Programming (received off air): KTVC (C), Ensign; KSNG (N), KUPK-TV (A) Garden City; allband FM.
@@ -911,7 +909,7 @@ Ownership: Empire Communications Inc. (see Cable Group Ownership),1100%. Note: C
 CLOUD COUNTY (portlons)—See CONCORDIA, KS.
 CLYDE—See CLIFTON, KS.
 COFFEYVILLE—Coffeyvllle Cable TV Inc., Box 189, 216 W. 8th, Coffeyvllle, KS 67337. Phone: 316-251-4010. Counties: Montgomery, KS; Nowata, OK. Also serves South Coffeyvllle, OK. Population: 16,058.
-TV Market Ranking: Below 100. Original franchise award date: January J, 1967. Franchise expiration date: December 10, 1990. Began: November 1,1968. Channel capacity: 36. Channels available but not in use: 13,	■■■,
+TV Market Ranking: Below 100. Original franchise award date: January J, 1967. Franchise expiration date: December 10, 1990. Began: November 1,1968. Channel capacity: 36. Channels available but not in use: 13.
 Basic Service
 Subscribers: 4,953 (01/01/87). Programming (received off air): KODE-TV (A), KSNF (N), Joplin; KOAM-TV (C), Plttsburg-Joplln; KJRH (N), KOED-TV (P), KOKI-TV (I), KOTV (C), KTUL-TV (A) Tulsa; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Black Entertainment TV; CBN Cable Network; CNN; Cable Value Network; ESPN; MTV; Nashville Network; Nickelodeon; The Weather Channel; USA Network,
@@ -1007,12 +1005,12 @@ Tier 1
 Subscribers: 100 (09/30/87). Began: N.A.
 Programming (via satellite): Clnemax; HBO.
 Fee: $30.00 monthly (both).
-Miles of plant: 8.1 (coaxial). Homes passed: 260,
+Miles of plant: 8.1 (coaxial). Homes passed: 260.
 Manager: Jack Mels. Chief technician: Brad Miller.	>-
 City fee: 3% of gross.
 Ownership: Universal Cable Communications Inc. (see Cable Group Ownership), 100%. Purchased from Mid-Continent Cable Corp., July 1987.
 CONCORDIA—Cablecom of Concoiiila. Box 638, 407 W. 6th, Concordia, KS 66901. Phone: 913-243-1776. County: Cloud. Also serves Cloud County (portions). Population: 6,847.
-TV Market Ranking: Outside TV markets. Original franchise award date: N .A. Franchise expiration , date: March 9, 1993. Began: January 1,1959, I. Channel capacity: 35. Channels available but not in use: 2.	Y	4
+TV Market Ranking: Outside TV markets. Original franchise award date: N .A. Franchise expiration , date: March 9, 1993. Began: January 1,1959. I. Channel capacity: 35. Channels available but not in use: 2.	Y	4
 Basic Service	a
 Subscribers: 2,336 (01/01/88). Programming (received off air): KHNE-TV (P), Hastings; KOLN (C), Lincoln; KSNB-TV (A), Superior; WIBW-TV (C) Topeka; 7 FMs.	■	:	n#
 Programming (via microwave): KMBC-TV (A), KSHB-TV (I), WDAF-TV (N), Kansas City; KSNT (N) Topeka. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; C-SPAN; CBN Cable Network; CNN; Discovery , Channel; ESPN; Financial News Network; Nashville Network; Nickelodeon; PTL; ' The Weather Channel; USA Network.'!'. Programming (via translator): KOOD (P) Hays.	;	;	•	■
@@ -1050,7 +1048,7 @@ Subscribers: 86 (08/26/87). Began: N.A. Programming (via satellite): Showtime. F
 Equipment: Scientlflc-Atlanta satellite antenna; Scientlflc-Atlanta satellite receivers.
 Manager: Jerrold Hoffman.
 Ownership: Wheat State Telecable Inc. (see Cable Group Ownership), 100%.
-COPELAND—United Communications Assn. Inc., Box 117.1107 McArtor Rd., Dodge City, KS 67801. Phone: 316-227-8645. County: Gray. Population: 320,
+COPELAND—United Communications Assn. Inc., Box 117.1107 McArtor Rd., Dodge City, KS 67801. Phone: 316-227-8645. County: Gray. Population: 320.
 TV Market Ranking: Below 100. Original franchise award date: August 1, 1983. Franchise expiration date: August 1, 1991. Began: March 15,1984.
 Channel capacity: 12. Channels available but not in use: 2.
 Basic Service,
@@ -1106,10 +1104,10 @@ Manager: Cherly McMullen.
 Ownership: Municipally-owned & operated.''............
 Note; Current.Information not available.
 Crawford County—See FRONTENAC, KS.
-CUNNINGHAM—H & B Communications, Box 108, Holyrood, KS 67450. Phone: 913-252-3251. County: Kingman. Population:^,7	1 '
-TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: 12, Channels available but riot, in use:
+CUNNINGHAM—H & B Communications, Box 108, Holyrood, KS 67450. Phone: 913-252-3251. County: Kingman. Population: 540.
+TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service . .
-Subscribers: 13.1 (10/22/87), Programming (received off air): KPTS (P), KWCH-TV (C), Hutchlnson-WIchlta; KAKE-TV (A), KSAS-TV (I), KSNW (N) Wichita.7’-7 ■
+Subscribers: 131 (10/22/87), Programming (received off air): KPTS (P), KWCH-TV (C), Hutchlnson-WIchlta; KAKE-TV (A), KSAS-TV (I), KSNW (N) Wichita.7’-7 ■
 Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; ESPN; Nashville Network.
 Fee: $15.00 Installation; $10.00 monthly.'
 Tierl
@@ -1146,8 +1144,8 @@ Ownership: Empire Communications Inc. (see Cable Group Ownership), 100%. Note: C
 DERBY (Long Branch Trailer Park)—Douglas Cable Communications, 4100 SW Southgate Dr., Topeka, KS 66609. Phone: 913-266-7701. County: Sedgwick. Population: N.A. (area served).
 TV Market Ranking: 67. Original franchise award date: N.A. Franchise expiration date: April 1, 2001. Began: N.A. Channel capacity: 36. Channels available but not In use: N.A.
 Basic Service
-. Subscribers: 46 (01/01/88).
-, Programming (received off air); KPTS (P), KWCH-TV (C), Hutchlnson-WIchlta; KAKE-TV (A), KSAS-TV (I), KSNW (N) Wichita.
+Subscribers: 46 (01/01/88).
+Programming (received off air); KPTS (P), KWCH-TV (C), Hutchlnson-WIchlta; KAKE-TV (A), KSAS-TV (I), KSNW (N) Wichita.
 Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; Discovery Channel; ESPN; Nashville Network.
 Fee: $12.48 monthly.
 Tier 1
@@ -1157,7 +1155,7 @@ Miles of plant: 0.6 (coaxial). Homes passed: 110.
 Franchise fee: 3% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%.
 DERBY—Crest Communications Inc., 133 E. Kay St., Derby, KS 67037. Phone: 316-
-788-3727. Counties: Sedgwick & Sumner. Also serves Haysville, Muivane, Sedgwick County (portions). Population:
+788-3727. Counties: Sedgwick & Sumner. Also serves Haysville, Muivane, Sedgwick County (portions). Population: 22,046.
 TV Market Ranking: 67. Original franchise award date: N.A. Franchise expiration date: March 4,1990. Began: January 1,
 1979.
 Channel capacity: 30. Channels available but not in use: N.A.
@@ -1193,7 +1191,7 @@ Manager: Willard L. Wise.
 City fee: 2% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%. Purchased from Willard L. Wise, Aug. 1987.
 DICKINSON COUNTY—See ABILENE, KS.
-DICKINSON COUNTY—See also HERING-TON, KS.
+DICKINSON COUNTY—See also HERINGTON, KS.
 DIGHTON—Dighton Cable TV Co., Box 593, 1008 E. 17th St., Havs, KS 67601. Phone: 913-625-8406. County: Lane. Population: 1,600.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: December 1,1976.
 Channel capacity: 21 (2-way capable). Channels available but not in use: 4. Basic Service
@@ -1258,7 +1256,7 @@ Manager: Jerrold Hoffman. Chief technician: Randy Hoffman.
 City fee: 3% of gross.
 Ownership: Wheat State Telecable Inc. (see Cable Group Ownership), 100%. Note: Current Information not available.
 DOWNS—Downs Cable Inc., Box 143, Downs, KS 67437. Phone: 913-454-3773. County: Osborne. Population: 1,350.
-TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: December 15,1975,
+TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: December 15,1975.
 Channel capacity: 12. Channels available but not in use: 3.
 Basic Service
 Subscribers: 424 (11/01/85). Programming (received off air): KGIN (C), Grand Island; KSNC (N), Great Bend; KHAS-TV (N), Hastings; KAYS-TV (C), Hays; KPTS (P), KWCH-TV (C),
@@ -1284,7 +1282,7 @@ Note: Current information not available.
 EAST TOPEKA—Douglas Cable Communications, 4100 SW Southgate Dr., Topeka, KS 66609. Phone: 913-266-7701. County: Shawnee. Population: N.A. (area served).
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: March 1,1997. Began: N.A.
 Channel capacity: 36. Channels available but not in use: N.A.
-Basle Service
+Basic Service
 Subscribers: 1,320 (01/01/88). Programming (received off air): KCTV (C), KSHB-TV (I), WDAF-TV (N), Kansas City; KSNT (N), KTKA-TV (A), KTWU (P), WIBW-TV (C) Topeka. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; C-SPAN; CBN Cable Network; CNN; ESPN; MTV; Nashville Network; USA Network.
 Fee: $14.95 monthly.
 Tier 1
@@ -1343,7 +1341,7 @@ Ownership: Edwardsville TV Systems Inc., 100%;
 Represented (legal): Eugene Feldh.
 EDWARDSVILLE—See also KANSAS CITY, KS.
 EFFINGHAM—Douglas Cable Communications, 4100 SW Southgate Dr., Topeka, KS 66609. Phone: 913-266-7701. County: Atchison. Population: 634.
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: March 1,1999. Began: Mayl, 1983.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: March 1,1999. Began: May 1, 1983.
 Channel capacity: 21. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 106 (01/01/88). Programming (received off air): KCTV (C), KMBC-TV (A), KSHB-TV (I), WDAF-TV (N), Kansas City; KSNT (N), KTWU (P), WIBW-TV (C) Topeka.
@@ -1563,7 +1561,7 @@ City fee: 0.5% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%. Purchased from Mid-Continent Cable Corp., July 1987.
 FORD COUNTY—See DODGE CITY, KS.
 FORT LEAVENWORTH—See KANSAS CITY, MO.
-FORT LEAVENWORTH—See also PARK-VILLE, MO.
+FORT LEAVENWORTH—See also PARKVILLE, MO.
 FORT RILEY—Cencom Cable Television, Box 2328, Anzio Rd. Bldg. 2101, Fort Riley, KS 66442. Phone: 913-784-2020. County: Geary. Population: N.A. (area served).
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1980.
 Channel capacity: 36. Channels available but not in use: None.
@@ -1810,7 +1808,7 @@ Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note: Cur
 GOODLAND—Goodland Cable TV Co., Broadcast Plaza, Goodland, KS 67735. Phone: 913-899-3371. County: Sherman. Population: 5,705.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: October 5,1985. Began: November 1,1966.
 Channel capacity: 35. Channels available but not In use: N.A.
-Basle Service
+Basic Service
 Subscribers: 1,879 (03/01/86). Programming (received off air): KLOE-TV (C), Goodland; KSNK (N) McCook. Programming (via microwave): KWNB-TV (A), Hayes Center; KPNE-TV (P) North Platte.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN.
 Programming (via translator): KUSA-TV (A) Denver.	r
@@ -2080,7 +2078,7 @@ Miles of plant: 22.0 (coaxial). Homes passed: 1,582. Total homes In franchised a
 Manager: Raymond Pautz. Chief technician: Brian McQueen.
 City fee: 2% of basic gross.
 Ownership: Falcon Cable TV (see Cable Group Ownership), 100%.
-HIGHLAND—Western Satellite Inc., 133 E. Kay St., Derby, KS 67037. Phone: 316-788-3727. County: Doniphan. Population:
+HIGHLAND—Western Satellite Inc., 133 E. Kay St., Derby, KS 67037. Phone: 316-788-3727. County: Doniphan. Population: 954.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. ■' Channel capacity: 35. Channels available but not in use: 14.
 Basic Service
 Subscribers: 212 (11/01/85). Programming (received off air): KCTV (C), KMBC-TV (A), WDAF-TV (N), Kansas City; KQTV (A) St, Joseph.
@@ -2229,7 +2227,7 @@ Miles of plant: 7.9 (coaxial). Homes passed: 510.
 Manager: Don A. Hall. Chief technician: Michael A. Hall.
 City fee: 3% of basic gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%. Purchased from Don A. & Linda K. Hall, Aug. 1987.
-HOXIE—Cable Systems Of Hoxle Inc., Box 602, 720 20th St„ Hoxle, KS 67740. Phone: 913-675-2310. County: Sheridan. Population: 1,419,
+HOXIE—Cable Systems Of Hoxle Inc., Box 602, 720 20th St„ Hoxle, KS 67740. Phone: 913-675-2310. County: Sheridan. Population: 1,419.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: N.A. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 517 (11/01/85). Programming (received off air): KLOE-TV (C), Goodland; KWNB-TV (A), Hayes Center; KLNE-TV (P), Lexington; KSNK (N) McCook.
@@ -2778,7 +2776,7 @@ City fee: 2% of gross.
 Ownership: Sunflower Cablevision Ltd. (see Cable Group Ownership), 100%.
 LEWIS—Kline's Cable TV, 110 E. 10th St., Kinsley, KS 67547. Phone: 316-859-3527. County: Edwards. Population: 600. TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: March 10,1990. Began: June 1, 1975.
 Channel capacity: 12. Channels available but not In use: 4.
-Basle Service
+Basic Service
 Subscribers: 170 (11/01/85). Programming (received off air): KTVC (C), Ensign; KSNC (N), Great Bend; KAYS-TV (C), Hays; KPTS (P), KWCH-TV (C), Hutchlnson-Wichlta; KAKE-TV (A) Wichita; allband FM.
 Current originations: Time-weather; message, wheel.
 Fee: $15.00 Installation; $7.50 monthly. Miles of plant: 7.0 (coaxial). Homes passed: 225. Total homes in franchised area: 225.
@@ -2856,7 +2854,7 @@ Miles of plant: 4.0 (coaxial). Homes passed: 227.
 Manager: Tim Schwartz.
 Ownership: Comstar Inc. (see Cable Group Ownership), 100%.
 ‘Linwood—K-1 Cable Systems Inc., Box 1820, 3111 10th St., Great Bend, KS 67530. Phone: 316-792-2188. County: Leavenworth. Population: 343. TV Market Ranking: 22. Original franchise award date: October 1,1987. Franchise expiration date: N.A. Scheduled to began: April 1, 1988. Basic ServiceProgramming (via microwave): KABC-TV (A). KCBS-TV C), KCET (P), KCOP (I), KHJ-TV (I), KN&C-TV (N), KTLA (I), KTTV (I) Los Angeles. Manager: Don Veach. Ownership: K-1 Cable Systems Inc. (see Cable Group Ownership), 100%.
-LITTLE RIVER—H & B Communications, Box 108, Holyrood, IA 67450. Phone: 913-252-3251. County: Rice. Population:
+LITTLE RIVER—H & B Communications, Box 108, Holyrood, IA 67450. Phone: 913-252-3251. County: Rice. Population: 529.
 TV Market Ranking: 67. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A.
 Channel capacity: 12. Channels available but not In use: N.A.
 Basic Service
@@ -2914,7 +2912,7 @@ Miles of plant: 12.0 (coaxial). Homes passed: 700.
 Ownership: W. K. Communications Inc. (see Cable Group Ownership), 100%. Purchased from Topeka Cablevision Fund, Oct. 1987.
 Note: Current Information not available.
 Lowell—See GALENA, KS.
-LUCAS-Lucas Cable TV lnc„ Box 548, Wilson, KS 67490. Phone: 913-658-2490. County: Russell. Population: 524. TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: October 1, 1981.
+LUCAS—Lucas Cable TV lnc„ Box 548, Wilson, KS 67490. Phone: 913-658-2490. County: Russell. Population: 524. TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: October 1, 1981.
 Channel capacity: 12. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 130 (12/17/81). -Programming (received off air): KSNC (N), Great Bend; KAYS-TV (C), Hays; KSNB-TV (A) Superior.
@@ -3021,8 +3019,7 @@ Manager: Dan Hebert. Chief technician: Ron Frazier.
 City fee: 2.5% of gross.
 Ownership: Communications Services Inc. (see Cable Group Ownership), 100%.
 MANKATO—Mankato Cable TV Inc., 1809 N St., Belleville, KS 66935. Phone: 913-527-2226. County: Jewell. Population: 1,500.
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November
-1.1978.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 1, 1978.
 Channel capacity: 12 (2-way capable). Channels available but not in use: 4. Basic Service
 Subscribers: 374 (11/01/85). Programming (received, off air): KHAS-TV (N), KHNE-TV (P), Hastings; KOLN (C), Lincoln; KSNB-TV (A) Superior;all-band FM.
 Programming (via microwave): KSHB-TV (I), WDAF-TV (N), Kansas City; WIBW-TV (C) Topeka.
@@ -3033,8 +3030,7 @@ Manager: Robert K. Weary Jr.
 City fee: 2% of gross.
 Ownership: Weary, Robert K. Jr. (see Cable Group Ownership), 100%;
 Note: Current Information not available.
-MARION—Marlon Cable TV, 901 E. Main St., Marlon, KS 66861. Phone: 316-382-3459. County: Marion. Population: 2,437. TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: July
-15.1978.
+MARION—Marlon Cable TV, 901 E. Main St., Marlon, KS 66861. Phone: 316-382-3459. County: Marion. Population: 2,437. TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: July 15, 1978.
 Channel capacity: 13. Channels available but not In use: 3.
 Basic Service
 Subscribers: 412 (01/01/84). Programming (received off air): KPTS (P), KWCH-TV (C), Hutchinson-Wichita; WIBW-TV (C), Topeka; KAKE-TV (A), KSNW (N) Wichita; allband FM. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Nickelodeon. Current originations: Time-weather; bulletin board; message wheel; public access; educational access; government access; emergency alert.
@@ -3064,7 +3060,7 @@ Ownership: H & B Cable Service Inc. (see Cable Group Ownership), 100%.
 MARSHALL COUNTY (portions)—See MARYSVILLE, KS.
 MARYSVILLE—Marysville Cable TV Co., 207 S. 8th St., Marysville, KS 66508. Phone: 913-562-2955. County: Marshall. Also serves Marshall County (portions). Population: N.A. (area served)
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: January 11,1997. Began: November 1, 1965.
-Channel capacity: 54. Channels available but not in use: 21, ■
+Channel capacity: 54. Channels available but not in use: 21.
 Basic Service
 Subscribers: 1,549 (01/09/88). Programming (received off air): KOLN (C), KUON-TV (P), Lincoln; KETV (A), KMTV (C), KPTM (I), WOWT (N), Omaha; KSNB-TV (A), Superior; KSNT (N), KTWU (P), WIBW-TV (C) Topeka; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; American Movie Classics; Arts & Entertainment; C-SPAN; C-SPANII; CBN Cable Network; CNN; Discovery Channel; ESPN; EWTN; Financial News Network; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon; The Weather Channel; USA Network. Planned programming (via microwave): KSHB-TV (I) Kansas City.
@@ -3277,7 +3273,7 @@ City fee: 3% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%.
 MOLINE—See also HOWARD, KS.
 MONTEZUMA—United Communications Assn. Inc., Box 117,1107 McArtor Rd., Dodge City, KS 67801. Phone: 318-227-8645. County: Gray. Population: 730.
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: May 1, 2000. Began: April 1.1986.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: May 1, 2000. Began: April 1, 1986.
 Channel capacihr: 12. Channels available but not in use: 2.
 Basic Service
 Subscribers: 120 (01/01/88). Programming (received off air): KTVC (C), Ensign: KSNG (N), KUPK-TV (A) Garden City.
@@ -3317,7 +3313,7 @@ City fee: None.
 Ownership: Kansas Cablevision Inc. (see Cable Group Ownership), 100%.
 Morris County—See COUNCIL GROVE, KS.
 MOUND CITY—See PLEASANTON, KS.
-MOUNDRlDGE—Mid-Kansas Cable Services Inc., 109 N. Christian Ave., Moun-dridge, KS 67107. Phone: 316-345-2832. County: McPherson. Population: 1,300. TV Market Ranking: 67. Original franchise award date: April 15, 1980. Franchise expiration date: April 15,1995. Began: . April 1,1981.
+MOUNDRlDGE—Mid-Kansas Cable Services Inc., 109 N. Christian Ave., Moun-dridge, KS 67107. Phone: 316-345-2832. County: McPherson. Population: 1,300. TV Market Ranking: 67. Original franchise award date: April 15, 1980. Franchise expiration date: April 15,1995. Began: April 1,1981.
 Channel capacity: 36. Channels available but not In use: 24.
 Basic Service
 Subscribers: 268 (01/01/87). Programming (received off air): KPTS ' (P), KWCH-TV (C), Hutchlnson-Wichlta; KAKE-TV (A), KSNW (N) Wichita. Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; ESPN; Nickelodeon; USA Network.
@@ -3437,9 +3433,9 @@ Subscribers: 193 (07/01/83). Programming (received off air): KWCH-TV (C), Hutchl
 Fee: $14.50 monthly.
 City fee: 3% of gross.
 Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note: Current Information not available.
-NORTH NEWTON-See NEWTON, KS.
+NORTH NEWTON—See NEWTON, KS.
 NORTH TOPEKA—Douglas Cable Communications, 4100 SW Southgate Dr., Topeka, KS 66609. Phone: 913-266-7701. County: Shawnee. Population: N.A. (area served).
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: May 1, 2000. Began: N.A.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: May 1, 2000. 
 Channel capacity: 36. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 2,106 (01/01/88). Programming (received off air): KCTV (C), KSHB-TV (I), WDAF-TV (N), Kansas City; KSNT (N), KTKA-TV (A), KTWU (P), WIBW-TV (C) Topeka. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; C-SPAN; CBN Cable Network; CNN; ESPN; MTV; Nashville Network; USA Network.
@@ -3451,6 +3447,7 @@ Fee; $10.00 monthly (each).
 Miles of plant: 107.4 (coaxial). Homes passed: 3,262.
 City fee: 3% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%.
+
 NORTON—Norton Cable TV Inc., 104 S. State, Norton, KS 67654. Phone: 913-877-2171. County: Norton. Population: 3,484.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: January 6,1997. Began: December 15,1967.
 Channel capacity: 30. Channels available but not In use: 9.
@@ -3559,7 +3556,7 @@ OLATHE—See also INDEPENDENCE, MO.
 OLPE—Douglas Cable Communications, 4100 SW Southgate Dr,, Topeka, KS 66609. Phone: 913-266-7701. County: Lyon. Population: 453.
 TV Market Ranking: Outside TV markets. Original franchise award date: April 1, 1982. Franchise expiration date: October 1,1997. Began: N.A.
 Channel capacity: 35. Channels available but not In use: N.A.
-Basle Service
+Basic Service
 Subscribers: 135 (01/01/88). Programming (received off air): KSNT (N), KTKA-TV (A), KTWU (P), WIBW-TV (C) Topeka.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; Discovery Channel; ESPN; Nashville Network.
 Planned originations: Time-weather; message wheel.
@@ -3749,7 +3746,7 @@ Equipment: Scientific-Atlanta satellite antenna; Scientific-Atlanta satellite re
 City fee: 2% of gross.
 Ownership: Wheat State Telecable Inc, (see Cable Group Ownership), 100%. Note: Current Information not available.
 OZAWKIE—Douglas Cable Communications, 4100 Sw Southgate Dr., Topeka, KS 66609. Phone: 913-266-7701. County: Jefferson. Population: 472.
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: April 1, 2002. Began: Mayl, 1983.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: April 1, 2002. Began: May 1, 1983.
 Channel capacity: 36 (2-way capable). Channels available but not In use: 14. Basic Service
 Subscribers: 146 (01/01/88). Programming (received off air): KCPT (P), KCTV (C), KMBC-TV (A), KSHB-TV (I), KYFC (I), KZKC (I), WDAF-TV (N), Kansas City; KQTV (A), St. Joseph; KSNT (N), KTKA-TV (A), KTWU (P), WIBW-TV (C) Topeka.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; Discovery Channel; ESPN; Nashville Network.
@@ -3857,8 +3854,7 @@ Manager: Lou Ann Benoit, Chief technician: Rlc Baker.
 City fee: 2% of gross.
 Ownership: Universal Cable Communications Inc. (see Cable Group Ownership), 100%.
 PITTSBURG—Pittsburg Cable TV Inc., Box 33, 700 E. Jefferson St., Pittsburg, KS 66762. Phone: 316-231-3360. County: Crawford. Population: 18,770.
-TV Market Ranking: Below 100. Original franchise award date: May 10, 1966. Franchise expiration date: May 10,
-1986.	Began: September 1,1967, Channel capacity: 22. Channels available but not in use: 2.
+TV Market Ranking: Below 100. Original franchise award date: May 10, 1966. Franchise expiration date: May 10, 1986.	Began: September 1,1967. Channel capacity: 22. Channels available but not in use: 2.
 Basic Service
 Subscribers: 4,644; Commercial subscribers: 384 (01/01/87) .
 Programming (received off air): KODE-TV (A), KSNF (N), Joplin; KOAM-TV (C), Pittsburg-Joplin; KOZK (P) Springfield; 12 FMs.
@@ -4082,7 +4078,7 @@ City fee: 3% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%.
 ROZEL—See BURDETT, KS.
 RUSH CENTER—Rush Center Cable TV, Box 122, Rush Center, KS 67575. Phone: 913-372-4204. County: Rush. Population: 207.
-TV Market Ranking: Below 100. Original franchise award date: N.A., Franchise expiration date: N.A. Began: March 1, 1982,
+TV Market Ranking: Below 100. Original franchise award date: N.A., Franchise expiration date: N.A. Began: March 1, 1982.
 Channel capacity: 12. Channels available but not in use: 5.
 Basic Service
 Subscribers: 80 (01/01/88). .... . Programming (received off air): KUPK-TV (A), Garden City; KSNC (N), Great Bend; KAYS-TV (C) Hays.,
@@ -4261,9 +4257,8 @@ City fee: 2% of gross.
 Ownership: Fanch Communications Inc. (see Cable Group Ownership), 100%. Purchased from Cable Systems Inc., Jan. 1988.
 Note: Current information not available.
 SCRANTON—See CARBONDALE, KS.
-SEDAN—Cable TV of Sedan Inc., Box 446, Parsons, KS 67357, Phone: 316-421-1577. County: Chautauqua. Population:
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: August 1,
-1981.
+SEDAN—Cable TV of Sedan Inc., Box 446, Parsons, KS 67357, Phone: 316-421-1577. County: Chautauqua. Population: 1,555.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: August 1, 1981.
 Channel capacity: 35 (plans two-way). Channels available but not In use: N.A. Basic Service
 Subscribers: 493 (01/01/84). Programming (received off air): KOAM-TV (C), Pittsburg-Joplin; KOED-TV (P), KOKI-TV (I), KOTV (C), Tulsa; KAKE-TV (A) Wichita.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; ESPN; Nickelodeon.
@@ -4315,7 +4310,7 @@ Manager: Reavls Gibb. Chief technician: Bill Barton.
 City fee: 2% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%.
 SEWARD COUNTY (portions)—See KISMET, KS.
-SHARON SPRINGS—Cablevislon Ltd., Box 199, Dodge City, KS 67801. Phone: 316-227-4400. County: Wallace. Population: 1;200.
+SHARON SPRINGS—Cablevislon Ltd., Box 199, Dodge City, KS 67801. Phone: 316-227-4400. County: Wallace. Population: 1,200.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: January 1,1987. Began: December 1,1974.
 Channel capacity: 12 (plans two-way). Channels available but not in use: None. Basic Service
 Subscribers: 376 (01/01/87). Programming (received off air): KLBY (A), Colby; KLOE-TV (C), Goodland; KSNK (N) McCook; allband FM. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Nashville Network; USA Network.
@@ -4696,7 +4691,7 @@ Manager: Ray Miller.
 City fee: 3% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%.
 VICTORIA—Universal Cable Communications, Box 487, Crested Butte, CO 81224. Phone: 913-524-4411. County: Ellis. Population: 1,328.
-TV Market Ranking: Below 100. Original franchise award date: April 1, 1982. Franchise expiration date: April 1,1997. Began: Januaiy 1,1982.
+TV Market Ranking: Below 100. Original franchise award date: April 1, 1982. Franchise expiration date: April 1,1997. Began: January 1,1982.
 Channel capacity: 36. Channels available but not in use: 21.
 Basic Service
 Subscribers: 335 (09/30/87). Programming (received off air): KSNC (N), Great Bend; KAYS-TV (C), KOOD . (P), Hays; KAKE-TV (A), KSNW (N) Wichita.
@@ -4768,7 +4763,7 @@ Manager: R. K. Weary.
 City fee: 2% of gross.
 Ownership: Community Antenna Systems Inc. (see Cable Group Ownership), 100%.
 WASHINGTON—Bellevlew Community Antenna, 1809 N St., Belleville, KS 66935. Phone: 913-527-2226. County: Washington. Population: 1,584.
-TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: January 28,1989. Began: December 1,1974,
+TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: January 28,1989. Began: December 1,1974.
 Channel capacity: 12. Channels available but not In use: 3.
 Basic Service
 Subscribers: 547 (11/01/85). Programming (received off air): KHAS-TV (N), KHNE-TV (P), Hastings; KOLN (C), Lincoln; KMTV (C), Omaha; KSNB-TV (A), Superior; KSNT (N), KTWU (P), WIBW-TV (C) Topeka; allband FM. Planned programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago. Current originations: Time-weather.

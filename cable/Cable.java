@@ -182,10 +182,14 @@ public class Cable{
                 }
                 
                 // number fix
-                if (Character.isDigit(s.charAt(subscribersEndIndex + 1))) {
-                    int newSubscribersEndIndex = s.indexOf(".", subscribersEndIndex + 1);
-                    subscribersTemp = s.substring(subscribersStartIndex, subscribersEndIndex) + "," +
-                    s.substring(subscribersEndIndex + 1, newSubscribersEndIndex);
+                // if (Character.isDigit(s.charAt(subscribersEndIndex + 1))) {
+                    // int newSubscribersEndIndex = s.indexOf(".", subscribersEndIndex + 1);
+                    // subscribersTemp = s.substring(subscribersStartIndex, subscribersEndIndex) + "," +
+                    // s.substring(subscribersEndIndex + 1, newSubscribersEndIndex);
+                // }
+                if (subscribersTemp.indexOf(".") != -1 && Character.isDigit(subscribersTemp.charAt(subscribersTemp.indexOf(".") + 1))) {
+                    subscribersTemp = subscribersTemp.substring(0, subscribersTemp.indexOf(".")) + "," + 
+                                      subscribersTemp.substring(subscribersTemp.indexOf(".") + 1, subscribersTemp.length());
                 }
                 
                 System.out.print(subscribersTemp + "\t");
@@ -210,10 +214,9 @@ public class Cable{
                     basicOneTemp = basicOneTemp.substring(0, basicOneTemp.indexOf("Began") - 2);
                 }
                 
-                if (Character.isDigit(s.charAt(basicOneEndIndex + 1))) {
-                    int newBasicOneEndIndex = s.indexOf(".", basicOneEndIndex + 1);
-                    basicOneTemp = s.substring(basicOneStartIndex, basicOneEndIndex) + "," +
-                    s.substring(basicOneEndIndex + 1, newBasicOneEndIndex);
+                if (basicOneTemp.indexOf(".") != -1 && Character.isDigit(basicOneTemp.charAt(basicOneTemp.indexOf(".") + 1))) {
+                    basicOneTemp = basicOneTemp.substring(0, basicOneTemp.indexOf(".")) + "," + 
+                                      basicOneTemp.substring(basicOneTemp.indexOf(".") + 1, basicOneTemp.length());
                 }
                 
                 System.out.print(basicOneTemp + "\t");
@@ -233,10 +236,9 @@ public class Cable{
                     basicTwoTemp = "N";
                 }
                 
-                if (Character.isDigit(s.charAt(basicTwoEndIndex + 1))) {
-                    int newBasicTwoEndIndex = s.indexOf(".", basicTwoEndIndex + 1);
-                    basicTwoTemp = s.substring(basicTwoStartIndex, basicTwoEndIndex) + "," +
-                    s.substring(basicTwoEndIndex + 1, newBasicTwoEndIndex);
+                if (basicTwoTemp.indexOf(".") != -1 && Character.isDigit(basicTwoTemp.charAt(basicTwoTemp.indexOf(".") + 1))) {
+                    basicTwoTemp = basicTwoTemp.substring(0, basicTwoTemp.indexOf(".")) + "," + 
+                                      basicTwoTemp.substring(basicTwoTemp.indexOf(".") + 1, basicTwoTemp.length());
                 }
                 
                 System.out.print(basicTwoTemp + "\t");
@@ -256,10 +258,10 @@ public class Cable{
                     basicThreeTemp = "N";
                 }
                 
-                if (Character.isDigit(s.charAt(basicThreeEndIndex + 1))) {
-                    int newBasicThreeEndIndex = s.indexOf(".", basicThreeEndIndex + 1);
-                    basicThreeTemp = s.substring(basicThreeStartIndex, basicThreeEndIndex) + "," +
-                    s.substring(basicThreeEndIndex + 1, newBasicThreeEndIndex);
+                if (basicThreeTemp.indexOf(".") != -1 && 
+                Character.isDigit(basicThreeTemp.charAt(basicThreeTemp.indexOf(".") + 1))) {
+                    basicThreeTemp = basicThreeTemp.substring(0, basicThreeTemp.indexOf(".")) + "," + 
+                                      basicThreeTemp.substring(basicThreeTemp.indexOf(".") + 1, basicThreeTemp.length());
                 }
                 
                 System.out.print(basicThreeTemp + "\t");
@@ -292,10 +294,9 @@ public class Cable{
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf("Program") - 2);
                 }
                 
-                if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
-                    int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
-                    tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
-                    s.substring(tierEndIndex + 1, newTierEndIndex);
+                if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
+                                      tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
                 }
                 
                 
@@ -317,10 +318,9 @@ public class Cable{
                     tierTemp = "N";
                 }
                 
-                if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
-                    int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
-                    tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
-                    s.substring(tierEndIndex + 1, newTierEndIndex);
+                if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
+                                      tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -341,10 +341,9 @@ public class Cable{
                     tierTemp = "N";
                 }
                 
-                if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
-                    int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
-                    tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
-                    s.substring(tierEndIndex + 1, newTierEndIndex);
+                if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
+                                      tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -365,10 +364,9 @@ public class Cable{
                     tierTemp = "N";
                 }
                 
-                if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
-                    int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
-                    tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
-                    s.substring(tierEndIndex + 1, newTierEndIndex);
+                if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
+                                      tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -389,10 +387,9 @@ public class Cable{
                     tierTemp = "N";
                 }
                 
-                if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
-                    int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
-                    tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
-                    s.substring(tierEndIndex + 1, newTierEndIndex);
+                if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
+                                      tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -413,10 +410,9 @@ public class Cable{
                     tierTemp = "N";
                 }
                 
-                if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
-                    int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
-                    tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
-                    s.substring(tierEndIndex + 1, newTierEndIndex);
+                if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
+                                      tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -437,10 +433,9 @@ public class Cable{
                     tierTemp = "N";
                 }
                 
-                if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
-                    int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
-                    tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
-                    s.substring(tierEndIndex + 1, newTierEndIndex);
+                if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
+                                      tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -461,10 +456,9 @@ public class Cable{
                     tierTemp = "N.A";
                 }
                 
-                if (Character.isDigit(s.charAt(tierEndIndex + 1))) {
-                    int newTierEndIndex = s.indexOf(".", tierEndIndex + 1);
-                    tierTemp = s.substring(tierStartIndex, tierEndIndex) + "," +
-                    s.substring(tierEndIndex + 1, newTierEndIndex);
+                if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
+                                      tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -497,6 +491,12 @@ public class Cable{
                 int homeEndIndex = s.indexOf(".", homeStartIndex);
                 String passedTemp = s.substring(homeStartIndex, homeEndIndex);
                 
+                if (Character.isDigit(s.charAt(homeEndIndex + 1))) {
+                    int newHomeEndIndex = s.indexOf(".", homeEndIndex + 1);
+                    passedTemp = s.substring(homeStartIndex, homeEndIndex) + "," +
+                    s.substring(homeEndIndex + 1, newHomeEndIndex);
+                }
+                
                 if (passedTemp.indexOf("cluded") != -1) {
                     passedTemp = "I" + s.substring(s.indexOf("ncluded", homeStartIndex), homeEndIndex);
                 }
@@ -526,6 +526,12 @@ public class Cable{
                 int areaStartIndex = s.indexOf("ised area", s.indexOf("Basic", start)) + 11;
                 int areaEndIndex = s.indexOf(".", areaStartIndex);
                 String areaTemp = s.substring(areaStartIndex, areaEndIndex);
+                
+                if (Character.isDigit(s.charAt(areaEndIndex + 1))) {
+                    int newAreaEndIndex = s.indexOf(".", areaEndIndex + 1);
+                    areaTemp = s.substring(areaStartIndex, areaEndIndex) + "," +
+                    s.substring(areaEndIndex + 1, newAreaEndIndex);
+                }
                 
                 if (areaTemp.indexOf("cluded") != -1) {
                     areaTemp = "I" + s.substring(s.indexOf("ncluded", areaStartIndex), areaEndIndex);
