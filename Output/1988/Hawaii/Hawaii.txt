@@ -160,7 +160,7 @@ Fee: N.A.
 Ownership: The Seven Twenty Limited Partnership (see Cable Group Ownership), 100%.
 KALAOA—See KAILUA KONA, HI.
 KAMUELA—See KAILUA KONA, HI.
-KAPAA—See KAUAI ISLAND (eastern portion), H|.
+KAPAA—See KAUAI ISLAND (eastern portion), HI.
 KAPAHULU—See HONOLULU, HI.
 KAPALAMA—See HONOLULU, HI.
 KAPALUA—See LAHAINA, HI.
@@ -203,10 +203,10 @@ Ownership: Rlfkin & Assoc, (see Cable Group Ownership), 100%. Purchased from fou
 Kawaikae-Puako-See KAILUA KONA, HI.
 KEALAKEKUA—See KAILUA KONA, HI.
 KEALIA—See KAUAI ISLAND (eastern portion), HI.
-KEAUHOU—See KAILUA KONA, HI. 
+KEAUHOU—See KAILUA KONA, HI.
 KEKAHA—See KALAHEO, HI.
 KIHEI—See MAUI ISLAND, HI.
-Kilanea Military Camp—See PAHALA, HI. 
+Kilanea Military Camp—See PAHALA, HI.
 KILAUEA—See KALAHEO, HI.
 KOHALA—See KAILUA KONA, HI.
 KOLOA—See KALAHEO, HI.
@@ -305,7 +305,7 @@ Miles of plant: 32.0 (coaxial). Additional miles planned: 1.0 (coaxial).
 Manager: Ross Waggoner. Chief technician: Howard Feig.
 State fee: 2% of gross.
 Ownership: Cooke Cablevision (see Cable Group Ownership), 100%.
-PAHOA—See HILO, HI. '
+PAHOA—See HILO, HI.
 PAUOA—See HONOLULU, HI.
 PEARL CITY—See HONOLULU, HI.
 PEARL HARBOR GOVERNMENT RESERVE—See HONOLULU, HI.
@@ -348,7 +348,7 @@ WAILUA—See KAUAI ISLAND (eastern portion), HI.
 WAILUA HOMESTEADS—See KALAHEO, HI.
 WAILUKU—See MAUI ISLAND, HI.
 WAIMANALO—See HONOLULU, HI.
-WAIMEA—See KALAHEO, HI. .
+WAIMEA—See KALAHEO, HI.
 Waiohinu—See PAHALA, HI.
 WAIPAHU—See HONOLULU, HI.
 WAIPIO—See HONOLULU, HI.

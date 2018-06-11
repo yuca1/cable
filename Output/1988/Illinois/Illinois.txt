@@ -104,7 +104,7 @@ Manager: Tom Sluka.
 City fee: 3% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%.
 ALPHA—See WOODHULL, IL.
-ALSIP—See OAK LAWN, IL. ,
+ALSIP—See OAK LAWN, IL.
 ALTAMONT—Warner Cable of Altamont, Box 56, 112 N. 2nd St., Altamont, IL 62411. Phone: 618-483-6333. Counties: Effingham & Fayette. Also serves St. Elmo. Population: 4,000.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: November 1,
 1990.	Began: January 1,1968.
@@ -521,7 +521,7 @@ Miles of plant: 47.0 (coaxial). Homes passed: 5,400. Total homes In franchised a
 Manager: Robert P, Van Der Heyden. Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%.
 BEMENT—See MONTICELLO, IL.
 BENLD—See CARLINVILLE, IL.
-BENSENVILLE—See CHICAGO (suburbs), IL
+BENSENVILLE—See CHICAGO (suburbs), IL.
 BENSON—See ROANOKE, IL.
 BENTON—S.B.C. Cable, Box 149, 111 S. Chestnut St., Du Quoin, IL 62832. Phone: 618-542-8933. County: Franklin. Also serves Buckner, Christopher, West City. Population: 15,000.
 TV Market Ranking: 69. Original franchise award date: January 1, 1970. Franchise expiration date: January 9,1990. Began: December 16, 1974.
@@ -711,7 +711,7 @@ Miles of plant: 4.9 (coaxial). Homes passed: 190.
 Manager: Tom Sluka. Chief technician: Rick Gunn.
 City fee: 3% of gross.
 Ownership: Douglas Cable Communications Inc. (see Cable Group Ownership), 100%.
-BOONE COUNTY—See BELVIDERE, IL. 
+BOONE COUNTY—See BELVIDERE, IL.
 BOULDER HILL—See AURORA, IL.
 BOURBONAiS—See KANKAKEE. IL.
 BOURBONAIS TWP.—See KANKAKEE, IL.
@@ -875,7 +875,7 @@ Equipment: Blonder-Tongue headend; Jerrold amplifiers.
 Manager: Beth Randle: Chief technician: Richard May.
 Ownership: Triax Communications Corp. (see Cable Group Ownership), 100%. Purchased from Three Star Communications, 1987.
 BURNHAM—See OAK PARK, IL.
-BURR RIDGE—See CHICAGO (suburbs), IL
+BURR RIDGE—See CHICAGO (suburbs), IL.
 BUSH—See ROYALTON, IL.
 BUSHNELL—Star Cablevision, 2026 S. Main, Eureka, IL 61530. Phone: 309-467-5107. County: McDonough. Population: 3,703.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: November 6, 1993. Began: September 1,1979. Channel capacity: 21. Channels available but not in use: None.
@@ -1617,7 +1617,7 @@ Manager: David Troxell. Chief technician: Mathew Aldridge.
 City fee: 3% of gross.
 Ownership: Cencom Cable Assoc. Inc. (see Cable Group Ownership), 99.9%; undisclosed ltd. partner, 0.01%.
 Note: Current Information not available.
-COOK COUNTY—See ROLLING MEADOWS, IL. 
+COOK COUNTY—See ROLLING MEADOWS, IL.
 COOK COUNTY—See also ROMEOVILLE, IL.
 COOK COUNTY (unincorporated areas)— See CHICAGO (suburbs), IL.
 COOK COUNTY (unincorporated areas)— See also ORLAND PARK, IL.
@@ -2021,7 +2021,7 @@ EAGLE TWP.—See STREATOR, IL.
 EAST ALTON—See ALTON, IL.
 EAST DUBUQUE—See DUBUQUE, IL.
 EAST DUNDEE—See CARPENTERSVILLE, IL.
-EAST GALESBURG—See GALESBURG, IL
+EAST GALESBURG—See GALESBURG, IL.
 EAST HAZEL CREST—See OAK PARK, IL.
 EAST MOLINE—See MOLINE, IL.
 EAST PEORIA—See PEORIA, IL.
@@ -2164,7 +2164,7 @@ Miles of plant: 25.0 (coaxial).
 Manager: Randy Hughes. Chief technician: Dick Rohm.
 City fee: 3% of basic gross.
 Ownership: Star Cablevlslon Group (see Cable Group Ownership), 100%. Purchased from Combined Cable Corp., Jan. 1988.
-ELMWOOD PARK—See CHICAGO (suburbs), IL.	,
+ELMWOOD PARK—See CHICAGO (suburbs), IL.
 EMDEN—See DELAVAN, IL.
 ENERGY—See HERRIN, IL.
 ENFIELD—Star Cablevision Group, Box 1167, 254 Winnebago Dr., Fond du Lac, Wl 54935. Phone: 414-923-6335. County: White. Population: 890.
@@ -2255,7 +2255,7 @@ Miles of plant: 30.0 (coaxial). Home passed: 2,200. Total homes in fran chised a
 Manager: David Clagg.
 City fee: 5% of gross.
 Ownership: Enstar Communications Corp j (see Cable Group Ownership), 100%. ’
-FAIRMONT CITY—See WASHINGTONPARK, IL.	1
+FAIRMONT CITY—See WASHINGTONPARK, IL.
 FAIRVIEW—Nova Communications Inc. ! 562 N. Henderson Rd., Galesburg, II 61401. Phone: 309-342-8384. County Fulton. Population: 594. -TV Market Ranking: 83. Original franchlsi ) award date: N.A. Franchise explratloi date: N.A. Began: March 10,1985. Channel capacity: 35. Channels avallabli but not In use: 23.
 Basic Service
 Subscribers: 144 (07/01/85). Programming (received off air): WEEK TV (N), WHOI (A), WMBD-TV (C) WTVP (P) Peoria.
@@ -2267,7 +2267,7 @@ Fee: $10.00 monthly (each); $18.5( monthly (both).
 Additional miles planned: 210.0 (coaxial) Manager: Robert G. Fisher Jr.
 Ownership: Triax Communications Corp. (see Cable Group Ownership), 100%. i Purchased from Nova Communication! Inc., Sept. 1987.
 Note: Current information not available. 
-FAIRVIEW HEIGHTS—See BELLEVILLE.
+FAIRVIEW HEIGHTS—See BELLEVILLE, IL.
 FAR HILLS—Three Star Communications, 1000 Hart Rd., Barrington, IL 60010. Phone: 312-382-6801. County: Woodford. Population: N.A. (area served). -TV Market Ranking: 83. Original franchise award date: August 14,1984. Franchise expiration date: August 14, 1999. Be^ gan: January 1,1985.	:	j
 Channel capacity: 35. Channels available but not in use: 19.	j
 Basic Service	; ; ' !
@@ -2402,7 +2402,7 @@ FORRESTON—See OREGON, IL.
 FORSYTH—See DECATUR, IL.
 FORT SHERIDAN—See HIGHLAND PARK, IL.
 FOUR LAKES—See LISLE, IL.
-FOWLER—See MENDON, IL.'
+FOWLER—See MENDON, IL.
 FOXLAKE—See WAUKEGAN. IL.
 FOX RIVER GROVE—See CARPENTERSVILLE, IL.
 FOX RIVER VALLEY GARDENS—See McHENRY, IL.
@@ -3973,8 +3973,8 @@ Manager: David A. Bowers.
 City fee: 3% of gross.
 Ownership: Moultrie Telecommunications Inc., 100%. David A. Bowers, pres.
 LYNDOM—See CLINTON, IA.
-LYNWOOD—See MERRILLVILLE, IN. 
-LYONS—See OAK PARK, IL. 
+LYNWOOD—See MERRILLVILLE, IN.
+LYONS—See OAK PARK, IL.
 MACHESNEY PARK—See ROCKFORD, IL.
 MACKINAW—See MINIER, IL.
 MACOMB—Liberty Cable TV, Box 508,100 N. Scotland, Macomb, IL 61455. Phone: 309-833-4539. County: McDonough. Also serves Colchester, McDonough County. Population: N.A. (area served). TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: March 1,. 1992. Began: February 1,1966. ’ "
@@ -5086,7 +5086,7 @@ Local advertising: Planned.
 Manager: Charles Buckner. Chief technician: Ed Rice.
 Ownership: Enstar Communications Corp. (see Cable Group Ownership), 100%.
 NORMAL—See BLOOMINGTON, IL.
-NORRIDGE—See PALOS HILLS, IL. ■
+NORRIDGE—See PALOS HILLS, IL.
 NORRIS CITY—Star Cablevislon Group, Box 1167, 254 Winnebago Dr., Fond ou Lao, Wl 54935. Phone: 414-923-6335. County: White. Population: 1,515.
 TV Market Ranking: 69. Original franchise award date: September 21,1981. Franchise expiration date: September 21, 1996. Began: N.A.
 Channel capacity: N.A. Channels available but not In use: N.A.
@@ -5119,8 +5119,8 @@ City fee: 3% of gross.
 Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note: Current information not available.
 NORTHBROOK—See MOUNT PROSPECT,
 IL.
-NORTHLAKE—See PALOS HILLS, IL. 
-NORWOOD—See PEORIA, IL. 
+NORTHLAKE—See PALOS HILLS, IL.
+NORWOOD—See PEORIA, IL.
 O’FALLON—See BELLEVILLE, IL.
 OAK BROOK—See CHICAGO (suburbs), IL.
 OAK FOREST—Multimedia Cablevision of Oak Forest, 15646 S. Cicero Ave., Oak Forest, IL 60452. Phone: 312-535-3460. County: Cook. Also serves Markham. Population: 41,268.
@@ -6025,7 +6025,7 @@ Ownership: MultiVision Cable TV Corp. (see Cable Group Ownership), 100%.
 Purchased from C4 Media Corp., Jan. 1988.
 Note: Current Information not available.
 REYNOLDS—See SHERRARD, IL.
-RICHMOND—See GENOA CITY, Wl.
+RICHMOND—See GENOA CITY, WI.
 RICHTON PARK—See MATTESON, IL.
 RICHWOODS TWP.—See PEORIA, IL.
 RIDGE FARM—Tri-Star Cablevision Ltd., Box 306, Greenup, IL 62428. Phone: 217-923-5126. Counties: Edgar & Vermilion. Also serves Chrisman. Population: 2,300. TV Market Ranking: 64 (Ridge Farm); Below 100 (Chrisman). Original franchise award date: January 1, 1982. Franchise expiration date: April 1,1996. Began: September 13,1982.
@@ -6178,8 +6178,8 @@ Miles of plant: 839.0 (coaxial). Miles of plant: 7.0 (fiber optic). Additional m
 Manager: Rhonda Christenson. Chief technician: John Bowers.
 City fee: 5% of gross.
 Ownership: Cablevision Systems Corp. (see Cable Group Ownership), 100%. Purchased from R. R. Donnelley & Sons Communications Co. by Adams-Russell Co. Inc., Sept. 1987. A-R purchased by Cablevision Systems Corp., Jan. 1988.
-ROCKTON (village)—See BELOIT, Wl.
-ROCKTON TWP.—See BELOIT, Wl.
+ROCKTON (village)—See BELOIT, WI.
+ROCKTON TWP.—See BELOIT, WI.
 ROLLING MEADOWS—American Cablesy-stems of Illinois, 1575 Rohlwing Rd., Rolling Meadows, IL 60008. Phone: 312-577-1818. County: Cook. Also serves Buffalo Grove, Cook County, Elk Grove, Hoffman Estates, Palatine. Population:
 150,000.
 TV Market Ranking: 3. Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1, 1982. Channel capacity: 54 (2-way capable). Channels available but not in use: N.A. Basic Service
@@ -6279,7 +6279,7 @@ Fee: $7.95 monthly (Disney), $10.95 (Cinemax or HBO).
 Miles of plant: 14.0 (coaxial). Homes passed: 300.
 Manager; Michael Williams. Chief technician: Dennis Ritter.
 Ownership: American TV & Communications Corp. (see Cable Group Ownership), 100%. Purchased from George Biavati.
-ROSCOE TWP.—See BELOIT, Wl.
+ROSCOE TWP.—See BELOIT, WI.
 ROSELLE—See PALOS HILLS, IL.
 ROSEMONT—See CHICAGO (suburbs), IL.
 ROSEVILLE—Nova Communications Inc., 562 N. Henderson Rd., Galesburg, IL 61401. Phone: 309-342-8384. County: Warren. Population: 1,254.
@@ -6478,7 +6478,7 @@ Subscribers; N.A. Began: N.A. Programming (via satellite): HBO.
 Fee: N.A. .
 Miles of plant: 8.0 (coaxial). Homes passed: 500.
 Ownership: Trlax Communications Corp. (see Cable Group Ownership), 100%.
-SCHAUMBURG—See MOUNT PROSPECT, IL.	,
+SCHAUMBURG—See MOUNT PROSPECT, IL.
 SCHILLER PARK—See CHICAGO (suburbs), IL.
 SCHRAM CITY—See HILLSBORO, IL.
 SCOTT AFB—Continental Cablevlslon Inc., Box 607, Rte. 1, Hwy. 161, Belleville, IL 62221. Phone: 618-566-2217. Counties: Clinton & St. Clair, Also serves Albers, Avlston, Clinton County, Damlansville, Freeburg, Lebanon, Mascoutah, New Baden. St. Clair County, Shiloh, Summer-field, Trenton. Population: N.A. (area served).
@@ -6635,7 +6635,7 @@ Programming (via satellite): HBO.
 Fee: $15.00 Installation; $8.00 monthly. Equipment: Sclentlflc-Atlanta headend; Times Fiber amplifiers; Antronlx set top converters; Eagle traps; Wlnegard & International Satellite satellite antenna. Miles of plant: 7.0 (coaxial). Homes passed: 293.
 Manager: Dave Troxell. Chief technician: Rick Gunn.
 Ownership: Cencom Cable Assoc. Inc. (see Cable Group Ownership), 100%.
-SOUTH BELOIT—See BELOIT, Wl.
+SOUTH BELOIT—See BELOIT, WI.
 SOUTH CHICAGO HEIGHTS—See CHICAGO HEIGHTS, IL.
 SOUTH ELGIN—See ELGIN, IL.
 SOUTH HOLLAND—Multimedia Cablevi-sion Inc., 16250 S. Wausau Ave., South Holland, IL 60473. Phone: 312-339-2067. County: Cook. Population: 24,977. TV Market Ranking: 3. Original franchise award date: March 21,1983. Franchise expiration date: March 21,1998. Began: April 19,1984.
@@ -6790,7 +6790,7 @@ Manager: Mary E. Roper. Chief technician: James Hollenkamp.
 City fee: 3% of gross.
 Ownership: Rifkin & Assoc, (see Cable Group Ownership), 100%.
 STEGER—See CHICAGO HEIGHTS, IL.
-STEPHENSON COUNTY—See FREEPORT, iL.
+STEPHENSON COUNTY—See FREEPORT, IL.
 STERLING—S/D Cable Partners Ltd., Box 556, 312 Locust St., Sterling, IL 61081. Phone: 815-625-5618. County: White-side. Also serves Coloma Twp., Hopkins Twp., Montmorency Twp., Rock Falls, Sterling Twp. Population: 26,897.
 TV Market Ranking: 97 (Hopkins Twp., Sterling, Sterling Twp.); Outside TV markets (Coloma Twp., Montmorency Twp., Rock Falls). Original franchise award date: February 1,1966. Franchise expiration date: March 1, 2001. Began: June 1,1968.
 Channel capacity: 60. Channels available but not in use: 25.
@@ -6845,7 +6845,7 @@ Miles of plant: 10.0 (coaxial). Homes passed: 664.
 Ownership: Triax Communications Corp. (see Cable Group Ownership), 100%. -
 STONE PARK—See OAK PARK, IL.
 STONINGTON—See BLUE MOUND, IL.
-STOOKEY TWP.—See BELLEVILLE, IL.'
+STOOKEY TWP.—See BELLEVILLE, IL.
 STRASBURG—Country Cable, 210 N. Pine St., Stewardson, IL 62463. Phone: 217-682-5411. County: Shelby. Population: 488.
 TV Market Ranking: Outside TV markets, Original franchise award date: March 1, 1984. Franchise expiration date: N.A. Began: November 1,1984.
 Channel capacity: 12. Channels available but not in use: None.

@@ -1,8 +1,13 @@
 import edu.duke.*;
 import java.io.*;
+import java.util.Scanner;
 
 public class Cable{
     public void parser(String s) {
+        // input state
+        Scanner scanner = new Scanner(System.in);
+        String state = scanner.nextLine();
+        
         int start = s.indexOf("—");
         int end = -1; // index after "."
         int mark; // index of next "—"
@@ -10,6 +15,7 @@ public class Cable{
         String sub;
         String name;
         String symbol;
+        String stateList = "ALAKAZARCACOCTDEDCFLGAHIIDILINIAKSKYLAMEMDMAMIMNMSMOMTNENVNHNJNMNYNCNDOHOKORPARISCSDTNTXUTVTVAWAWVWIWYASGUVI";
         
         while (start != -1) {
             // Town name
@@ -36,6 +42,7 @@ public class Cable{
                 symbol = "";
             }
             
+            System.out.print(state + "\t");
             System.out.print(name + "\t");
             
             
@@ -89,6 +96,10 @@ public class Cable{
                 
                 if (seeTemp.indexOf("-") != -1) {
                     seeTemp = seeTemp + "wordAlert";
+                }
+                
+                if (! stateList.contains(seeTemp.substring(seeTemp.length() - 3, seeTemp.length() - 1))) {
+                    seeTemp = seeTemp + "stateAlert";
                 }
                 
                 System.out.print(seeTemp);
@@ -640,6 +651,7 @@ public class Cable{
 
     
     public void test() {
+        System.out.print("State\t");
         System.out.print("Name\tCopied\tLocation Copied\tPopulation\tWhen service began\tBasic Subscribers\t"
         + "Expanded Basic 1 Subscribers\tExpanded Basic 2 Subscribers\tExpanded Basic 3 Subscribers\t"
         + "Tier 1 Subscribers\tTier 2 Subscribers\tTier 3 Subscribers\tTier 4 Subscribers\tTier 5 Subscribers\t"

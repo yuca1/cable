@@ -301,7 +301,7 @@ Local advertising; Yes. Available in locally originated & satellite distributed 
 Equipment: Comtech satellite antenna. Miles of plant, homes passed & total homes in franchised area included with Troy, AL.
 Manager: Ray Clemons.
 Ownership: Storer Cable Communications (see Cable Group Ownership), 100%.
-BLUE MOUNTAIN BEACH—See SAN-OESTIN BEACH RESORT, FL.
+BLUE MOUNTAIN BEACH—See SANDESTIN BEACH RESORT, FL.
 BOCA GRANDE—See ENGLEWOOD, FL.
 Boca Grande Island—See PINE ISLAND, FL.
 BOCA RATON—Comcast Cablevision of Boca Raton Inc., 1830 N.W. Second Ave., Boca Raton, FL 33432. Phone: 305-391-7556. County: Palm Beach. Population: 60,700.
@@ -573,7 +573,7 @@ Manager C. Middlebrooks.
 Ownership: Essex Communications Corp. (see Cable Group Ownership), 100%. Sale pends to MultiVIsion Cable TV Corp. (see Cable Group Ownership).
 CAPTIVA ISLAND—See SANIBEL ISLAND, FL.
 CARRABELLE—See APALACHICOLA, FL.
-CASEY KEY—See VENICE, FL. 
+CASEY KEY—See VENICE, FL.
 CASSELBERRY—See ORLANDO, FL.
 CECIL FIELD NAVAL AIR STATION—See JACKSONVILLE, FL.
 CEDAR GROVE—See PANAMA CITY, FL.
@@ -2011,7 +2011,7 @@ Manager: R. Brady. Chief technician: L. Brugman
 County fee: 3% of gross.
 Ownership: Storer Cable Communications (see Cable Group Ownership), 100%.
 KENDALL—See also HOMESTEAD, FL.
-KENNETH CITY—See CLEARWATER, R.
+KENNETH CITY—See CLEARWATER, FL.
 KEY BISCAYNE—See DADE COUNTY, FL.
 KEY BISCAYNE—See also MIAMI (southern portion), FL.
 KEY COLONY BEACH—See KEY WEST, FL.
@@ -2349,7 +2349,7 @@ LEMON BAY ISLES—See ENGLEWOOD, FL.
 LEON COUNTY—See TALLAHASSEE, FL.
 LEVY COUNTY—See WILLISTON, FL.
 LIBERTY CITY—See HOMESTEAD, FL.
-LIGHTHOUSE POINT—See POMPANO BEACH,a.
+LIGHTHOUSE POINT—See POMPANO BEACH, FL.
 LITTLE HICKORY SHORES—See BONITA SPRINGS, FL.
 Little Pine Island—See PINE ISLAND, FL.
 LITTLE TORCH KEY—See KEY WEST, FL.
@@ -2668,7 +2668,7 @@ Miles of plant: 200.0 (coaxial). Homes passed: 9,944. Total homes in franchised 
 Manager Ward Bodner.
 Ownership: Essex Communications Corp. (see Cable Group Ownership), 100%. Sale pends to MultiVision Cable TV Corp. (see Cable Group Ownership).
 MIMS—Spacecoast Cablevision Inc., 10 S. Harbour City Blvd., Melbourne, FL 32901. County: Brevard. Also serves Brevard County (portions). Population: 8,309.
-TV Market Banking: 55. Original franchise award date: January 1,1982. Franchise expiration date: November 1.1996. Began: N.A.
+TV Market Ranking: 55. Original franchise award date: January 1,1982. Franchise expiration date: November 1.1996. Began: N.A.
 Channel capacity: 35. Channels available but not in use: 23.
 Basic Service
 Subscribers: 257; Commercial subscribers: 25 (01/01/86).
@@ -2886,7 +2886,7 @@ NORTH MIAMI BEACH-See NORTH MIAMI, FL.
 NORTH NAPLES—See BONITA SPRINGS, FL.
 NORTH NAPLES—See also NAPLES, FL.
 NORTH PORT—See ENGLEWOOD, FL.
-NORTH REDINGTON BEACH—See MADEIRA BEACH, a.
+NORTH REDINGTON BEACH—See MADEIRA BEACH, FL.
 OAK HILL—See NEW SMYRNA BEACH, FL.
 OAKLAND—See WINTER GARDEN, FL.
 OAKLAND PARK—See FORT LAUDERDALE, FL.
@@ -2910,11 +2910,11 @@ Manager: Sebastian D. Listro. Chief technician: Ken Parnell.
 City fee: 3% of gross.
 Ownership: Cox Cable Communications (see Cable Group Ownership), 100%.
 OCEAN BREEZE PARK—See STUART, FL.
-OCEAN RIDGE-See DELRAY BEACH, FL.
+OCEAN RIDGE—See DELRAY BEACH, FL.
 OCEAN VILLAGE—See STUART, FL.
 OCOEE—See WINTER GARDEN, FL.
 OKALOOSA COUNTY—See FORT WALTON BEACH, FL.
-OKALOOSA COUNTY—See also NICE-VILLE, FL.
+OKALOOSA COUNTY—See also NICEVILLE, FL.
 OKALOOSA ISLAND—See FORT WALTON BEACH, FL.
 OKEECHOBEE—Harte-Hanks Cable of Okeechobee, 108 E S. Park St., Okeechobee, FL 33472. Phone: 813-763-5566. Counties: Glades & Okeechobee. Also serves Glades County. Population: 32,962.
 TV Market Ranking: Below 100 (Okeechobee); Outside TV markets (Glades County). Original franchise award date: May 1,1972. Franchise expiration date: July 1, 2001. Began: January 1,1977. Channel capacity: 20. Channels available but not In use: 7.
@@ -3529,7 +3529,7 @@ Note: Current Information not available.
 POLK COUNTY—See HAINES CITY, FL.
 POLK COUNTY—See also LAKELAND, FL.
 POLK COUNTY—See also POINCIANA, FL.
-POLK COUNTY (portions)—See BARTOW,
+POLK COUNTY (portions)—See BARTOW, FL.
 POLK COUNTY (portions)—See also LAKE WALES. FL.
 POLK COUNTY (portions)—See also WINTER HAVEN, FL.
 POMONA PARK—See CRESCENT CITY, FL.
@@ -3653,7 +3653,7 @@ REDINOTON BEACH—See MADEIRA BEACH, FL.
 REDINOTON SHORES—See MADEIRA BEACH, FL.
 RIDGEWAY—See HOBE SOUND, FL.
 RIO VISTA—See DUNNELLON, FL.
-RIVER GARDENS-See DUNNELLON, FL.
+RIVER GARDENS—See DUNNELLON, FL.
 RIVER RANCH RESORT—See RIVER RANCH SHORES, FL.
 RIVER RANCH SHORES—River Ranch Resort, 24700 Hwy. 60 E„ Lake Wales, FL 33853. Phone; 813-692-1321. County; Polk. Also serves River Ranch Resort. Population; N.A. (area served).
 TV Market Ranking: 28. Original franchise award date; N.A. Franchise expiration date; N.A. Began; February 1,1972. Channel capacity: 12. Channels available but not In use: 3.
@@ -3664,9 +3664,9 @@ Equipment: Sclentlfic-Atlanta headend; Vi-koa amplifiers; Sony cameras. :
 Miles of plant: 7.0 (coaxial).
 Manager: Gary Wlsecup. Chief technician: W. Leigh Messer.
 Ownership: River Ranch Inc., 100%. Edgar W. McCauley, pres.; E. A. Smith, v.p.; Audrey Beaverson, dir.
-RIVERVIEW—See APOLLO BEACH, FL.'
+RIVERVIEW—See APOLLO BEACH, FL.
 RIVIERA BEACH—See WEST PALM BEACH, FL.
-ROCKLEDGE—See MELBOURNE, ft.
+ROCKLEDGE—See MELBOURNE, FL.
 ROLLING GREENS—See SILVER SPRINGS SHORES, FL.
 ROSELAND—See SEBASTIAN, FL.
 ROTONDA—See ENGLEWOOD, FL.
@@ -3776,7 +3776,7 @@ RCA cameras; Sony VTRs; Shintron character generator; Oak & Panasonic set top co
 Miles of plant; 1331.0 (coaxial). Miles of plant: 9.0 (fiber optic). Additional miles planned: 34.0 (coaxial). Additional miles planned: 21.0 (fiber optic). Homes passed: 129,000. Total homes in franchised area: 163,679.
 Manager: David D. Dea. Chief technician: Steve Eichier.
 City fee: 5% of gross (St. Petersburg). Ownership: Paragon Communications (see Cable Group Ownership), 100%.
-ST. PETERSBURG BEACH—See ST. PETERSBURG, FI-
+ST. PETERSBURG BEACH—See ST. PETERSBURG, FL.
 SALT SPRINGS—Cablevlslon Industries of Middle Florida Inc., Box 540HA, Rte. 2, E. State Rd. 40, Silver Springs, FL 32688. Phone: 904-328-4205. County: Marlon. Population: 1,500.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: N.A. Channels available but not in use: N.A.
 Basic Service
@@ -3936,7 +3936,7 @@ SEMINOLE COUNTY (portions)—See also ORANGE COUNTY, FL.
 SEWALL'S POINT—See STUART, FL.
 SHADOW LAKE—First Pic Cable TV, 3333 Coconut Creek, Coconut Creek, FL 33066. County: Palm Beach. Population: N.A.
 (area serve(j)
-TV Market Flanking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: April 1, 1981.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: April 1, 1981.
 Channel capacity: 20. Channels available but not in use: N.A.
 Basic Service Subscribers: 65 (01/01/85). Programming (received off air): WTVX (C), Fort Pierce-Vero Beach; WCIX (I), WHFT (I), WPBT (P), WSVN (N), WTVJ (C), Miami; WPTV (N), Palm Beach; WFLX (1), WPEC (A), WXEL-TV (P) West Palm Beach.
 Programming (via satellite): WTBS (I) Atlanta.
@@ -4134,7 +4134,7 @@ TAVARES—See LEESBURG, FL.
 TAVERNIER—See KEY WEST, FL.
 TAYLOR COUNTY—See PERRY, FL.
 TEMPLE TERRACE—See HILLSBOROUGH COUNTY, FL.
-TIERRA VERDE-See ISLA DEL SOL, FL.
+TIERRA VERDE—See ISLA DEL SOL, FL.
 TITUSVILLE—TCI Cablevision Inc., Box U, 12 S. DeLeon Ave., Titusville, FL 32780. Phone: 305-269-7200. County: Brevard. Also serves Brevard County. Population:
 35,000.
 TV Market Ranking: 55. Original franchise award date: January 1,1969. Franchise expiration date: October 1,1992. Began: January 1,1969.
@@ -4304,7 +4304,7 @@ VOLUSIA COUNTY (eastern portion)—See HOLLY HILL, FL.
 VOLUSIA COUNTY (eastern portion)—See also NEW SMYRNA BEACH, FL.
 VOLUSIA COUNTY (western portion)—See DE LAND, FL.
 WABASSO—See SEBASTIAN, FL.
-Wakulla County—See CRAWFORDSVILLE,
+Wakulla County—See CRAWFORDSVILLE, FL.
 WALDO—Florida Clearview Inc., 5571 Playa Way, Jacksonville, FL 32211. Phone: 904-743-4777. County: Alachua. Population: 993.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: N.A. Channels available but not in use: N.A.
 Basic Service
