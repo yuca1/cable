@@ -467,7 +467,7 @@ Chief technician: James Jackman. Ownership: Jackson Cable (see Cable Group Owner
 COLFAX—Star CATV Investment Corp., 401 8th St„ Colfax, LA 71417. Phone: 318-627-5992. County: Grant. Population: 1,680.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 1,1982.
 Channel capacity: 16. Channels available but not In use: None.
-Basle Service
+Basic Service
 Subscribers: 452 (01/01/85). Programming (received off air): KALB-TV (N), KLAX-TV (A), KLPA-TV (P), Alexandria; KATC (A), KLFY-TV (C), Lafayette; KNOE-TV (C) Monroe. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WWOR-TV (I) New York; ACTS; CBN Cable Network; ESPN; Nickelodeon; USA Network.
 Fee: $25.00 Installation; $9.95 monthly. Tier 1
 Subscribers: N.A. Began: November 1, 1982.
@@ -498,7 +498,7 @@ COLUMBIA HEIGHTS—See COLUMBIA, LA.
 CONCORDIA PARISH—See FERRIDAY, LA.
 COTTON VALLEY—Star CATV Investment Corp., Box 466, Sibley, LA 71073. Phone: 316-371-9400. County: Webster. Also serves Sarepta. Population: 2,276. TV Market Ranking: 58. Original franchise award date: N.A. Franchise expiration date: February 1,1996. Began: December 1,1982.
 Channel capacity: 52. Channels available but not In use: 18.
-Basle Service
+Basic Service
 Subscribers: 503 (01/01/85). Programming (received off air): KLTS-TV (P), KSLA-TV (C), KTBS-TV (A), Shreveport; KTAL-TV (N) Shreveport-Texarkana
 Programming (via satellite): WTBS (I) Atlanta; WGN-7V (I) Chicago; WWOR-TV (I) New York; CBN Cable Network; CNN; ESPN; Lifetime; Nashville Network; Nickelodeon; The Weather Channel; USA Network.
 Current originations: Public access.
@@ -511,7 +511,7 @@ Note: Current information not available.
 COTTONPORT— Star CATV Investment Corp., 401 8th St., Colfax, LA 71417. Phone: 318-627-5992. County: Avoyelles. Also serves Plaucheville. Population: 2,107.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: October 1, 1982. '
 Channel capacity: 52. Channels available but not In use: N.A.
-Basle Service
+Basic Service
 Subscribers: 723 (01/01/85). Programming (received off air): KALB-TV (N), KLAX-TV (A), KLPA-TV (P), Alexandria; WAFB-TV (C), WBRZ (A), Baton Rouge; KATC (A), KLFY-TV (C) Lafayette.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WWOR-TV (I) New York; CBN Cable Network; CNN; ESPN; Nickelodeon; USA Network. Current originations: Public access.
 Fee: $25.00 Installation; $8.95 monthly; $2.00 monthly (each additional set). Tier 1
@@ -863,7 +863,7 @@ City fee: None (Golden Meadow); 2% of gross (Lockport).
 Ownership: Callais Cablevision Inc. (see Cable Group Ownership), 100%.
 Note: Current information not available.
 GONZALES—Cablevision of Gonzales Inc., 430-D S. Burnside Ave., Gonzales, LA 70737. Phone: 504-644-8571. County: Ascension. Also serves Ascension Parish, Sorrento. Population: N.A. (area served). TV Market Ranking: 87. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1980. Channel capacity: 35. Channels available but not In use: 16.
-Basle Service
+Basic Service
 Subscribers: 9,078 (01/01/87). Programming (received off air): WAFB-TV (C), WBRZ (A), WLPB-TV (P), WVLA (N), Baton Rouge; WGNO-TV (I), WVUE (A), WWL-TV (C) New Orleans. Programming (via satellite): WTBS (I) Atlanta; C-SPAN; CBN Cable Network; CNN; The Weather Channel; USA Network.
 Fee: $20.00 Installation; $11.25 monthly; $20.00 converter; $10.00 installation, $2.00 monthly (each additional set).
 Expanded Basic 1
@@ -1279,7 +1279,7 @@ LAFOURCHE PARISH (western portion)—See THIBODAUX, LA.
 LAKE ARTHUR—CGF Louisiana Cablevi-sion Inc., 14500 S. Outer 40 Rd., Chesterfield, MO 36017. Phone: 314-576-4446. County: Jefferson Davis. Population:-3,551.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: January 1,1994. Began: January 1,1979.
 Channel capacity: 30. Channels available but not In use: 2.
-Basle Service
+Basic Service
 Subscribers: 478 (01/01/86). Programming (received off air): KBMT (A), KFDM-TV (C), Beaumont; KATC (A), KLFY-TV (C), Lafayette; KPLC-TV (N) Lake Charles.
 Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; ESPN; USA Network.
 Current originations: Time-weather.
@@ -1568,7 +1568,7 @@ MOORINGSPORT—See BLANCHARD, LA.
 MOREAUVILLE—Star CATV Investment Corp., 401 8th St., Colfax, LA 71417. Phone: 318-627-5992. County: Avoyelles. Population: 853.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: October 10, 1983.
 Channel capacity: 52. Channels available but not In use: N.A.
-Basle Service
+Basic Service
 Subscribers: 470 (01/01/85). Programming (received off air): KALB-TV (N), KLAX-TV (A), KLPA-TV (P), Alexandria; WAFB-TV (C), WBRZ (A), Baton Rouge; KATC (A), KLFY-TV (C) Lafayette.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WWOR-TV (I) New York.
 Fee: $25.00 installation.
