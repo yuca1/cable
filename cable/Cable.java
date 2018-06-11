@@ -147,7 +147,7 @@ public class Cable{
                 int commaIndex = s.indexOf(",", dateStartIndex) + 1;
                 String dateTemp;
 
-                if (s.charAt(commaIndex) == '1') {
+                if (s.charAt(commaIndex) == '1' && commaIndex < dateEndIndex) {
                     dateTemp = s.substring(dateStartIndex, commaIndex) + " " + s.substring(commaIndex, dateEndIndex);
                 }
                 else {
