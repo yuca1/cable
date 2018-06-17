@@ -35,7 +35,15 @@ public class Cable{
             
             // name starts with symbol
             if (! Character.isLetter(name.charAt(0))) {
-                symbol = "*";
+                if (Character.toString(name.charAt(0)).equals("*")) {
+                    symbol = "*";
+                }
+                if (Character.toString(name.charAt(0)).equals("†")) {
+                    symbol = "†";
+                }
+                else {
+                    symbol = "*";
+                }
                 name = name.substring(1, name.length());
             }
             else {
