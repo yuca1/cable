@@ -225,10 +225,6 @@ public class Cable{
                 int basicOneEndIndex = s.indexOf("(", basicOneStartIndex) - 1;
                 String basicOneTemp = s.substring(basicOneStartIndex, basicOneEndIndex);
                 
-                if (basicOneTemp.indexOf("N.A") != -1) {
-                    basicOneTemp = "N";
-                }
-                
                 if (basicOneTemp.indexOf("Began") != -1) {
                     basicOneTemp = basicOneTemp.substring(0, basicOneTemp.indexOf("Began") - 2);
                 }
@@ -236,6 +232,10 @@ public class Cable{
                 if (basicOneTemp.indexOf(".") != -1 && Character.isDigit(basicOneTemp.charAt(basicOneTemp.indexOf(".") + 1))) {
                     basicOneTemp = basicOneTemp.substring(0, basicOneTemp.indexOf(".")) + "," + 
                                       basicOneTemp.substring(basicOneTemp.indexOf(".") + 1, basicOneTemp.length());
+                }
+                
+                if (basicOneTemp.indexOf("N.A") != -1) {
+                    basicOneTemp = "N";
                 }
                 
                 System.out.print(basicOneTemp + "\t");
@@ -251,13 +251,17 @@ public class Cable{
                 int basicTwoEndIndex = s.indexOf("(", basicTwoStartIndex) - 1;
                 String basicTwoTemp = s.substring(basicTwoStartIndex, basicTwoEndIndex);
                 
-                if (basicTwoTemp.indexOf("N.A") != -1) {
-                    basicTwoTemp = "N";
+                if (basicTwoTemp.indexOf("Began") != -1) {
+                    basicTwoTemp = basicTwoTemp.substring(0, basicTwoTemp.indexOf("Began") - 2);
                 }
                 
                 if (basicTwoTemp.indexOf(".") != -1 && Character.isDigit(basicTwoTemp.charAt(basicTwoTemp.indexOf(".") + 1))) {
                     basicTwoTemp = basicTwoTemp.substring(0, basicTwoTemp.indexOf(".")) + "," + 
                                       basicTwoTemp.substring(basicTwoTemp.indexOf(".") + 1, basicTwoTemp.length());
+                }
+                             
+                if (basicTwoTemp.indexOf("N.A") != -1) {
+                    basicTwoTemp = "N";
                 }
                 
                 System.out.print(basicTwoTemp + "\t");
@@ -273,14 +277,19 @@ public class Cable{
                 int basicThreeEndIndex = s.indexOf("(", basicThreeStartIndex) - 1;
                 String basicThreeTemp = s.substring(basicThreeStartIndex, basicThreeEndIndex);
                 
-                if (basicThreeTemp.indexOf("N.A") != -1) {
-                    basicThreeTemp = "N";
+                if (basicThreeTemp.indexOf("Began") != -1) {
+                    basicThreeTemp = basicThreeTemp.substring(0, basicThreeTemp.indexOf("Began") - 2);
                 }
+                
                 
                 if (basicThreeTemp.indexOf(".") != -1 && 
                 Character.isDigit(basicThreeTemp.charAt(basicThreeTemp.indexOf(".") + 1))) {
                     basicThreeTemp = basicThreeTemp.substring(0, basicThreeTemp.indexOf(".")) + "," + 
                                       basicThreeTemp.substring(basicThreeTemp.indexOf(".") + 1, basicThreeTemp.length());
+                }
+                
+                if (basicThreeTemp.indexOf("N.A") != -1) {
+                    basicThreeTemp = "N";
                 }
                 
                 System.out.print(basicThreeTemp + "\t");
@@ -301,10 +310,6 @@ public class Cable{
                     tierTemp = "N/A";
                 }
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
-                }
-                
                 if (tierTemp.indexOf("Began") != -1) {
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
                 }  
@@ -318,6 +323,9 @@ public class Cable{
                                       tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
                 }
                 
+                if (tierTemp.indexOf("N.A") != -1) {
+                    tierTemp = "N";
+                }
                 
                 System.out.print(tierTemp + "\t");
                 
@@ -333,13 +341,25 @@ public class Cable{
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
+                if (tierStartIndex > end) {
+                    tierTemp = "N/A";
+                }
+                
+                if (tierTemp.indexOf("Began") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
+                }  
+                
+                if (tierTemp.indexOf("Program") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Program") - 2);
                 }
                 
                 if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
                                       tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
+                }
+                
+                if (tierTemp.indexOf("N.A") != -1) {
+                    tierTemp = "N";
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -356,13 +376,25 @@ public class Cable{
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
+                if (tierStartIndex > end) {
+                    tierTemp = "N/A";
+                }
+                
+                if (tierTemp.indexOf("Began") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
+                }  
+                
+                if (tierTemp.indexOf("Program") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Program") - 2);
                 }
                 
                 if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
                                       tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
+                }
+                
+                if (tierTemp.indexOf("N.A") != -1) {
+                    tierTemp = "N";
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -379,13 +411,25 @@ public class Cable{
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
+                if (tierStartIndex > end) {
+                    tierTemp = "N/A";
+                }
+                
+                if (tierTemp.indexOf("Began") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
+                }  
+                
+                if (tierTemp.indexOf("Program") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Program") - 2);
                 }
                 
                 if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
                                       tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
+                }
+                
+                if (tierTemp.indexOf("N.A") != -1) {
+                    tierTemp = "N";
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -402,13 +446,25 @@ public class Cable{
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
+                if (tierStartIndex > end) {
+                    tierTemp = "N/A";
+                }
+                
+                if (tierTemp.indexOf("Began") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
+                }  
+                
+                if (tierTemp.indexOf("Program") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Program") - 2);
                 }
                 
                 if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
                                       tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
+                }
+                
+                if (tierTemp.indexOf("N.A") != -1) {
+                    tierTemp = "N";
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -425,13 +481,25 @@ public class Cable{
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
+                if (tierStartIndex > end) {
+                    tierTemp = "N/A";
+                }
+                
+                if (tierTemp.indexOf("Began") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
+                }  
+                
+                if (tierTemp.indexOf("Program") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Program") - 2);
                 }
                 
                 if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
                                       tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
+                }
+                
+                if (tierTemp.indexOf("N.A") != -1) {
+                    tierTemp = "N";
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -448,13 +516,25 @@ public class Cable{
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N";
+                if (tierStartIndex > end) {
+                    tierTemp = "N/A";
+                }
+                
+                if (tierTemp.indexOf("Began") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
+                }  
+                
+                if (tierTemp.indexOf("Program") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Program") - 2);
                 }
                 
                 if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
                                       tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
+                }
+                
+                if (tierTemp.indexOf("N.A") != -1) {
+                    tierTemp = "N";
                 }
                 
                 System.out.print(tierTemp + "\t");
@@ -471,13 +551,25 @@ public class Cable{
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
                 
-                if (tierTemp.indexOf("N.A") != -1) {
-                    tierTemp = "N.A";
+                if (tierStartIndex > end) {
+                    tierTemp = "N/A";
+                }
+                
+                if (tierTemp.indexOf("Began") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Began") - 2);
+                }  
+                
+                if (tierTemp.indexOf("Program") != -1) {
+                    tierTemp = tierTemp.substring(0, tierTemp.indexOf("Program") - 2);
                 }
                 
                 if (tierTemp.indexOf(".") != -1 && Character.isDigit(tierTemp.charAt(tierTemp.indexOf(".") + 1))) {
                     tierTemp = tierTemp.substring(0, tierTemp.indexOf(".")) + "," + 
                                       tierTemp.substring(tierTemp.indexOf(".") + 1, tierTemp.length());
+                }
+                
+                if (tierTemp.indexOf("N.A") != -1) {
+                    tierTemp = "N";
                 }
                 
                 System.out.print(tierTemp + "\t");

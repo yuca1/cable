@@ -57,8 +57,8 @@ Fee: $10.95 monthly (Disney, TMC or Showtime), $11.95 monthly (HBO). Equipment: 
 Miles of plant, homes passed & total homes In franchised area included with Rehoboth Beach, DE.
 Manager: Marian 0. Phillips. Chief technician: Gerry Howard.
 Ownership: Storer Cable Communications (see Cable Group Ownership), 100%.
-GHEENWOOD-See HARRINGTON, DE.
-HARRINGTON-Simmons Cable TV of Midshore, 14 Commerce St., Harrington, DE 19952. Phone: 302-398-4714. Counties: Kent & Sussex, DE; Caroline & Dorchester, MD. Also serves Bowers Beach, Bridgeville, Canterbury, Ellendale, Farmington, Felton, Frederica, Greenwood, Houston, Lincoln, Magnolia, Milton, Viola, & Sussex, DE; Denton, Federalsburg, Greensboro, Hurlock, Preston & RldgeTy MD. Population: 35,000.
+GHEENWOOD—See HARRINGTON, DE.
+HARRINGTON—Simmons Cable TV of Midshore, 14 Commerce St., Harrington, DE 19952. Phone: 302-398-4714. Counties: Kent & Sussex, DE; Caroline & Dorchester, MD. Also serves Bowers Beach, Bridgeville, Canterbury, Ellendale, Farmington, Felton, Frederica, Greenwood, Houston, Lincoln, Magnolia, Milton, Viola, & Sussex, DE; Denton, Federalsburg, Greensboro, Hurlock, Preston & RldgeTy MD. Population: 35,000.
 TV Market Ranking: Below 100 (Bridgeville, Ellendale, Federalsburg, Greenwood, Hurlock, Milton); Outside TV markets (Bowers Beach, Canterbury, Denton, Farmington, Felton, Greensboro, Houston, Lincoln, Magnolia, Sussex, Viola). Original franchise award date: April 17,1971. Franchise expiration date: April 10,1991. Began: June 1, 1974.
 Channel capacity: 23. Channels available but not in use: 2.
 Basic Service
@@ -69,7 +69,7 @@ Expanded Basic 1
 Subscribers: 4,408 (01/01/88). Began: November 1,1983.
 Programming (via satellite): WTBS (I) Atlanta; Home Team Sports; MTV; Nashville Network; USA Network.
 Fee: $4.95 monthly.
-Tierl
+Tier 1
 Subscribers: 709 (11/30/86). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: $10.50 monthly.
@@ -77,7 +77,7 @@ Tier 2
 Subscribers: 1,054 (11/30/86). Began: November 1,1983,
 Programming (via satellite): HBO.
 Fee: $10.50 monthly.
-Tier3
+Tier 3
 Subscribers: 378 (11/30/86). Began: November 1,1983.
 Programming (via satellite): Playboy Channel.
 Fee: $10.50 monthly.
