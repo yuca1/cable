@@ -209,7 +209,7 @@ TV Market Ranking: 73. Original franchise award date: N.A. Franchise expiration 
 Subscribers: 494 (11/01/85). " Programming (received off air): WUNC-TV (P), Chapel Hill; WKFT (I), Fayetteville; WFMY-TV (C), Greensboro-High Point; WNCT-TV (C), Greenville; WCTI (A), New. Bern; WLa-TV (I), WPTF-TV (N), WRAL-TV (C), WTVD (A), Raleigh-Durham; WITN-TV (N). Washington; WECT (N) Wilmington. • utraO
 TV & Cable Factbook No. 56
 Programming (via satellite): WTBS (I) Atlanta: WGN-TV (I) Chicago; CBN Cable Network: CNN; ESPN; Lifetime; MTV; Nickelodeon; USA Network.
-Fee: $15.00 Installation; $8.50 monthly, fieri
+Fee: $15.00 Installation; $8.50 monthly, Tier 1
 Subscribers: 151 (06/30/83). Began: January 1,1982.
 Programming (via satellite): HBO.
 Fee: $9.00 monthly.
@@ -624,7 +624,7 @@ Basic Service
 Subscribers: 11,590 (01/01/88). Programming (received off air): WRDG (I), Burlington; WUNC-TV (P), Chapel Hill; WFMY-TV (C), WGHP-TV (A), Greensboro-High Point; WLFL-TV (I), WPTF-TV (N), WRAL-TV (C), WTVD (A) Ralelgh-Durham.
 Programming (via satellite): WTBS (I) Atlanta; WWOR-TV (I) New York; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; CNN Headline News; Discovery Channel; ESPN; Financial News Network; Learning Channel; Lifetime; MTV; Nashville Network; Nickelodeon; Tempo TV; The Weather Channel; USA Network. Current originations: Bulletin board; public access; educational access; government access.
 Fee: $33.00 installation; $17.50 monthly; $4.40 monthly (each additional set).
-Fieri
+Tier 1
 Subscribers: 7,033 (01/01/88). Began: N.A.
 Programming (via satellite): Clnemax; •Disney Channel; HBO; Showtime; The Movie Channel.
 Fee: $8.00 monthly (Clnemax), $10.00 monthly (Disney), $11.50 monthly (HBO, TMC or Showtime).

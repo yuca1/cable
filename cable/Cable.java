@@ -301,7 +301,7 @@ public class Cable{
             
             // Tier 1
             if (sub.indexOf("Tier 1") != -1 || sub.indexOf("Tierl") != -1) {
-                int tierStart = s.indexOf("Tier", start);
+                int tierStart = s.indexOf("Tier 1", start);
                 int tierStartIndex = s.indexOf("Subscribers", tierStart) + 13;
                 int tierEndIndex = s.indexOf("(", tierStartIndex) - 1;
                 String tierTemp = s.substring(tierStartIndex, tierEndIndex);
