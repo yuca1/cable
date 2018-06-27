@@ -271,7 +271,7 @@ Local advertising: No.
 Equipment: Scientific-Atlanta headend; Theta-Corn amplifiers; Comm/Scdpe cable; Video Data Systems character generator; Oak set top converters; Eagle traps; Scientific-Atlanta satellite antenna; Scientific-Atlanta satellite receivers. Miles of plant: 125.0 (coaxial): Homes passed: 5,995. Total homes in franchised area: 6,500.
 Manager: Becky Chafln. Chief technician: Larry Wilson.
 City fee: 4% of gross (Black Mountain). Ownership: Sammons Communications Inc. (see Cable Group Ownership), 100%.
-BLADEN COUNTY (portions)—See BLA-DENBORO, NC.
+BLADEN COUNTY (portions)—See BLADENBORO, NC.
 BLADEN COUNTY (unincorporated ar-eas)—See ELIZABETHTOWN, NC.
 BLADENBORO—Bladenboro Cablevision Inc., Box 2128, Elizabethtown, NC 28337. Phone: 919-862-2006. County: Bladen. Also serves Bladen County (portions), Clarkton. Population: 2,049.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: May 2, 1997. Began: N.A.
@@ -289,7 +289,7 @@ Fee: $10.00 Installation; $9.95 monthly.
 Miles of plant & homes passed included with Elizabethtown, NC Manager: Harrison Daniels.
 City fee: 3% of gross.
 Ownership: Wometco Cable TV Inc. (see Cable Group Ownership), 100%.
-BLOWING ROCK—Cablevision of Blowing Rock Inc:, Box 102, Blowing Rock, NC 27374. Phone: 704-295-9893. Counlies: Caldwell & Watauga. Population: 1,337. TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: March 1,1996. Began:  January 3,1984.
+BLOWING ROCK—Cablevision of Blowing Rock Inc:, Box 102, Blowing Rock, NC 27374. Phone: 704-295-9893. Counlies: Caldwell & Watauga. Population: 1,337. TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: March 1,1996. Began: January 3,1984.
 Channel capacity: 35. Channels available but not in use: 14.
 Basic Service
 Subscribers: 511 (11/01/85). Programming (received off air): WCYB-TV (N), Bristol-Kingsport; WBTV (C), Charlotte; WUND-TV (P), Columbia; WJHL-TV (C), Johnson City; WKPT-TV (A) Kingsport.
@@ -315,7 +315,7 @@ Channel capacity: N.A. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 6,102 (02/28/86). Programming (received off air): WCYB-TV (N), Bristol-Kingsport; WUNC-TV (P), Chapel Hill; WBTV (C), WCCB (I), WSOC-TV (A), Charlotte; WGHP-TV (A), WXII (N), Greensboro-High Point;
 WJHL-TV (C), Johnson City; WKPT-TV (A).Kingsport; allband FM. Programming (via satellite): WTBS (I) Atlanta; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; ESPN; Lifetime; MTV; Nashville Network; Nickelodeon; UPI Datacable; USA Network. Current originations: Time-weather.
-Fee: $20.00 Installation; $9.95 monthly. Tier i
+Fee: $20.00 Installation; $9.95 monthly. Tier 1
 Subscribers: 859 (01/01/86). Began: N.A.
 Programming (via satellite): Cinemax. Fee: $10.00 monthly.
 Tier 2
@@ -570,7 +570,7 @@ TV Market Ranking: 73. Original franchise award date: N.A. Franchise expiration 
 Channel capacity: 36 (2-way capable). Channels available but not in use: 4. Basic Service
 Subscribers: 2,932 (12/23/87). Programming (received off air): WRDG (I), Burlington; WUNC-TV (P), Chapel Hill; WKFT (I), Fayetteville; WFMY-TV (C), WGHP-TV (A), Greensboro-High Point; WLFL-TV (I), WPTF-TV (N), WRAL-TV (C), WTVD (A) Raleigh-Durham.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Arts & Entertainment; Black Entertainment TV; C-SPAN; CBN Cable Network; CNN; CNN Headline News; Discovery Channel; ESPN; Financial News Network; Lifetime; MTV; Nashville Network; Nickelodeon; The Weather Channel; USA Network. Current originations: Public access; educational access; government access. Fee: $30.00 installation; $15.95 monthly.
-Her 1
+Tier 1
 Subscribers: 103 (12/23/87). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: $5.00 installation; $9.95 monthly. Tier 2
@@ -679,9 +679,9 @@ Miles of plant: 94.5 (coaxial). Homes passed: 3,735. Total homes in franchised a
 Manager: Dwight Wilson.
 Ownership: Wometco Cable TV Inc. (see Cable Group Ownership), 100%. .
 CHERRYVILLE—See KINGS MOUNTAIN, NC.
-CHINA GROVE—See CONCORD, NC. 
-CHOCOWINITY—See WASHINGTON, NC. 
-CHOWAN COUNTY—See EDENTON, NC. 
+CHINA GROVE—See CONCORD, NC.
+CHOCOWINITY—See WASHINGTON, NC.
+CHOWAN COUNTY—See EDENTON, NC.
 CLAREMONT—See HICKORY, NC.
 CLARKTON—See BLADENBORO, NC.
 CLAY COUNTY—See HIAWASSEE, GA.
@@ -834,8 +834,8 @@ Fee: $10.50 monthly (each).
 Homes passed: 15,663. Total homes In franchised area: 15,663.
 Manager: Bill Nimmons.
 Ownership: Tele-Media Corp. (see Cable Group Ownership), 100%.
-DAVIDSON COUNTY (portions)—See THO-MASVILLE, NC.
-DAVIE COUNTY (portions)—See MOCKS-VILLE, NC.
+DAVIDSON COUNTY (portions)—See THOMASVILLE, NC.
+DAVIE COUNTY (portions)—See MOCKSVILLE, NC.
 DEER RUN—See ROCKY MOUNT (portions), NC.
 DENTON—CMA X, Box 759, Rte. 11, Welcome, NC 27374. Phone: 919-764-4234. County: Davidson. Population: N.A. (area served).
 TV Market Ranking: 47. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A.
@@ -856,7 +856,7 @@ DORTCHES—See NASH COUNTY (portions), NC.
 DREXEL—See BURKE COUNTY, NC.
 DREXEL—See also MORGANTON, NC.
 DUNN—See FAYETTEVILLE, NC.
-DUPLIN COUNTY—Southern Cablevision, Box 888, Richlands, NC 28574. Phone: 919-324-2396. County: Duplin. Plans service to Calypso, Rose Hill, Wallace. Population: 46,052,
+DUPLIN COUNTY—Southern Cablevision, Box 888, Richlands, NC 28574. Phone: 919-324-2396. County: Duplin. Plans service to Calypso, Rose Hill, Wallace. Population: 46,052.
 TV Market Ranking: Below 100 (portions); Outside TV markets (portions). Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,
 1983.
 Channel capacity: 35. Channels available but not In use: N.A,
@@ -1049,11 +1049,8 @@ Basic Service
 Subscribers: 142 (01/14/85). Programming (received off air): WGGS-TV (I), Greenville; WLOS (A), WSPA-TV (C), WYFF-TV (N) Greenville-Spartan-burg-Asheville.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; ESPN. Current originations: Time-weather; bulletin board.
 Fee: $15.00 installation; $13.00 monthly.
-TIbv 1
+Tier 1
 Subscribers: 65 (01/14/85). Began: N.A. Programming (via satellite): HBO.
-1988 Edition
-B-799
-uauic «picui»-~nuiui uaiumia
 Fee: $15,00 installation; $10.75 •' monthly.
 Tier 2
 Subscribers: 52 (01/14/85). Began: N.A. Programming (via satellite): Showtime. Fee: $15.00 Installation; $10.75 monthly.
@@ -1414,7 +1411,7 @@ HENDERSON—Henderson CATV Inc., Box 1436, 215 Young St., Henderson, NC 27536. P
 Vance. Also serves Klttrell, Vance County.
 Plans service to Warrenton. Population:
 N.A, (area served).
-TV Market Ranking: 73 (Henderson, Kit-trell & portions of Vance County); Outside TV markets (portions of Vance County). Original franchise award date:
+TV Market Ranking: 73 (Henderson, Kittrell & portions of Vance County); Outside TV markets (portions of Vance County). Original franchise award date:
 N.A. Franchise expiration date: N.A. Began: August 1,1969.
 Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
@@ -1994,7 +1991,6 @@ Ownership: Midrowsky, M. R. & Midrowsky, Linda, 50.0% each (see Cable Group Owne
 LOCUST—See ALBEMARLE, NC.
 LONG BEACH—See SOUTHPORT, NC.
 LONGVIEW—See HICKORY, NC.
-1988 Edition
 LONGWOOD—See SHALLOTTE, NC.
 LOUISBURG—Franklin Cablevision Inc., Box 607, Loulsburg, NC 27549. Phone: 919-496-2995. County: Franklin. Population: 3,238.
 TV Market Ranking: 73. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A.
@@ -2124,7 +2120,7 @@ Miles of plant: 48.2 (coaxial). Homes passed: 2,029.
 Manager: Craig Swenter. Chief technician: Joel Sproat.
 Franchise fee: None,
 Ownership: Sutton Capital Group (see Gable Group Ownership), 100%.
-'Marble—'Valley River Cable TV, Box 69, Marble, NC 28905. Phone: 704-837-6099. County: Cherokee. Population: N.A. (area served). TV Market Ranking: Outside TV markets. Original franchise award date: October 1, 1987. Franchise expiration date: October 1,2002. Channel capacity: 16. Basic Service Planned programming (via satellite): WTBS (I) Atlanta; WXIA-TV (N) Atlanta; WBBM-TV (C) Chicago; WABC-TV (A) New York; CBN Cable Network; CNN; Discovery Channel; ESPN; Hit Video USA; Nashville Network; Nickelodeon. Planned programming (via translator): WUNC-TV (P), Chapel Hill; WLOS (A), WYFF-TV (N), Greenvllle-Spartanburg-Ashevllle; WBIR-TV (C) Knoxville. Fee: $20,00 installation; $13.95 monthly. Tier 1 Planned programming (via satellite): HBO; Showtime. Fee: $7.95 monthly (HBO), $8.95 monthly (Showtime). Miles of plant planned: 17.0 (coaxial). Homes passed planned: 450. County fee: 3% of gross. Ownership: McLees, William, 100%.
+'Marble—'Valley River Cable TV, Box 69, Marble, NC 28905. Phone: 704-837-6099. County: Cherokee. Population: N.A. (area served). TV Market Ranking: Outside TV markets. Original franchise award date: October 1, 1987. Franchise expiration date: October 1,2002. Channel capacity: 16. Basic Service Planned programming (via satellite): WTBS (I) Atlanta; WXIA-TV (N) Atlanta; WBBM-TV (C) Chicago; WABC-TV (A) New York; CBN Cable Network; CNN; Discovery Channel; ESPN; Hit Video USA; Nashville Network; Nickelodeon. Planned programming (via translator): WUNC-TV (P), Chapel Hill; WLOS (A), WYFF-TV (N), Greenvllle-Spartanburg-Ashevllle; WBIR-TV (C) Knoxville. Fee: $20,00 installation; $13.95 monthly. Tier 1 Planned programming (via satellite): HBO; Showtime. Fee: $7.95 monthly (HBO), $8.95 monthly (Showtime). Miles of plant planned: 17.0 (coaxial).  planned: 450. County fee: 3% of gross. Ownership: McLees, William, 100%.
 Marble—See also MURPHY, NC.
 MARION—Madison Cablevision Inc., 307 N. Main St„ Marlon, NC 28752. Phone: 704-652-3818. County: McDowell. Also serves McDowell County. Population: N.A. (area served).
 TV Market Ranking: 46. Original franchise award date: N.A. Franchise expiration date: August 7,1993. Began: November 1,1968.
@@ -2168,7 +2164,7 @@ MARSHVILLE—See MONROE, NC.
 Marston—See ROCKINGHAM, NC.
 MARTIN COUNTY—See JAMESVILLE, NC.
 MARTIN COUNTY—See also PARMELE, NC.
-MARTIN COUNTY—See also WILLIAM-STON, NC.
+MARTIN COUNTY—See also WILLIAMSTON, NC.
 MATTHEWS—See CHARLOTTE, NC.
 MATTHEWS (portions)—See MECKLENBURG, NC.
 MAURY—See SNOW HILL, NC.
@@ -2224,7 +2220,7 @@ Miles of plant: 740.0 (coaxial). Additional miles planned: 250.0 (coaxial). Home
 Manager: Mary Lou Scott. Chief technician: Roger Martin.
 City fee: 3% of gross.
 Ownership: Vision Cable Communications Inc, (see Cable Group Ownership), 100%.
-Mecklenburg County—See MOORES-VILLE, NC.
+Mecklenburg County—See MOORESVILLE, NC.
 MICAVILLE—See BURNSVILLE, NC.
 MICRO—Mid Atlantic Cable, Box 666, Princeton, NC 27105. Phone: 919-936-1571. County: Johnston. Population: 438.
 TV Market Ranking: 73. Original franchise award date: N.A. Franchise expiration date: N.A. Began: December 1,1985. Channel capacity: N.A. Channels available but not In use: N.A.
@@ -2598,10 +2594,10 @@ PILOT—See BUNN, NC.
 PILOT MOUNTAIN—See SURRY COUNTY, NC.
 PINE BLUFF—See SOUTHERN PINES, NC.
 PINE KNOLL SHORES—See MOREHEAD CITY, NC.
-PINE LEVEL—See SELMA, NC. 
-PINEHURST—See SOUTHERN PINES, NC. 
-PINEOLA—See BANNER ELK, NC. 
-PINEVILLE—See MECKLENBURG, NC. 
+PINE LEVEL—See SELMA, NC.
+PINEHURST—See SOUTHERN PINES, NC.
+PINEOLA—See BANNER ELK, NC.
+PINEVILLE—See MECKLENBURG, NC.
 PINNACLE—See KING, NC.
 PITT COUNTY—See FARMVILLE, NC.
 PITT COUNTY—See also GREENVILLE, NC.
@@ -2825,7 +2821,7 @@ Ownership: Tele-Media Corp. (see Cable Group Ownership), 100%.
 ROBBINSVILLE—See BRYSON CITY, NC.
 ROBERSONVILLE—See PARMELE, NC.
 ROBESON COUNTY—See LAURINBURG, NC.
-ROBESON COUNTY—See also LUMBER-TON, NC.
+ROBESON COUNTY—See also LUMBERTON, NC.
 ROBESON COUNTY—See also RED SPRINGS, NC.
 ROCKINGHAM—Rocklngham-Hamlet Cable-Vision, 801 Broad Ave., Rockingham, NC 28379. Phone: 919-997-3106. County: Richmond. Also serves Hamlet, Richmond County, Plans service to Hoffman, Marston. Population: 48,000.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: January 1, 1990. Began: April 15,1968.
@@ -2850,7 +2846,7 @@ Miles of plant: 190.0 (coaxial). Additional miles planned: 55.0 (coaxial). Homes
 Manager: Russ Davis.
 Ownership: American TV & Communications Corp, (see Cable Group Ownership), 100%.
 ROCKINGHAM COUNTY—See EDEN, NC.
-ROCKINGHAM COUNTY—See also REIDS-VILLE, NC.
+ROCKINGHAM COUNTY—See also REIDSVILLE, NC.
 ROCKWELL—See SALISBURY, NC.
 ROCKY MOUNT—Tar River Communications Inc., Box 2548, Rocky Mount, NC 27801. Phone: 919-443-1592. Counties: Edgecombe, Nash & Wilson. Also serves Battleboro, Edgecombe County (eastern portion), Nash County, Nashville, Sharps-burg. Population: N.A. (area served).
 TV Market Ranking: 73 (portions of Nash County & Nashville); 84 (Rocky Mount, portions of Edgecombe & Nash Counties, Sharpsburg). Original franchise award date: N.A. Franchise expiration date: September 9,1990. Began: May 1, 1976.
@@ -3043,7 +3039,7 @@ Fee: $10.00 installation; $11.95 monthly.
 Tier 2
 Subscribers: 241 (01/01/88). Began: January 1,1981,
 Programming (via satellite): The Movie Channel.
-Fee: $10.00 Installation; $9.95 monthly. Tiers
+Fee: $10.00 Installation; $9.95 monthly. Tier 3
 Subscribers: 167 (01/01/88). Began: January 1,1982.
 Programming (via satellite): Playboy Channel.
 Fee: $10.00 Installation; $9.95 monthly. Tier 4
@@ -3081,7 +3077,7 @@ Current originations: Tjme-weather; message wheel; public access; educational ac
 Fee: S25.00 installation;. $13.00 monthly; $15.00 installation, $4.00 monthly (each additional set). ,
 Tier 1
 Subscribers: 1,897 (01/01/88). Began: August 1,1982.
-Programming (via satellite): Clnemax, Fee: $9.95 Installation; $9.00 monthly. Her 2
+Programming (via satellite): Clnemax, Fee: $9.95 Installation; $9.00 monthly. Tier 2
 Subscribers: 514 (01/01/88). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: N.A. ■	'L
@@ -3352,7 +3348,7 @@ Fee: $10.00 Installation; $7.95 monthly. Tier 2
 Subscribers: 483 (01/01/87). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $10.00 installation; $12.95 monthly.
-Tler3
+Tier 3
 Subscribers: 406 (01/01/87). Began: N.A.	;
 Programming (via satellite): The Movie Channel.
 Fee: $10.00 Installation; $9.00 monthly. Tier 4
@@ -3575,7 +3571,7 @@ Miles of plant: 112.1 (coaxial). Homes passed: 7,838. Total homes In franchised 
 Manager: Bill Paramore.
 City fee: 3% of gross.
 Ownership: Multimedia Cablevision Inc. (see Cable Group Ownership), 100%.
-WASHINGTON COUNTY—See JAMES-VILLE, NC.
+WASHINGTON COUNTY—See JAMESVILLE, NC.
 WASHINGTON PARK—See WASHINGTON, NC.
 WATAUGA COUNTY—See BANNER ELK, NC.
 WATAUGA COUNTY—See also BOONE, NC.
@@ -3712,7 +3708,7 @@ Manager: M. R. Midrowsky.
 Ownership: Midrowsky, M. R., pres. & Midrowsky, Linda, v.p., 50,0% each (see Cable Group Ownership).
 WHITE LAKE—See ELIZABETHTOWN, NC.
 WHITE PLAINS—See SURRY COUNTY, NC.
-WHITEVILLI—Carolina Communications, 608 S. Madison St., Whltevllle, NC 28472. Phone: 919-642-7171. County: Columbus. Also serves Brunswick, Chad-bourn. Population: 9,000.
+WHITEVILLE—Carolina Communications, 608 S. Madison St., Whltevllle, NC 28472. Phone: 919-642-7171. County: Columbus. Also serves Brunswick, Chad-bourn. Population: 9,000.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,1968.
 Channel capacity: 42. Channels available but not in use: N.A.
 Basic Service
@@ -3754,8 +3750,7 @@ City fee: 3% of gross.
 Ownership; Stevens, Bermey E., 100%.
 . See Stevens under Bcstg. Interests with Cable Holdings.
 WILMINGTON—Vision Cable of Wilmington, Box 566,1949 Dawson St., Wilmington, NC 28403. Phone: 919-763-4638. County; New Hanover. Also serves Castle Hayne, Lelahd, New Hanover County, Wrightsville Beach. Plans service to Boiling Spring Lakes. Population: 97,232.
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: April 1,
-■ ' 1962. ;; v:
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: April 1, 1962. ;; v:
 Channel capacity: 35 (plans two-way). Channels available but not in use: 2. Basic Service
 Subscribers: 33,037 (03/01/87). Programming (received off air): WNCT-TV (C), Greenville; WRAL-TV (C), WTVD (A), Raleigh-Durham; WECT (N), WJKA (C), WUNJ-TV (P), WWAY (A) Wilmington.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WWOR-TV (I) New York; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; CNN Headline News; ESPN; EWTN; Electronic Program Guide; Financial News Network; MTV; Nashville Network; National Jewish TV; Nickelodeon; PTL; Tempo TV; The Weather Channel; USA Network. Current originations: Channel guide; message wheel; public access; educational access; government access; religious access; library access.
@@ -3766,7 +3761,7 @@ Programming (via satellite): Cinemax. Fee: $10.00 installation; $9.00 monthly. T
 Subscribers: 1,549 (03/01/87). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: N.A.
-Tler3
+Tier 3
 Subscribers: 12,582 (03/01/87). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $9.00 monthly.
@@ -3845,12 +3840,12 @@ Miles of plant: 1603.0 (coaxial). Additional miles planned: 108.0 (coaxial). Hom
 Manager: Adrian E. Cox. Chief technician: David S, Schien.
 City fee: 3% of gross.
 Ownership: Summit Communications inc. (see Cable Group Ownership), 100%.
-WiNTERVILLE—See GREENVILLE, NC.
+WINTERVILLE—See GREENVILLE, NC.
 WINTON—See AHOSKIE, NC.
 WOODFIN—See BUNCOMBE COUNTY, NC.
 WRIGHTSVILLE BEACH—See WILMINGTON, NC.
 YADKIN COUNTY—See ELKIN, NC.
-YADKIN COUNTY—See also YADKIN-VILLE, NC.
+YADKIN COUNTY—See also YADKINVILLE, NC.
 YADKINVILLE—Star Cable of North Carolina L. P„ Box 950, Dobson, NC 27017. Phone: 919-386-4461. County: Yadkin. Also serves East Bend, Yadkin County. Population: 2,216.
 TV Market Ranking: 47. Original franchise award date: October 1,1981. Franchise expiration date: October 1,1996. Began: N.A.
 Channel capacity: 26. Channels available but not in use: N.A.
