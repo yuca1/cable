@@ -2045,7 +2045,7 @@ Subscribers: 1,057 (01/01/88), Programming (received off air): KPTS (P), KWCH-TV
 Programming (via microwave): KSHB-TV (I) Kansas City.
 Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; CNN Headline News; Country Music TV; ESPN; MTV; Nickelodeon; The Weather Channel.
 Current originations: Emergency alert. Fee: $20.00 installation; $13.95 monthly; $20.00 installation, $3.00 monthly (each additional set).
-Tlerl
+Tier 1
 Subscribers: 183 (01/01/88). Began: March 1,1986.
 Programming (via satellite): Cinemax. Fee: $20.00 Installation; $9.95 monthly.
 Tier 2
@@ -3542,7 +3542,7 @@ Subscribers: 1,990 (01/01/88). Began: N.A.
 Programming (via satellite): Cinemax. Fee: $15.00 installation; $7.05 monthly. Tier 2
 Subscribers: 1,304 (01/01/88). Began: N.A.
 Programming (via satellite): Disney Channel.
-Fee: $15.00 installation; $7.05 monthly. Tiers
+Fee: $15.00 installation; $7.05 monthly. Tier 3
 Subscribers: 5,367 (01/01/88). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $15.00 installation; $7.05 monthly. Tier 4

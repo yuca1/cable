@@ -288,7 +288,7 @@ Manager: Lisa Foshee.
 County fee: 3% of gross.
 Ownership: Essex Communications Corp. (see Cable Group Ownership), 100%. Sale pends to Multivision Cable TV Corp. (see Cable Group Ownership).
 BALDWIN COUNTY—See also MOBILE COUNTY, AL.
-BALDWIN COUNTY (portions)—See FAIR-HOPE, AL.
+BALDWIN COUNTY (portions)—See FAIRHOPE, AL.
 BALDWIN COUNTY (portions)—See also GULF SHORES, AL.
 BALDWIN COUNTY (portions)—See also LILLIAN, AL.
 BARTON—See CHEROKEE, AL.
@@ -372,7 +372,7 @@ Miles of plant: 1311.0 (coaxial). Homes passed: 143,564. Total homes In franchis
 Manager: Michael D’Ambra. Chief technician: Dave McNamara.
 City fee: 5% of gross.
 Ownership: American TV & Communications Corp. (see Cable Group Ownership), 87%; remainder undisclosed.
-BL0UNTSVILLE—Cheaha Cablevision Inc., Box 538, Talladega, AL 35160. Phone: 205-362-6155. County: Blount. Population: 1,509.
+BLOUNTSVILLE—Cheaha Cablevision Inc., Box 538, Talladega, AL 35160. Phone: 205-362-6155. County: Blount. Population: 1,509.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A, Channel capacity: 12. Channels available but not In use: N.A.
 Basic Service Subscribers: 123 (12/01/86). Programming (received off air): WBIQ (P), WBRC-7V (A), WTTO (I), WVTM-TV (N), Birmingham; WAAY-TV (A), WAFF (N), WHNT-TV (C) Huntsville-Qecatur. Programming (via satellite): WTBS (I) Atlanta; ESPN; Nashville Network.
 Fee: $25.00 Installation; $13.00 monthly.
@@ -426,7 +426,7 @@ Ownership: Essex Communications Corp. (see Cable Group Ownership), 100%. Sale pe
 BRIDGEPORT—See SOUTH PITTSBURG, TN.
 BRIGHTON—See BESSEMER, AL.
 BRILLIANT—See WINFIELD, AL.
-BR00KS1DE—See FORESTDALE, AL.
+BROOKSIDE—See FORESTDALE, AL.
 BROOKWOOD—West Alabama TV Cable Co., Box 134, Brookwood, AL 35444. Phone: 205-553-1678. County: Tuscaloosa. Plans service to Coaling, Peterson, Tuscaloosa County, Vance. Population: N.A. (area served).
 TV Market Ranking: 40. Original franchise award date: N.A. Franchise expiration
 date: June 1, 2008. Began: July 1, 1984.
@@ -605,7 +605,7 @@ Miles of plant: 34.0 (coaxial). Additional miles planned: 4.0 (coaxial). Homes p
 Manager: Sanford Maner. Chief technician: Fred Smith.
 City fee: 2% of gross.
 Ownership: Cheaha Cablevision Inc. (see Cable Group Ownership), 100%.
-C1TRONELLE—Citronelle Cable TV Inc., Box 307, Citronelle, AL 36522. Phone: 205-866-7730. County: Mobile. Population: 2,841.
+CITRONELLE—Citronelle Cable TV Inc., Box 307, Citronelle, AL 36522. Phone: 205-866-7730. County: Mobile. Population: 2,841.
 TV Market Ranking: 59. Original franchise award date: N.A. Franchise expiration date: N.A. Began: December 1,1981. Channel capacity: 19. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 459 (12/04/86). Programming (received off air): WALA-TV (N), WEIQ (P), WKRG-TV (C), WPMI (I), Mobile; WEAR-TV (A) Pensacola. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; CNN Headline News; Discovery Channel; ESPN; MTV; Nashville Network; USA Network.
@@ -628,7 +628,7 @@ CLANTON—Storer Cable Communications, Box 546, Prattville, AL 36067. Phone: 205
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: March 26,1979.
 Channel capacity: 21 (2-way capable). Channels available but not in use: None.
 Basic Service
-Subscribers: Included with Prattville, AL.Programming (received off air): WBIQ (P), WBRC-TV (A), WTTO (I), WVTM-TV (N), Birmingham; WSFA(N), Montgomery; WAKA (C), Selma; WDBB (I) Tuscaloosa; allband FM.
+Subscribers: Included with Prattville, AL. Programming (received off air): WBIQ (P), WBRC-TV (A), WTTO (I), WVTM-TV (N), Birmingham; WSFA(N), Montgomery; WAKA (C), Selma; WDBB (I) Tuscaloosa; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; C-SPAN; CBN Cable Network; CNN; ESPN; Home Shopping Network; Lifetime; Nashville Network; Nickelodeon; USA Network. Fee; $30.00 Installation; $13.50 monthly; $3.50 converter; $20.00 Installation, $2.50 monthly (each additional set).
 Tier 1
 Subscribers: Included with Prattville, AL. Began: N.A.
@@ -1366,8 +1366,8 @@ Manager: Bob Garner. Chief technician: James Venable.
 Ownership: Essex Communications Corp. (see Cable Group Ownership), 100%. Sale pends to Multivision Cable TV Corp. (see Cable Group Ownership).
 GRANT—See NEW HOPE, AL.
 GRAYSON VALLEY—See TRUSSVILLE, AL.
-GRAYSVILLE—See FORESTDALE, AL. 
-GREEN POND—See CENTREVILLE, AL. 
+GRAYSVILLE—See FORESTDALE, AL.
+GREEN POND—See CENTREVILLE, AL.
 GREEN VALLEY—See HOOVER, AL.
 GREENSBORO—Essex Cable TV, 125 S. Main St., Linden, AL 36748. Phone: 904-932-5208. County: Hale. Also serves Hale County (portions). Population: 3,371.
 TV Market Ranking: Below 100. Original franchise award date: August 20,1984. Franchise expiration date: August 19, 1999. Began: October 1,1970.
@@ -1534,7 +1534,7 @@ Programming (via satellite): HBO. ; Fee: $10.00 Installation; $10.00 monthly. .
 TV & Cable Factbook No. 56
 V Manager: Kent Owens.
 Ownership: Paradigm Communications Inc., (see Cable Group Ownership), 100%.
-HALE COUNTY (portions)—See GREENS-BORO, AL.
+HALE COUNTY (portions)—See GREENSBORO, AL.
 HALEYVILLE—Cheaha Cablevision, Box 538, Talladega, AL 35160. Phone: 205-486-2165. County: Winston. Population: 7,600.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: July 17, 2006. Began: April 1,1969.
 Channel capacity: 12. Channels available but not in use: None.
@@ -1791,7 +1791,7 @@ Fee: $10.95 Installation; $3.50 monthly (MTV & Nashville Network available In st
 Subscribers: 2,217 (01/01/86). Began: N.A.	■-	■	I
 Programming (via satellite): Cinemax. ' Fee: $10.95 Installation; $11.95 monthly ($1.00 monthly stereo).
 Tier 2	,	...	|
-Subscribers: 1,433. (01/01/86). Began: N.A.	"■,'!
+Subscribers: 1,433 (01/01/86). Began: N.A.	"■,'!
 Programming (via satellite): Disney Channel;	1	■■	’	-" i
 TV & Cable Factbook No. 56
 Fee: $10.95 installation: $11.95 monthly.
@@ -1826,7 +1826,7 @@ Miles of plant: 25.0 (coaxial). Additional miles planned: 11.0 (coaxial). Homes 
 Manager: Joe Crowder. Chief technician: Don Bumpers.
 City fee: 3% of gross.
 Ownership: Essex Communications Corp. (see Cable Group Ownership), 100%. Sale pends to Multivision Cable TV Corp. (see Cable Group Ownership).
-JACKSON COUNTY—See GURLEY, AL. 
+JACKSON COUNTY—See GURLEY, AL.
 JACKSONVILLE—See ANNISTON, AL.
 JASPER—Cheaha Cablevision Inc., Box 269, Jasper, AL 35501. Phone: 205-221-4047. County: Walker. Also serves Carbon Hill, Cordova, Parrish. Population: 13,583.
 TV Market Ranking: 40 (Cordova & Parrish); Outside TV markets (Jasper & Carbon Hill). Original franchise award date: January 1, 1985. Franchise expiration date: January 1, 2005. Began: April 1, 1969.
@@ -1848,10 +1848,10 @@ Manager: 0. B. Forrester. Chief technician: Ricky Blackwell.
 Ownership: Cheaha Cablevision Inc. (see Cable Group Ownership), 100%.
 Note: Current information not available.
 JEFFERSON COUNTY—See FORESTDALE, AL.
-JEFFERSON COUNTY—See also GARDEN-DALE, AL.
-JEFFERSON COUNTY—See also HOME-WOOD, AL.
+JEFFERSON COUNTY—See also GARDENDALE, AL.
+JEFFERSON COUNTY—See also HOMEWOOD, AL.
 JEFFERSON COUNTY—See also HOOVER, AL.
-JEFFERSON COUNTY—See also TRUSS-VILLE, AL.
+JEFFERSON COUNTY—See also TRUSSVILLE, AL.
 JEMISON—Premiere Cable Communications, Box 1047, Gardendale, AL 35071. Phone: 205-631-9555. County: Chilton. Also serves Thorsby. Population: 3,250. TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 1,1984.
 Channel capacity: 36. Channels available but not In use: 17.
 Basic Service
@@ -2008,8 +2008,8 @@ Ownership: Essex Communications Corp. (see Cable Group Ownership), 100%. Sale pe
 LINEViLLE—See ASHLAND, AL.
 LIPSCOMB—See BESSEMER, AL.
 LITTLE NOSE BAY ESTATES—See CENTRE, AL.
-UTTLEVILLE—See RUSSELLVILLE, AL.
-LiVINGSTON—Essex Cable TV, Box 218, York, AL 36925. Phone: 205-392-7211. County: Sumter. Population: 3,187.
+LITTLEVILLE—See RUSSELLVILLE, AL.
+LIVINGSTON—Essex Cable TV, Box 218, York, AL 36925. Phone: 205-392-7211. County: Sumter. Population: 3,187.
 TV Market Ranking: Below 100. Original franchise award date: July 27, 1970. Franchise expiration date: July 26,1995. Began: July 1,1970.
 Channel capacity: 14. Channels available but not in use: 2.
 Basic Service
@@ -2171,7 +2171,7 @@ Manager: Maurice Rabren. Chief technician: Greg Rabren.
 City fee: 3% of gross.
 Ownership: B & L Communications (see Cable Group Ownership), 100%.
 MIDFIELD—See FAIRFIELD, AL.
-MIDLAND CITY—-See DALEVILLE, AL.
+MIDLAND CITY—See DALEVILLE, AL.
 MIDWAY—Corn-Link Inc., Box 7, 200 E. Hardway St., Union Springs, AL 36089. Phone: 205-738-2000. County: Bullock. Population: 593.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: N.A. Channels available but not In use: N.A.
 Basic Service .
@@ -2353,7 +2353,7 @@ Manager: Ray Clemons. Chief technician:
 ■ Walter Welch.
 City fee: 3% of gross.
 Ownership: Storer Cable Communications (see Cable Group Ownership), .100%.
-MONTGOMERY COUNTY—B & L Communications, Box 970, Andalusia, AL 36420. Phone: 205-222-6110. County: Montgomery. Population: N.A. (area served). TV Market Hanking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: 12. Channels available but not in use: N.A.
+MONTGOMERY COUNTY—B & L Communications, Box 970, Andalusia, AL 36420. Phone: 205-222-6110. County: Montgomery. Population: N.A. (area served). TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 240 (08/10/87). Programming (received off air): WAIQ (P), WCOV-TV (I), WKAB-TV (A), WSFA (N), Montgomery; WAKA (C) Selma. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; ESPN; Nashville Network.
 Fee: $35.00 Installation; $12.00 monthly,
@@ -2393,7 +2393,7 @@ Equipment: Scientific-Atlanta satellite antenna.
 Manager: Frank Leiter.
 Ownership: McDonald Group (see Cable Group Ownership), 100%. .
 Note: Current information not available.
-MOUNTAIN BROOK—See also HOME-WOOD, AL.
+MOUNTAIN BROOK—See also HOMEWOOD, AL.
 MULGA—See MAYTOWN, AL.
 MUNFORD—See ANNISTON, AL.
 MUSCLE SHOALS—See FLORENCE, AL.
@@ -2644,7 +2644,7 @@ Manager: Peggy Dickinson. Chief technician: Lee Jackson.
 City fee: 2.5% of gross.
 Ownership: Ragland Telephone Co. Inc., 100.%. Bob Dickinson, principal.
 RAINBOW CITY—See GADSDEN, AL.
-RAINSVlfl-E—Scottsboro TV Inc., W. Main St,, Ralnsvllle, AL 35986. Phone: 205-574-4115. Counties: De Kalb & Jack-son. Also serves Dutton, Fyffe, Section, Shiloh. Plans service to Sylvania. Population: 6,606.
+RAINSVILLE—Scottsboro TV Inc., W. Main St,, Ralnsvllle, AL 35986. Phone: 205-574-4115. Counties: De Kalb & Jack-son. Also serves Dutton, Fyffe, Section, Shiloh. Plans service to Sylvania. Population: 6,606.
 TV Market Ranking: 96 (Section & Dutton); Outside TV markets (Ralnsvllle, Fyffe & Shiloh). Original franchise award date: N.A. Franchise expiration date: N.A. Began: March 1,1981.
 Channel capacity: 36. Channels available but not In use: 14.
 Basic Service
@@ -2795,7 +2795,7 @@ City fee: 3% of gross.
 Ownership: Essex Communications Corp. (see Cable Group Ownership), 100%. Sale pends to Multivision Cable TV Corp. (see Cable Group Ownership).
 ROCK MILLS—See ROANOKE, AL.
 ROCKY RIDGE—See HOOVER, AL.
-ROQEBSV1LLE—Rogersvllle TV Cable, Box 630, Rogersvllle, AL 35652. Phone: 205-247-3221. Counties: Colbert, Lauderdale & Lawrence. Also serves Anderson, Center Star, Colbert County (portions), Elgin, Klllen, Lauderdale County (portions), Leighton, Lexington, Town Creek. Population: N.A. (area served).
+ROGERSVILLE—Rogersvllle TV Cable, Box 630, Rogersvllle, AL 35652. Phone: 205-247-3221. Counties: Colbert, Lauderdale & Lawrence. Also serves Anderson, Center Star, Colbert County (portions), Elgin, Klllen, Lauderdale County (portions), Leighton, Lexington, Town Creek. Population: N.A. (area served).
 TV Market Ranking: 96. Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1,1981.
 Channel capacity: 36. Channels available but not In use: 19.
 Basic Service
@@ -2844,7 +2844,7 @@ Subscribers: Included with Troy, AL. Programming (received off air): WDHN (A), W
 CBN Cable Network; CNN; Discovery Channel; ESPN; Home Shopping Network; Lifetime; Nashville Network; Nickelodeon; The Weather Channel; USA Network.
 Fee: $30.00 installation; $14.50 monthly; $3.50 converter; $20.00 Installation, $2.50 monthly (each additional set).
 Tier 1
-Subscribers: Included with Troy, AL. (Began: February 1, 1984.
+Subscribers: Included with Troy, AL. Began: February 1, 1984.
 Programming (via satellite): HBO; Show-• time.
 Fee: $10.95 monthly (each).
 Local advertising: Yes. Available In locally originated & satellite distributed programming.
@@ -2882,7 +2882,7 @@ Sale pends to Multivision Cable TV Corp.
 '	i
 SCOTTSBORO—Scottsboro TV Cable Inc.,	i
 223 W. Laurel. Scottsboro^L.35768. Phone: 205-574-4414. County: Jackson.	?
-Also serves Hollywood, Powelh- Popula- -tlon: 15,868..	'
+Also serves Hollywood, Powelh- Population: 15,868.
 TV Market Ranking:.96. Original franchise .-.award date: N.A. Franchise expiration date: N.A. Began: November 5,1974.
 : Channel capacity: 36. Channels available : but not in use: 17.
 Basic Service
@@ -2960,10 +2960,10 @@ Ownership: Essex Communications Corp. (see Cable Group Ownership), 100%. Sale pe
 SHADES MOUNTAIN—See HOOVER, AL.
 SHAWMUT—See WEST POINT, GA.
 SHEFFIELD—See FLORENCE, AL.
-SheHleld—See also MUSCLE SHOALS, AL.
+Sheffield—See also MUSCLE SHOALS, AL.
 SHELBY COUNTY—See HARPERSVILLE, AL.
 SHELBY COUNTY—See also HOOVER, AL.
-SHELBY COUNTY—See also MONTE-VALLO, AL.
+SHELBY COUNTY—See also MONTEVALLO, AL.
 SHELBY COUNTY (northwest portion)— See PELHAM, AL.
 SHELBY COUNTY (portions)—See COLUMBIANA, AL.
 SHELBY LAKE—See LEEDS, AL.
@@ -3013,7 +3013,7 @@ City fee: 2% of gross.
 Ownership: Rural Cablevision Inc. (see Cable Group Ownership), 100%.
 STEVENSON—See SOUTH PITTSBURG, TN.
 SUGAR HILL—See MONROEVILLE, AL.
-SULLiGENT—Paradigm Alabama Communications, Box 866, Guin, AL 35563. Phone: 205-695-7181. County: Lamar. Also serves Vernon. Population: 4,739. TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: December 1, 1964.
+SULLIGENT—Paradigm Alabama Communications, Box 866, Guin, AL 35563. Phone: 205-695-7181. County: Lamar. Also serves Vernon. Population: 4,739. TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: December 1, 1964.
 Channel capacity: 35. Channels available but not in use: 13.
 Basic Service
 Subscribers: 1,423 (10/30/86). Programming (received off air): WBIQ (P), WBMG (C), WBRC-TV (A), WVTM-TV (N), Birmingham; WCBI-TV (C), Columbus; WTVA (N), Tupelo-Columbus; WCFT-TV (C) Tuscaloosa.
@@ -3072,7 +3072,7 @@ CBN Cable Network; CNN; ESPN; MTV; Nashville Network; Nickelodeon; The Weather C
 Fee: $30.00 installation; $13.00 monthly; $3.50 converter; $20.00 instal-
 lation, $2.50 monthly (each additional set).
 Tier 1
-Subscribers: Included with Prattville, AL. (Began: December 7,1979. Programming (via satellite): HBO; The Movie Channel; Showtime.
+Subscribers: Included with Prattville, AL. Began: December 7,1979. Programming (via satellite): HBO; The Movie Channel; Showtime.
 Fee: $10.00 monthly (each).
 Equipment: Scientific-Atlanta headend; AEL & GTE Sy/vania amplifiers; Times cable; Fort Worth Tower satellite antenna.
 Miles of plant, homes passed & total homes in franchised area included with Prattville, AL.
@@ -3090,7 +3090,7 @@ Subscribers: 3,875 (03/07/86). Programming (received off air): WJSU-TV (C), Anni
 Current originations: Time-weather; bulletin board.
 Planned originations: Local live; film.
 Fee: $13.95 installation; $9.00 monthly. Tier 1
-Subscribers; ISO (03/07/06). Began: May 1, 1980.
+Subscribers; 150 (03/07/06). Began: May 1, 1980.
 Programming (via satellite): The Movie Channel,
 Fee: $9.00 monthly.
 Tier 2
@@ -3106,7 +3106,7 @@ Ownership: Cheaha Cablevision Inc. (see Cable Group Ownership), 100%.
 TALLADEGA—See also ANNISTON, AL.
 Talladega County—See LINCOLN, AL.
 TALLAPOOSA COUNTY—See ALEXANDER CITY, AL.
-TALLAPOOSA COUNTY—See also WE-TUMPKA, AL.
+TALLAPOOSA COUNTY—See also WETUMPKA, AL.
 TALLASSEE—See WETUMPKA, AL.
 TARRANT CITY—See CENTER POINT, AL.
 TAYLOR—See DALEVILLE, AL.
@@ -3166,7 +3166,7 @@ City fee: 3% of gross.
 Ownership: Freeman, Harold (see Cable Group Ownership), 100%.
 TROY—Storer Cable Communications, Box 1009, Fairhope, AL 36533. Phone: 205-928-0235. County: Pike. Also serves Brundrldge. Population: 15,800.
 TV Market Ranking: Below 100, Original , franchise award date: N.A. Franchise expiration date: April 11, 1989. Began: November 1,1974.
-Channel capacity: 35 (2-way capable). Channels available but not In use: N.A. Note: Subscriber counts, miles of plant, homes passed & total homes in franchised area include information for Bay Mlnette, Elba, Fairhope, Florala/ Gen--eva, Hartford & Samson, AL; Blount-stown, Chattahoochee, Chipley, De Fu-nlak Springs & Graceville, FL.
+Channel capacity: 35 (2-way capable). Channels available but not In use: N.A. Note: Subscriber counts, miles of plant, homes passed & total homes in franchised area include information for Bay Mlnette, Elba, Fairhope, Florala, Geneva, Hartford & Samson, AL; Blount-stown, Chattahoochee, Chipley, De Fu-nlak Springs & Graceville, FL.
 Basic Service
 Subscribers: 19,342 (01/01/88).	>
 Programming (received off air): WTVM (A), Columbus; WTVY (C), Dothan; WDIQ (P), Dozier; WCOV-TV (I), WKAB-TV (A), WSFA (N), Montgomery; WAKA (C) Selma,
@@ -3289,7 +3289,7 @@ Fee: $8.00 installation; $10.00 monthly. Equipment: Jerrold headend; Magnavox am
 Miles of plant: 6.0 (coaxial). Homes passed: 220. Total homes in franchised area: 220.
 Manager: Cary Manning.
 Ownership: Better Vision Cable Co. Inc. (see Cable Group Ownership), 100%.
-WALKER COUNTY (portions)—See SUMI-TON.AL.
+WALKER COUNTY (portions)—See SUMITON.AL.
 WARRENTON—Warrenton Cablevlsion Co., Box 294, Arab, AL 35016. County: Marshall. Population: 900.
 TV Market Ranking: 96. Original franchise award date: N.A. Franchise expiration date: N.A. Began: December 1,1966. Channel capacity: 12. Channels available but not in use: 3.
 Basic Service
@@ -3346,7 +3346,7 @@ Manager: Ford Clark. Chief technician: Bruce Burgess.
 City fee: 3% of gross.
 Ownership: NewChannels Corp. (see Cable Group Ownership), 100%.
 Whitehall—See FORT PAYNE, AL.
-WILMER—See SEMMES, AL. 
+WILMER—See SEMMES, AL.
 WILSONVILLE—See COLUMBIANA, AL.
 WINFIELD—West Alabama TV Cable Co. Inc., Box 369, Winfield, AL 35594. Phone: 205-487-2884. Counties: Fayette & Marion. Also serves Brilliant. Population: 5,371.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 10,1965.

@@ -674,7 +674,7 @@ Subscribers: 5,300 (01/14/88). Programming (received off air): WGTV (P), Athens;
 Programming (via satellite): WGN-TV (I) Chicago; Arts & Entertainment; CBN Cable Network; CNN; Discovery Channel; ESPN; Financial News Network; Lifetime; MTV; Nashville Network; Nickelodeon; USA Network.
 Current originations: Time-weather; religious access.
 Fee: $20.00 Installation; $14.50 monthly.
-TIbM
+Tier 1
 Subscribers: 292 (01/14/88). Began: November 1,1983.
 Programming (via satellite): Disney Channel.
 Fee: $10.00 Installation; $9.00 monthly. Tier 2
@@ -1294,7 +1294,7 @@ Fee: $10.00 Installation; $12.95 monthly.
 Tier 4
 Subscribers: 232 (01/01/88). Began: January 1,1980.
 Programming (via satellite): The Movie Channel.
-Fee: $10.00 Installation; $9.95 monthly. Tiers
+Fee: $10.00 Installation; $9.95 monthly. Tier 5
 Subscribers: 107 (01/01/88). Began: January 1,1982.
 Programming (via satellite): Playboy Channel.
 Fee: $10.00 Installation; $9.95 monthly. Tier 6
@@ -2114,7 +2114,7 @@ Fee: $10.00 installation; $12.95 monthly.
 Tier 4
 Subscribers: 1,233 (01/01/88). Began: January 1,1979.
 Programming (via satellite): The Movie Channel.
-Fee: $10.00 Installation; $9.95 monthly. Tiers
+Fee: $10.00 Installation; $9.95 monthly. Tier 5
 Subscribers: 873 (01/01/88). Began: January 1,1982.
 Programming (via satellite): Playboy Channel.
 Fee: $10.00 installation; $9.95 monthly. Tier 6
@@ -3101,7 +3101,7 @@ Subscribers: 1,123 (11/21/86). Programming (received off air): WJSU-TV (C), Anni
 Programming (via satellite): CBN Cable Network; CNN; Discovery Channel;
 ESPN; MTV; Nashville Network; Nickelodeon. Planned programming (via satellite): CNN Headline News; Cable Value Network.
 Fee: $15.00 installation; $11.95 monthly; $20.00 installation, $2.50 monthly (each additional set).
-Her 1
+Tier 1
 Subscribers: 419 (11/21/86). Began: N.A.
 Programming (via satellite): Clnemax; Disney Channel; HBO; Showtime.
 Fee: $10.95 monthly (each).

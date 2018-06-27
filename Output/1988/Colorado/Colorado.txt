@@ -284,7 +284,7 @@ Tier 2
 Subscribers: 3,144 (01/01/88). Began: January 9,1981.
 Programming (via satellite): HBO.
 Fee: $9.00 monthly.
-Tiers
+Tier 3
 Subscribers: 2,016 (01/01/88). Began: January 9,1981.
 Programming (via satellite): The Movie Channel.
 Fee: $8.00 monthly.
@@ -549,7 +549,7 @@ Subscribers: 861 (01/01/88). Began: October 1,1979.
 Programming (via satellite): Cinemax. Fee: $24.95 Installation; $9.95 monthly. Tier 2
 Subscribers: 572 (01/01/88). Began: N.A.
 Programming (via satellite): Disney Channel.
-Fee: $24.95 Installation; $9.95 monthly. Tiers
+Fee: $24.95 Installation; $9.95 monthly. Tier 3
 Subscribers: 1,856 (01/01/88). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $24.95 Installation; $9.95 monthly. Tier 4
@@ -1384,9 +1384,9 @@ Manager: Rich Fremstad.
 Ownership: Fanch Communications Inc. (see Cable Group Ownership), 100%.
 KEYSTONE INTERNATIONAL DEVELOPMENT—See FRISCO, CO.
 *Klowa—Elbert County Cable, Box 452, Kiowa, CO 80117. Phone: 303-621-2820. County: Elbert. Population: 206. TV Market Ranking: Outside TV markets. Original franchise award date: May 1,1984. Franchise expiration date: N.A. Ownership: Rocky Mountain Communications Inc. (see Cable Group Ownership), 100%.
-KITTREDQE—See EVERGREEN, CO.
+KITTREDGE—See EVERGREEN, CO.
 KREMMLING—Heritage Cablevision, 387 E. Agate Ave,, Granby, CO 80446. Phone: 303-887-37/3. County: Grand. Also serves Fraser, Granby, Grand Lake, Hot Sulphur Springs, Silver Creek, Three Lakes, Winter Park. Population: N.A. /area sQrvsd)
-TV Market Flanking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: February 1, 1970.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: February 1, 1970.
 Channel capacity: 21. Channels available but not In use: 7.
 Basic Service
 Subscribers: 4,341 (01/01/85). Programming (received off air): kCNC-TV (N), KMGH-TV (C), KRMA-TV (P), KUSA-TV (A), KWGN-TV (I) Denver; allband FM.
@@ -1522,7 +1522,7 @@ Miles of plant: 23.0 (coaxial). Homes passed: 1,100.
 Manager: Bill Deatherage.
 Ownership: Fanch Communications Inc. (see Cable Group Ownership), 100%. Purchased from Cable Systems Inc., Jan. 1988.
 Note: Current information not available.
-US ANIMAS COUNTY (portions)—See TRINIDAD, CO.
+LAS ANIMAS COUNTY (portions)—See TRINIDAD, CO.
 LEADVILLE—Leadvllle Cable TV Co., Box 51, 317 Harrison Ave., Leadville, CO 80461. Phone: 303-486-1485, County: Lake. Also serves Lake County. Population: 10,000.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: May 21, 1989. Began: March 1, 1954.
 Channel capacity: 12 (2-way capable). Channels available but not in use: 4. Basic Service
@@ -1842,7 +1842,7 @@ Basic Service
 Subscribers: 278 (11/01/85). Programming (received off air): KCNC-TV (N), KRMA-TV (P), KWGN-TV (I), Denver; KJCT-TV (A), Grand Junction; KREY-TV (C.N) Montrose.
 Programming (via satellite): WTBS (1) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Nashville Network.
 Fee: $20.00 installation; $11.50 monthly.
-Tlerl
+Tier 1
 Subscribers: 7 (03/27/85), Began: N.A. Programming (via satellite): Disney Channel.
 Fee: $21.50 monthly (Includes basic). Tier 2
 Subscribers: 60 (03/27/85). Began: N.A. Programming (via satellite): The Movie Channel.
@@ -2000,7 +2000,7 @@ Subscribers: Included with Craig, CO. Programming (received off air): KREX-TV (C
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Arts & Entertainment; CBN Cable Network; CNN; ESPN; Nickelodeon; USA Network. Programming (via translator): KCNC-TV (N), KRMA-TV (P), KUSA-TV (A), Denver; KSL-TV (C), KTVX (A), KUTV (N) Salt Lake City.
 Current originations: Bulletin board,
 Fee: $14.95 Installation; $12.95 monthly.
-Tlerl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Cinemax; Disney Channel; HBO; Showtime.
 Fee: $9.95 monthly (each).
 Equipment: C-COR amplifiers; Comm/ Scope cable; Jerrold set top converters; Anixter-Pruzan satellite antenna; Gardiner satellite receivers.
@@ -2069,7 +2069,7 @@ Basic Service
 Subscribers: 2,050 (01/01/88). Programming (received off air): KRDO-TV (A) Colorado Springs-Pueblo; 1 FM. Programming (via satellite): WGN-TV (I) Chicago; KCNC-TV (N), KMGH-TV (C), KRMA-TV (P), KUSA-TV (A) & KWGN-TV (1) Denver; American Movie Classics; C-SPAN; CBN Cable Network; CNN Headline News; Cable Value Network; Discovery Channel; ESPN; Lifetime; Nashville Network; Nickelodeon; The Weather Channel; USA Network. Planned programming (via satellite): WTBS (I) Atlanta.
 Current originations: Time-weather; message wheel.
 Fee: $25.00 installation; $15.75 monthly; $5.00 converter; $25.00 installation, $5.00 monthly (each additional set).
-Tlerl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Cinemax; Disney Channel; Showtime.
 Fee: $10.95 monthly (Cinemax or Disney), $11.95 monthly (Showtime).
 Tier 2
@@ -2087,7 +2087,7 @@ SAN LUIS—Bitterfoot Cable TV Inc., Suite 1050, The Holly Sugar Bldg., Colorado
 Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 130 (11/14/86). Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; Discovery Channel; ESPN; MTV; Nashville Network; Nickelodeon; USA Network; Univislon.
-Fee: $20.00 installation; $9.95 monthly. Tlerl
+Fee: $20.00 installation; $9.95 monthly. Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Disney Channel; The Movie Channel.
 Fee: $10.00 monthly (each), $18.00 monthly (both).
 Ownership: American Televenture Inc. (see Cable Group Ownership), 100%. Purchased from Keller CATV Inc., 1987.
@@ -2197,7 +2197,7 @@ Programming (via microwave): KCNC-TV (N), KMGH-TV (C), KRMA-TV (P), KUSA-TV (A),
 Current originations: Time-weather.
 Fee: $20.00 installation; $8.92 monthly; $20.00 installation, $1.00 monthly (each additional set).
 Commercial fee: $20.00.
-Tlerl
+Tier 1
 Subscribers: 1,556 (02/12/86). Began: October 1,1978.
 Programming (via satellite): Disney Channel; HBO.
 Fee: $20.00 Installation; $11.95 monthly (each).

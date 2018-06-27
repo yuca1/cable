@@ -600,7 +600,7 @@ Subscribers: 10,170 (12/01/86). Programming (received off air): WTIU (P), Bloomi
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Arts & Entertainment; CBN Cable Network; CNN; CNN Headline News; ESPN; Financial News Network; Lifetime; MTV; Nashville Network; Nickelodeon; The Weather Channel; USA Network; Video Hits One.
 Current originations: Public access; educational access; government access; religious access; local sports.
 Fee: $20.00 Installation; $13.95 monthly.
-Tlerl
+Tier 1
 Subscribers: 1,441 (12/01/87). Began: April 1,1981.
 Programming (via satellite): Cinemax. Fee: $15.00 installation; $9.00 monthly. Tier 2
 Subscribers: 815 (12/01/87). Began: April 1,1983.
@@ -609,7 +609,7 @@ Fee: $15.00 Installation; $8.95 monthly. Tier 3
 Subscribers: 2,408 (12/01/87). Began: September 1,1977.
 Programming (via satellite): HBO.'
 Fee: $15.00 installation; $10.95 monthly.
-Tier4	.
+Tier 4
 Subscribers: 788 (12/01/87). Began: N.A.
 Programming (via satellite): The Movie Channel.	-	:	. .rj
 Fee: $15.00 Installation; $9.00.monthly. Tier 5	,
@@ -624,7 +624,7 @@ Channel capacity: 30 (plans two-way). Channels available but not In use: N.A. Ba
 Subscribers: 5,806 (12/01/87). Programming (received off air): WTTV (I), Bloomington-lndianapolls; WCET (P), WCPO-TV (C), WKRC-TV (A), WLWT (N), Cincinnati; WXIX-TV (I), Clnclnnatl-Newport; WDTN (A), WHIO-TV (C), WKEF (N), Dayton; WISH-TV (C), WRTV (A), WTHR (N), Indianapolis; WPTO (P), Oxford; WKOI (I) Richmond; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; C-SPAN; ESPN; Lifetime; MTV; USA Network. Current originations: Time-weather; local live; public service announcements; film.
 Fee: $20.00 installation; $13.95 monthly.
-Tlerl
+Tier 1
 Subscribers: 343 (12/01/87). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: $8.95 monthly.
@@ -659,7 +659,7 @@ Subscribers: 367 (02/01/85). Programming (received off air): WTTV (I), Bloomingt
 Programming (via satellite): WTBS (I) Atlanta; WGN-W (I) Chicago; WWOR-W (I) New York; CBN Cable Network; CNN; ESPN; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon.
 Current originations: Time-weather; channel guide; bulletin board.
 Fee: $20.00 installation; $13.40 monthly; $27.00 converter.
-Tlerl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Disney Channel.
 Fee: $8.50 monthly.
 Tier 2
@@ -688,7 +688,7 @@ Channel capacity: 35. Channels available but not In use: 15.
 Basic Service
 Subscribers: 424 (12/01/86). Programming (received off air): WTW (I), Bloomington-lndianapolls; WAVE (N), WDRB-W (I), WHAS-W (C), WKPC-W (P), WLKY-W (A) Louisville. Programming (via satellite): WTBS (I) Atlanta; WGN-W (I) Chicago; CBN Cable Network; ESPN; MW; Nashville Network; PTL; USA Network.
 Fee: $10.00 Installation; $12.00 monthly.
-Tlerl
+Tier 1
 Subscribers: 54 (05/25/83). Began: November 1,1982.
 Programming (via satellite): HBO.
 Fee: $11.95 monthly.
@@ -972,7 +972,7 @@ programming (via microwave): WGN-TV if (I) Chicago.
 , Programming (via satellite): CBN Cable - X Network; CNN; ESPN; MTV; Nashville ‘ Network; Nickelodeon; USA Network.
 * Current originations: Time-weather; hews ticker.
 Fee: $15.00 installation; $11.97 ,	monthly.
-Tier/I
+Tier 1
 .-f’ Subscribers: N.A. Began: N.A.
 : Programming (via satellite): Cinemax; viofv Disney Channel; Showtime.
 T;	Fee; $10.95 monthly (Disney), $11.95
@@ -1844,7 +1844,7 @@ Fee: $20.00 Installation; $8.76 monthly; $1.00 converter; $20.00 Installation, $
 Expanded Basic 1
 Subscribers: 9,665 (01/31/86). Began: September 1,1983.
 Programming (via satellite): CBN Cable Network; CNN; Lifetime; MTV; The Weather Channel; USA Network; Video Hits One.
-Fee: $20.00 installation; $5.50 monthly. Tier T
+Fee: $20.00 installation; $5.50 monthly. Tier 1
 Subscribers: 1,666 (01/31/86). Began: September 1,1983.
 Programming (via satellite): Disney Channel..
 Fee: $11.95 monthly.
@@ -1852,7 +1852,7 @@ Tier 2
 Subscribers: 14,688 (01/01/87). Began: ■April 1,1982.
 Programming (via satellite): HBO.
 Fee: $11.95 monthly.
-Tiers
+Tier 3
 Subscribers: 6,043 (01/31/86). Began: September 1,1983.
 Programming (via satellite): The Movie Channel.
 Fee: $11.95 monthly.
@@ -1933,8 +1933,9 @@ Expanded Basic 1
 Subscribers: 1,341 (12/17/87).'Began: July 1,1981.	(	;;
 Programming (received off air): WDTN (A) WHIO-TV (C), Dayton; WAVE ,(N), Louisville; WPTO (P) Oxford. Programming (via satellite): WGN-TV (1) Chicago; ■ > WWOR-TV (I) New York; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; Lifetime; MTV; Nashville Network; Nickelodeon.
 Fee: 13.50 monthly.
+Tier 1
 -^Subscribers: 484 (12/17/87). Began: July 1,1981.
-Programming (via satellite): Cinemax. Fee: $7.50 installation; $10.50 monthly. Her 2
+Programming (via satellite): Cinemax. Fee: $7.50 installation; $10.50 monthly. Tier 2
 t Subscribers: 140 (12/17/87). Began: j January 1 r1984 Programming (via satellite): Disney ■ Channel. -Fee: $7.50 installation; $10.50 monthly. Tier 3
 Subscribers: 1,618 (12/17/87). Began: July 1,1981.
 ^Programming (via satellite): HBO.
@@ -2097,7 +2098,7 @@ Basic Service
 Subscribers: 4,690 (01/01/87). Programming (received off air): WTTV (I), Bloomington-lndianapolis; WCPO-TV (C), WLWT (N), Cincinnati; WXIX-TV (I), Clnclnnati-Newport; WISH-TV (C), Indianapolis; WAVE (N), WDRB-TV (I), WHAS-TV (C), WKPC-TV (P), WLKY-TV (A) Louisville; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Arts & Entertainment; C-SPAN; C-SPANII; CBN Cable Network; CNN; CNN Headline News; Discovery Channel; ESPN; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon; Nostalgia Channel; PTL; The Weather Channel; USA Network.
 Current originations: Bulletin board. Fee: $35.00 installation; $16.00 monthly; $25.00 installation, $4.00 monthly (each additional set).
-Tlerl
+Tier 1
 Subscribers: 436 (01/01/87). Began: N.A.
 Programming (via satellite): Cinemax. Fee: $35.00 installation; $9.95 monthly. Tier 2
 Subscribers: 388 (01/01/87). Began: N.A.
@@ -2908,7 +2909,7 @@ Fee: $10.00 Installation; $9.50 monthly. Tier 2
 Subscribers: 1,522 (12/01/87). Began: Mayl, 1979.
 Programming (via satellite): HBO.
 Fee: $10.00 Installation; $10,50 monthly.
-TierS
+Tier 3
 Subscribers: 1,160 (12/01/87). Began: June 1,1982.
 Programming (via satellite): The Movie Channel.
 Fee: $10.00 installation; $10.00 monthly.

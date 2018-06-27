@@ -67,9 +67,9 @@ Basic Service
 Subscribers: 7,530 (12/01/86). Programming (received off air): WCLF (I), Clearwater; WEDU (P), WFTS (I), WTOG (I), WTSP-TV (A), WTVT (C), WUSF-TV (P), WXFL (N) Tampa-St. Petersburg.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WWOR-TV (I) New York; Arts & Entertainment; CBN Cable Network; CNN; CNN Headline News; ESPN; Financial News Network; Learning Channel; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; Tempo TV; The Weather Channel; USA Network; Univision; Video Hits One.
 Current originations: Bulletin board; local live.
-Fee: $24.95 installation; $9.87 monthly. Her 1
+Fee: $24.95 installation; $9.87 monthly. Tier 1
 Subscribers: 860 (04/01/87). Began: January 1,1981.
-Programming (via satellite): Cinemax. Fee: $30.00 installation; $9.87 monthly. Her 2
+Programming (via satellite): Cinemax. Fee: $30.00 installation; $9.87 monthly. Tier 2
 Subscribers: 871 (04/01/87). Began: January 1,1986.
 Programming (via satellite): Disney Channel.
 Fee: $30.00 installation; $9.87 monthly.
@@ -246,7 +246,7 @@ Programming (via satellite): Cinemax. Fee: $15.00 installation; $10.50 monthly.
 Tier 2
 Subscribers: 150 (04/01/87). Began: December 1, 1983.
 Programming (via satellite): Disney Channel.
-Fee: $25.00 installation; $8.50 monthly. Tiers
+Fee: $25.00 installation; $8.50 monthly. Tier 3
 Subscribers: 1,400 (04/01/87). Began: May 1,1978.
 Programming (via satellite): HBO.
 Fee: $15.00 Installation; $10.50 monthly.
@@ -353,7 +353,7 @@ Programming (via satellite): Cinemax. Fee: $19.95 Installation; $9.95 monthly. T
 Subscribers: 892 (01/01/87). Began: February 2,1984.
 Programming (via satellite): Disney Channel.
 Fee: $19.95 Installation; $10.95 monthly.
-Tiers
+Tier 3
 Subscribers: 8,348 (01/01/87). Began: August 1,1978.
 Programming (via satellite): HBO.
 Fee: $19.95 installation; $10.95 monthly.
@@ -705,7 +705,7 @@ Subscribers: 14,788 (12/01/87). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: $17.95 installation; $8.00 monthly. Tier 4
 Subscribers: 3,617 (12/01/87). Began: N.A.
-Programming (via satellite): Festival. Fee: $17.95 installation; $5.95 monthly. Tiers
+Programming (via satellite): Festival. Fee: $17.95 installation; $5.95 monthly. Tier 5
 Subscribers: 312 (12/01/87). Began: N.A.
 Programming (via satellite): GalaVision. Fee: $17.95 Installation; $8.00 monthly. Tier 6
 Subscribers: 42,666 (12/01/87). Began: N.A.
@@ -733,7 +733,7 @@ Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 2,998 (01/01/86). Programming (received off air): WSCV (1), Fort Lauderdale; WBBH-TV (N), WINK-TV (C), Fort Myers; WCIX (I), WLTV (I), WPBT (P), WPLG (A), WSVN (N), WTVJ (C), Miami; WPTV (N), Palm Beach; WTOG (I), Tampa-St. Petersburg; WPEC (A) West Palm Beach; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; ESPN; Lifetime; MTV; Nickelodeon. Planned programming (received off air): WTVX (C) Fort Plerce-Vero Beach; WHFT (I), WLRN-TV (P), Miami; WOFL (I) Orlando.
-Fee: $15.00 installation; $9.50 monthly. Tier t
+Fee: $15.00 installation; $9.50 monthly. Tier 1
 Subscribers: 571 (01/01/86). Began: January 1,1983.
 Programming (via satellite): Cinemax. Fee: $15.00 Installation; $9.95 monthly. Tier 2
 Subscribers: 1,195 (01/01/86). Began: January 1,1980.
@@ -1151,7 +1151,7 @@ Tier 2
 Subscribers: 2,425 (01/01/86). Began: January 1,1980.
 Programming (via satellite): HBO.
 Fee: $25.00 Installation; $11.95 monthly.
-Tiers
+Tier 3
 Subscribers: 1,154 (01/01/86). Began: Januaiy 1,1980.
 Programming (via satellite): The Movie Channel.
 Fee: $25.00 Installation; $11.95 monthly.
@@ -1198,7 +1198,7 @@ Channel capacity: 12 (partially two-way). Channels available but not in use: 2. 
 Subscribers: 260 (02/19/87). Programming (received off air): WJHG-TV (N), WMBB (A), Panama City; WFSU-TV (P), Tallahassee; WCTV (C) Tallahas-see-Thomasville.
 Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; ESPN.
 Current originations: Time-weather.
-Fee: $25.00 installation; $9.87 monthly, fieri
+Fee: $25.00 installation; $9.87 monthly, Tier 1
 Subscribers: 82 (11/30/86). Began: January 1,1984.
 Programming (via satellite): Cinemax. Fee: $15.00 installation; $10.45 monthly.
 Tier 2
@@ -3016,7 +3016,7 @@ ORANGE COUNTY—See also ORLANDO, FL.
 ORANGE COUNTY—See also WINTER GARDEN, FL.
 ORANGE PARK—Clay Cablevision, Box 1451, 357 College, Orange Park, FL 32067-1451. Phone: 904-272-0745. Counties: Bradford, Clay, Nassau. Also serves Bradford County (portions), Clay County (portions), Green Cove Springs, Nassau County (portions), Starke. Population: N.A. (area served).
 TV Market Ranking: 68 (portions of Bradford & Clay Counties, Green Cove Springs, Nassau County, Orange Park); Below 100 (portions of Bradford & Clay Counties, Starke). Original franchise award date: N.A. Franchise expiration date: March 1,1993. Began: N.A. Channel capacity: 35. Channels available but not In use: 7.
-Dgelp CprutAO
+Basic Service
 Subscribers: 18,300 (01/01/87). Programming (received off air): WUFT (P), Gainesville; WAWS-TV (I), WJCT (P), WJKS (A), WJXT (C), WNFT (I), WTLV (N) Jacksonville.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (1) Chicago; CBN Cable Network; ESPN.
 Fee: $30.00 installation; $9.45 monthly; $20.00 Installation, $4.00 monthly (each additional set).
@@ -3024,7 +3024,7 @@ Expanded Basic 1
 Subscribers: 14,400 (01/01/87). Began: N.A.
 Programming (via satellite): AP NewsC-able; Arts & Entertainment; CNN; CNN Headline News; lifetime; MTV; Nashville Network; Nickelodeon; Tempo TV; The Weather Channel; USA Network; Video Hits One.
 Fee: $4.45 monthly.
-Tied
+Tier 1
 Subscribers: 4,090 (01/01/87). Began: N.A.
 Programming (via satellite): Clnemax. Fee: $15.00 Installation; $9.95 monthly. Tier 2
 Subscribers: 2,459 (01/01/87). Began: N.A.
@@ -3299,7 +3299,7 @@ Tier 2
 Subscribers: 366 (01/01/86). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: $10.50 monthly.
-Tiers
+Tier 3
 Subscribers: 1,280 (01/01/86), Began: September 28,1982.
 Programming (via satellite): HBO.
 Fee: $10.50 monthly.
@@ -3328,7 +3328,7 @@ Subscribers: 26,806 (08/07/85). Began: July 1,1985.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; AP NewsCable; Arts & Entertainment; CBN Cable Network; CNN; CNN Headline
 News; Discovery Channel; ESPN; EWTN; Financial News Network; Learning Channel; Lifetime; MTV; Nashville Network; Trinity Bcstg. Network; Tempo TV; The Weather Channel; USA Network; Univl-slon; Video Hits One.
 Fee: $11.95 monthly.
-Tlerl
+Tier 1
 Subscribers: 185 (02/28/86). Began: July 1,1985.
 Programming (via satellite): American Movie Classics.
 Fee: $9.50 monthly.
@@ -4117,7 +4117,7 @@ Tier 2
 Subscribers: 1,164 (01/01/85). Began: January 1,1980.
 Programming (via satellite): HBO.
 Fee: $25.00 Installation; $11.95 monthly.
-Tler3
+Tier 3
 Subscribers: 589 (01/01/86). Began: January 1,1980.
 Programming (via satellite): The Movie Channel.
 Fee: $25.00 Installation; S11.95 monthly.
@@ -4521,7 +4521,7 @@ Programming (via satellite): Clnemax. Fee: N.A.
 Tier 2
 Subscribers: 2,630 (12/20/86). Began: May 1,1984.
 Programming (via satellite): Disney Channel.
-Fee: $5.00 Installation; $7.95 monthly. Tiers
+Fee: $5.00 Installation; $7.95 monthly. Tier 3
 Subscribers: 5,220 (12/20/86). Began: October 1,1981.
 Programming (via satellite): HBO,
 Fee: $5.00 Installation; $10.95 monthly. Tier 4
@@ -4544,7 +4544,7 @@ TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expi
 Basic Service
 Subscribers: 427 (01/01/86). Programming (received off air): WESH (N), Daytona Beach-Orlando; WUFT (P), Gainesville; WTOG (I), WTSP-TV (A), WTVT (C), WXFL (N) Tampa-St. Petersburg.
 Fee: $30.00 installation; $10.50 monthly; $15.75 installation, $3.00 monthly (each additional set).
-Her 1
+Tier 1
 Subscribers: 51 (01/01/86). Began: N.A. Programming (via satellite): Clnemax. Fee: $10.00 installation; $10.50 monthly.
 Tier 2
 Subscribers: 148 (01/01/86). Began: N.A.
