@@ -702,7 +702,9 @@ public class Cable{
                 int rankingStartIndex = s.indexOf("Ranking", start) + 9;
                 int rankingEndIndex = s.indexOf(".", rankingStartIndex);
                 
-                while (s.substring(rankingEndIndex - 2, rankingEndIndex).equals("wp")) {
+                while (s.substring(rankingEndIndex - 2, rankingEndIndex).equals("wp") ||
+                       s.substring(rankingEndIndex - 2, rankingEndIndex).equals("St")
+                ) {
                     rankingEndIndex = s.indexOf(".", rankingEndIndex + 2);
                 }
                 String rankingTemp = s.substring(rankingStartIndex, rankingEndIndex);
