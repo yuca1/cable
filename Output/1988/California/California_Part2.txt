@@ -1,5 +1,5 @@
 LOS GATOS—Hearst Corp. of Los Gatos, 2700 Scott, Santa Clara, CA 950S0. County: Santa Clara. Also serves Monte Sereno, Santa Clara County. Population: 30,000.
-TV Market Ranking: 7. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 1,1968. Channel capacity: 26 (2-way capable). Channels available but not In use: N.A. Basle Service
+TV Market Ranking: 7. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 1,1968. Channel capacity: 26 (2-way capable). Channels available but not In use: N.A. Basic Service
 Subscribers: 8,494 (03/01/88). Programming (received off air): KTVU (I), Oakland-San Francisco; KBHK-TV (I), KDTV (I), KGO-TV (A), KOFY-TV (I), KPIX (C), KQED (P), KRON-TV (N), KWBB (I), San Francisco; KICU-TV (I), KNTV (A), KSTS (I), KTEH (P), San Jose; KCSM-TV (P) San Mateo; allband FM.
 Programming (via microwave): KCRA-TV (N), KRBK-TV (I), KTXL (I), KXTV (C), Sacramento-Stockton; KMST (C) Sallnas-Monterey. Planned programming (via microwave): KTLA (I), Los Angeles; KOVR-TV (A), Sacramento-Stockton; KSBW (N) Sallnas-Monterey. Planned programming (via satellite): CBN Cable Network.
 Planned originations: Local live; public service announcements.
@@ -24,7 +24,6 @@ City fee: 3% of gross (Los Gatos). Ownership: Hearst Cablevlslon (see Cable Grou
 LOS LOMAS—See GILROY, CA.
 Lost Hills—See CALABASAS PARK, CA.
 LOWER LAKE—See CLEARLAKE, CA.
-B-112
 LOYALTON—See PORTOLA, CA.
 LUCERNE—See CLEARLAKE, CA.
 LUSHMEADOWS—See MARIPOSA, CA.
@@ -71,7 +70,7 @@ MANCHESTER—See THE SEA RANCH, CA.
 MANHATTAN BEACH—See HERMOSA BEACH, CA.
 MANTECA—See STOCKTON, CA.
 MARCH AFB—See REDLANDS, CA.
-MARICOPA—SeeTAFT, CA.
+MARICOPA—See TAFT, CA.
 MARIN CITY—See MARIN COUNTY, CA.
 MARIN COUNTY—Viacom Cablevlslon of Marin County, 1111 Anderson Dr., San Rafael, CA 94901. Phone: 415-457-9100. County: Marin. Also serves Belvedere, Corte Madera, Fairfax, Forest Knoll, Green Brae, Kentfield, Lagunitas, Larkspur, Marin City, Mill Valley, Ross. San Anselmo, San Geronlmo, San Rafael, Sausalito, Tiburon, Woodacre. Population: 139,200. TV Market Ranking: 7. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A.
 Channel capacity: 37. Channels available but not in use: None.
@@ -173,7 +172,7 @@ Homes passed: 1,075.
 Manager: Robert Ling.
 Ownership: Cable America Corp. (see Ca-: ble Group Ownership), 100%.
 McCLOUD—See MOUNT SHASTA, CA.
-McFarland—See bakersfielo, ca.
+McFarland—See BAKERSFIELD, CA.
 McKINLEYVILLE—See EUREKA, CA.
 ‘Meadow Vista—Cableview Communications Inc., 5850 Spring Glen Dr., Fair . Oaks, CA 95628. Phone: 916-878-8580. County: Placer. Plans service to Christian Valley. Population: 5,522. TV Market Ranking: Outside TV markets. Original franchise-award date: April 14. 1987. Franchise expiration date: April 14, 2002. Scheduled to begin: April 1,1988. Basic ServicePlanned programming (via satellite): Arts & Entertainment; Nickelodeon. Fee: $25.00 Installation; $12.95 monthly. Tier 1 Planned programming (via satellite): HBO. Fee: $7.95 monthly. Miles planned: 110.0 (coaxial). Ownership: Cableview Communications Inc. (see Cable Group Ownership), 100%.
 MEADOW VISTA—See also AUBURN, CA.
@@ -191,9 +190,9 @@ Manager: Manny Portlo.
 Ownership: Gorges, Rodney, 100%.
 Meeks Bay-Tahoma Area—See WEST LAKE TAHOE, CA.
 MEINERS OAKS—See THOUSAND OAKS, CA.
-MENDOCINO—See UKIAH, CA. 
-MENDOCINO COUNTY—See UKIAH, CA. 
-MENDOTA—See REEDLEY, CA. 
+MENDOCINO—See UKIAH, CA.
+MENDOCINO COUNTY—See UKIAH, CA.
+MENDOTA—See REEDLEY, CA.
 MENIFEE—See LAKE ELSINORE, CA.
 MENLO PARK—See PALO ALTO, CA.
 Menlo Park—See also PALO ALTO, CA.
@@ -269,7 +268,7 @@ Tier 2
 Subscribers: 674 (03/01/88). Began: N.A.
 Programming (via microwave): Disney Channel.
 Fee: $8.95 monthly.
-Tler3 :
+Tier 3
 Subscribers: 2,017 (03/01/88). Began: N.A.
 Programming (via microwave): HBO. Fee: $25.00 installation; $13.95 monthly.
 Tier 4
@@ -421,7 +420,7 @@ Tier 2
 Subscribers: 360 (01/01/86). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: $11.00 monthly.
-Tiers
+Tier 3
 Subscribers: 1,578 (01/01/86). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $20.00 Installation; $11.00 monthly.
@@ -450,14 +449,14 @@ Subscribers: 11,843 (03/01/88). Programming (received off air): KTVU (I), Oaklan
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Arts & Entertainment; Black Entertainment TV; C-SPAN; CBN Cable Network; CNN; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; Reuters News-View; Tempo TV; The Travel Channel; The Weather Channel; Trinity Bcstg. Network; USA Network; Univlsion.
 Current originations: Time-weather; news ticker; stock ticker; channel guide; shopping guide; bulletin board; classified ads; message wheel; public access; educational access; religious access; leased access; emergency alert; local live.
 Fee: $50.00 installation; $15.95 monthly; $25.00 installation, $4.95 monthly (each additional set).
-Tier!
+Tier 1
 Subscribers: 10,140 (03/01/88). Began: N.A.
 Programming (via satellite): Clnemax. Fee: $10.00 monthly.
 Tier 2
 Subscribers: 335 (03/01/88). Began: N.A.
 Programming (via satellite): American Movie Classics; Bravo.
 Fee: $10.95 monthly.
-Tiers
+Tier 3
 Subscribers: 861 (03/01/88). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: $10.95 monthly.
@@ -709,7 +708,7 @@ Tier 4
 Subscribers: 900 (01/01/88). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $10.00 installation; $10.95 monthly.
-Tier 6
+Tier 5
 Subscribers: 200 (01/01/88). Began: N.A.
 Programming (via satellite): The Movie Channel.
 Fee: $10.00 installation; $10.95 monthly.
@@ -767,8 +766,7 @@ Manager: J. Patrick O'Connor. Chief technician: Clay Owens.
 City fee: 5% of gross.
 Ownership: Lenfest Communications Inc. (see Cable Group Ownership), 100%.
 OAKLEY—See BRENTWOOD, CA.
-OCEAN0—See SAN LUIS OBISPO, CA.
-B-118
+OCEANO—See SAN LUIS OBISPO, CA.
 OCEANSIDE—Dimension Cable, 1714 S. Hill St., Oceanside, CA 92054. Phone: 619-433-5412. County: San Diego. Also serves Camp Pendleton, Camp Pendleton North, Camp Pendleton South. Population: 79,000.
 TV Market Ranking: 51 (Camp Pendleton, portions of Oceanside); Outside TV markets (Camp Pendleton North & South, portions of Oceanside). Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 30,1970. Channel capacity: 30 (plans two-way). Channels available but not in use: 1. Basic Service
 Subscribers: 29,000 (02/25/88). Programming (received off air): KVEA (I), Corona-Los Angeles; KABC-TV (A), KCBS-TV (C), KCET (P), KCOP (I), KHJ-IV (I), KMEX-TV (I), KNBC-TV (N), KTLA (I), KTTV (I), KWHY-TV (I), Los Angeles; KCST-TV (N), KFMB-TV (C), KGTV (A), KPBS-TV (P), San Diego; KTBN-TV (I), Santa Ana; XETV (I) Ti-juana-San Diego; 5 FMs.
@@ -896,7 +894,7 @@ Subscribers: 2,642 (01/01/88). Began: June 1,1983.
 Programming (via satellite): Disney Channel.
 Fee: $5.00 installation; $7.95 monthly. Tier 4
 Subscribers: 510 (01/01/88). Began: June 30,1979.
-Programming (via satellite): GalaVision. Fee: $5.00 installation; $10.95 monthly. Tiers
+Programming (via satellite): GalaVision. Fee: $5.00 installation; $10.95 monthly. Tier 5
 Subscribers: 11,570 (01/01/88). Began: January 1,1978,
 Programming (via satellite): HBO.
 Fee: $5.00 Installation; $10.95 monthly. Tier 6
@@ -939,8 +937,8 @@ Miles of plant: 792.3 (coaxial). Additional miles planned: 38.0 (coaxial). Homes
 Manager: Stewart E. Nazzaro. Chief technician: Steve Schneider.
 City fee: 5% of gross.
 Ownership: Palmer Communications Inc. (see Cable Group Ownership), 100%.
-PALM DESERT—SunVision Cable TV, 75005 Country Club Dr., Palm Desert, CA 92260. Phone: 619-568-2828. County: Riverside. Plans service to Riverside County ^unincorporated areas). Popula-
-TV Market Flanking: Below 100. Original franchise award date: N.A. Franchise expiration date: May 1, 1998. Began: May 1,1983.
+PALM DESERT—SunVision Cable TV, 75005 Country Club Dr., Palm Desert, CA 92260. Phone: 619-568-2828. County: Riverside. Plans service to Riverside County ^unincorporated areas). Population: 11,801. 
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: May 1, 1998. Began: May 1,1983.
 Channel capacity: 54 (2-way capable). Channels available but not In use: 22. Basic Service
 Subscribers: 416 (06/30/84). Programming (received off air): KABC-TV (A), KCBS-TV (C), KCET (P), KCOP (I), KHJ-TV (I), KMEX-TV (I), KNBC-TV (N), KTLA (I), KTTV (I), KWHY-TV (I), Los Angeles; KESQ-TV (A), KMIR-TV (N) Palm Springs.
 Programming (via satellite): WTBS (I) Atlanta; Arts & Entertainment; CNN; ESPN; MTV; Nickelodeon; USA Network. Fee: $35.00 installation; $13.00 monthly.
@@ -996,7 +994,7 @@ Miles of plant: 465.0 (coaxial). Additional miles planned: 465.0 (coaxial). Home
 Manager: Peter Fechheimer. Chief technician: Tom Gibbs.
 City fee: 5% of gross.
 Ownership: Cable Communications of Palo Alto Inc., 100%. System constructed by Pacific Bell.
-Palo Alio—Century Federal Inc., 50 Locust Ave., New Canaan, CT 06840. Phone: 203-966-8746. County: Santa Clara. Plans sendee to Atherton, East Palo Alto, Ladera, Menlo Park, San Mateo County (portions), Stanford. Population: 123,248. TV Market Ranking: 7. Original franchise award date: March 9, 1987. Franchise expiration date: March 9,2002. Ownership: Century Communications Corp. (see Cable Group Ownership), 100%.
+Palo Alto—Century Federal Inc., 50 Locust Ave., New Canaan, CT 06840. Phone: 203-966-8746. County: Santa Clara. Plans sendee to Atherton, East Palo Alto, Ladera, Menlo Park, San Mateo County (portions), Stanford. Population: 123,248. TV Market Ranking: 7. Original franchise award date: March 9, 1987. Franchise expiration date: March 9,2002. Ownership: Century Communications Corp. (see Cable Group Ownership), 100%.
 PALO CEDRO—Country Cable Systems, Box 535, Palo Cedro, CA 96073. Phone: 916-547-5438. County: Shasta. Also serves Mountain Gate, Shasta County (portions). Population: N.A. (area served).
 TV Market Ranking: Below 100. Original franchise award date: April 6, 1982. Franchise expiration date: April 6,1990. Began: October 15,1982.
 Channel capacity: 40. Channels available but not In use: 15.
@@ -1015,7 +1013,7 @@ Fee: $20.00 Installation; $10.95 monthly.
 Tier 4
 Subscribers: 115 (01/04/88). Began: N.A.
 Programming (via satellite): The Movie Channel.
-Fee: $20.00 Installation; $9.95 monthly. Tiers
+Fee: $20.00 Installation; $9.95 monthly. Tier 5
 Subscribers: 35 (01/04/88). Began: N.A. Programming (via satellite): Showtime. Fee: $20.00 Installation; $7.95 monthly.
 Local advertising: Yes. Available In locally originated programming. Local sales manager: J. R. Wilburn.
 Equipment: M/A-Com & General Instrument headend; Magnavox amplifiers; Comm/Scope cable; Video Data Systems character generator; RMS & Sclentific-Atlanta set top converters; M/A-Com satellite antenna.
@@ -1102,8 +1100,9 @@ PASO ROBLES—See SAN LUIS OBISPO, CA.
 PATTERSON—See LOS BANOS, CA.
 PEAVINE—See RENO, NV.
 PENN VALLEY—See LAKE WILDWOOD, CA.
-PERRIS—See REDLANDS, CA. Perris-See also SUN CITY, CA. 
-PESCADERO-See HALF MOON BAY, CA.
+PERRIS—See REDLANDS, CA.
+Perris—See also SUN CITY, CA.
+PESCADERO—See HALF MOON BAY, CA.
 PETALUMA—See SONOMA COUNTY, CA.
 Phelan—See WRIGHTWOOD, CA.
 Pico Rivera—See DOWNEY, CA.
@@ -1412,7 +1411,7 @@ Miles of plant: 125.0 (coaxial). Homes passed: 4,815. Total homes in franchised 
 Manager: John Adams. Chief technician: Chuck Walker.
 City fee: 2% of gross.
 Ownership: Sonic Communications (see Cable Group Ownership), 100%.
-POSEY—See THREE RIVERS, CA. .
+POSEY—See THREE RIVERS, CA.
 POWAY—Signal Master Inc., 5050 Center Rd., San Diego, CA 92108. Phone: 619-271-1833. County: San Diego. Population: N.A. (area served).
 TV Market Ranking: 51. Original franchise award date: August 1,1973. Franchise expiration date: August 12, 1988. Began: September 1,1973.
 Channel capacity: 36. Upgrading to 54 channels. Channels available but not in use: 6.
@@ -1469,7 +1468,7 @@ RANCHO SANTA FE—See SAN MARCOS, CA.
 RANCHO SANTA MARGARITA—Rancho Santa Margarita Cablevision, Suite A, 26161 Margarita Pkwy., Mission Viejo, CA 92692. Phone: 714-582-3603. County: Orange. Population: N.A. (area served).
 TV Market Ranking: Below 100. Original franchise award date: May 1, 1986. Franchise expiration date: N.A. Began: July 1,1986.
 Channel capacity: 61. Channels available but not In use: 19.
-Basle Service
+Basic Service
 Subscribers: 1,800 (01/05/88). Programming (received off air): KVEA (I), Corona-Los Angeles; KOCE-TV (P), Huntington Beach; KABC-TV (A), KCBS-TV (C), KCET (P), KCOP (I), KHJ-TV (I), KM EX-TV (I), KNBC-TV (N), KTLA (I), KTTV (I), KWHY-TV (I), Los Angeles;
 KHSC (I), Ontario; KSCI (I) San Bernardino; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago.
@@ -1542,7 +1541,7 @@ Ownership: Hometown Cable TV Inc., 100%. Purchased from Group W Cable Consortium
 REQUA-See KLAMATH, CA.
 RESEDA-See LOS ANGELES (WEST VALLEY), CA.
 RIALTO—See ALTA LOMA, CA.
-RIALTO—See also GLENDORA, CA. *
+RIALTO—See also GLENDORA, CA.
 RICHMOND—Bay Cablevision Inc., 2821 MacDonald Ave., Richmond, CA 94804. Phone: 415-232-1238. Counties: Alameda & Contra Costa. Also serves Berkeley, Contra Costa County, El Cerrito, El So-brante, Kensington, Montalvln Manor, Rollingwood, Tara Hill, White Cliff. Population: 177,134.
 TV Market Ranking: 7. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 12,1968. Channel capacity: 30. Channels available but not in use: 5.
 Basic Service
@@ -1616,7 +1615,7 @@ Tier 4
 Subscribers: 332 (11/01/87). Began: N.A.
 Programming (via satellite): Playboy Channel.
 Fee: $8.95 monthly.
-Tiers
+Tier 5
 Subscribers: 1,378 (11/01/87). Began: N.A.
 Programming (via satellite): Showtime. Fee: $10.95 monthly.
 Addressable homes: 7,606 (11/01/87). Fee: $3.95.
@@ -1705,7 +1704,6 @@ ROCKLIN—See PLACER COUNTY (southwest portions), CA.
 HODED—See PINOLE, CA.
 ROHNERT PARK—ML Media Partners, 595 Martin Ave., Rohnert Park, CA 94928. Phone: 707-584-4617. County: Sonoma. Also serves Cotati, Sebastopol, Sonoma County. Population: 31,940.
 TV Market Ranking: Below 100. Original franchise award date: February 14, 1968. Franchise expiration date: February 14, 1988. Began: November 1, 1968.
-B-126
 Channel capacity: 42. Channels available but not In use: N.A.
 Basic Service
 Subscribers: Included with Sonoma, CA. Programming (received off air): KFCB (I), Concord; KRCB-TV (P), Cotati; KIVU (I), Oakland-San Francisco; KCRA-TV (N), Sacramento-Stockton; KBHK-TV (I), KOTV (I), KGO-TV (A), KOFY-TV (I), KPIX (C), KQED (P), KRON-TV (N), San Francisco; KICU-TV (I), San Jose; KFTY (I) Santa Rosa; allband FM. Programming (via satellite): Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; CNN Headline News; Country Music TV; Discovery Channel; ESPN; Financial News Network; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon; The Weather Channel; USA Network.
@@ -1864,7 +1862,7 @@ TV Market Ranking: Below 100. Original franchise award date: July 15, 1969. Fran
 Basic Service
 Subscribers: Included with Sonoma, CA. Programming (received off air): KFCB (I), Concord; KRCB-TV (P), Cotatl; KIVU (I), Oakland-San Francisco; KTXL (I), Sacramento-Stockton; KBHK-TV (I), KGO-TV (A), KOFY-TV (I), KPIX (C), KQED (P), KRON-TV (N), San Francisco; KICU-TV (I), San Jose; KFTY (I) Santa Rosa; allband FM,
 Current originations: Time-weather; bulletin board; classified ads; public access; educational access; government access; leased access; public service announcements.
-Planned originations: Emergency alert. Fee: $24.95 Installation; $9.45 monthly. Tier!
+Planned originations: Emergency alert. Fee: $24.95 Installation; $9.45 monthly. Tier 1
 Subscribers: Included with Sonoma, CA. Began: N.A.
 Programming (received off air): KCRA-TV (N) Sacramento-Stockton; KDTV (I), KQEC (P) San Francisco. Programming (via satellite): Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; CNN Headline News; Country Music TV; ESPN; Financial News Network; Lifetime; MTV; Nashville Network; The Weather Channel; USA Network.
 Fee: N.A.
@@ -1905,7 +1903,7 @@ Miles of plant: 231.5 (coaxial). Additional , miles planned: 36.3 (coaxial). Hom
 Manager: Bill Petersen. Chief technician: Ray Douglas.
 City fee: 3% of gross.
 Ownership: King Videocable Co. (see Cable Group Ownership), 100%. .
-SAN ANSELMO—See MARIN COUNTY, CA..
+SAN ANSELMO—See MARIN COUNTY, CA.
 SAN ANTONIO HEIGHTS—See ONTARIO, CA.
 SAN BENITO—See GILROY, CA.
 SAN BENITO COUNTY (northern portion)—See HOLLISTER, CA.
@@ -1958,7 +1956,7 @@ Manager: Harold Stubblefield.
 County fee: 3% of gross.
 Ownership: Mountain Shadows Cable TV, 100%. Sale pends to Comcast Cable Communications Inc. (see Cable Group Ownership).
 SAN BERNARDINO COUNTY—See also PARKER, AZ.
-SAN BERNARDINO COUNTY—See BAR-STOW, CA.
+SAN BERNARDINO COUNTY—See BARSTOW, CA.
 SAN BERNARDINO COUNTY—See also BIG BEAR LAKE, CA.
 SAN BERNARDINO COUNTY—See also CRESTLINE, CA.
 SAN BERNARDINO COUNTY—See also FONTANA, CA.
@@ -2389,7 +2387,7 @@ Programming (via microwave): KCRA-IV (N), KTXL (I), Sacramento-Stockton; KICU-TV
 Programming (via satellite): Arts & Entertainment; C-SPAN; C-SPAN II; CBN Cable Network; CNN; CNN Headline News; Country Music TV; Discovery Channel; ESPN; Financial News Network; Home Shopping Network; Learning Channel; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; The Fashion Channel; The Weather Channel; USA Network; Univlslon; Video Hits One. Programming (via tape): Real Estate Channel. Planned programming (via satellite): American Movie Classics. Current originations: Time-weather; channel guide; bulletin board; public access; government access; emergency . alert.
 Planned originations: Educational access; local sports.
 Fee: $27.00 installation; $15.20 monthly;'$27.00 installation, $1.75 monthly (each additional set).
-Tierl
+Tier 1
 Subscribers: 3,000 (01/01/88). Began: N.A.
 Programming (via satellite): Cinemax. Fee: $27.00 Installation; $9.50 monthly. Tier 2
 Subscribers: 4,000 (01/01/88). Began: \ N.A. '	'	.
@@ -2432,7 +2430,7 @@ Subscribers: 1,955 (03/01/88). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $9.50 monthly.
 Tier 4
-Subscribers: 343' (03/01/88). Began: N.A.
+Subscribers: 343 (03/01/88). Began: N.A.
 Programming1 (via satellite): The Movie Channel.
 Fee: $9.50 monthly.
 Tier 5
@@ -2489,7 +2487,7 @@ County fee: 2%
 Ownership: Boulder Ridge Cable TV (see Cable Group Ownership), 100%.
 SEASIDE-See MONTEREY, CA.
 SEBASTOPOL—See ROHNERT PARK, CA.
-SEOCO HILLS—See LAKE ELSINORE, CA.
+SEDCO HILLS—See LAKE ELSINORE, CA.
 SELMA—See REEDLEY, CA.
 SEPULVEDA—See LOS ANGELES (WEST VALLEY), CA.
 SERENE LAKES—See WEST LAKE TAHOE, CA.
@@ -2588,8 +2586,7 @@ SOMIS—See CAMARILLO, CA.
 SONOMA—ML Media Partners, 595 Martin Ave., Rohnert Park, CA 94928. Phone: 707-996-8483. County: Sonoma. Population: 19,500.
 TV Market Ranking: 7. Original franchise award date: June 10, 1968. Franchise expiration date: June 10, 1988. Began: May 1, 1969.
 Channel capacity: 40. Channels available but not in. use: N.A.
-Note:: Subscriber counts, miles of plant,
-' homes passed & total homes in franchised areas include figures for Bodega Bay, Monte Rio, Rohnert Park, St. Helena, Sonoma County & Wikiup, CA. Basic Service
+Note:: Subscriber counts, miles of plant, homes passed & total homes in franchised areas include figures for Bodega Bay, Monte Rio, Rohnert Park, St. Helena, Sonoma County & Wikiup, CA. Basic Service
 Subscribers: 37,000 (07/21/87). Programming (received off air): KFCB (I), Concord; KRCB-TV (P), Cotati; KIVU (I), Oakland-San Francisco; KCRA-TV (N), Sacramento-Stockton; KBHK-TV (I), KDTV (I), KGO-TV (A), KOFY-TV (I), KPIX (C), KQED (P), KRON-TV (N), San Francisco; KICU-TV (I), San Jose; KFTY (I) Santa Rosa.
 Programming (via satellite): Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; CNN Headline News; Country Music TV; Discovery Channel; ESPN; Financial News Network; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon; The Weather Channel; USA Network.
 Current originations: Local live; MLTV. Fee: $9.38 monthly.
@@ -2673,7 +2670,7 @@ Programming (via satellite): Cinemax, Fee: $7,95 monthly.
 Tier 2
 Subscribers: 49 (01/01/85). Began: N.A. Programming (via satellite): Disney Channel.
 Fee: $7.95 monthly.
-Tiers
+Tier 3
 Subscribers: 172 (01/01/85). Began: March 19,1982.
 Programming (via satellite): GalaVIslon.
 Fee: $8.95 monthly.
@@ -2841,7 +2838,7 @@ Stanford—See also Century Federal Inc., PALO ALTO, CA.
 STANISLAUS COUNTY—See MODESTO, CA.
 STANISLAUS COUNTY—See also OAKDALE, CA.
 STANISLAUS COUNTY—See also TURLOCK, CA.
-STANISLAUS COUNTY (portions)—See Rl-VERBANK, CA.
+STANISLAUS COUNTY (portions)—See RIVERBANK, CA.
 STANISLAUS COUNTY (portions)—See EMPIRE, CA.
 STANTON—See ORANGE COUNTY (portions), CA.
 STOCKTON—Continental Cablevision, 6505 Tam O’Shanter, Stockton, CA 95210. Phone: 209-473-4955. County: San Joaquin. Also serves French Camp, Lathrop, Lincoln Village West, Linden, Manteca, San Joaquin County. Population: 300,000.
@@ -2881,7 +2878,7 @@ Miles of plant: 139.0 (coaxial). Additional miles planned: 4.0 (coaxial). Homes 
 Manager: Frank Cotton.
 City fee: 2% of gross.
 Ownership: Chambers Communications Corp. .(see Cable Group Ownership), 100%.
-*Sun City—Integrated Video Resources Inc., 8610 S. Sepulveda Blvd., Los Angeles, CA 90045. Phone: 213-641-44871 County: Riverside. Plans service to El Cerrito/Lake Mathews, Perris, Romo-land, Winchester. Population: 17,776. TV Market Ranking: 2. Original franchise award date: October 1, 1987. Franchise expiration date: October 1, 2002. Scheduled to begin: May 30, 1988. Channel capacity: 29. Basic ServicePlanned programming (via satellite): ESPN; USA Network. Planned originations: Educational access; government access. Tier 1—Planned programming (via satellite): Disney Channel; HBO. Ownership: Dr. Gary K. Michelson, pres., 51.0%; Dr. Michael Shiftman, v.p., 49.0%.
+*Sun City—Integrated Video Resources Inc., 8610 S. Sepulveda Blvd., Los Angeles, CA 90045. Phone: 213-641-44871 County: Riverside. Plans service to El Cerrito/Lake Mathews, Perris, Romo-land, Winchester. Population: 17,776. TV Market Ranking: 2. Original franchise award date: October 1, 1987. Franchise expiration date: October 1, 2002. Scheduled to begin: May 30, 1988. Channel capacity: 29. Basic ServicePlanned programming (via satellite): ESPN; USA Network. Planned originations: Educational access; government access. Tier 1 Planned programming (via satellite): Disney Channel; HBO. Ownership: Dr. Gary K. Michelson, pres., 51.0%; Dr. Michael Shiftman, v.p., 49.0%.
 SUN VALLEY—See King Videocable, LOS ANGELES, CA.
 SUNLAND—See King Videocable, LOS ANGELES, CA.
 SUNNYSLOPE—See RUBIDOUX, CA.
@@ -2930,7 +2927,7 @@ SUTTER CREEK—See SAN ANDREAS, CA.
 Sutter Village—See SACRAMENTO (portions), CA.
 SYLMAR—See GLENDALE, CA.
 TAFT—Warner Cable Communications Inc., Box G, 145 Kern St., Taft, CA 93268. Phone: 805-763-1584. County: Kern. Also serves Ford City, Kern County, Maricopa, South Taft, Taft Heights. Population: 20,000.
-TV Market Ranking: Below 100. Original franchise award date: September 1, 1951. Franchise expiration date: November 1, 1998. Began: September 1,1968. Channel capacity: 35 (2-way capable). Channels available but not In use: 16. Basle Seivice
+TV Market Ranking: Below 100. Original franchise award date: September 1, 1951. Franchise expiration date: November 1, 1998. Began: September 1,1968. Channel capacity: 35 (2-way capable). Channels available but not In use: 16. Basic Seivice
 Subscribers: 4,076 (11/01/85). Programming (received off air): KBAK-TV (A), KERO-TV (C), KGET (N), Bakersfield; KMPH (I) Vlsalla-Fresno; 10 FMs. Programming (via satellite): Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; ESPN; MTV; Nickelodeon. Programming (via translator): KCBS-TV (C), KCET (P), KCOP (I), KHJ-TV (I), KNBC-TV (N), KTLA (I), KTTV (I) Los Angeles.
 Current originations: Time-weather; message wheel; emergency alert; metro data.
 Fee: $34.95 installation; $11.25 monthly; $0.75 converter.
@@ -3008,7 +3005,7 @@ Equipment: Jerrold & Sclentlflc-Atlanta headend; Magnavox amplifiers; Systems Wi
 County fee: 5% of gross (Mendocino County); 2% of gross (Sonoma County). Ownership: C4 Media Corp. (see Cable Group Ownership), 100%. Purchased from Wander Telecommunications, Jan. 1988.
 THOUSAND OAKS—Ventura County Cable-vision, Box 5054, 2645 Townsgate Rd., Suite 200, Westlake Village, CA 91361. Phone: 805-379-5300. County: Ventura. Also serves Agoura Hills, Calabasas, Camarillo (unincorporated areas), Fillmore, Melners Oaks, Moorpark, Newbury Park, OJal, Santa Paula, Ventura County,
 Westlake Village. Population: N.A. (area served).
-TV Market Ranking: 2 (portions); Below . 100 (portions). Original franchise award date: N.A. Franchise expiration date: N.A. Began: February 1,1963.
+TV Market Ranking: 2 (portions); Below 100 (portions). Original franchise award date: N.A. Franchise expiration date: N.A. Began: February 1,1963.
 Channel capacity: 32 (2-way capable). Channels available but not in use: N.A. Basic Service
 Subscribers: 35,430 (07/27/87). Programming (received off air): KABC-TV (A), KCBS-TV (C), KCET (P), KCOP (I), KHJ-TV (I), KNBC-TV (N), KTLA (I), KTTV (I), Los Angeles; KEYT-TV (A) Santa Barbara; allband FM.
 Programming (via satellite): Financial News Network.
@@ -3264,7 +3261,7 @@ City fee: 3% of gross.
 Ownership: Falcon Cable TV (see Cable Group Ownership), 100%.
 TULARE COUNTY—See PORTERVILLE, CA.
 TULARE COUNTY—See also TULARE, CA.
-TULARE COUNTY (portions)—See FAR-MERSVILLE, CA.
+TULARE COUNTY (portions)—See FARMERSVILLE, CA.
 TULARE COUNTY (portions)—See also THREE RIVERS, CA.
 TULELAKE—See MERRILL, OR.
 TUOLUMNE CITY—See SONORA, CA.
@@ -3338,7 +3335,7 @@ Subscribers: 7,250; Commercial subscribers: 1 (01/01/88),
 Programming (received off air): KTVU (I), Oakland-San Francisco; KBHK-TV (1), KDTV (I), KGO-TV (A), KOFY-TV (I), KPIX (C), KQEC (P), KQED (P), KRON-TV (N), KTSF (I), San Francisco; KICU-TV (I), KNTV (A), KSTS (I), KTEH (P), San Jose; KCSM-TV (P) San Mateo. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; American Movie Classics; Arts & Entertainment; C-SPAN; C-SPAN II; CBN Cable Network;
 CNN; CNN Headline News; Cable Radio Network; Discovery Channel; ESPN; FNN Score; Financial News Network; GalaVI-sion; Home Shopping Network; Home Shopping Network 2; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; The Fashion Channel; The Weather Channel; USA Network; Video Hits One. Current originations: Time-weather; bulletin board; public access; educational access; government access; religious access; local live; public service announcements.
 Fee: $50.00 installation; $16.50 monthly; $10.00 installation, $4.25 monthly (each additional set).
-Her 1
+Tier 1
 Subscribers: 22 (01/01/88). Began: N.A. Programming (via satellite): Bravo.
 Fee: $10.00 installation; $5.95 monthly. Tier 2
 Subscribers: 633 (01/01/88). Began: October 28,1981.
@@ -3494,7 +3491,7 @@ Fee: $19.95 Installation; $11.95 monthly.
 Tier 4
 Subscribers: 600 (12/01/87). Began: July 15,1978.
 Programming (via satellite): The Movie Channel.
-Fee: $19.50 Installation; $9.95 monthly. Tiers
+Fee: $19.50 Installation; $9.95 monthly. Tier 5
 Subscribers: 248 (12/01/87). Began: July 15,1977.
 Programming (via satellite): SelecTV. Fee: $19.50 Installation; $13.95 monthly.
 Tier 6
@@ -3525,11 +3522,7 @@ Tier 2
 Subscribers: 380 (01/01/88). Began: N.A.
 Programming (via microwave): SelecTV. Fee: $12.95 monthly.
 Addressable homes: 6,200 (01/01/88). Local advertising: No.
-Equipment: Scientlfic-Atlanta headend; VI-koa amplifiers; Pheips-Dodge cable; Oak & Sigma addressable settop converters. Miles of plant: 193.0 (coaxial). Additional miles planned: 2.0 (coaxial). Homes
-1988 Edition
-B-141
-Cable Systems—California
-passed: 22,700. Total homes in franchised area: 24,900.
+Equipment: Scientlfic-Atlanta headend; VI-koa amplifiers; Pheips-Dodge cable; Oak & Sigma addressable settop converters. Miles of plant: 193.0 (coaxial). Additional miles planned: 2.0 (coaxial). Homes passed: 22,700. Total homes in franchised area: 24,900.
 Manager: Steve Welngardt. Chief technician: Tim Brock.
 City fee: 5% of gross.
 Ownership: Century Communications Corp. (see Cable Group Ownership), 100%.
@@ -3537,14 +3530,14 @@ VENTURA COUNTY—See MALIBU, CA.
 VENTURA COUNTY—See also THOUSAND OAKS, CA.
 VENTURA COUNTY—See also VENTURA (eastern portion), CA.
 VENTURA COUNTY (Rincon area)—See VENTURA, CA.
-VENTURA COUNTY (portions)—See SIMI VALLEY, CA. .
+VENTURA COUNTY (portions)—See SIMI VALLEY, CA.
 VENTURA COUNTY (unincorporated portions)—See OXNARD, CA.
 VICTOR—See LODI, CA.
 VICTORVILLE—Booth American Co., Box AL, 16659 Union St„ Victorville, CA 92392. Phone: 619-245-6151. County: San Bernardino. Also serves George AFB. Population: N.A. (area served).
 TV Market Ranking: 2. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 26, 1955. Channel capacity: 30. Channels available but not In use: 8.
 Basic Service
 Subscribers: 10,570 (01/25/87). ■ Programming (received off air): 15 FMs. Programming (via microwave): KABC-TV (A), KCBS-TV (C), KCOP (I), KHJ-TV (I), KMEX-TV (I), KNBC-TV (N), KTLA (I), KTTV (I), KWHY-TV (I), Los Angeles; KVCR-TV (P) San Bernardino. Fee: $20.00 Installation; $14)95 monthly.
-Tierl
+Tier 1
 Subscribers: 3,600 (05/01/85). Began: March 1,1979.
 Programming (via satellite): The Movie Channel.
 Fee: $9.50 monthly.
@@ -3555,7 +3548,7 @@ Manager: Thomas Burka.
 City fee: 4% of gross.
 Ownership: Booth American Co. (see Cable Group Ownership), 100%.
 VIEW PARK—See WESTCHESTER, CA.
-VILLA PARK—See ANAHEIM! CA.
+VILLA PARK—See ANAHEIM CA.
 VISALIA—See TULARE, CA.
 VISTA—See CARLSBAD, CA.
 VISTA—See also SAN MARCOS, CA.
@@ -3574,17 +3567,17 @@ Programming (via satellite): American Movie Classics.
 Fee: $5.00 Installation; $4.95 monthly. Tier 2
 ■Subscribers: 2,384 (01/01/88). Began: N.A.
 Programming (via satellite): Clnemax. Fee: $5.00 Installation; $9.75 monthly. Tier 3
-• Subscribers: .1,829 (01/01/88). Began: N.A.
+Subscribers: 1,829 (01/01/88). Began: N.A.
 Programming (via satellite): Disney Channel. ', ■
 Fee: $5.00: installation; $9.75 monthly. Tier 4
-Subscribers:' 5,908 (01/01/88). Began: N.A.
+Subscribers: 5,908 (01/01/88). Began: N.A.
 . Programming (via satellite): HBO.
 Fee: $5.00 installation; $9.75 monthly. Tier 5
 Subscribers: 300 (01/01/88). Began:
 n.a.
 .Programming (via satellite): SelecTV.
-... Fee: $5.00 Installation; $18.00 monthly. TlerB.,
-. Subscribers:. 1,930 (01/01/88). Began: N.A. .
+... Fee: $5.00 Installation; $18.00 monthly. Tier 6
+. Subscribers: 1,930 (01/01/88). Began: N.A. .
 Programming (via satellite): Showtime. Fee: $5.00 installation; $9.75 monthly. Pay-Per-View: Request TV. Addressable homes: 8,805 (01/01/88).
 Fee: $4.50.
 Local advertising: Yes (insert only). Available in CNN, ESPN, MTV, USA Network programming. Regional Interconnect: United Cable Advertising Sales Inc. Equipment: Phasecom & Sclentific-Atlanta headend; Century III amplifiers; Comm/Scope cable; Sony cameras; Sony VTRs; Quanta character generator; Zenith addressable set top converters; Prodelln satellite antenna; Standard Components satellite receivers.
@@ -3659,9 +3652,9 @@ WEAVERVILLE—See TRINITY COUNTY, CA.
 WEED—See MOUNT SHASTA, CA.
 WELOON—See KERN RIVER VALLEY, CA.
 WEST COVINA—Falcon Cable TV, 1414 A Azusa St., West Covina, CA 91791. Phone: 818-919-8921. County: Los Angeles. Also serves Huntington Park, Norwalk, Walnut. Population: 165,000.
-TV Market Ranking: 2. Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 15, 1982. Channel capacity: 54. Channels available but not In use: N.A.
+TV Market Ranking: 2. Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 15, 1982. Channel capacity: 54. Channels available but not in use: N.A.
 Basic Service
-Subscribers: Included with Pasadena, CA. 
+Subscribers: Included with Pasadena, CA.(
 Programming (received off air): KDOC-TV (I), Anaheim; KOCE-TV (P), Hunting-ton Beach; KABC-TV (A), KCBS-TV (C), KCET (P), KCOP (I), KHJ-TV (I), KLCS (P), KMEX-TV (I), KNBC-TV (N), KTLA (I), KTTV (I), KWHY-TV (I), Los Angeles; KHSC (I), Ontario; KSCI (I), San Bernardino; KTBN-TV (I) Santa Ana; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Learning Channel; MTV; Nickelodeon; USA Network; Video Hits One.
 Current originations: News ticker; channel guide; bulletin board; public access; educational access; government access; emergency alert; local live; public service announcements.
@@ -3672,7 +3665,7 @@ Equipment: Scientlfic-Atlanta headend; Sclentlfic-Atlanta amplifiers; JVC & Sony
 City fee: 5% of gross.
 Ownership: Falcon Cable TV (see Cable Group Ownership), 100%.
 West Hills—See CALABASAS PARK, CA.
-WEST HOLLYWOOD—See Century Com-munlcatons, LOS ANGELES, CA.
+WEST HOLLYWOOD—See Century Communicatons, LOS ANGELES, CA.
 WEST LAKE TAHOE—WestStar Cable TV, Box 5128, Truckee, CA 95730. Phone: 916-583-6666. Counties: El Dorado & Placer. Also serves Alpine Meadows, Cisco Grove, Serene Lakes, Squaw Valley, Ward Valley. Plans service to Meeks Bay-Tahoma Area. Population: N.A. (area served).
 TV Market Ranking: Below 100 (portions); Outside TV markets (portions). Original franchise award date: N.A. Franchise expiration date: N.A. Began: March 1, 1969.
 Channel capacity: 12 (plans two-way). Channels available but not In use: None. Basic Service
@@ -3714,7 +3707,7 @@ Tier 4
 Subscribers: 5,330 (01/02/88). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $7.95 monthly.
-Tiers
+Tier 5
 Subscribers: 828 (01/02/88). Began: N.A.
 Programming (via satellite): The Movie Channel.
 Fee: $7.95 monthly.
@@ -3870,7 +3863,7 @@ Subscribers: 8,700 (12/11/86). Programming (received off air): KDOC-TV (I), Anah
 Current originations: Time-weather; news ticker; channel guide; message wheel; public access; educational access; government access.
 Planned originations: Shopping guide; bulletin board; classified ads.
 Fee: $49.95 Installation; $10.44 monthly.
-Tlerl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Bravo; Clnemax; Disney Channel;-GalaVision; HBO; The Movie Channel; Showtime.
 Fee: $9.95 monthly (each).
 Local advertising: Planned;
@@ -3886,13 +3879,13 @@ WINTERHAVEN—See YUMA, AZ.
 WINTERS—See WEST SACRAMENTO, CA.
 WINTON—See MERCED, CA.
 WOFFORD HEIGHTS—See KERN RIVER VALLEY, CA.
-WOOOACRE—See MARIN COUNTY, CA.
-WOOOBRIDGE—See LODI, CA.
-WOOOLAKE—See TULARE COUNTY (portions), CA.
+WOODACRE—See MARIN COUNTY, CA.
+WOODBRIDGE—See LODI, CA.
+WOODLAKE—See TULARE COUNTY (portions), CA.
 WOODLAND—See WEST SACRAMENTO, CA.
 WOODLAND HILLS—See LOS ANGELES (WEST VALLEY), CA.
-WOOOVfLLE—See THREE RIVERS, CA.
-WRIGKTWOOD—See CRESTLINE, CA.
+WOODVILLE—See THREE RIVERS, CA.
+WRIGHTWOOD—See CRESTLINE, CA.
 WRIGHTWOOD—Falcon Communications Inc., Box 9, 26261 State Hwy. 18, Rim Forest, CA 92378. Phone: 619-256-6907. Counties: Los Angeles & San 8ernardino. Also serves Los Angeles County (portions), San Bernardino County (portions). Plans service to Phelan, Plnon Hills. Population: N.A. (area served).
 TV Market Ranking: 2. Original franchise award date: N.A. Franchise expiration date: March 25, 2012. Began: April 22, 1963.
 Channel capacity: 21. Channels available but not In use: 7.

@@ -140,7 +140,7 @@ AMHERST—See ERIE COUNTY, NY.
 AMITY—See WELLSVILLE, NY.
 AMlTYVILLE—See WOODBURY, NY.
 AMSTERDAM—Gateway Gablevlsion Genesee Lane, Amsterdam, NY 12010-1892. Phone: 518-842-5942. Counties: Fulton & Montgomery. Also serves Broadalbin, Florida (town), Fonda, Fort Johnson, Fultonville, Hagaman," May-field, Mohawk (town), Northampton (Fulton County), Northville (Fulton County), Perth (Fulton County). Population: 37,000.
-TV Market Ranking: 34 (Amsterdam, Broadalbin, Florida (town), Fonda, Fort Johnson, Fultonville, Hagaman, May-field, Northampton & Northville); Below 100 (Mohawk & Perth). Original franchise award date: N.A. Franchise expiration date: April 1, 1993. Began: December 21,1971.
+TV Market Ranking: 34 (Amsterdam, Broadalbin, Florida (town), Fonda, Fort Johnson, Fultonville, Hagaman, Mayfield, Northampton & Northville); Below 100 (Mohawk & Perth). Original franchise award date: N.A. Franchise expiration date: April 1, 1993. Began: December 21,1971.
 Channel capacity: 35 (2-way capable).
 ‘ Channels available but not in use: N.A. Basic Service
 Subscribers: 12,292 (01/17/88). Programming (received off air): WMHT (P), WMHX (P), WNYT (N), WRGB (C),
@@ -148,7 +148,7 @@ Subscribers: 12,292 (01/17/88). Programming (received off air): WMHT (P), WMHX (
 Programming (via microwave): WSBK-IV (I), Boston; WPIX (I), WWOR-TV (I) New York.
 Programming (via satellite): WTBS (I) Atlanta; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; ESPN; Financial News Network; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon; SportsChannel (New York); Tempo TV; The Weather Channel; USA Network; Univision.
 Current originations: Public access; religious access; off track betting.
-Fee: $37.50 installation; $12.95 monthly; $27.50 Installation, $3.00 monthly (each additional set), fieri
+Fee: $37.50 installation; $12.95 monthly; $27.50 Installation, $3.00 monthly (each additional set), Tier 1
 Subscribers: 318 (11/29/86). Began: December 1,1984.
 Programming (via satellite): Cinemax. Fee: $27.50 installation; $9.95 monthly. Tier 2
 Subscribers: 379 (11/29/86). Began: N.A.
@@ -205,7 +205,7 @@ ANTWERP—See also INDIAN RIVER, NY.
 ANTWERP (VILLAGE)—See INDIAN RIVER, NY.
 AQUEBOGUE—See RIVERHEAD, NY.
 ARCADE (TOWN)—See SPRINGVILLE (VILLAGE), NY.
-ARCADE (VILLAGE)—See SPRINGVILLE (VILLAGE). NY.
+ARCADE (VILLAGE)—See SPRINGVILLE (VILLAGE), NY.
 ARCADIA (TOWN)—See NEWARK (VILLAGE), NY.
 ARDSLEY—See NEW ROCHELLE, NY.
 ARKPORT—See HORNELL, NY.
@@ -218,7 +218,7 @@ ATHENS (VILLAGE)—See CATSKILL, NY.
 ATLANTIC BEACH—See WOODBURY, NY.
 ATTICA (TOWN)—See STAFFORD, NY.
 ATTICA (VILLAGE)—See STAFFORD, NY.
-AU SABLE (TOWN)—See PLATTSBURGH, NY. 
+AU SABLE (TOWN)—See PLATTSBURGH, NY.
 AU SABLE FORKS—See JAY, NY.
 AUBURN—Auburn Cablevision Inc., 32 Owasco St., Auburn, NY 13021. Phone: 315-252-7563. Counties: Cayuga & Onondaga. Also serves Fleming, Owasco, Sennett, Skaneateles (town), Skaneateles (village), Spafford, Throop. Population: 42,441.
 TV Market Ranking: 35. Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 22,1967. Channel capacity: 30 (plans two-way). Channels available but not in use: 2.
@@ -390,7 +390,7 @@ BEDFORD HILLS—See MOUNT KISCO, NY.
 BEECHHURST—See BROOKLYN/QUEENS, NY.
 Beekman—See CARMEL, NY.
 BELFAST—El-Mar Communications, Box 473, Belfast, NY 14711. Phone: 716-365-2290. County: Allegany. Also serves Ca-neadea. Population: 3,771.
-TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began:. September 19,1973.
+TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: September 19,1973.
 Channel capacity: 12. Channels available but not In use: 2.
 Basic Service
 Subscribers: 114 (01/01/84). Programming (received off air): WGRZ-TV (N), WIVB-TV (C), WKBW-TV (A), WUTV (I), Buffalo; WHEC-TV (C), WOKR (A), WROC-TV (N), WXXI-TV (P), Rochester; CBLT Toronto; allband FM.
@@ -401,7 +401,7 @@ City fee: $1.00 annually plus $0.25 per subscriber.
 Ownership: El-Mar Communications Co. (see Cable Group Ownership), 100%. Note: Current Information not avajlable.
 BELLEROSE (Nassau County)—See WOODBURY, NY.
 BELLEROSE (Queens County)—See BROOKLYN/QUEENS, NY.
-BELLPORT (VILLAGE)—See BROOKHA-VEN (TOWN), NY.
+BELLPORT (VILLAGE)—See BROOKHAVEN (TOWN), NY.
 BELMONT—See WELLSVILLE, NY.
 BEMUS POINT (VILLAGE)—See JAMESTOWN, NY.
 BENTON—See PENN YAN, NY.
@@ -443,7 +443,7 @@ Tier 2
 Subscribers: 4,406 (01/01/88). Began: N.A.
 Programming (via satellite): Disney Channel.
 Fee: $11.00 monthly.
-Tier3
+Tier 3
 Subscribers: 17,941 (01/01/88). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $11.00 monthly.
@@ -459,11 +459,11 @@ Manager: James Streevy. Chief technician: Francis Scott.
 Ownership: NewChannels Corp. (see Cable Group Ownership), 100%.
 BINGHAMTON (TOWN)—See BINGHAMTON, NY.
 BUCK BROOK (TOWN)—See JAY, NY.
-BUCK RIVER (VILLAGE}—See WATER-TOWN, NY.
+BUCK RIVER (VILLAGE}—See WATERTOWN, NY.
 BUSDELL—See ERIE COUNTY, NY.
 BLOOMING GROVE—See MONROE, NY.
-BLOOMING GROVE (TOWN)—See WASHINQTONVILLE, NY.
-BLOOMINGBURG (VILLAGE)—See WAL-LKILL, NY.
+BLOOMING GROVE (TOWN)—See WASHINGTONVILLE, NY.
+BLOOMINGBURG (VILLAGE)—See WALLKILL, NY.
 BLOOMINGTON—See ROSENDALE, NY.
 BLOOMVILLE—Bloomville TV Club, Bloomvlllfl, NY 13739. Phone: 607-538-9273, County: Delaware. Also serves Kor-tright. Population: 1,500.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,1957.
@@ -528,7 +528,7 @@ BRIGHTON—See ROCHESTER, NY.
 BRIGHTWATERS—See SUFFOLK COUNTY, NY.
 BROADALBIN—See AMSTERDAM, NY.
 BROCKPORT—See ROCHESTER, NY.
-BROCTON (VILLAGE)—See FREDONIA (VILUGE), NY.
+BROCTON (VILLAGE)—See FREDONIA (VILLAGE), NY.
 ‘Bronx—Cablevision Systems New York Corp., One Media Crossways, Woodbury, NY 11797. Phone: 516-364-8450. County: Bronx. Population: 1,169,115. TV Market Ranking: 1. Original franchise award date: January 1, 1983. Franchise expiration date: N.A. Scheduled to begin: April 1,1988. Channel capacity: 70 (plans two-way). Basic ServicePlanned programming (received off air): WABC-TV (A) WCBS-TV (C), WNBC-TV (N), WNYC-TV (P), WNYE-TV (P), WNYW (I), WPIX (I), WWOR-TV (I), New York; WHSE (I), WNET (P), WNJU (I), New York-Newark; WXTV (I) New York-Paterson. Planned originations: Tlme-weather; news ticker; sports ticker; channel guide; public access; government access; leased access; swap ’n shop;, program guide. Fee: $14.95 monthly. Local advertising: Planned. Equipment: Jerrold headend; Jerrold amplifiers; Jerrold settop converters; Jerrold addressable set top converters. Total homes In franchised area: 400,000. Manager: Norman Kellogg. Chief technician: Gerald Genova. Ownership: Cablevlslon Systems Corp. (see Cable Group Ownership), 100%.
 BRONX (Riverdale Section)—See NEW YORK, NY.
 BRONXVILLE—See NEW ROCHELLE, NY.
@@ -581,7 +581,7 @@ Miles of plant: 750.0 (coaxial). Additional miles planned: 590.0 (coaxial). Tota
 City fee: 5% of gross.
 Ownership: Warner Cable Communications Inc. (see Cable Group Ownership), 100%.
 BROOKVILLE—See BROOKLYN/QUEENS, NY.
-BROWNVILLE (VILLAGE)—See WATER-TOWN, NY.
+BROWNVILLE (VILLAGE)—See WATERTOWN, NY.
 BRUNSWICK—See TROY, NY.
 BRUSHTON—See MALONE (TOWN), NY.
 BRUTUS—See SYRACUSE, NY.
@@ -616,8 +616,8 @@ CALLICOON (TOWN)—See SULLIVAN COUNTY, NY.
 CALLICOON (VILLAGE)—See DELAWARE, NY.
 CALVERTON—See RIVERHEAD, NY.
 CAMBRIA—See RANSOMVILLE, NY.
-CAMBRIA HEIGHTS—See BROOKLYN/ QUEENS, NY.
-CAMBRIDGE (TOWN)—See GREENWICH,NY.
+CAMBRIA HEIGHTS—See BROOKLYN/QUEENS, NY.
+CAMBRIDGE (TOWN)—See GREENWICH, NY.
 CAMDEN—Cable TV of Central New York, 217 E. 9th St., Hazleton, PA 18201. Phone: 717-455-6851. County: Oneida. Population: 2,667.
 TV Market Ranking: 35. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 15,1982. Channel capacity: 36 (2-way capable). Channels available but not in use: 14. Basic Service
 Subscribers: 546 (01/01/86). Programming (received off air): WCNY-TV (P), WIXT (A)i WSTM-TV (N), WTVH (C), Syracuse; WKTV (N), WUTR (A) Utica.
@@ -638,7 +638,7 @@ CAMILLUS—See SYRACUSE, NY.
 CAMPBELL—See CORNING, NY.
 CANADICE—See RICHMOND, NY.
 CANAJOHARIE—Gateway Cablevision Corp., 159 Erie Blvd., Canajoharie, NY 13317. Phone: 518-673-3801. County: Montgomery. Also serves Fort Plain, Nel-liston, Palatine Bridge, St. Johnsville. Population: 9,000.
-TV Market Ranking: 34 (Canajoharie, Nel-liston & Palatine Bridge); Below 100 (Fort Plain & St. Johnsville). Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1, 1965.
+TV Market Ranking: 34 (Canajoharie, Nelliston & Palatine Bridge); Below 100 (Fort Plain & St. Johnsville). Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1, 1965.
 Channel capacity: 36. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 3,331 (01/17/88). Programming (received off air): WMHT (P), WNYT (N), WRGB (C), WTEN (A), WXXA-TV (I), Albany-Schenectady; WKTV (N), WUTR (A) Utica; allband FM. Programming (via microwave): WPIX (I), WWOR-TV (I) New York. Programming (via satellite): WTBS (I) Atlanta; Arts 8< Entertainment; C-SPAN; CBN Cable Network; CNN; Discovery Channel; ESPN; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon; SportsChannel (New York); The Weather Channel; USA Network; Video Hits One.
@@ -714,7 +714,7 @@ CARTHAGE—Carthage NewChannels, Box 470,2 N. Broad St., Carthage, NY 13619. Pho
 TV Market Ranking: Below 100. Original franchise award date: January 1,1961. Franchise expiration date: March 19, 1992. Began: January 1,1962.
 Channel capacity: 36. Channels available but not in use: 3.
 Note: Subscribers, miles of plant & homes passed figures include Indian River, NY.
-Basie Service
+Basic Service
 Subscribers: 5,475; Commercial subscribers: 35 (01/01/88).
 Programming (received off air): WWNY-TV (C,N), Carthage-Watertown; WFYF (A), WNPE-TV (P) Watertown; CKWS-TV, Kingston; CJOH-TV, Ottawa; allband FM.
 Programming (via microwave): WPIX (I), New York; WIXT (A), WSTM-TV (N) Syracuse.
@@ -806,7 +806,7 @@ City fee: 3% of gross.
 Ownership: Cablevlslon Industries Inc. (see Cable Group Ownership), 100%.
 CAYUGA HEIGHTS—See ITHACA, NY.
 CAYUTA—See ALPINE, NY.
-CAZEN0VIA—Seiectavlslon of Cazenovla & Nelson Inc., Rte. 20 E, Town & Country Plaza, Cazenovia, NY 13035, Phone: 315-655-3555. County: Madison. Population: 4,081.
+CAZENOVIA—Seiectavlslon of Cazenovla & Nelson Inc., Rte. 20 E, Town & Country Plaza, Cazenovia, NY 13035, Phone: 315-655-3555. County: Madison. Population: 4,081.
 TV Market Ranking: 35. Original franchise award date: N.A. Franchise expiration date: N.A. Began:'N.A.
 Channel capacity: N.A. Channels available but not In use: N.A.
 Basic Service
@@ -867,7 +867,7 @@ CHAZY (VILLAGE)—See ROUSES POINT, NY.
 CHEEKTOWAGA—See ERIE COUNTY, NY.
 CHEMUNG (TOWN)—See SAYRE, PA.
 CHENANGO (TOWN)—See BINGHAMTON, NY.
-CHERRY VALLEY (TOWN)—See COBLES-KILL (TOWN), NY.
+CHERRY VALLEY (TOWN)—See COBLESKILL (TOWN), NY.
 CHERRY VALLEY (VILLAGE)—See COBLESKILL (TOWN), NY.
 CHESTER (TOWN)—See WARWICK, NY.
 CHESTER (TOWN) (Warren County)—See GLENS FALLS, NY.
@@ -900,16 +900,16 @@ Manager: Cindy Stoutenberg. Chief technician: Richard Hunt.
 City fee: 3% of gross.
 Ownership: Simmons Communications Ino, (see Cable Group Ownership), 100%,
 CHURCHVILLE—See ROCHESTER, NY.
-CHURCHVILLE (VILLAGE)—See STAFFORD, NY. ,
+CHURCHVILLE (VILLAGE)—See STAFFORD, NY.
 CICERO—See SYRACUSE, NY.
 CLARENCE—See LANCASTER (TOWN), NY.
 CLARKSON (TOWN)—See ROCHESTER, NY.
-CLARKSTOWN—See ROCKLAND. NY.
+CLARKSTOWN—See ROCKLAND, NY.
 CLAVERACK—See CATSKILL, NY.
 CLAY—See SYRACUSE, NY.
 CLAYTON—NewChannels Corp., Box 470, 2 N. Broad St., Carthage, NY 13619. Phone: 315-493-3520. County: Jefferson. Also serves Limerick. Population: N.A. (area served).
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: December 1,1997. Began: March 22, 1966.
-Channel capacity: 36 (plans two-way). Channels available but not in use: 10. Note: Subscribers, miles of plant & homes passed figures include Chau-mont, NY.
+Channel capacity: 36 (plans two-way). Channels available but not in use: 10. Note: Subscribers, miles of plant & homes passed figures include Chaumont, NY.
 Basic Service
 Subscribers: 1,584; Commercial subscribers: 2 (01/01/88).
 Programming (received off air): WWNY-TV (C,N), Carthage-Watertown; WNPE-TV (P) Watertown: CKWS-TV, Kingston. Programming (via microwave): WSTM-TV (N) Syracuse.
@@ -981,7 +981,7 @@ COLD SPRING HARBOR—See WOODBURY, NY.
 Colden—See EAST AURORA, NY.
 COLESVILLE—See WINDSOR, NY.
 COLLEGE POINT—See BROOKLYN/ QUEENS, NY.
-COLLINS (TOWN)—See SPRINGVtLLE (VILLAGE), NY.
+COLLINS (TOWN)—See SPRINGVILLE (VILLAGE), NY.
 COLONIE (TOWN & VILLAGE)—See ALBANY, NY.
 COLTON—See POTSDAM, NY.
 COMMACK—See WOODBURY, NY.
@@ -993,7 +993,7 @@ CONSTANTIA (TOWN)—Cablevlsion Industries Inc., Box 510, 426 Fairview Ave., One
 TV Market Ranking: 35. Original franchise award date: April 1, 1985. Franchise expiration date: April 1, 1995. Began: February 1,1986.
 Channel capacity: N.A. Channels available but not In use: N.A.
 Basic Service
-Subscribers: Included with Oneida, NY. (received off air): WETM-TV (N), Elmira; WCNY-TV (P), WIXT (A), WSTM-TV (N), WTVH (C), Syracuse; WKTV (N), WUTR (A) Utica. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WPIX (I), WWOR-TV (I) New York; C-SPAN; CBN Cable Network; CNN; ESPN; Electronic Program Guide; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; USA Network.
+Subscribers: Included with Oneida, NY.( (received off air): WETM-TV (N), Elmira; WCNY-TV (P), WIXT (A), WSTM-TV (N), WTVH (C), Syracuse; WKTV (N), WUTR (A) Utica. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WPIX (I), WWOR-TV (I) New York; C-SPAN; CBN Cable Network; CNN; ESPN; Electronic Program Guide; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; USA Network.
 Fee: $25.00 installation; $13.50 monthly; $5.00 monthly (each additional set).
 Tier 1
 Subscribers: Included with Oneida, NY. Began: February 1,1985.(
@@ -1099,7 +1099,7 @@ CRAWFORD (TOWN)—See WALDEN, NY.
 CREEK LOCKS—See ROSENDALE, NY.
 CROGHAN—See CARTHAGE, NY.
 CROTON-ON-HUDSON—See OSSINING, NY.
-CROWN POINT (TOWN)—See TICONDE-ROGA (VILLAGE), NY.
+CROWN POINT (TOWN)—See TICONDEROGA (VILLAGE), NY.
 CUBA—Cuba Cable Co. Inc,, 24 W. Main, Cuba, NY 14727. Phone: 716-968-1530. County: Allegany. Also serves Cuba (village). Population: 1,735.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: September 1,1958.
 Channel capacity: 12. Channels available but not In use: 2.
@@ -1141,7 +1141,7 @@ Manager: Robert Warner. Chief technician: Mike Kane,
 Ownership: Warner, Robert, pres., 50.0%; Warner, Mildred, v.p., 50.0%. Note: Current Information not available.
 DAVENPORT—See ONEONTA, NY.
 DE LANCEY—See HAMDEN, NY.
-DE Win—See SYRACUSE, NY.
+DE WITT—See SYRACUSE, NY.
 DEANSBORO—See ORISKANY FALLS, NY.
 DEERFIELD TWP.—See UTICA, NY.
 DEERPARK (TOWN)—See PORT JERVIS, NY.
@@ -1232,10 +1232,10 @@ DUNKIRK (TOWN)—See DUNKIRK, NY.
 DUTCHESS COUNTY (northeast portion)—Cablevlston of Dutchess County, Box 367, Main St., Rte. 22, Dover Plains, NY 12522. Phone: 914-877-9454. County: Dutchess. Also serves Amenia, Dover, Mlllbrook, Mlllerton, North East, Stanford, Union Vale, Washington. Population: N.A. (area served).
 TV Market Ranking: 19 (Dover, Union Vale); Below 100 (Amenia, Wlllbrook, Mlllerton, North East, Stanford, Washington). Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,1964.
 Channel capacity: 41. Channels available but not In use: N.A.
-Basle Service
+Basic Service
 Subscribers: 4,455 (01/01/86). Programming (received off air): WMHT (P), WTEN (A), Albany-Schenectady; WFSB (C), Hartford; WTNH-TV (A), New Haven; WABC-TV (A), WCBS-TV (C), WNBC-TV (N), WNYW (1), WPIX (I). WWOR-TV (I), New York; WNET (P), New York-Newark; WTBY (I) Poughkeepsie; 20 FMs.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Arts & Entertainment; C-SPAN; CNN; ESPN; Financial News Network; Lifetime; MTV; Madison Square Garden Network; Nashville Network; Nickelodeon; SportsChan-nel (New York); The Weather Channel; USA Network; Video Hits One. Planned programming (received off air): WTZA (I) Kingston; WTXX (I) Waterbury. Planned originations: Stock ticker; sports ticker; channel guide.
-Fee: $25.00 installation; $9.45 monthly; $15.00 installation, $2.00 monthly (each additional set), fieri
+Fee: $25.00 installation; $9.45 monthly; $15.00 installation, $2.00 monthly (each additional set), Tier 1
 Subscribers: 1,560 (01/01/85). Began: January 15,1979.
 Programming (via satellite): HBO.
 Fee: $9.00 monthly.
@@ -1294,7 +1294,7 @@ Miles of plant: 5.5 (coaxial).
 Manager: Clara Lacey, Chief technician: Boyd Eggler.
 Ownership: Municipally-owned & operated. 
 EAST CARTHAGE—See CARTHAGE, NY,
-EAST CONCORD TWP.—See SPRING-VILLE (VILLAGE), NY.
+EAST CONCORD TWP.—See SPRINGVILLE (VILLAGE), NY.
 EAST CORNING—See CORNING, NY.
 EAST ELMHURST—See QUEENS (northwestern portions), NY.
 EAST FISHKILL—See WAPPINGER (TOWN), NY.
@@ -1340,8 +1340,8 @@ EAST ROCKAWAY—See WOODBURY, NY.
 EASTSYRACUSE—See SYRACUSE, NY.
 EAST WILLISTON—See WOODBURY, NY.
 EASTCHESTER—See NEW ROCHELLE, NY.
-EASTON (TOWN)—See GREENWICH, NY. 
-EASTPORT—See SOUTHAMPTON, NY. 
+EASTON (TOWN)—See GREENWICH, NY.
+EASTPORT—See SOUTHAMPTON, NY.
 EATON—See ILION, NY.
 EDEN—See ERIE COUNTY, NY.
 EOMESTON—See NEW BERLIN, NY.
@@ -1425,7 +1425,7 @@ ENDICOTT—See BINGHAMTON, NY.
 ENFIELD—See SPENCER, NY.
 ERIE COUNTY—Adelphla Cable, 789 Indian Church Rd., West Seneca, NY 14224. Phone: 716-827-9444. Counties: Erie & Niagara. Also serves Amherst, Blasdell, Boston, Cheektowaga, Depew, Eden, Hamburg (town), Hamburg (village), Ken-more (village), Lackawanna, Niagara County, North Tonawanda, Pendleton, Sloan, Tonawanda, Tonawanda (town), West Seneca, Wheatfleld, Wllllamsvllle. Population: 520,740.
 TV Market Ranking: 24. Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1,1965.
-Channel capacity: 30‘(plans two-way). Channels available but not In use: 10. Basic Service
+Channel capacity: 30 (plans two-way). Channels available but not In use: 10. Basic Service
 Subscribers: 127,160 (04/01/87). Programming (received off air): WGRZ-TV (N), WIVB-TV (C), WKBW-TV (A), WNED-TV (P), WUTV (I), Buffalo; WICU-TV (N), WJET-TV (A), WSEE (C), Erie; CHCH-TV, Hamilton; CIII-TV, Paris-Toronto; CBLFT, CBLT, CFTO-TV, CICA-TV Toronto.
 Programming (via microwave): WCBS-TV (C), WNYW (I), WPIX (1), WWOR-TV (I) New York; WHEC-TV (C), WOKR (A), WROC-TV (N), Rochester; WIXT (A) Syracuse.
 Programming (via satellite): CBN Cable Network; CNN; ESPN; PTL; Tempo TV; Trinity Bcstg. Network; USA Network. Current originations: Time-weather; news ticker; stock ticker; sports ticker; channel guide; bulletin board; public access; educational access; government access; local live; public service announcements.
@@ -1451,7 +1451,7 @@ FALLSBURG (TOWN)—See WOODRIDGE, NY.
 FALLSBURG (TOWN)—See also SULLIVAN COUNTY, NY.
 FARMINGDALE—See WOODBURY, NY.
 FARMINGTON (TOWN)—See CANANDAIGUA, NY.
-FARMINGTON (TOWN)—See also MACE-DON (TOWN), NY.
+FARMINGTON (TOWN)—See also MACEDON (TOWN), NY.
 FARRAGUT—See BROOKLYN/QUEENS, NY.
 FAYETTE (TOWN)—See GENEVA, NY.
 FAYETTEVILLE—See SYRACUSE, NY.
@@ -1509,22 +1509,22 @@ FLEISCHMANNS—See PINE HILL, NY.
 FLEMING—See AUBURN, NY.
 FLORAL PARK—See WOODBURY, NY.
 FLORAL PARK—See also BROOKLYN/ QUEENS, NY.
-FLORIDA (TOWN)—See AMSTERDAM. NY.
+FLORIDA (TOWN)—See AMSTERDAM, NY.
 FLORIDA (VILLAGE)—See WARWICK, NY.
 FLOWER HILL—See WOODBURY, NY.
 FLOYD—See ROME, NY.
 FLUSHING—See BROOKLYN/QUEENS, NY.
-FLUSHING SOUTH—See BROOKLYN/ QUEENS, NY.
+FLUSHING SOUTH—See BROOKLYN/QUEENS, NY.
 FONDA—See AMSTERDAM, NY.
 FOREST HILLS—See BROOKLYN/ QUEENS, NY.
 FORESTBURGH (TOWN)—See SULLIVAN COUNTY, NY.
 Forestvllle—See SILVER CREEK, NY.
 FORT ANN (VILLAGE)—See GLENS FALLS, NY.
-FORT ANN (VILLAGE)—See also QUEENS-BURY, NY.
+FORT ANN (VILLAGE)—See also QUEENSBURY, NY.
 FORT COVINGTON—See MALONE (TOWN), NY.
 FORT DRUM—See CARTHAGE, NY.
-FORT EDWARD (TOWN)—See QUEENS-BURY, NY.
-FORT EDWARD (VILLAGE)—See QUEENS-BURY, NY.
+FORT EDWARD (TOWN)—See QUEENSBURY, NY.
+FORT EDWARD (VILLAGE)—See QUEENSBURY, NY.
 FORT GREENE—See BROOKLYN/QUEENS, NY.
 FORT HAMILTON—Americable International New York Inc., Fort Hamilton, Bldg. 403, Brooklyn, NY 11209. Phone: 718-238-3314. County: Kings. Population: N.A. (area served).
 TV Market Ranking: 1. Original franchise award date: October 5,1986. Franchise expiration date: October 5,1996. Began: August 1,1987.
@@ -1541,7 +1541,7 @@ Tier 2
 Subscribers; 101 (07/01/87). Began: N.A.
 Programming (via satellite): The Movie Channel.
 Fee: $9.95 monthly.
-Tier3
+Tier 3
 Subscribers: 79 (07/01/87). Began: N.A. Programming (via satellite): Playboy Channel.
 Fee: $9.95 monthly.
 Tier 4
@@ -1582,7 +1582,7 @@ FRANKFORT—See ILION, NY.
 FRANKFORT (VILLAGE)—See ILION, NY.
 FRANKLIN (TOWN) (Delaware County)— See ONEONTA, NY.
 FRANKLIN (VILLAGE)—See ONEONTA, NY.
-FRANKLINVILLE (TOWN)—See SPRING-VILLE (VILLAGE), NY.
+FRANKLINVILLE (TOWN)—See SPRINGVILLE (VILLAGE), NY.
 FRANKLINVILLE (VILLAGE)—See SPRINGVILLE (VILLAGE), NY.
 FREDONIA (VILLAGE)—Fredonla Cablevl-slon, 214 Eagle St„ Fredonla, NY 14063. Phone: 716-673-1059, County: Chautauqua. Also serves Brocton (village), Cassa-daga (village), Pomfret (town), Stockton (town). Population: 16,416.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: November 17, 1985. Began: December 18,1976. Channel capacity: 35. Channels available but not In use; 9.
@@ -1660,14 +1660,14 @@ FULTON—See COBLESKILL (TOWN), NY.
 FULTON FERRY—See BROOKLYN/ QUEENS, NY.
 FULTONVILLE—See AMSTERDAM, NY.
 GALEN (TOWN)—See NEWARK (VILLAGE), NY.
-GARDEN CITY—See WOODBURY, NY. 
-GARDINER (TOWN)—See WALDEN. NY. 
+GARDEN CITY—See WOODBURY, NY.
+GARDINER (TOWN)—See WALDEN. NY.
 GATES—See ROCHESTER, NY.
 GEODES—See SYRACUSE, NY.
 GENESEO (VILLAGE)—See STAFFORD, NY.
 GENEVA—Cablevislon Industries Inc., 1316 Rtes. 5 & 20, Geneva, NY 14456. Phone: 914-292-7550. Counties: Ontario & Seneca. Also serves Fayette (town), Geneva (town), Seneca (town), Seneca Falls (town), Seneca Falls (village), Waterloo (town), Waterloo (village). Population: N.A. (area served).
 TV Market Ranking: 35 (Fayette, Seneca & Seneca Falls); Outside TV markets (Geneva & Waterloo). Original franchise award date: N.A. Franchise expiration date: N.A. Began: March 1,1972. Channel capacity: 24. Channels available but not In use: 5.
-Note; Subscribers, miles of plant, homes passed & total homes In franchised area Include figures for Canandaigua, Cayuga (village), Macedon (town), Newark (village), Sodus (town) & South Seneca County, NY.,
+Note; Subscribers, miles of plant, homes passed & total homes In franchised area Include figures for Canandaigua, Cayuga (village), Macedon (town), Newark (village), Sodus (town) & South Seneca County, NY.
 Basic Service
 Subscribers: 38,332 (03/01/88). Programming (received off air): WHEC-7V (C), WOKR (A), WROC-TV (N), WUHF (I), WXXI-TV (P), Rochester; WCNY-TV (P), WIXT (A), WSTM-TV (N), WTVH (C) Syracuse.
 Programming (via microwave): WPIX (I), WWOR-TV (I) New York. Programming (via satellite): Arts & Entertainment; CBN Cable Network; CNN; Country Music TV; ESPN; Financial News Network; Lifetime; MTV; Nashville Network; Nickelodeon; USA Network. Current originations: Local live.
@@ -1718,7 +1718,7 @@ GLENDALE—See QUEENS (northwestern portions), NY.
 GLENS FALLS—Cablevislon Industries Inc., 250 Ridge St., Glens Falls, NY 12801. Phone: 518-793-6688. Counties: Saratoga, Warren & Washington. Also serves Bolton, Chester (town) (Warren County), Fort Ann (village), Horlcon, Lake George (town), Lake George (village), South Glens Falls (village), Warrensburg (town). Population: 31,500.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,1971.
 Channel capacity: 35. Channels available but not In use: N.A,
-Note: Subscribers include figures for Port Henry (village), Schroon (town) & Tl-conderoga (village), NY.
+Note: Subscribers include figures for Port Henry (village), Schroon (town) & Ticonderoga (village), NY.
 Basic Service
 Subscribers: 14,021 (03/01/88). Programming (received off air): WMHT (P), WMHX (P), WNYT (N), WRGB (C), WTEN (A), WXXA-TV (I) Albany-Sche-nectady; allband FM.
 Programming (via microwave): WSBK-TV (I), Boston; WNYW (I), WPIX (I), WWOR-TV (1) New York.
@@ -1742,7 +1742,7 @@ Manager: Charles Hlmelrick. Chief technician: Michael Levulls.
 City fee: 6% of gross; 3% of gross (Warrensburg only).
 Ownership: Cablevislon Industries Inc. (see Cable Group Ownership), 100%.
 GIENVILLE—Cable TV Fund 10-C, Drawer C, 71 West Ave., Saratoga Springs, NY 12866, Phone: 518-587-7535. Counties: Saratoga & Schenectady. Also serves Al-plaus, Ballston, Ballston Lake, Ballston Spa (portions), Burnt Hills, Charlton. Population: 44,544.
-TV Market Ranking: 34. Original franchise award date: April 1, 1966. Franchise expiration date: April 1, 1987. Began: Februaty 1,1974.
+TV Market Ranking: 34. Original franchise award date: April 1, 1966. Franchise expiration date: April 1, 1987. Began: February 1,1974.
 Channel capacity: 35 (2-way capable). Channels available but not in use: N.A. Basic Service
 Subscribers: 5,537 (01/13/88). Programming (received off air): WMHT (P), WMHX (P), WNYT (N), WRGB (C), WTEN (A), WXXA-TV (I) Albany-Sche-nectady; 2 FMs.
 Programming (via microwave): WSBK-TV (I), Boston; WPIX (I), WWOR-TV (I) New York.
@@ -1832,7 +1832,7 @@ Manager: George Smead. Chief technician: Joe Gregory.
 Ownership: Cablevision Systems Corp. (see Cable Group Ownership), 100%. Purchased from Adams-Russell Co. Inc., Jan. 1988.
 Note: Current information not available.
 GRAND ISLAND—Cable TV Fund ll-B, 2030 Baseline Rd., Grand Island, NY 14072. Phone: 716-773-1696. County: Erie. Population: 16,770.
-TV Market Ranking: 24. Original franchise award date: November 1, 1980. Franchise expiration date: November 1, 1990. Began: October i, 1981.
+TV Market Ranking: 24. Original franchise award date: November 1, 1980. Franchise expiration date: November 1, 1990. Began: October 1, 1981.
 Channel capacity: 36. Channels available but not in use: 1.
 Basic Service
 Subscribers: 4,084 (01/01/88). Programming (received off air): WGRZ-’ TV (N), WIVB-TV (C), WKBW-TV (A), WNED-TV (P), WNYB-TV (I), WUTV (I), Buffalo; CHCH-TV, Hamilton; CFTO-TV Toronto.
@@ -1964,7 +1964,7 @@ Miles of plant: 7.0 (coaxial). Homes passed: 170.
 Manager. Robert H. Burger.
 Ownership: Burger, Robert H., 100%.
 GREENWOOD LAKE-See WARWICK, NY.
-GRIFFtSS AFB—See ROME, NY.
+GRIFFISS AFB—See ROME, NY.
 GROTON (TOWN)—See ITHACA, NY.
 GROTON (VILLAGE)—See ITHACA, NY.
 GUILDERLAND—See ALBANY, NY.
@@ -2009,7 +2009,7 @@ City fee: None.
 Ownership: Keuka TV Cable (see Cable Group Ownership), 100%.
 HAMPTON-See POULTNEY, VT.
 HAMPTON BAYS—See SOUTHAMPTON, NY.
-HAMPTONBURGH (TOWN)—See WAL-LKILL, NY.
+HAMPTONBURGH (TOWN)—See WALLKILL, NY.
 HANCOGK—East Branch TV Line, East Branch, NY 13756. Phone: 607-363-2334. County: Delaware. Population: 3,604.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1972.
 Channel capacity: 12. Channels available but not In use: 6.
@@ -2047,18 +2047,18 @@ HARTSVILLE (TOWN)—See GREENWOOD, NY.
 HARTWICK—See COOPERSTOWN, NY.
 HASTINGS—See CENTRAL SQUARE, NY.
 HASTINGS-QN-HUDSON—See NEVV ROCHELLE, NY.
-HAVERSTRAW—See OSSINING, NY. 
-HAVERSTRAW (TOWN)—See OSSINING,ny.
-HEMPSTEAD (TOWN)—See WOODBURY, NY.	
+HAVERSTRAW—See OSSINING, NY.
+HAVERSTRAW (TOWN)—See OSSINING, NY.
+HEMPSTEAD (TOWN)—See WOODBURY, NY.
 HEMPSTEAD (VILLAGE)—See WOODBURY, NY.
 HENRIETTA—See ROCHESTER, NY.
-HERKIMER—See ILION, NY. 
+HERKIMER—See ILION, NY.
 HERKIMER (VILLAGE)—See ILION, NY.
 HERRINGS—See CARTHAGE, NY.
 HEUVELTON—See OGDENSBURG, NY.
 HEWLETT BAY PARK—See WOODBURY, NY.
 HEWLETT HARBOR—See WOODBURY, NY.
-HEWLETT NECK—See WOODBURY, NY. 
+HEWLETT NECK—See WOODBURY, NY.
 HIGH FALLS—See ROSENDALE, NY.
 HIGHLAND (Sullivan County)—See BARRYVILLE, NY.
 HIGHLAND FALLS (VILUGE)—Cablevision Industries Inc., Industrial Dr., Middle-town, NY 10940. Phone: 914-692-6794. County: Orange. Also serves Highlands (town), West Point Military Academy. Population: 26,296.
@@ -2082,8 +2082,8 @@ HILLBURN—See RAMAPO, NY.
 HINSDALE (TOWN)—See OLEAN, NY.
 HOBART—See STAMFORD, NY.
 HOLCOMB (VILLAGE)—See CANANDAIGUA, NY.
-Holland—See EAST AURORA, NY. 
-HOLLAND PATENT—See ROME, NY. 
+Holland—See EAST AURORA, NY.
+HOLLAND PATENT—See ROME, NY.
 HOLLEY—See ROCHESTER, NY.
 HOMER—See CORTLAND, NY.
 HOMER (VILLAGE)—See CORTLAND, NY.
@@ -2171,7 +2171,7 @@ Fee: $25.00 installation; $8.95 monthly. Addressable homes: 1,662 (12/01/87). Lo
 City fee: 3% of gross.
 Ownership: Colony Communications Inc. (see Cable Group Ownership), 100%.
 ILION—Paragon Communications, 56 Otsego St., Ilion, NY 13357. Phone: 315-895-7704. Counties: Chenango, Herkimer, Madison, Oneida & Ostego. Also serves Bridgewater, Dolgeville, Earlville (village), Eaton, Frankfort, Frankfort (village), German Flatts, Hamilton, Hamilton (town), Herkimer, Herkimer (village), Ilion (village), Lebanon, Little Falls, Little Falls (town), Madison, Mohawk, Morrls-ville, Plainfield, Sherburne, Sherburne (village), Smyrna, West Winfield, Winfield. Population: 52,397.
-TV Market Ranking: 35 (Earlville, Eaton, Hamilton, Lebanon, Madison, Morris-ville); Below 100 (Bridgewater, Dolge-ville, Frankfort, German Fiatts, Herkimer, llion, Little Falls, Mohawk, Plainfield, Sherburne, Smyrna, Winfield). Original franchise award date: N.A, Franchise expiration date: N.A. Began: June 15, 1964.
+TV Market Ranking: 35 (Earlville, Eaton, Hamilton, Lebanon, Madison, Morris-ville); Below 100 (Bridgewater, Dolgeville, Frankfort, German Fiatts, Herkimer, llion, Little Falls, Mohawk, Plainfield, Sherburne, Smyrna, Winfield). Original franchise award date: N.A, Franchise expiration date: N.A. Began: June 15, 1964.
 Channel capacity: 35. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 14,445 (09/01/85). Programming (received off air): WTEN (A), Albany-Schenectady; WCNY-TV (P), WTVH (C), Syracuse; WKTV (N), WUTR (A) Utica; allband FM.
@@ -2206,7 +2206,7 @@ Expanded Basic 1
 Subscribers: Included with Carthage, NY. Began: N.A.
 Programming (via satellite): CBN Cable Network; CNN; CNN Headline News; ESPN; MTV; Nashville Network; The Weather Channel; USA Network.
 Fee: $3.00 monthly,
-Expanded Basle 2
+Expanded Basic 2
 Subscribers: Included with Carthage, NY. Began: N.A.
 Programming (via satellite): C-SPAN; Country Music TV; Discovery Channel; Financial News Network; Lifetime; Nickelodeon; Video Hits One.
 Fee: $3.00 monthly.
@@ -2341,8 +2341,8 @@ Ownership: Keuka TV Cable (see Cable Group Ownership), 100%.
 JERUSALEM—See PENN YAN, NY.
 JEWETT—See HUNTER, NY.
 JOHNSON CITY—See BINGHAMTON, NY.
-JOHNSTOWN (CITY)—See GLOVERS-VILLE, NY.
-JOHNSTOWN (TOWN)—See GLOVERS-VILLE, NY.
+JOHNSTOWN (CITY)—See GLOVERSVILLE, NY.
+JOHNSTOWN (TOWN)—See GLOVERSVILLE, NY.
 JORDAN—See SYRACUSE, NY.
 KANONA (VILLAGE)—See BATH, NY.
 KATONAH—See MOUNT KISCO, NY.
@@ -2398,7 +2398,7 @@ LACONA—See PULASKI, NY.
 LAFAYETTE—See SYRACUSE, NY.
 LAKE GEORGE (TOWN)—See GLENS FALLS, NY.
 LAKE GEORGE (VILLAGE)—See GLENS FALLS, NY.
-LAKE GROVE (VILLAGE)—See BROOKHA-VEN (TOWN), NY.
+LAKE GROVE (VILLAGE)—See BROOKHAVEN (TOWN), NY.
 LAKE LUZERNE (TOWN)—See QUEENSBURY, NY.
 LAKE PLACID—See SARANAC LAKE, NY.
 Lake Pleasant—See WELLS, NY.
@@ -2410,8 +2410,6 @@ Channel capacity: 35. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 10,574 (01/01/88). Programming (received off air): WGRZ-TV (N), WIVB-TV (C), WKBW-TV (A), WNED-TV (P), WNYB-TV (I), WUTV (I), Buffalo; CBLT Toronto.
 Programming (via satellite): WTBS (I) Atlanta; WPIX (I), WWOR-TV (I) New York; ESPN; Financial News Network;
-1988 Edition
-B-765
 uauic OJfdlUlllS-----iiew YOt'K
 Jones Galactic Radio; MTV; Nashville Network; UPI Data cable.
 Current originations: Local live.
@@ -2445,26 +2443,26 @@ Miles of plant: 294.2 (coaxial). Homes passed: 15,997. Total homes In franchised
 Manager: Ruth Baulwln. Chief technician: Clarence E. Ross.
 City fee: 0.5% of gross.
 Ownership: Jones Intercabie Inc. (see Cable Group Ownership), 100%.
-UNCASTER (VILUGE)—See UNCASTER (TOWN), NY.
-UNSING (TOWN)—See ITHACA, NY.
-UNSING (VILLAGE)—See ITHACA, NY.
-URCHMONT (VILUGE)—See NEW ROCHELLE, NY.
-UTTINGTOWN—See WOODBURY, NY.
+LANCASTER (VILUGE)—See LANCASTER (TOWN), NY.
+LANSING (TOWN)—See ITHACA, NY.
+LANSING (VILLAGE)—See ITHACA, NY.
+LARCHMONT (VILUGE)—See NEW ROCHELLE, NY.
+LATTINGTOWN—See WOODBURY, NY.
 UUREL— See SOUTHAMPTON, NY.
 LAUREL HOLLOW—See WOODBURY, NY.
-UURELTON—See BROOKLYN/QUEENS, NY.
-UURENS (TOWN)—See ONEONTA, NY.
-UURENS (VILLAGE}—See ONEONTA, NY.
-UWRENCE—See MASSENA, NY.
-UWRENCE (VILUGE)—See LYNBROOK, NY.
+LAURELTON—See BROOKLYN/QUEENS, NY.
+LAURENS (TOWN)—See ONEONTA, NY.
+LAURENS (VILLAGE}—See ONEONTA, NY.
+LAWRENCE—See MASSENA, NY.
+LAWRENCE (VILUGE)—See LYNBROOK, NY.
 LAZY POINT—See EAST HAMPTON, NY.
 LE RAY—See INDIAN RIVER, NY.
 LE RAY (TOWN)—See CARTHAGE, NY.
-LE RAY TOP.—See WATERTOWN, NY.
+LE RAY TWP.—See WATERTOWN, NY.
 LE ROY (TOWN)—See STAFFORD, NY.
 LE ROY (VILUGE)—See STAFFORD, NY.
 LEBANON—See ILION, NY.
-LEDYARD—See CAYUGA (VILUGE), NY.
+LEDYARD—See CAYUGA (VILLAGE), NY.
 LEE—See ROME, NY.
 LEEDS—See CATSKILL, NY.
 LEICESTER (TQWN)—See STAFFORD, NY.
@@ -2500,7 +2498,7 @@ LITTLE FALLS—See ILION, NY.
 LITTLE FALLS (TOWN)—See ILION, NY.
 LITTLE NECK—See BROOKLYN/QUEENS, NY.
 LITTLE VALLEY (TOWN)—See SALAMANCA, NY.
-LITTLE VALLEY (VILUGE)—See SALA-MANCA, NY.
+LITTLE VALLEY (VILUGE)—See SALAMANCA, NY.
 LIVERPOOL—See SYRACUSE, NY.
 LIVINGSTON MANOR (TOWN)—See SULLIVAN COUNTY, NY.
 LIVONIA (TOWN)—See STAFFORD, NY.
@@ -2525,7 +2523,7 @@ Programming (via satellite): Clnemax. Fee: $25.00 Installation; $10.95 monthly.
 Tier 2
 Subscribers; 312 (12/01/87). Began: July 21, 1986.
 Programming (via satellite): Disney Channel.
-Fee: $25.00 installation; $8.95 monthly. Tiers
+Fee: $25.00 installation; $8.95 monthly. Tier 3
 Subscribers; 2,042 (12/01/87). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $25.00 installation: $11.95 monthly.
@@ -2544,7 +2542,7 @@ Manager: Howard H. Erlchsen. Chief technician: Albert Perotti.
 City fee: 3% of gross.
 Ownership: Colony Communications Inc. (see Cable Group Ownership), 100%.
 LLOYD HARBOR—See WOODBURY, NY.
-LOCKE TOP.—See MORAVIA, NY.
+LOCKE TWP.—See MORAVIA, NY.
 LOCKPORT—Cable TV Fund 11-B, 37 Central Ave., Lancaster, NY 14088. Phone: 716-683-8899. County: Niagara. Also serves Lockport (town), Newfane (town). Population; 40,486.
 TV Market Ranking: 24. Original franchise award date: October 1,1978. Franchise expiration date: October 1,1988. Began: N.A.
 Channel capacity: 36. Channels available but not in use: N.A.
@@ -2651,7 +2649,7 @@ LYONS (VILLAGE)—See NEWARK (VILLAGE), NY.
 LYONS FALLS—See BOONVILLE, NY.
 LYONSDALE—See BOONVILLE, NY.
 LYSANDER (TOWN)—See SYRACUSE, NY.
-LYSANDER (TOWN)—See also BALD-WINSVILLE, NY.
+LYSANDER (TOWN)—See also BALDWINSVILLE, NY.
 MACEDON (TOWN)—Cablevision Industries Inc., 1316 Rtes. 5 & 20, Geneva, NY 14456. Phone: 800-253-8837. Counties: Ontario & Wayne. Also serves Farmington (town), Macedon (village), Walworth (town). Population: 27,403.
 TV Market Ranking: 56. Original franchise award date: N.A. Franchise expiration date: N.A. Began: March 1,1972. Channel capacity: 35. Channels available but not In use: 5.
 Basic Service
@@ -2816,7 +2814,7 @@ Miles of plant: 189.0 (coaxial). Homes passed: 8,333. Total homes in franchised 
 Manager: Thomas Brennan. Chief technician: Tommy J. Moulton. ’
 City fee: 3% of gross.	••1
 Ownership: NewChannels Corp. (see Cable Group Ownership).
-MAS8ENA (TOWN)—See MASSENA, NY.
+MASSENA (TOWN)—See MASSENA, NY.
 MASSENA (VILLAGE)—See MASSENA, NY.
 MATINECOCK—See WOODBURY, NY.
 MATTITUCK—See SOUTHAMPTON, NY.
@@ -2824,14 +2822,14 @@ MAYBROOK (VILLAGE)—See WALDEN, NY.
 MAYFIELD—See AMSTERDAM, NY.
 MAYFIELD—See also GLOVERSVILLE, NY.
 MAYFIELD (TOWN)—See GLOVERSVILLE, NY.
-MAYVILLE—See WESTFIELD, NY. 
-McGRAW—See CORTLAND, NY. 
+MAYVILLE—See WESTFIELD, NY.
+McGRAW—See CORTLAND, NY.
 MECHANICVILLE—See TROY, NY.
-MEDINA (VILLAGE)—See ALBION, NY. 
-MELVILLE—See WOODBURY, NY. 
+MEDINA (VILLAGE)—See ALBION, NY.
+MELVILLE—See WOODBURY, NY.
 MENANDS—See ALBANY, NY.
-MENDON (TOWN)—See STAFFORD, NY. 
-MENTC (TOWN)—See SYRACUSE, NY. 
+MENDON (TOWN)—See STAFFORD, NY.
+MENTC (TOWN)—See SYRACUSE, NY.
 MEREDITH—See DELHI, NY.
 MERRICK (southern portions)—See WOODBURY, NY.
 MEXICO (TOWN)—See MEXICO (VILLAGE), NY.
@@ -2853,12 +2851,12 @@ Ownership: Cable TV Co. of Central New York (see Cable Group Ownership), 100%.
 Note: Current information not available.
 MIDDLE GRANVILLE—See GRANVILLE, NY.
 MIDDLE VILLAGE—See QUEENS (northwestern portion) NY.
-MIDDLEBURGH (TOWN)—See COBLES-KILL (TOWN), NY.
-MIDDLEBURGH (VILLAGE)—See COBLES-KILL (TOWN), NY.
+MIDDLEBURGH (TOWN)—See COBLESKILL (TOWN), NY.
+MIDDLEBURGH (VILLAGE)—See COBLESKILL (TOWN), NY.
 MIDDLEFIELD—See COOPERSTOWN, NY.
 MIDDLEPORT (VILLAGE)—See STAFFORD, NY.
 MIDDLETOWN—See WALLKILL, NY.
-MIDDLETOWN—See also MARGARET-VILLE, NY.
+MIDDLETOWN—See also MARGARETVILLE, NY.
 MIDDLETOWN—See also PINE HILL, NY.
 MIDDLEVILLE (VILLAGE)—See UTICA, NY.
 MILFORD—See ONEONTA, NY.
@@ -2986,8 +2984,8 @@ Manager: Stanley N. Leonard.
 B-770
 Ownership: Leonard, Stanley N., pres., 100%.
 MORRIS (TOWN)—See MORRIS, NY.
-MORRISTOWN (TOWN)—See OGOENS-BURG, NY.
-MORRISTOWN (VILLAGE)—See OGDENS-BURG, NY.
+MORRISTOWN (TOWN)—See OGDENSBURG, NY.
+MORRISTOWN (VILLAGE)—See OGDENSBURG, NY.
 MORRISVILLE—See ILION, NY.
 MOUNT HOPE (TOWN)—See WALLKILL, NY.
 MOUNT KISCO—Westchester Cable TV Inc., 2013 Crompond Rd., Yorktown Heights, NY 10598. Phone: 914-962-4444. County: Westchester. Also serves Bedford, Bedford Hills, Katonah, North Castle. Population: 24,467.
@@ -3058,7 +3056,7 @@ NASSAU (VILLAGE)—See RENSSELAER, NY.
 NASSAU SHORES—See LYNBROOK, NY.
 NEAPEAGUE—See EAST HAMPTON, NY.
 NELLISTON—See CANAJOHARIE, NY.
-NELSONVILLE—See FISHKILL, NY. .
+NELSONVILLE—See FISHKILL, NY.
 NEVERSINK (TOWN)—See SULLIVAN COUNTY, NY.
 NEW ALBION (TOWN)—See SPRINGVILLE (VILLAGE), NY.
 NEW BALTIMORE—See CATSKILL, NY.
@@ -3259,13 +3257,13 @@ NORFOLK—See also POTSDAM, NY.
 NORTH BRANCH—North Branch Video, Box 95, Vogler Hill Rd., North Branch, NY 12766. Phone: 914-482-5295. County: Sullivan. Population: 350.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1953.
 Channel capacity: 12. Channels available but not in use: 4.
-Basle Service Subscribers: 96 (02/01/84). Programming (received off air): WABC-TV (A), WCBS-TV (C), WNBC-TV (N), WNYW (I), WPIX (I), WWOR-TV (I), New York; WNET (P) New York-Newark; allband FM.
+Basic Service Subscribers: 96 (02/01/84). Programming (received off air): WABC-TV (A), WCBS-TV (C), WNBC-TV (N), WNYW (I), WPIX (I), WWOR-TV (I), New York; WNET (P) New York-Newark; allband FM.
 Fee: $50.00 installation; $7.95 monthly. Equipment: Blonder-Tongue headend; Blonder-Tongue amplifiers; Cerro cable. Miles of plant: 7.0 (coaxial). Homes passed: 100. Total homes in franchised area: 100.
 Manager: Richard Vogler.
 Ownership: Vogler, Richard W., 100%. Note: Current information not available.
 NORTH CASTLE—See MOUNT KISCO, NY.
 NORTH CASTLE—See also NEW ROCHELLE, NY.
-NORTH COLLINS (TOWN)—See SPRING-VILLE (VILLAGE), NY.
+NORTH COLLINS (TOWN)—See SPRINGVILLE (VILLAGE), NY.
 NORTH COLLINS (VILLAGE)—See SPRINGVILLE (VILLAGE), NY.
 NORTH EAST—See DUTCHESS COUNTY, NY.
 NORTH ELBA—See SARANAC LAKE, NY.
@@ -3401,7 +3399,7 @@ Fee: $40.00 Installation; $13.50 monthly; $2.50 monthly (each additional set).
 Expanded Basic 1
 Subscribers: 3,698 (05/13/87). Began: June 1,1982,
 Programming (via satellite): CNN; ESPN; Lifetime; MTV; Nashville Network; Nickelodeon; QVC Network.
-Fee: $10.00 Installation; $4.95 monthly. Tier t
+Fee: $10.00 Installation; $4.95 monthly. Tier 1
 Subscribers: 1,317 (05/13/87). Began: April 27, 1976.
 Programming (via satellite): Cinemax. Fee: $30.00 Installation; $8.00 monthly. Tier 2
 Subscribers: 531 (05/13/87). Began: N.A.
@@ -3547,7 +3545,7 @@ Basic Service
 Subscribers: 7,967 (01/01/88). Programming (received off air): WWNY-TV (C,N), Carthage-Watertown; WOKR (A), WUHF (I), Rochester; WCNY-TV (P), WIXT (A), WSTM-TV (N), WJVH (C) Syracuse; CKWS-TV, Kingston; CJOH-TV, Ottawa;.
 Programming (via microwave): WNYW (I), WPIX (I), WWOR-TV (I) New York. Planned programming (via satellite): WTBS (I) Atlanta.
 Current originations: Time-weather; message wheel; public access.
-Fee: $19.95 installation; $7.50 monthly. Tierl
+Fee: $19.95 installation; $7.50 monthly. Tier 1
 Subscribers: 5,103 (07/01/82). Began: October 29,1975.
 Programming (via satellite): Showtime. Fee: $14.95 installation; $9.95 monthly. Equipment: Jerrold & Scientific-Atlanta headend; Theta-Corn amplifiers; Times & Comm/Scope cable; Jerrold set top converters; Andrew satellite antenna; Scientific-Atlanta satellite receivers. Miles of plant: 126.0 (coaxial). Homes passed: 8,145.
 Manager: Jim Smith. Chief technician: Clarence Brooks.
@@ -3555,7 +3553,7 @@ Ownership: Paragon Communications (see Cable Group Ownership), 100%.
 OSWEGO (TOWN)—See OSWEGO, NY.
 OTEGO (TOWN)—See ONEONTA, NY.
 OTEGO (VILLAGE)—See ONEONTA, NY.
-OTISVILLE (VILLAGE)—See WALLKlii, NY.
+OTISVILLE (VILLAGE)—See WALLKILL, NY.
 OTSEGO TWP.—See COOPERSTOWN, NY.
 OVID (TOWN)—See SOUTH SENECA COUNTY, NY.
 OVID (VILLAGE)—See SOUTH SENECA COUNTY, NY.
@@ -3596,7 +3594,7 @@ Manager: Richard Loran. Chief technician: Chuck Rogers.
 City fee: 1% of gross.
 Ownership: Simmons Communications Inc. (see Cable Group Ownership), 100%.
 OXFORD (TOWN)—Oxford NewChannels, c/o Oneonta NewChannels, 21 Elm St., Oneonta, NY 13820. Phone: 607-432-0500. County: Chenango. Also serves Oxford (village). Population: 5,705.
-TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 1, '1961.
+TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 1, 1961.
 Channel capacity: 12. Channels available but not in use: None.
 Basic Service
 Subscribers: 798 (02/01/85). Programming (received off air): WBNG-TV (C), WICZ-TV (N), WMGC-TV (A), WSKG (P), Binghamton; WIXT (A), WSTM-TV (N), WTVH (C), Syracuse; WKTV (N) Utica.
@@ -3621,7 +3619,7 @@ PAMELIA TWP.—See WATERTOWN, NY.
 PARIS (TOWN)—See UTICA, NY.
 PARISHVILLE—See POTSDAM, NY.
 PARK SLOPE—See BROOKLYN/QUEENS, NY.
-PATCHOGUE (VILLAGE)—See BROOKHA-VEN (TOWN), NY.
+PATCHOGUE (VILLAGE)—See BROOKHAVEN (TOWN), NY.
 PATTERSON—See CARMEL, NY.
 Pattersonvilie—See SCHENECTADY, NY.
 PAWLING—See CARMEL, NY.
@@ -3653,15 +3651,15 @@ PERINTON—See ROCHESTER, NY.
 PERKINSVILLE—See DANSVILLE, NY.
 PERRY (TOWN)—See STAFFORD, NY.
 PERRY (VILLAGE)—See STAFFORD, NY.
-PERRYSBURG (TOWN)—See SPRING-VILLE (VILLAGE), NY.
-PERRYSBURG (VILLAGE)—See SPRING-VILLE (VILLAGE), NY.
+PERRYSBURG (TOWN)—See SPRINGVILLE (VILLAGE), NY.
+PERRYSBURG (VILLAGE)—See SPRINGVILLE (VILLAGE), NY.
 PERSIA (TOWN)—See SPRINGVILLE (VILLAGE), NY.
 PERTH (Fulton County)—See AMSTERDAM, NY.
 PERU (TOWN)—See PLATTSBURGH, NY.
 PHELPS (TOWN)—See NEWARK (VILLAGE), NY.
 PHELPS (VILLAGE)—See NEWARK (VILLAGE), NY.
 PHILADELPHIA—See CARTHAGE, NY.
-PHILADELPHIA—See also INDIAN RIVER, NY. .
+PHILADELPHIA—See also INDIAN RIVER, NY.
 PHILADELPHIA (VILLAGE)—See INDIAN RIVER, NY.
 PHILIPSTOWN—See FISHKILL, NY.
 PHILLIPSTOWN—See OSSINING, NY.
@@ -3712,12 +3710,12 @@ PITTSFORD—See also ROCHESTER, NY.
 PITTSFORD (VILLAGE)—See ROCHESTER, NY.
 PLAINFIELD—See ILION, NY.
 PLANDOME (VILLAGE)—See WOODBURY, NY.
-PLANDOME HEIGHTS (VILLAGE—See WOODBURY, NY. ,
+PLANDOME HEIGHTS (VILLAGE—See WOODBURY, NY.
 PLANDOME PLAZA (VILLAGE)—See WOODBURY, NY.
 PLATTEKILL—See LLOYD, NY.
 PLATTSBURGH—North Country Cable TV, 68 Bridge St., Plattsburgh, NY 12901. Phone: 518-563-5777. Counties: Clinton & Essex, Also serves Au Sable (town), Chesterfield (town), Dannemora (town), Dannemora (village), Keesevllle (village), Peru (town), Plattsburgh AFB, Plattsburgh (town), Saranac (town), Schuyler Falls (town). Population: 75,250.
 TV Market Ranking: Below 100. Original franchise award date: January 1,1967. Franchise expiration date: January 1,
-1990.	Began: December 1,1967. Channel capacity: 35 (2-way capable). Channels available but not In use: 10. Basle subscribers Include figures for Elizabethtown (town) & Long Lake, NY. Basic Service
+1990.	Began: December 1,1967. Channel capacity: 35 (2-way capable). Channels available but not In use: 10. Basic subscribers Include figures for Elizabethtown (town) & Long Lake, NY. Basic Service
 Subscribers: 15,000 (03/18/88). Programming (received off air): WCAX-TV (C), WETK (P), WVNY (A), Burlington; WPIX (I), New York; WCFE-TV (P), WPTZ (N) Plattsburgh; CBMT, CFCF-TV, Montreal.
 Programming (via satellite): WWOR-TV (I) New York; CNN; MTV.
 Current originations: Public access.
@@ -3770,8 +3768,8 @@ City fee: None.
 Ownership: Yerks, Bruce, 100%.
 Note: Current information not available.
 PLEASANT VALLEY—See also POUGHKEEPSIE, NY.
-PLEASANTVILLE—See OSSINING, NY. 
-PLYMOUTH (TOWN)—See NORWICH, NY. 
+PLEASANTVILLE—See OSSINING, NY.
+PLYMOUTH (TOWN)—See NORWICH, NY.
 POESTENKILL—See RENSSELAER, NY.
 POLAND—See UTICA, NY.
 POUND (TOWN)—See JAMESTOWN, NY.
@@ -3822,7 +3820,7 @@ City fee: 3% of gross.
 Ownership: Cablevision Industries Inc. (see Cable Group Ownership), 100%.
 PORT JEFFERSON—See SUFFOLK COUNTY, NY.
 PORT JERVIS—Cablevision Industries Inc., Industrial Dr., Middletown, NY 10940. Phone: 914-692-6794. Counties: Orange & Sullivan. Also serves Deerpark (town), Westbrookville (village). Population: 14,632.
-TV Market Ranking: Below 100 (Westbrookville); Outside TV markets ( Deer-park & Port Jervis). Original franchise award date: N.A. Franchise expiration date: N.A. Began: February 2, 1956. Channel capacity: 24 (plans two-way). Channels available but not in use: 2.-Basic Service
+TV Market Ranking: Below 100 (Westbrookville); Outside TV markets (Deer-park & Port Jervis). Original franchise award date: N.A. Franchise expiration date: N.A. Began: February 2, 1956. Channel capacity: 24 (plans two-way). Channels available but not in use: 2.-Basic Service
 Subscribers: Included with Wallkill, NY. Programming (received off air): WABC-TV (A), WCBS-TV (C), WNBC-TV (N), WNYW (I), New York; WNET (P), New York-Newark; WYOU (C) Scranton & Wilkes-Barre.	^
 Programming (via microwave); WPIX (I), WWOR-TV (I) New York. Programming (via satellite): Arts & Entertainment; C-SPAN; CBN Cable Network;* CNN; Country Music TV;- ESPN; Lifetime; MTV; Nashville Network; National Jewish TV; Nickelodeon; USA Network.
 Current originations: News ticker; local live.	■ it •
@@ -3841,8 +3839,8 @@ Ownership: Cablevision Industries Inc. (see Cable Group Ownership), 100%.
 PORT LEYDEN-See BOONVILLE, NY.
 PORT WASHINGTON NORTH—See WOODBURY, NY.
 PORTER—See RANSOMVILLE, NY.
-tPortland—Harbor Vue CATV (Adelphla Communications Corp., group owner.)
-tPorlland—Tribune Cable Communications Inc. (group owner).
+†Portland—Harbor Vue CATV (Adelphla Communications Corp., group owner.)
+†Portland—Tribune Cable Communications Inc. (group owner).
 PORTVILLE (TOWN)—See OLEAN, NY.
 PORTVILLE (VILLAGE)—See OLEAN, NY.
 POTSDAM—Potsdam NewChannels, 22 1/2 Elm St., Potsdam, NY 13676. Phone: 315-265-8300. County: St. Lawrence. Also serves Canton (village), Colton, Madrid (town), Norfolk, Norwood, Parlsh-vllle, Pierrepont, Potsdam (village), Stockholm. Population: 43,109.
@@ -3861,7 +3859,7 @@ Expanded Basic 2
 Subscribers: 3,653 (01/07/88). Began: N.A.
 Programming (via satellite): Arts & Entertainment; C-SPAN; CNN; Video Hits One.
 Fee: $4.00 monthly.
-Tierl
+Tier 1
 Subscribers: 1,493 (01/07/88). Began: November 1,1982.
 Programming (via satellite): Cinemax.
 Fee: $10.00 monthly.
@@ -3926,7 +3924,7 @@ elodeon; Silent Network; The Travel Channel; The Weather Channel; USA Network; V
 Programming (via tape): Korean Network.
 Current originations: Local live; program guide; Apple TV; Greek Channel; Indian TV; The Korean Channel.
 Fee: $19.95 installation; $16.95 monthly; $11.95 monthly (each additional set).
-Tierl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): American Movie Classics; Bravo; Cinemax; Disney Channel; GalaVIslon; HBO; Madison Square Garden Network; Playboy Channel; Showtime; SportsChannel (New York).
 Fee; $13.00 monthly (each). Addressable homes: 20,000 (01/01/88). Equipment: Sclentiflc-Atlanta headend; Jerrold amplifiers; Capscan cable; To-com set top converters; Tocom addressable set top converters; Sclentiflc-Atlanta satellite receivers.
 Miles of plant: 155.0 (coaxial). Miles of plant: 9.0 (fiber optic). Total homes in franchised area: 270,000.
@@ -3938,7 +3936,7 @@ TV Market Ranking: 1. Original franchise award date: N.A. Franchise expiration d
 Basic Service Subscribers: 70 (03/21/88). Programming (received off air): WLIW (P), Garden City; WNJM (P), Montclair; WABC-TV (A), WCBS-TV (C), WNBC-TV (N), WNYC-TV (P), WNYE-TV (P), WNYW (I), WPIX (I), WWOR-TV (I), New York; WNET (P), WNJU (I), New York-Newark; WXTV (I), New York-Paterson; WLIG (I) Riverhead. Programming (via satellite): WTBS (I) Atlanta; Arts & Entertainment; Black Entertainment TV; C-SPAN; C-SPAN II; CBN Cable Network; CNN; CNN Headline News; Cable Value Network; Country Music TV; Discovery Channel; ESPN; Financial News Network; Home Shopping Network; Learning Channel; Lifetime; MTV; Madison Square Garden Network; Movie Time; Nashville Network; Nickelodeon; Tempo TV; The Fashion Channel; The Travel Channel; The Weather Channel; USA Network; Video Hits One.
 Current originations: News ticker; channel guide; bulletin board; public access; educational access; local live; program guide; QPTV; The Prayer Channel.
 Fee: $17.95 monthly.
-Tierl
+Tier 1
 Subscribers: N.A. Began: February 18, 1988.
 Programming (via microwave): ATV-Apple Television; ITV-The Indian Channel; The Greek Channel; The Korean Channel.
 Programming (via satellite): American Movie Classics; Bravo; Cinemax; Disney Channel; GalkVislon; HBO; Playboy Channel; Showtime; SportsChannel
@@ -3949,7 +3947,7 @@ Ownership: Sutton, Percy E. (see under Bcstg. Interests with Cable Holdings); Un
 QUEENS VILLAGE—See BROOKLYN/ QUEENS, NY.
 QUEENSBORO HILL—See BROOKLYN/ QUEENS, NY.
 QUEENSBURY—Colonial Cablevision Inc., Box 762, Quaker Rd., Glens Falls, NY 12801. Phone: 518-793-3835. Counties: Saratoga, Warren & Washington. Also selves Corinth (town), Corinth (village), Fort Ann (village), Fort Edward (town), Fort Edward (village), Hadley (town), Hudson Falls (village), Kingsbury (town), Lake Luzerne (town), Moreau (town). Population: 60,509.
-TV Market Ranking: 34 (Corinth & Moreau); Outside TV markets (Fort Ann, Fort Edward, Hadley, Hudson Falls, Kingsbury, Lake Luzerne & Queens-bury). Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 26, 1971.
+TV Market Ranking: 34 (Corinth & Moreau); Outside TV markets (Fort Ann, Fort Edward, Hadley, Hudson Falls, Kingsbury, Lake Luzerne & Queensbury). Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 26, 1971.
 Channel capacity: 36 (plans two-way). Channels available but not In use: 6. Basic Service
 Subscribers: 14,100; Commercial subscribers: 71 (01/01/88).
 Programming (received off air): WMHT (P), WMHX (P), WNYT (N), WRGB (C), WTEN (A), WXXA-TV (I) Albany-Sche-nectady.
@@ -3964,7 +3962,7 @@ Miles of plant: 300.0 (coaxial). Additional miles planned: 20.0 (coaxial). Homes
 Manager: Charles J. Klee. Chief technician: James C. Clifford.
 City fee: 3% of gross.
 Ownership: Harron Communications Corp. (see Cable Group Ownership), 100%.
-QUIQQUE—See SOUTHAMPTON, NY. 
+QUIQQUE—See SOUTHAMPTON, NY.
 QUOGUE—See SOUTHAMPTON, NY.
 RAMAPO—TKR Cable of Ramapo, 330 Franklin Turnpike, Mahwah, NJ 07430. Phone: 201-529-5300. Counties: Bergen, NJ; Orange & Rockland, NY. Also serves Mahwah, NJ; Ramapo, Sloatsburg, Southflelds, Suffern, Tuxedo, NY. Plans service to Tuxedo Park. Population: 28,912.
 TV Market Ranking: 1. Original franchise award date: January 1,1979. Franchise expiration date: N.A. Began: June 1, 1981.
@@ -4025,7 +4023,7 @@ Ownership: Cablevision Systems Corp. (see Cable Group Ownership), 100%. Purchase
 RHINEBECK (TOWN)—See KINGSTON, NY.
 RHINEBECK (VILLAGE)—See KINGSTON, NY.
 RHINECLIFF—See KINGSTON, NY.
-R1CHBURG—See BOLIVAR, NY.
+RICHBURG—See BOLIVAR, NY.
 RICHFIELD—See COOPERSTOWN, NY.
 RICHFIELD SPRINGS—See COOPERSTOWN, NY.
 RICHMOND—Honeoye Cable TV Inc., Main St., Honeoye, NY 14471. Phone: 716-229-2541. County: Ontario. Also serves Canadice, Honeoye. Population: 6,000. TV Market Ranking: 56. Original franchise award date: N.A. Franchise expiration date: April 1, 1989. Began: March 21, 1984.
@@ -4044,10 +4042,10 @@ Manager: Paul Cipro.
 City fee: 3% of gross.
 Ownership: Honeoye Cable TV Inc., 100%.
 Note: Current information not available.
-RICHMONDVILLE (TOWN)—See COBLES-KILL (TOWN), NY.
+RICHMONDVILLE (TOWN)—See COBLESKILL (TOWN), NY.
 RICHMONDVILLE (VILLAGE)—See COBLESKILL (TOWN), NY.
 RIDGEWOOD—See QUEENS (northwestern portions), NY.
-RIGA (TOWN)—See STAFFORD, NY. 
+RIGA (TOWN)—See STAFFORD, NY.
 RIPLEY—See WESTFIELD, NY.
 RIVERHEAD—Dimension Cable, 201 Old County Rd., Rlverhead, NY 11901. Phone: 516-727-6529. County: Suffolk. Also serves Aquebogue, Calverton, Jame-sport, South Jamesport, Wading River. Population: N.A. (area served). , ,
 TV Market Ranking: 19. Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 1,1965.
@@ -4079,7 +4077,7 @@ Miles of plant: 472.0 (coaxial). Homes passed: 239,300.
 Manager: Frank Chiaino. Chief technician: Earl Houseknecht.
 City fee: 3% of gross.
 Ownership: American TV & Communications Corp. (see Cable Group Ownership), 100%.
-ROCHESTER (VILLAGE)—See ELLEN-VILLE, NY.
+ROCHESTER (VILLAGE)—See ELLENVILLE, NY.
 ROCKLAND—TKR Cable Co., 210 W. Nyack Rd., West Nyack, NY 10994. Phone: 914-624-8200. County: Rockland. Also serves Clarkstown, Grand View-on-Hudson, Nyack, Piermont, Rockland County (unincorporated areas), South Nyack, Upper Nyack, West Nyack. Plans service to Montvale, NJ. Population: N.A. (area served).
 TV Market Ranking: 1. Original franchise award date: N.A. Franchise expiration date: N.A. Began: November 9,1980. Channel capacity: 30 (plans two-way). Channels available but not In use: 2. Basic Service
 Subscribers: 32,000 (04/01/86). Programming (received off air): WEDW (P), Bridgeport; WLIW (P), Garden City; WNJM (P), Montclair; WABC-TV (A), WCBS-TV (C), WNBC-TV (N), WNYC-TV (P), WNYE-TV (P), WNYW (I), WPIX (I), WWOR-TV (I), New York; WHSE (I), WNET (P), WNJU (I), New York-Newark; WXTV (I), New York-Paterson; WTAF-TV (I) Philadelphia; 20 FMs.
@@ -4088,7 +4086,7 @@ Programming (via satellite): WGN-TV (I) Chicago.
 Current originations: Time-weather; news ticker; local live,
 Fee: $15.00 Installation; $8.30 monthly. Expanded Basic 1 Subscribers: N.A. Began: N.A. Programming (via satellite): WTBS (I) Atlanta; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; Cable Value Network; ESPN; Financial News Network; Lifetime; MTV; Nickelodeon; The Travel Channel; Video Hits One.
 Fee: $5.65 monthly.
-Her 1.
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Bravo; Cine-max; Disney Channel; HBO; Madison Square Garden Network; Showtime; SportsChannel (New York).
 Fee: $3.95 monthly (Bravo), $7.95 monthly (Disney), $11.50 monthly (Ci-nemax, HBO, MSG, Showtime or SportsChannel).
 Equipment: Jerrold headend; Jerrold amplifiers; Times cable; Metrodata character generator; Oak set top converters; Scientific-Atlanta satellite antenna.
@@ -4128,7 +4126,7 @@ Manager Andrew Fleming. Chief technician: Donald Algulre.
 City fee: 3% of gross.
 Ownership: NewChannels Corp. (see Cable Group Ownership), 100%.
 ROMULUS (TOWN)—See SOUTH SENECA COUNTY, NY.
-ROOSEVELT ISUND—See NEW YORK, NY.
+ROOSEVELT ISLAND—See NEW YORK, NY.
 ROSE (TOWN)—See SODUS (TOWN), NY.
 ROSEDALE—See BROOKLYN/QUEENS, NY.
 ROSENDALE—Vidacable CATV Systems, Box 161, RD 1, High Falls, NY 12440. Phone: 914-687-9695. County: Ulster. Also serves Bloomington, Cottekill, Creek Locks, High Falls, Marbletown, Stone Ridge (Ulster County), Tillson. Population: 5,500.
@@ -4178,8 +4176,8 @@ Equipment: Jerrold headend; Jerrold amplifiers; Times Fiber cable; JVC cameras; 
 Miles of plant: 63.0 (coaxial). Additional miles planned: 17.5 (coaxial). Homes passed: 2,295.
 Manager John M. Balog III. Chief technician: Hal Godreau.
 Town & Village fee: 3% of gross. Ownership: NewChannels Corp. (see Cable Group Ownership), 100%.
-HOXBURY—See PINE HILL, NY.
-BUSH (TOWN)—See STAFFORD, NY.
+ROXBURY—See PINE HILL, NY.
+RUSH (TOWN)—See STAFFORD, NY.
 RUSSELL GARDENS (VILLAGE)—See WOODBURY, NY.
 RUTLAND TWP.—See WATERTOWN, NY.
 RYE—See NEW ROCHELLE, NY.
@@ -4226,7 +4224,7 @@ SANDS POINT—See WOODBURY, NY.
 SANDUSKY (TOWN)—See SPRINGVILLE (VILLAGE), NY.
 SANDY CREEK—See PULASKI, NY.
 SANFORD—See DEPOSIT, NY.
-SANGERFIELD TOP.—See ORISKANY FALLS, NY.
+SANGERFIELD TWP.—See ORISKANY FALLS, NY.
 SARANAC (TOWN)—See PLATTSBURGH, NY.
 SARANAC LAKE—Resort Cablevision, 70 Broadway, Saranac Lake, NY 12983. Phone: 518-891-2810. Counties: Essex & Franklin. Also serves Harrietstown, Lake Placid, North Elba, St. Armand. Plans service to Tupper Lake. Population: 28,000.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1956.
@@ -4294,11 +4292,11 @@ Fee: $15.00 Installation; $11.95 monthly (Cinemax, Disney, HBO, Playboy, or Show
 Miles of plant: 101.0 (coaxial). Total homes in franchised area: 10,505. Manager: Don Pinto. Chief technician: Joe Caruso.
 City fee: 2% of gross.
 Ownership: Cablevision Industries Inc. (see Cable Group Ownership), 100%.
-SAUGERTIES (VILLAGE)—See SAUGER-TIES (TOWN), NY.
+SAUGERTIES (VILLAGE)—See SAUGERTIES (TOWN), NY.
 SAVANNAH (TOWN)—See NEWARK (VILLAGE), NY.
 SAVONA (TOWN)—See BATH, NY.
-Savona (Village)—See BATH, NY. 
-SCAHSDALE—See NEW ROCHELLE, NY. 
+Savona (Village)—See BATH, NY.
+SCAHSDALE—See NEW ROCHELLE, NY.
 SCHAGHTICOKE (TOWN)—See TROY, NY.
 SCHAGHTICOKE (VILLAGE)—See TROY, NY.
 SCHENECTADY—TCI of New York Inc. Schenectady Cable System, 2716 Albany St., Schenectady, NY 12304. Phone: 518-382-5033. County: Schenectady. Also serves Nlskayuna, Rotterdam, Scotia. Plans service to Pattersonville, Rotterdam Junction. Population: 207,350. :
@@ -4320,7 +4318,7 @@ City fee: 5.0% of gross.
 Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note; Current information not available.
 SCHENEVUS—See ONEONTA, NY.
 SCHODACK—See RENSSELAER, NY.
-SCHOHARIE (TOWN)—See COBLESKILL (TOWN); NY. ;
+SCHOHARIE (TOWN)—See COBLESKILL (TOWN), NY.
 SCHOHARIE (VILLAGE)—See COBLESKILL (TOWN), NY.
 SCHROEPPEL—Dimension Cable Communications, Box 68, 3 Jason Rd.,.Phoenix, NY 13135. Phone: 315-695-6655. County: Oswego. Also serves Pennellville, Phoenix. Population: 8,016.
 TV Market Ranking: 35. Original franchise award date: January 3,1985. Franchise expiration date: January 1,1995. Began: December 1,1985.
@@ -4374,7 +4372,7 @@ SENECA (TOWN)—See GENEVA, NY.
 SENECA FALLS (TOWN)—See GENEVA, NY.
 SENECA FALLS (VILLAGE)—See GENEVA, NY.
 SENNETT—See AUBURN, NY.
-SETTERS LANDING'(northwestern portions)—See EAST HAMPTON, NY.
+SETTERS LANDING (northwestern portions)—See EAST HAMPTON, NY.
 SEWARD—See COBLESKILL (TOWN), NY.
 SHANDAKEN—See MOUNT TREMPER, NY.
 SHANDAKEN—See also PINE HILL, NY.
@@ -4469,7 +4467,7 @@ Basic Service
 Subscribers: Included with Geneva, NY. Programming (received off air): WHEC-IV (C), WOKR (A), WROC-TV (N), WUHF (I), Rochester; WCNY-TV (P), WIXT (A), WSTM-TV (N), WTVH (C) Syracuse.
 Programming (via microwave): WPIX (I), WWOR-TV (I) New York. Programming (via satellite): Arts & Entertainment; CBN Cable Network; CNN; Country Music TV; ESPN; Financial News Network; Lifetime; MTV; Nashville Network; Nickelodeon; Tempo TV; USA Network.
 Current originations: Local live; local sports.
-Fee: $29.95 installation; $9.95 monthly. Tlerl
+Fee: $29.95 installation; $9.95 monthly. Tier 1
 Subscribers: Included with Geneva, NY. Began: N.A.
 Programming (via satellite): Disney Channel; HBO; Playboy Channel; Showtime.
 Fee: $20.00 installation; $8.50 monthly (each).
@@ -4478,7 +4476,7 @@ Manager: Lou McGuigan. Chief technician: Tom Allen.
 City fee: 3% of gross.
 Ownership: Cablevision Industries Inc. (see Cable Group Ownership), 100%.
 SOUTHAMPTON—Dimension Cable, 201 Old Country Rd., Rte. 58 & Osprey Ave., Riverhead, NY 11901. Phone: 516-727-6300. County: Suffolk. Also serves Bay Point, Bridgehampton, Canoe Place, Cut-chogue, Eastport, East Quogue, East Marion, Flanders, Greenport, Hampton Bays, Laurel, Mattituck, Northampton, Noyac, Orient, Peconic, Pine Neck, Quioque, Quogue, Remsenburg, Sag Harbor, Southold, Speonk, Southampton (village), Tiana, Westhampton, Westhampton Beach, West Tiana. Population: N.A. (area served).
-TV Market Ranking: 19 (Cutchogue, East-port, Handers, Greenport, Laurel, Mattituck, Northampton, Southold); Below 100 (Bay Point, Bridgehampton, Canoe Place, East Quogue, East Marion, Hampton Bays, Noyac, Peconic, Pine Neck, Quiogue, Quogue, Remsenburg, Sag Harbor, Speonk, Southampton, Tiana, Westhampton, Westhampton Beach, West Tiana); Outside TV markets (Orient). Original franchise award date: N.A. Franchise expiration date: September 27,1988. Began: January 1,1966. Channel capacity: 12. Channels available but not in use: None.
+TV Market Ranking: 19 (Cutchogue, Eastport, Handers, Greenport, Laurel, Mattituck, Northampton, Southold); Below 100 (Bay Point, Bridgehampton, Canoe Place, East Quogue, East Marion, Hampton Bays, Noyac, Peconic, Pine Neck, Quiogue, Quogue, Remsenburg, Sag Harbor, Speonk, Southampton, Tiana, Westhampton, Westhampton Beach, West Tiana); Outside TV markets (Orient). Original franchise award date: N.A. Franchise expiration date: September 27,1988. Began: January 1,1966. Channel capacity: 12. Channels available but not in use: None.
 Subscribers Include figures for Riverhead, NY.
 Basic Service
 Subscribers: 32,652 (01/01/87). Programming (received off air): FMs. Programming (via microwave): WFSB (C), Hartford; WVIT (N), New Britain; WTNH-TV (A), New Haven; WABC-TV (A), WCBS-TV (C), WNBC-TV (N), WNYW (I), WPIX (I), WWOR-TV (I), New York; WNET (P) New York-Newark. Current originations: Time-weather.
@@ -4511,7 +4509,7 @@ SPRINGFIELD GAROENS SOUTH—See BROOKLYN/QUEENS, NY.
 SPRINGPORT—See CAYUGA (VILLAGE), NY.
 SPRINGS—See EAST HAMPTON, NY.
 SPRINGVILLE (VILLAGE)—US Cable of Tri-County, 62 E. Main St., Springville, NY 14141. Phone: 716-592-2257. Counties: Cattaraugus, Erie & Wyoming. Also serves Arcade (town), Arcade (village), Cattaraugus, Collins (town), Conewango, Delevan (village), East Concord Twp., East Randolph (village), Ellicottville (town), Ellicottville (village), Franklinville (town), Franklinville (village), Freedom (town), Gowanda (village), Machias (town), Mansfield (town), New Albion (town), North Collins (town), North Collins (village), Perrysburg (town), Perrys-burg (village), Persia (town), Randolph (town), Randolph (village), Sandusky (town), Sardinia (town), Yorkshire (town). Population: 68,208.
-TV Market Ranking: 24 (Arcade, Delevan, East Concord Twp., Gowanda, North - Collins, Perrysburg, Persia, Sardinia, Springville, Yorkshire); Outside TV markets (Cattaraugus, Conewango, East Randolph, Ellicottville, Franklinville, Freedom, Mansfield, New Albion, Randolph, Sandusky). Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 1,1980. Channel capacity: 36. Channels available but not In use: 9.
+TV Market Ranking: 24 (Arcade, Delevan, East Concord Twp., Gowanda, North-Collins, Perrysburg, Persia, Sardinia, Springville, Yorkshire); Outside TV markets (Cattaraugus, Conewango, East Randolph, Ellicottville, Franklinville, Freedom, Mansfield, New Albion, Randolph, Sandusky). Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 1,1980. Channel capacity: 36. Channels available but not In use: 9.
 Basic Service
 Subscribers: 5,716 (11/30/86). Programming (received off air): WGRZ-IV (N), WIVB-7V (C), WKBW-TV (A), WNED-TV (P), WUTV (I), Buffalo; CHCH-TV, Hamilton; CFTO-TV Toronto; allband FM.
 Programming (via satellite): WGN-TV (I) Chicago; ESPN; Lifetime; Trinity Bcstg. Network.
@@ -4581,7 +4579,7 @@ City fee: 5% of gross.
 Ownership: Cox Cable Communications (see Cable Group Ownership), 45.0%; Gilbert Media (see Cable Group Ownership), 55.0%.
 STEWART AFB—See NEWBURGH, NY.
 STEWART MANOR—See WOODBURY, NY.
-STILLWATER (T0WN)—See TROY, NY.
+STILLWATER (TOWN)—See TROY, NY.
 STILLWATER (VILLAGE)—See TROY, NY.
 STOCKBRIDGE (TOWN)—See ONEIDA, NY.
 STOCKHOLM—See MASSENA, NY.
@@ -4716,7 +4714,7 @@ THOMASTON (VILLAGE)—See WOODBURY, NY.
 THOMPSON (TOWN)—See SULLIVAN COUNTY, NY.
 THROOP—See AUBURN, NY.
 TIANA—See SOUTHAMPTON, NY.
-TICONDEROGA (TOWN)—See TICONDE-ROGA (VILLAGE), NY.
+TICONDEROGA (TOWN)—See TICONDEROGA (VILLAGE), NY.
 TICONDEROGA (VILLAGE)—Cablevlsion Industries, 250 Ridge St., Glens Falls, NY 12801. Phone: 518-793-6688. Counties: Essex, Warren & Washington. Also serves Crown Point (town), Hague (town), Putnam (town), Ticonderoga (town). Population: 3,500.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,1966.
 Channel capacity: 35. Channels available but not in use: N.A.
@@ -4727,7 +4725,7 @@ Subscribers: N.A. Began: January 1, 1984.
 Programming (received off air): CFCF-TV Montreal.
 Programming (via satellite): WGN-TV (I) Chicago; ESPN; MTV; Nashville Network; USA Network.
 Fee: $3.95 monthly.
-Tierl
+Tier 1
 Subscribers: N.A. Began: January 1, 1984.
 Programming (via satellite): Cinemax; Disney Channel; HBO.
 Fee: $9.95 monthly (each).
@@ -4841,7 +4839,7 @@ VALATIE—See RENSSELAER, NY.
 VALLEY FALLS (VILLAGE)—See TROY, NY.
 VALLEY STREAM—See WOODBURY, NY.
 VAN BUREN—See SYRACUSE, NY.
-VAN BUREN (TOWN)—See BALDWINS-VILLE, NY.
+VAN BUREN (TOWN)—See BALDWINSVILLE, NY.
 VAN ETTEN—See SPENCER, NY.
 VARICK (TOWN)—See SOUTH SENECA COUNTY, NY.
 VERNON (TOWN)—See ONEIDA, NY.
@@ -4857,8 +4855,8 @@ VILLAGE OF THE BRANCH—See SUFFOLK COUNTY, NY.
 VOLNEY—See FULTON, NY.
 VOORHEESVILLE—See BETHLEHEM, NY.
 WADDINGTON (TOWN)—See MASSENA, NY.
-WADDINGTON (TOWN)—See also 0G-DENSBURG, NY.
-WADDINGTON (VILLAGE)—See OGDENS-BURG, NY.
+WADDINGTON (TOWN)—See also OGDENSBURG, NY.
+WADDINGTON (VILLAGE)—See OGDENSBURG, NY.
 Wadhams—See ELIZABETHTOWN (TOWN), NY.
 WADING RIVER—See RIVERHEAD, NY.
 Wainscot—See EAST HAMPTON, NY.
@@ -4879,7 +4877,7 @@ WALDEN (VILLAGE)—See WALDEN, NY.
 WALLACE—Wallace TV Cable Inc., Box 111, Wallace, NY 14809. Phone: 607-566-8432. County: Steuben. Population: 400.;
 TV Market Ranking: Outside TV markets. Original franchise award date: May 12, 1976. Franchise expiration date: N.A. Began: September 1,1959.	,
 Channel capacity: 5. Channels available but not In use: N.A.
-Basle Service
+Basic Service
 Subscribers: 96 (01/31/84). Programming (received off air): WIVB-TV (C), WKBW-TV (A), Buffalo; WHEC-TV (C), WOKR (A), WROC-TV (N) Rochester; allband FM,
 Fee: $15.00 installation;- $4.00-$5.50 monthly
 Equipment: Blonder-Tongue headend; Coral amplifiers.
@@ -5066,7 +5064,7 @@ Fee: $11.00 monthly.
 Tier 5
 Subscribers: 1,897 (01/01/88). Began: N.A.
 Programming (via satellite): Showtime. Fee: $11.00 monthly.
-Pay-Per-View: Varies—wrestling, boxing. Addressable homes: 7,767 (01/01/ 88).
+Pay-Per-View: Varieswrestling, boxing. Addressable homes: 7,767 (01/01/ 88).
 Local advertising: Planned (Insert only). Available in CNN Headline, ESPN programming. Local sales manager: David Christopher.
 Program guide: Premium Channels. Equipment: Scientific-Atlanta headend; Delta-Benco-Cascade & C-COR amplifiers; Comm/Scope, Scientific-Atlanta, Times cable; Sony VTRs; Jerrold & Pioneer addressable settop converters; Scientific-Atlanta satellite antenna; Scientific-Atlanta satellite receivers.
 Miles of plant: 190.0 (coaxial). Additional miles planned: 5.0 (coaxial). Homes passed: 17,621. Total homes In franchised area: 17,621.
@@ -5084,7 +5082,7 @@ Subscribers: Included with Montour Falls, NY.
 Programming (received off air): WBNG-TV (C), Binghamton; WETM-TV (N), Elmira; WHEC-TV (C), WOKR (A), WROC-TV (N), Rochester; WIXT (A) Syracuse. Programming (via microwave): WPIX (I), New York; WTVH (C) Syracuse. Planned programming (received off air): WSKG (P) Binghamton; WENY-TV (A), Elmira; WWOR-TV (I) New York.
 Fee: $25.00 installation; $5.00 monthly. Expanded Basic 1 Subscribers: N.A. Began: N.A. Programming (via satellite): WTBS (I) Atlanta; Lifetime; MTV; Nashville Network.
 : Fee: $4.00 monthly.
-Tierl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): CNN; Disney Channel; Nickelodeon.
 Fee: $8.00 monthly.
 Tier 2
@@ -5106,7 +5104,7 @@ WAVERLY (VILLAGE)—See SAYRE, PA.
 WAWARSING—See ELLENVILLE, NY.
 WAWAYANDA (TOWN)—See WALLKILL, NY.
 WAYLAND—See DANSVILLE, NY.
-WAYNE (Steuben County)—See HAM-MONDSPORT, NY.
+WAYNE (Steuben County)—See HAMMONDSPORT, NY.
 WEBSTER (TOWN)—See ROCHESTER, NY.
 WEBSTER (VILLAGE)—See ROCHESTER, NY.
 WEEDSPORT—See SYRACUSE, NY.
@@ -5162,9 +5160,9 @@ Subscribers: Included with Wallklll, NY. Began: N.A.
 Programming (via satellite): Clnemax; Disney Channel; Playboy Channel; Showtime; SportsChannel (New York), Fee: N.A.
 Miles of plant and total homes In franchised area included with Wallklll, NY. Ownership: Cablevlsion Industries Inc. (see Cable Group Ownership), 100%.
 WEST POINT MILITARY AGADE—See HIGHLAND FALLS (VILLAGE), NY.
-WEST SENECA—See ERIE COUNTY, NY. 
+WEST SENECA—See ERIE COUNTY, NY.
 WEST SHOKAN—See OLIVE, NY.
-WEST TIANA—See SOUTHAMPTON, NY. 
+WEST TIANA—See SOUTHAMPTON, NY.
 WEST TURIN—See BOONVILLE, NY.
 WEST WINFIELD—See ILION, NY.
 WESTBROOKVILLE (VILLAGE)—See PORT JERVIS, NY.
@@ -5224,7 +5222,7 @@ Ownership: Cablevlsion Industries Inc. (see Cable Group Ownership), 100%. Note: 
 WHITEHALL (VILLAGE)—See WHITEHALL (TOWN), NY.
 WHITESBORO (VILLAGE)—See UTICA, NY.
 WHITESTONE—See BROOKLYN/QUEENS, NY.
-WHITESTOWN—See UTICA, NY. 
+WHITESTOWN—See UTICA, NY.
 WHITESTOWN—See also ROME, NY.
 WHITESVILLE—Fitzpatrick Cable TV, Box 35, Whitesville, NY 14897. Phone: 607-356-3117. County: Allegany. Also serves Independence. Population: 1,738.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1956.
@@ -5243,7 +5241,7 @@ WILLIAMSON (TOWN)—See SODUS (TOWN), NY.
 WILLIAMSVILLE—See ERIE COUNTY, NY.
 WILLING—See WELLSVILLE, NY.
 WILLISTON PARK—See WOODBURY, NY.
-WILMINGTON (T0WN)—See JAY, NY.
+WILMINGTON (TOWN)—See JAY, NY.
 WILNA—See CARTHAGE, NY.
 WILSON—See RANSOMVILLE, NY.
 WILSON (TOWN)—See RANSOMVILLE, NY.

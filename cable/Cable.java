@@ -634,7 +634,7 @@ public class Cable{
             
             // Homes in Franchised area
             if (sub.indexOf("ised area") != -1) {
-                int areaStartIndex = s.indexOf("ised area", s.indexOf("Basic", start)) + 11;
+                int areaStartIndex = s.indexOf("ised area", s.lastIndexOf("Basic", end)) + 11;
                 int areaEndIndex = s.indexOf(".", areaStartIndex);
                 String areaTemp = s.substring(areaStartIndex, areaEndIndex);
                 
