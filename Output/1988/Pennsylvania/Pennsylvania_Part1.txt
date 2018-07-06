@@ -1,6 +1,6 @@
 AARONSBURG—See MILLHEIM, PA.
 ABBOTTSTOWN—See HANOVER, PA.
-ABINGT0N TWP. (Lackawanna County)—See CLARKS SUMMIT, PA.
+ABINGTON TWP. (Lackawanna County)—See CLARKS SUMMIT, PA.
 ABINGTON TWP. (Montgomery County)—See WILLOW GROVE, PA.
 ACOSTA—See SOMERSET, PA.
 ADAMS COUNTY—Pennsylvania Classic Cable, Box 568, East Berlin, PA 17316. Phone: 717-259-9508. Counties: Adams & York. Also serves Arendtsvllle, Ben-dersville, Butler Twp. (Adams County), Carroll Valley, Chanceford Twp. (York County), Codorus Twp., Cross Roads, Cumberland Twp. (Adams County), Dover Twp. (Adams County), East Hopewell Twp. (York County), Fairfield (Adams County), Franklin Twp. (Adams County), Franklin Twp. (York County), Freedom Twp. (Adams County), Germany Twp. (Adams County), Hamilton Twp. (Adams County), Hamlltonban Twp., Hopewell Twp. (York County), Huntington Twp. (Adams County), Latimore Twp. (Adams County), Liberty Twp. (Adams County), Lower Chanceford Twp., Lower Windsor Twp., ManheimTwp. (York County), Me-nallen Twp. (Adams County), Mount Joy Twp., Mount Pleasant Twp. (Adams County), North Codorus Twp., North Hopewell Twp., Oxford Twp. (Adams County), Paradise Twp. (York County), Peach Bottom Twp., Reading Twp. (Adams County), Shrewsbuiy Twp. (York County), Springfield Twp. (York County), Straban Twp. (Adams County), Tyrone Twp. (Adams County), Union Twp. (Adams County), Warrington Twp. (York County), Washington Twp. (York County), West Manhelm Twp. (York County), Windsor Twp. (York County), Winterstown, York Springs, York Twp. (York County). Population: 133,932.
@@ -69,11 +69,11 @@ City fee: 3% of gross.
 Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note: Current information not available.
 ALBURTIS—See ALLENTOWN, PA.
 ALCOA VILLAGE—See NEW BETHLEHEM, PA.
-ALDAN—See UPPER DARBY, PA. 
-ALDEN—See NEWPORT TWP., PA. 
-ALDENVILLE—See CARBONDALE, PA. 
-ALEPPO—See BADEN, PA. 
-ALEXANDRIA—See HUNTINGDON, PA. 
+ALDAN—See UPPER DARBY, PA.
+ALDEN—See NEWPORT TWP., PA.
+ALDENVILLE—See CARBONDALE, PA.
+ALEPPO—See BADEN, PA.
+ALEXANDRIA—See HUNTINGDON, PA.
 ALLANVALE—See SOMERSET, PA.
 ALLEGHENY TWP. (Cambria County)—See CRESSON, PA.
 ALLEGHENY TWP. (Blair County)—See ALTOONA, PA.
@@ -108,11 +108,11 @@ Miles of plant: 2100.0 (coaxial). Additional miles planned: 35.0 (coaxial). Home
 Manager: John Capparell.
 Ownership: Service Electric Cable TV Inc. (see Cable Group Ownership), 100%.
 ALLENTOWN—See also NORTHAMPTON, PA.
-ALLENWOOD—See MONTGOMERY, PA. 
-ALLISON I—See UNIONTOWN, PA. 
-ALLISON II—See UNIONTOWN, PA. 
-ALLISON TWP.—See LOCK HAVEN, PA. 
-ALPHA TWP.—See SHAMOKIN, PA. 
+ALLENWOOD—See MONTGOMERY, PA.
+ALLISON I—See UNIONTOWN, PA.
+ALLISON II—See UNIONTOWN, PA.
+ALLISON TWP.—See LOCK HAVEN, PA.
+ALPHA TWP.—See SHAMOKIN, PA.
 ALPINE HEIGHTS—See SOMERSET, PA.
 ALSACE TWP.—See READING, PA.
 ALTHOM—See TIDIOUTE, PA.
@@ -192,12 +192,12 @@ Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note: Cur
 ARMAGH TOP—See REEDSVILLE, PA.
 ARMSTRONO—See ELDERTON, PA.
 ARMSTRONG TWP.—See WILLIAMSPORT, PA.
-ARNOLD—See WESTMORELAND, PA. 
-ARONA—See GREENSBURG, PA. 
-ASHLAND—See MAHANOY CITY, PA. 
-ASHLEY—See WILKESBARRE, PA. 
-ASHVILLE—See CARROLLTOWN, PA. 
-ASHVILLE—See also CRESSON, PA. 
+ARNOLD—See WESTMORELAND, PA.
+ARONA—See GREENSBURG, PA.
+ASHLAND—See MAHANOY CITY, PA.
+ASHLEY—See WILKES-BARRE, PA.
+ASHVILLE—See CARROLLTOWN, PA.
+ASHVILLE—See also CRESSON, PA.
 ASPINWALL—See ETNA, PA.
 ASTON—Suburban Cable TV, 240 Turner Industrial Way, Aston, PA 19014. Phone: 215-497-3700. County: Delaware. Also serves Aston Twp., Chester, Chester Heights, Chester Twp., Eddystone, Lower Chichester, Marcus Hook, Middletown Twp. (Delaware County), Parkslde, Trainer, Upland, Upper Chichester. Population: 121,645.
 TV Market Ranking: 4. Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,1980. Channel capacity: 37. Channels available but not in use: N.A.
@@ -220,7 +220,7 @@ ATHENS (Town & Borough)—See SAYRE, PA.
 ATLASBURG—See BURGETTSTOWN, PA.
 AULTMAN—Barry Electronics, Dixonville, PA 15734. County: Indiana. Also serves Coal Run, Jacksonville (Indiana County), Mclnlyre, Young Twp. (Indiana County). Population: 3,064.
 TV Market Ranking: 74. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A.
-Channel capacity: 12, Upgrading to 30 channels. Channels available but not in use: 1.
+Channel capacity: 12. Upgrading to 30 channels. Channels available but not in use: 1.
 Basic Service
 Subscribers: 207 (09/01/86). Programming: N.A.
 Fee: $20.00 Installation; $10.00 monthly; $15.00 Installation, $2.00 monthly (each additional set). Equipment: Sclentlflc-Atlanta, Cadco, Blonder-Tongue headend; AEL amplifi-
@@ -374,7 +374,7 @@ Manager: Dave Diehl. Chief technician: Kevin Whetstone.
 City fee: None.
 Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note; Current information not available.
 BEDFORD TWP—See BEDFORD, PA.
-BEDMINSTER TWP.—See HILLT0WN TWP., PA.
+BEDMINSTER TWP.—See HILLTOWN TWP., PA.
 BEECH CREEK—Beech Creek TV Cable System, Box 186, Locust St., Beech Creek, PA 16822. Phone: 717-962-2525. Counties: Centre & Clinton. Also serves Beech Creek Twp., Liberty Twp. (Centre County). Population; 3,329.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Fran-
 chise expiration date: N.A. Began: July 1,1964.
@@ -598,11 +598,11 @@ Basic Service
 Subscribers: Included with Latrobe, PA. Programming (received off air): WPCB-TV (I), Greensburg; WJAC-TV (N), Johnstown; KDKA-TV (C), WPGH-TV (I), WPTT-TV (I), WPXI (N), WQED (P), WTAE-TV (A) Pittsburgh; allband FM. Programming (via microwave): WUAB (I), Lorain-Cleveland; WWOR-TV (I) New York.
 Programming (via satellite): ESPN. Current originations: Time-weather.
 Fee: $15,00 installation: $9.95 monthly; $1.50 monthly (each additional set). Expanded Basic 1
-Subscribers: Included with Latrobe, PA. (Began: N.A.
+Subscribers: Included with Latrobe, PA (Began: N.A.
 Programming (via satellite): WTBS (I) Atlanta; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; Lifetime; The Weather Channel.
 Fee: N.A.
 Tier 1
-Subscribers: Included with Latrobe, PA. (Began: January 1,1977.
+Subscribers: Included with Latrobe, PA (Began: January 1,1977.
 Programming (via satellite): HBO; Showtime; The Movie Channel. Planned programming (via satellite); Disney Channel.
 Fee: $10.00 installation; $11.00 monthly (each).
 Equipment: Jerrold headend; Jerrold amplifiers; Times cable; Scientific-Atlanta satellite antenna; Scientific-Atlanta satellite receivers.
@@ -634,8 +634,8 @@ Ownership: Cable Systems USA Assoc.
 (see Cable Group Ownership), 100%.
 BLOOMINGTON—See GLEN RICHEY, PA.
 BLOOMSBURG—Service Electric Cable TV Inc., 201 W, Centre St., Mahanoy City,
-PA 17948. Phone: 717-773-2585. Counties: Columbia & Montour. Also serves Bloomsburg Twp. (Columbia County), Ca-tawlssa Borough, CatawlssaTwp., Franklin Twp. (Columbia County), Hemlock Twp., Locust Twp., Main Twp., Montour Twp. (Columbia County), Orange Twp., Scott Twp. (Columbia County), South Centre Twp. Population: 26,700.
-TV Market Ranking: 49 (Bloomsburg, Bloomsburg Twp., Main Twp., Montour Twp., Orange Twp., ScottTwp. & South Center Twp.); Below 100 (Catawlssa, portions of Catawlssa Twp.; portions of Franklin Twp.); Outside TV markets portions of CatawissaTwp., Hemlock Twp.
+PA 17948. Phone: 717-773-2585. Counties: Columbia & Montour. Also serves Bloomsburg Twp. (Columbia County), Ca-tawlssa Borough, Catawissa Twp., Franklin Twp. (Columbia County), Hemlock Twp., Locust Twp., Main Twp., Montour Twp. (Columbia County), Orange Twp., Scott Twp. (Columbia County), South Centre Twp. Population: 26,700.
+TV Market Ranking: 49 (Bloomsburg, Bloomsburg Twp., Main Twp., Montour Twp., Orange Twp., ScottTwp. & South Center Twp.); Below 100 (Catawissa, portions of Catawissa Twp.; portions of Franklin Twp.); Outside TV markets portions of Catawissa Twp., Hemlock Twp.
 & Locust Twp.), Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1,1953.
 Channel capacity: 39. Channels available but not In use: 2.
 Basic Service
@@ -749,7 +749,7 @@ Miles of plant: 5.0 (coaxial). Homes passed: 140.
 Manager: Terry Pulley. Chief technician: Walt Ziemba.
 City fee: None.
 Ownership: Cable Systems USA Assoc, (see Cable Group Ownership), 100%.
-BOYERTOWN BOROUGH—See POTTS-TOWN, PA.
+BOYERTOWN BOROUGH—See POTTSTOWN, PA.
 BRACKENRIDGE BOROUGH—See WESTMORELAND, PA.
 BRADDOCK—See MONROEVILLE, PA.
 BRADDOCK HILLS—See PENN HILLS TWP., PA.
@@ -758,7 +758,7 @@ BRADFORD—Warner Cable Communications Inc., 20 Congress St., Bradford, PA 16701
 Basic Service
 Subscribers: 7,000 (01/01/87). Programming (received off air): WGRZ-TV (M), WIVB-TV (C), WKBW-TV (A), Buffalo; WPSX-TV (P), Clearfield; WICU-IV (N), WSEE (C), Erie; WJAC-TV (N) Johnstown; CHCH-TV Hamilton; allband FM.
 Programming (via microwave): WNYW (I), WPIX (I), WWOR-TV (I) New York. Programming (via satellite): CBN Cable Network; ESPN; Nickelodeon.
-Fee: $20.00 Installation; $8.40 monthly. Tierl
+Fee: $20.00 Installation; $8.40 monthly. Tier 1
 Subscribers: 743 (01/22/85). Began: March 21,1983.
 Programming (via satellite): HBO.
 Fee: $10.00 installation; $13.50 monthly.
@@ -775,7 +775,7 @@ BRADFORD COUNTY—See BENTLEY CREEK, PA.
 BRADFORD TWP. (Clearfield County)— See CLEARFIELD, PA.
 BRADFORD TWP. (McKean County)—See BRADFORD, PA.
 BRADFORD WOODS—See ZELIENOPLE, PA.
-BRADY TWP. (Clearfield County)—See DUBOIS, PA.
+BRADY TWP. (Clearfield County)—See DU BOIS, PA.
 BRADY TWP. (Huntingdon County)—See MILL CREEK, PA.
 BRADY TWP. (Lycoming County)—See MONTGOMERY, PA.
 BRADYS BEND TWP.—See EAST BRADY, PA.
@@ -788,7 +788,7 @@ BREEZEWOOD—See BEDFORD, PA.
 BREINIGSVILLE—See ALLENTOWN, PA.
 BRENTWOOD—See CASTLE SHANNON, PA.
 BRIAR CREEK—See BERWICK, PA.
-BRIAR CREEK TWP.—See BERWICK, PA. 
+BRIAR CREEK TWP.—See BERWICK, PA.
 BRIDGEPORT—See NORRISTOWN, PA.
 BRIDGETON TWP. (Bucks County)—See ALLENTOWN, PA.
 BRIDGETOWN TWP. (Bucks County)—See ALLENTOWN, PA.
@@ -806,7 +806,7 @@ Subscribers: 601 (01/01/87). Programming (received off air): WTAJ-TV (C), Altoon
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; Nashville Network; USA Network.
 Current originations: Time-weather.
 Fee: $57.50 installation; $10.00 monthly.
-Tierl
+Tier 1
 Subscribers: 4 (01/01/87). Began: January 1,1987.
 Programming (via satellite): Cinemax. Fee: $25.00 installation; $7.00 monthly. Tier 2
 Subscribers: 20 (01/01/87). Began: November 1,1986.
@@ -909,8 +909,8 @@ Manager: Rick Conrad. Chief technician: David Gunels Singer.
 Ownership: Adelphia Communications Corp. (see Cable Group Ownership), 100%. Purchased from Harte-Hanks Cable Inc., March 1988.
 BROTHERS VALLEY TWP.—See BERLIN, PA.
 BROWN TWP. (Mifflin County)—See REEDSVILLE, PA.
-BROWNDALE—See FOREST CITY, PA. 
-BROWNSTOWN—See JOHNSTOWN, PA. 
+BROWNDALE—See FOREST CITY, PA.
+BROWNSTOWN—See JOHNSTOWN, PA.
 BROWNSVILLE—See UNIONTOWN, PA.
 BROWNSVILLE TWP. (Fayette County)—See UNIONTOWN, PA.
 BRUIN—See PETROLIA, PA.
@@ -1056,7 +1056,7 @@ traps; Sclentific-Atlanta satellite antenna.
 Miles of plant: 242.0 (coaxial). Homes passed: 15,100.
 Manager: Chuck Morrow. Chief technician: George Wakulik.
 Ownership: NewChannels Corp. (see Cable Group Ownership), 100%.
-CANTON—Retel TV Cable Co., 62 Troy St., Troy, PA 17724. Phone: 717-673-5326. Counties: Bradford & Tioga. Also serves Alba, Canton Twp. (Bradford County), East Canton, Grover. Population: 12,792. TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: January 1,1993. Began: Mayl, 1956.
+CANTON—Retel TV Cable Co., 62 Troy St., Troy, PA 17724. Phone: 717-673-5326. Counties: Bradford & Tioga. Also serves Alba, Canton Twp. (Bradford County), East Canton, Grover. Population: 12,792. TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: January 1,1993. Began: May 1, 1956.
 Channel capacity: 12. Channels available but not in use: None.
 Basic Service
 Subscribers: 1,224 (07/01/83). Programming (received off air): WBNG-TV (C), Binghamton; WENY-TV (A), WETM-TV (N), Elmira; WBRE-TV (N), WNEP-TV (A), WVIA-TV (P) Scranton & Wilkes-Barre; allband FM.
@@ -1163,7 +1163,7 @@ City fee: 4.5% of gross (Cambria Twp., Ebensburg & Ehrenfield); 3% of gross (Lor
 Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note: Current information not available.
 CASS TWP.—See POTTSVILLE, PA.
 CASS TWP. (Huntingdon County)—See UNION TWP. (Huntingdon County), PA.
-CASSANDRA—See CRESS0N, PA.
+CASSANDRA—See CRESSON, PA.
 CASSVILLE—TCI Media, 10 S. Jefferson St., Mount Union, PA 17066. Phone: 814-542-2041. County: Huntingdon. Population: 183.
 TV Market Ranking: 74. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A.
 Channel capacity: N.A. Channels available but not in use: N.A.
@@ -1252,7 +1252,7 @@ CHARLESTOWN TWP.—See MALVERN, PA.
 CHARTIERS—See UNIONTOWN, PA.
 CHARTIERS TWP. (Washington County)—See CANONSBURG, PA.
 CHELTENHAM TWP.—See WILLOW GROVE, PA.
-CHERRY RIDGE TWP—See CARBON-DALE, PA.
+CHERRY RIDGE TWP—See CARBONDALE, PA.
 CHERRY RIDGE TWP. (Wayne County)—See GREENTOWN, PA.
 CHERRY TREE—See CARROLLTOWN, PA.
 CHERRY TREE—See also CHERRYTREE TWP., PA.
@@ -1262,7 +1262,7 @@ Channel capacity: 36. Channels available but not in use: 18.
 Basic Service
 Subscribers: 267 (01/01/88). Programming (received off air): WPSX-TV (P), Clearfield; WICU-TV (N), WJET-IV (A), WSEE (C), Erie; WJAC-TV (N), Johnstown; KDKA-TV (C), WPGH-TV (I), WPTT-TV (I), WTAE-TV (A) Pittsburgh. Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; ESPN; MTV; Nashville Network; USA Network.
 Fee: $35.00 installation; $10.00 monthly; $1.00 monthly (each additional set).
-Tierl
+Tier 1
 Subscribers: 20 (01/01/88). Began: N.A. Programming (via satellite): The Movie Channel.
 Fee: $10.00 installation; $8.00 monthly. Tier 2
 Subscribers: 38 (01/01/88). Began: N.A. Programming (via satellite): Showtime. Fee: $10.00 Installation; $10.00 monthly.
@@ -1281,7 +1281,7 @@ Channel capacity: 36 (2-way capable). Channels available but not in use: N.A. Ba
 Subscribers: 24,945 (01/01/87). Programming (received off air): KYW-TV (N), WCAU-TV (C), WPHL-TV (I), WPVI-TV (A), WTAF-TV (I), Philadelphia; WHYY-TV (P) Wilmington; 1 FM. Programming (via microwave): WPIX (I), WWOR-TV (I) New York; OTB (offtrack betting).
 Programming (via satellite): WTBS (I) Atlanta; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; Country Music TV; Discovery Channel; ESPN; Financial News Network; Lifetime; MTV; Nashville Network; Nickelodeon; Nostalgia Channel; Tempo TV; USA Network. Current originations: Time-weather.
 Fee: $20.00 installation; $10.95 monthly.
-Tierl
+Tier 1
 Subscribers: 2,200 (01/01/87). Began: February 1,1986.
 Programming (via satellite): Cinemax. Fee: $7.95 monthly.
 Tier 2
@@ -1506,7 +1506,7 @@ Subscribers: 935 (11/01/85). Programming (received off air): WTAJ-IV (C), Altoon
 Programming (via microwave): WNYW (I) New York.
 Programming (via satellite): WTBS (I) Atlanta; WWOR-TV (I) New York; CBN Cable Network; ESPN; MTV; Nashville Network.
 Current originations: Time-weather.
-Fee: $20.00 installation; $9.50 monthly. Fieri
+Fee: $20.00 installation; $9.50 monthly. Tier 1
 Subscribers: 200 (10/01/82). Began: April 1, 1979.
 Programming (via satellite): HBO.
 Fee: $15.00 installation; $9.00 monthly. Equipment: Blonder-Tongue & Jerrold headend; Gamco & Jerrold amplifiers; Times & Vikoa cable; Eagle & Vitek traps; Microdyne satellite antenna; Microdyne satellite receivers.
@@ -1517,7 +1517,7 @@ Ownership: Retel TV Cable Co. Inc. (see Cable Group Ownership), 100%.
 Note: Current information not available.
 COKEBURG-See UNIONTOWN, PA.
 COLEBROOK TWP.—See LOCK HAVEN, PA.
-COLEBROOK TWP.—See also POTT-STOWN, PA.
+COLEBROOK TWP.—See also POTTSTOWN, PA.
 COLERAIN TWP—See BEDFORD, PA.
 COLLEGE TWP. (Centre County)—See STATE COLLEGE, PA.
 COLLEDEVILLE—See KING OF PRUSSIA, PA.
@@ -1550,12 +1550,12 @@ City fee: None.
 Ownership: Crisman, Donald R. & Crls-man, Naomi L., 100% jointly (see each under Cable Group Ownership).
 Note: Current information not available.
 COLUMBUS TWP. (Warren County)—See CORRY, PA.
-COLWYN—See RIDLEY TWP., PA. 
-COMMODORE—See INDIANA, PA. 
+COLWYN—See RIDLEY TWP., PA.
+COMMODORE—See INDIANA, PA.
 CONCORD—See WALLINGFORD, PA.
 CONCORD TWP. (Erie County)—See CORRY, PA.
 CONEMAUGH TWP. (Cambria County)— See JOHNSTOWN, PA.
-CONEMAUGH TWP. (Indiana County)— See SAUNA VILLAGE, PA.
+CONEMAUGH TWP. (Indiana County)— See SALINA VILLAGE, PA.
 CONEMAUGH TWP. (Somerset County)—See JOHNSTOWN, PA.
 CONESTOGA—See LANCASTER, PA.
 CONEWAGO TWP. (Adams County)—See HANOVER, PA.
@@ -1752,7 +1752,7 @@ Programming: N.A.
 Fee: N.A.
 Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note: Current information not available.
 CROSS ROADS—See ADAMS COUNTY, PA.
-CROWN—See NORTH CLARION, PA. 
+CROWN—See NORTH CLARION, PA.
 CROYLE TWP.—See SOUTH FORK, PA.
 CROYLE TWP.—See also ADAMS TWP., PA.
 CRUCIBLE—See UNIONTOWN, PA.
@@ -1842,11 +1842,10 @@ Manager: J. Scott Rupert. Chief technician: Fick Fink.
 City fee: 3% of gross.
 Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note: Current information not available.
 DEAN TWP. (Cambria County)—See COALPORT, PA.
-DECATUR TWP. (Clearfield County)—See PHIUPSBURG, PA.
+DECATUR TWP. (Clearfield County)—See PHILIPSBURG, PA.
 DECATUR TWP. (Mifflin County)—See LEWISTOWN, PA.
 DEERFIELD TWP. (Tioga County)—See ELKLAND, PA.
 DELANO—See MAHANOY CITY, PA.
-19B8 Edition
 DELAWARE TWP. (Northumberland County)—See MONTGOMERY, PA.
 DELAWARE TWP. (Northumberland County)—See also WATSONTOWN, PA.
 DELAWARE WATER GAP—See STROUDSBURG, PA.
@@ -1957,9 +1956,9 @@ Fee: $7,00 monthly (Clnemax), $8.00 monthly (HBO).
 Ownership: Pencor Services Inc. (see Cable Group Ownership), 100%,
 DUNCANSVILLE—See ALTOONA, PA.
 DUNKARD TWP.—See UNIONTOWN, PA.
-DUNLAP CREEK VILLAGE—See UNION-TOWN, PA.
-DUNLEVY—See CALIFORNIA, PA. 
-DUNMORE—See CLARKS SUMMIT, PA. 
+DUNLAP CREEK VILLAGE—See UNIONTOWN, PA.
+DUNLEVY—See CALIFORNIA, PA.
+DUNMORE—See CLARKS SUMMIT, PA.
 DUNNS EDDIE—See TIDIOUTE, PA.
 DUNNSTABLE TWP. (eastern portions)—See LOCK HAVEN, PA.
 DUNNSTABLE TWP. (western portions)—See AVIS, PA.
@@ -2013,7 +2012,7 @@ EAST BUTLER—See BUTLER, PA.
 EAST CALN TWP.—See WEST CHESTER, PA.
 EAST CALN TWP.—See also CHESTER COUNTY, PA.
 EAST CAMERON TWP—See MAHANOY CITY, PA.
-EAST CAMERON TWP.—See also SHAMO-KIN, PA.
+EAST CAMERON TWP.—See also SHAMOKIN, PA.
 EAST CANTON—See CANTON, PA.
 EAST CARROLL TWP. (Cambria County)— See CARROLLTOWN, PA.
 EAST CHILLISQUAQUE TWP.—See MILTON, PA.
@@ -2035,7 +2034,7 @@ Ownership: Eastern Telecom Corp. (see Cable Group Ownership), 100%.
 EAST COVENTRY TWP.—See POTTSTOWN, PA.
 EAST DEER TWP.—See WESTMORELAND, PA.
 EAST DONNEGAL TWP.—See MARIETTA, PA.
-EAST DRUMORE TWP.—See QUARRY-VILLE, PA.
+EAST DRUMORE TWP.—See QUARRYVILLE, PA.
 EAST EARL TWP. (southern portions)—See NEW HOLLAND, PA.
 EAST FAIRFIELD TWP.—See MEADVILLE, PA.
 EAST FALLOWFIELD TWP.—See CHESTER COUNTY, PA.
@@ -2074,12 +2073,12 @@ EAST HICKORY—See TIDIOUTE, PA.
 EAST HOPEWELL TWP. (York County)—See ADAMS COUNTY, PA.
 EAST HUNTINGDON TWP.—See CONNELLSVILLE, PA.
 EAST LAMPETER TWP.—See CHRISTIANA, PA.
-EAST LAMPETER TWP.—See also UNCASTER, PA.
+EAST LAMPETER TWP.—See also LANCASTER, PA.
 EAST LANSDOWNE—See UPPER DARBY, PA.
 EAST UWRENCE TWP.—See LAWRENCEVILLE, PA.
 EAST MANCHESTER TWP.—See MOUNT WOLF, PA.
 EAST MARLBOROUGH TWP—See KENNETT SQUARE, PA.
-east McKeesport—See Monroeville, PA.
+EAST McKEESPORT—See Monroeville, PA.
 EAST MEAD TWP.—See MEADVILLE, PA.
 EAST NORRITON TWP.—See NORRISTOWN, PA.
 EAST NORWEGIAN—See MAHANOY CITY, PA.
@@ -2133,7 +2132,7 @@ EAST STROUDSBURG—See STROUDSBURG, PA.
 EAST TAYLOR TWP.—See JOHNSTOWN, PA.
 EAST TROY—See TROY, PA.
 EAST UNION TWP.—See SHENANDOAH, PA.
-EAST VANDERGRIFT—See KISKIMINETAS TWP, PA.
+EAST VANDERGRIFT—See KISKIMINETAS TWP., PA.
 EAST VINCENT TWP.—See PHOENIXVILLE, PA.
 EAST VINCENT TWP—See also POTTSTOWN, PA.
 EAST WASHINGTON—See WASHINGTON, PA.
@@ -2199,7 +2198,7 @@ EBENSBURG-See CARROLLTOWN, PA.
 ECONOMY—See BADEN, PA.
 EDDYSTONE—See ASTON, PA.
 EDDYSTONE—See also WALLINGFORD, PA.
-Eden TWP.—See UNCASTER, PA.
+Eden TWP.—See LANCASTER, PA.
 EOGEMONT TWP.—See MALVERN, PA.
 EDGEWOOD—See PENN HILLS TWP., PA.
 EDGEWORTH—See BADEN, PA.
@@ -2405,8 +2404,8 @@ Manager: Lou Massimiani. Chief technician: Fred Hamm.
 City fee: 3% of gross.
 Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note; Current information not available.
 EVANS CITY—See ZELIENOPLE, PA.
-EVERETT— See BEDFORD, PA. 
-EVERSON—See CONNELLSVILLE, PA. 
+EVERETT— See BEDFORD, PA.
+EVERSON—See CONNELLSVILLE, PA.
 EXETER—See SCRANTON, PA.
 EXETER TWP.—See READING, PA.
 EXETER TWP. (Berks County)—See BIRDSBORO, PA.
@@ -2470,7 +2469,7 @@ Note: Current information not available.
 FARMERS VALLEY—See SMETHPORT, PA.
 FARMINGTON (Fayette County)—See WHARTON TWP., PA.
 FARRELL—See SHARON, PA.
-FARVIEW STATE HOSPITAL—See CAR-BONDALE, PA.
+FARVIEW STATE HOSPITAL—See CARBONDALE, PA.
 FASSETT—See BENTLEY CREEK, PA.
 FAWN TWP.—See WESTMORELAND, PA.
 FAYETTE CITY—See MONESSEN, PA.
@@ -2533,10 +2532,10 @@ Manager: Mark Haverkate.
 City fee: None.
 Ownership: Commonwealth Cable Systems Inc. (see Cable Group Ownership), 100%. Purchased from Lomax & Ya-kely, July 1987.
 FOREST HILLS—See PENN HILLS TWP., PA.
-FORK RUN—See KELLETTVILLE, PA. 
+FORK RUN—See KELLETTVILLE, PA.
 FORKS TWP.—See EASTON, PA.
-FORTY FORT—See SCRANTON, PA. 
-FORWARD—See ZELIENOPLE, PA. 
+FORTY FORT—See SCRANTON, PA.
+FORWARD—See ZELIENOPLE, PA.
 FORWARD TWP.—See MCKEESPORT, PA.
 FORWARD TWP. (Allegheny County)—See MONESSEN, PA.
 FOSTER TWP. (Luzerne County)—See WHITE HAVEN, PA.
@@ -2571,7 +2570,7 @@ City fee: 3% of gross.
 Ownership: American TV & Communications Corp. (see Cable Group Ownership), 100%.
 FRANKLIN—See also COOPERSTOWN, PA.
 FRANKLIN (Cambria County)—See JOHNSTOWN, PA.
-FRANKLIN COUNTY—See MERCERS-BURG, PA.
+FRANKLIN COUNTY—See MERCERSBURG, PA.
 FRANKLIN COUNTY—See also SHIPPENSBURG, PA.
 FRANKLIN PARK—See ROSS TWP., PA.
 FRANKLIN TWP. (Adams County)—See ADAMS COUNTY, PA.
@@ -2606,7 +2605,7 @@ Ownership: Service Electric Cable TV Inc. (see Cable Group Ownership), 100%. Pur
 Note: Current information not available.
 FREEDOM—See ROCHESTER, PA.
 FREEDOM TWP.—See MORRISON COVE, PA.
-FREEDOM TWP. (Adams County)—See ADAMS COUNTY, PA..
+FREEDOM TWP. (Adams County)—See ADAMS COUNTY, PA.
 FREELAND TWP. (Luzerne County)—See HAZLETON, PA.
 FREEMANSBURG—See ALLENTOWN, PA.
 FREEMANSBURG—See also NORTHAMPTON, PA.
@@ -2671,9 +2670,9 @@ Miles of plant: 30.0 (coaxial). Additional miles planned: 7.0 (coaxial). Homes p
 Manager: Ron DeForrest.
 City fee: 3% of gross.
 Ownership: Sammons Communications Inc. (see Cable Group Ownership), 100%.
-GETTYSBURG—See also MECHANICS-BURG, PA.
+GETTYSBURG—See also MECHANICSBURG, PA.
 GILBERTON—See MAHANOY CITY, PA.
-GILPIN TWP—See KISKIMINETASTWP., PA.
+GILPIN TWP—See KISKIMINETAS TWP., PA.
 GIRARD—See HARBORCREEK, PA.
 GIRARD TWP. (Erie County)—See HARBORCREEK, PA.
 GIRARDVILLE—See MAHANOY CITY, PA.
@@ -2787,7 +2786,7 @@ Ownership: Great Southern Printing & Manufacturing Co. (see Cable Group Ownershi
 Note; Current Information not available.
 GREENE COUNTY—See WAYNESBURG, PA.
 GREENE TWP. (Beaver County)—See RACCOON TWP., PA.
-GREENE TWP. (Erie County)—See HAR-BORCREEK, PA.
+GREENE TWP. (Erie County)—See HARBORCREEK, PA.
 GREENE TWP. (Franklin County)—See CHAMBERSBURG, PA.
 GREENE TWP. (Indiana County)—See INDIANA, PA.
 GREENE TWP. (Pike County)—See GREENTOWN, PA.
@@ -2796,7 +2795,7 @@ GREENFIELD TWP. (Lackawanna County)—See CARBONDALE, PA.
 Greensboro—See UNIONTOWN, PA.
 GREENSBURG—Marcus Communications Inc., 210 W. Otterman St., Greensburg, PA 15601. Phone: 412-834-6990. Coun-
 ties: Allegheny & Westmoreland. Also serves Adamsburg, Arona, Hempfield Twp. (Westmoreland County), Hunker, Irwin, Jeannette, Madison, Manor, New Alexandria, New Stanton, North Hunting-ton Twp. (Westmoreland County), North Irwin, Penn, Penn Twp. (Westmoreland County), Salem Twp. (Westmoreland County), Sewickiey Twp., South Greensburg, South Huntingdon, South Versailles, Southwest Greensburg, Unity Twp. (Westmoreland County), White Oak, Youngwood. Population: 187,865.
-TV Market Ranking: 10,74 (Greensburg, South Greensburg, Unity Twp. & Young-wood); 10 (all other communities served). Original franchise award date: January 1, 1966. Franchise expiration date: January 1, 2000. Began: May 12, 1968.
+TV Market Ranking: 10,74 (Greensburg, South Greensburg, Unity Twp. & Youngwood); 10 (all other communities served). Original franchise award date: January 1, 1966. Franchise expiration date: January 1, 2000. Began: May 12, 1968.
 Channel capacity: 36. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 41,000 (01/01/87). Programming (received off air): WPCB-TV (I), Greensburg; WJAC-TV (N), WWCP-TV (I), Johnstown; KDKA-TV (C), WPGH-TV (I), WPTT-TV (I), WPXI (N), WQED (P), WTAE-TV (A) Pittsburgh; 19 FMs.
@@ -2848,7 +2847,7 @@ Manager: Mark Loreno. Chief technician: Brian Joyce.
 City fee: 3% of basic service fees. Ownership: Cablevision Industries Inc. (see Cable Group Ownership), 100%.
 GREENWICH TWP.—See ALLENTOWN, PA.
 GREENWOOD TWP. (Columbia County)—See BENTON, PA.
-GREGG TWP. (Union County)—SeeMONTGOMERY, PA.
+GREGG TWP. (Union County)—See MONTGOMERY, PA.
 GRINDSTONE—See UNIONTOWN, PA.
 GROVE CITY—Armstrong Utilities Inc., 1312 W. Main St., Grove City, PA 16001. Phone: 412-458-5460. Counties: Butler & Mercer. Also serves Harrlsvllle, Mercer, Slippery Rock. Population: 16,000.
 TV Market Ranking: 79. Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1,1976.
@@ -2942,7 +2941,7 @@ HAMPTON STATION—See ROCKMERE, PA.
 HAMPTON TWP.—See WESTMORELAND, PA.
 HANOVER—Hanover Cable TV Inc., Box 717, 505 Baltimore St., Hanover, PA 17331. Phone: 717-637-2268. Counties: Adams & York. Also serves Abbottstown, Berwick (Adams County), Conewago Twp. (Adams County), Heidelberg Twp. (York County), McSherrystown, Paradise Twp. (York County), Penn Twp. (York County). Population: 49,831.
 TV Market Ranking: 57. Original franchise award date: N.A. Franchise expiration date: January 1, 2004. Began: September 1,1967.
-Channel capacity: 21, Upgrading to 30 channels. Channels available but not in use: None.
+Channel capacity: 21. Upgrading to 30 channels. Channels available but not in use: None.
 Basic Service
 Subscribers: 9,500 (01/01/87). Programming (received off air): WBFF (I), WJZ-TV (A), WMAR-TV (N), Baltimore; WHP-TV (C), WHTM-TV (A), WITF-TV (P), Harrisburg; WGAL-TV (N), WLYH-TV (C), Lancaster; WGCB-TV (I), Red Lion; WTTG (I), Washington; WPMT (I) York; allband FM. Programming (via satellite): WTBS (I) Atlanta. .
 Current originations: Educational access.
@@ -3056,7 +3055,7 @@ Ownership: Pencor Services Inc. (see Cable Group Ownership), 100%.
 Note: Current information not available.
 HAWTHORN—See NEW BETHLEHEM, PA.
 HAYCOCK TWP. (Lehigh County)—See ALLENTOWN, PA.
-HAYFIELD TWP.—See MEAOVILLE, PA.
+HAYFIELD TWP.—See MEADVILLE, PA.
 HAYSVILLE—See BADEN, PA.
 HAZEL HURST—See KANE, PA.
 HAZLE TWP.—See HAZLETON, PA.
@@ -3076,8 +3075,8 @@ Program guide: TV Host.
 Miles of plant: 359.0 (coaxial), Homes passed: 23,200. Total homes in franchised area: 30,400.
 Manager: Robert Trently.
 City fee: 2% of monthly gross. Ownership: Service Electric Cable TV Inc. (see Cable Group Ownership), 100%.
-HECKATHORNE CHURCH—See ROCK-MERE, PA.
-HEGINS TWP.—See LYKENS, PA. 
+HECKATHORNE CHURCH—See ROCKMERE, PA.
+HEGINS TWP.—See LYKENS, PA.
 HEIDELBERG—See CARNEGIE, PA.
 HEIDELBERG TWP. (Berks County)—See LEBANON, PA.
 HEIDELBERG TWP. (Lehigh County)—See NORTHAMPTON, PA.
@@ -3104,7 +3103,7 @@ HENDERSON TWP. (Huntingdon County)—See MILL CREEK, PA.
 HENRY CLAY TWP.—See MARKLEYSBURG, PA.
 HENRY’S BEND—See PLUMER, PA.
 HEPBURN TWP.—See WILLIAMSPORT, PA.
-HEPBURNIf—See GRAMPIAN, PA.
+HEPBURNIA—See GRAMPIAN, PA.
 HERBERT—See UNIONTOWN, PA.
 HEREFORD TWP.—See POTTSTOWN, PA.
 HERMITAGE TWP.—See SHARON, PA.
@@ -3162,7 +3161,7 @@ Subscribers: N.A. Began: N.A. Programming (via satellite): Clnemax; HBO; Showtim
 Fee: $7.95 monthly (Showtime), $8.50 monthly (HBO), $8.95 monthly (Clnemax).
 Township fee: 3% of basic gross. Ownership: Lenfest Communications Inc. (see Group Ownership), 100%.
 Note: Current Information not available.
-HILLTOWN TWP.—See also SELLERS-VILLE, PA.
+HILLTOWN TWP.—See also SELLERSVILLE, PA.
 HOLLIDAYSBURG—See ALTOONA, PA.
 HOLLISTERVILLE—See CARBONDALE, PA.
 HOMER CITY—See BLAIRSVILLE, PA.
@@ -3184,7 +3183,7 @@ Miles of plant: 30.0 (coaxial). Additional miles planned: 5.0 (coaxial).
 Manager: Earl J. Wilcox.
 City fee: None.
 Ownership: Honesdale TV Service, 100%.
-HONEY BHOOK BOROUGH—See BIRDS-BORO, PA.
+HONEY BHOOK BOROUGH—See BIRDSBORO, PA.
 Honey Brook Twp.—See BIRDSBORO, PA.
 HOOKSTOWN—See RACCOON TWP., PA.
 HOOVERSVILLE—See CENTRAL CITY, PA.
@@ -3265,7 +3264,7 @@ Equipment: Jerrold headend; Magnavox amplifiers; Plastoid cable; MSI character g
 Miles of plant: 60.0 (coaxial).
 Manager: Chester P. Isett.
 Ownership: Huntingdon TV Cable Co. Inc. (see Cable Group Ownership), 100%.
-HUNTINGTON TOP. (Adams County)—See ADAMS COUNTY, PA.
+HUNTINGTON TWP. (Adams County)—See ADAMS COUNTY, PA.
 HUSTON TWP. (Centre County)—See UNION TWP. (Centre County), PA.
 HYDE—See CLEARFIELD, PA.
 HYDE PARK—See KISKIMINETAS TWP., PA.
@@ -3439,7 +3438,7 @@ Ownership: Tele-Communications Inc. (see Cable Group Ownership), 100%. Note: Cur
 KANEVILLE—See CHERRYTREE TWP., PA.
 KARNS CITY—See PETROLIA, PA.
 KASKA—See BROCKTON, PA.
-KAYLQR—See EAST BRADY, PA.
+KAYLOR—See EAST BRADY, PA.
 KEATING—See SMETHPORT, PA.
 KELLETTVILLE—Cable Systems USA, Box 600, RD 1, Tionesta, PA 16353. Phone: 814-755-3618. County: Forest. Also selves Fork Run, Wig Hill, Wilson Hill. Population: N.A. (area seived).
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: 12. Channels available but not in use: 1.
@@ -3544,10 +3543,10 @@ KNOEBEL'S GROVE—See SHAMOKIN, PA.
 KNOX—See PAINT TWP., PA.
 KNOX TWP. (Jefferson County)—See BROOKVILLE, PA.
 KNOXVILLE (Fayette County)—See UNIONTOWN, PA.
-KOPPEL—See ELLWOOD CITY, PA. 
-KREAMER—See MIDDLEBURG, PA. 
-KULPMONT—See ARISTES, PA. 
-KULPMONT—See also SHAMOKIN, PA. 
+KOPPEL—See ELLWOOD CITY, PA.
+KREAMER—See MIDDLEBURG, PA.
+KULPMONT—See ARISTES, PA.
+KULPMONT—See also SHAMOKIN, PA.
 KUNKLE—See NOXEN, PA.
 KUTZTOWN—Keystone Cable TV Inc., Rte. 1 (Ironton), Coplay, PA 18037. Phone: 215-439-1155. County: Berks. Also serves Longswamp Twp., Lyons Station, MaxatawnyTwp., Richmond Twp. (Berks County), Rockland Twp., Ruscombmanor Twp. (Berks County), Topton. Population: 23,994.
 TV Market Ranking: Below 100. Original franchise award date: January 1, 1971. Franchise expiration date: N.A. Began: September 1,1971.
@@ -3705,13 +3704,13 @@ LATIMORE TWP. (Adams County)—See ADAMS COUNTY, PA.
 LATROBE—Highland Video Assoc., Box 335, 11 N. Walnut St., Blairsvllle, PA 15717. Phone: 412-537-3371. County: Westmoreland. Also serves Derry, Derry Twp. (Westmoreland County), Unity Twp. (Westmoreland County), Youngstown. Population: 50,510.
 TV Market Ranking: 10,74 (Latrobe & Derry Twp.); 74 (Derry, Unity Twp. & Youngstown). Original franchise award date: N.A. Franchise expiration date: N.A. Began: March 1,1965.
 Channel capacity: N.A. Upgrading to 42 channels. Channels available but not in use: N.A.
-Note: Subscribers, miles of plant, homes passed & total homes in franchised area includes figures for Blairsvllle & Ugo-nier, PA.
+Note: Subscribers, miles of plant, homes passed & total homes in franchised area includes figures for Blairsville & Ligonier, PA.
 Basic Service
 Subscribers: 14,450 (04/01/87). Programming (received off air): WPCB-TV (I), Greensburg; WJAC-TV (N), Johnstown; KDKA-TV (C), WPGH-TV (I), WPTT-TV (I), WPXI (N), WQED (P), WQEX (P), WTAE-TV (A) Pittsburgh; allband FM.
 Programming (via microwave): WUAB (I), Loraln-Cleveland; WWOR-TV (I) New York.
 Programming (via satellite): ESPN, Current originations: Time-weather.
 Fee: $10.00 Installation; $9.25 monthly. Commercial fee: $1.50.
-Expanded Basle 1
+Expanded Basic 1
 Subscribers: 1,103 (10/26/85). Began: N.A.
 Programming (via satellite): WTBS (I) Atlanta; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; Lifetime; The Weather Channel.
 Fee: $10.00 installation; $7.50 monthly. Tier 1
@@ -3781,7 +3780,7 @@ Miles of plant: 409.0 (coaxial). Additional miles planned: 12.0 (coaxial). Homes
 Manager: Robert C. Dunbar.
 City fee: 3% of basic gross fees. Ownership: Lenfest Communications Inc. (see Cable Group Ownership), 100%. Sale pends to'Amerlcan TV 8i Communications Corp. (see Cable Group Ownership),
 LEECHBURG—See KISKIMINETAS TWP., PA.
-LEEPER—See NORTH CLARION, PA. 
+LEEPER—See NORTH CLARION, PA.
 LEESPORT—See HAMBURG, PA.
 LEET TWP. (Allegheny County)—See BADEN, PA.
 LEETSOALE—See BADEN, PA.
@@ -3805,7 +3804,7 @@ Miles of plant: 3.0 (coaxial). Additional miles planned: 1.0 (coaxial). Homes pa
 Manager: Terry W. Hughes.
 Ownership: Retel TV Cable Co. Inc. (see Cable Group Ownership), 100%.
 Note: Current Information not available.
-LETTERKENHY TWP.—See ORRSTOWN, PA.
+LETTERKENNY TWP.—See ORRSTOWN, PA.
 LEVANSVILLE—See SOMERSET, PA.
 LEVITTOWN—Lower Bucks Cablevision Inc., 2320 Trenton Rd., Levittown, PA 19056. Phone: 215-547-3800. County: Bucks. Also serves Bristol, Bristol Twp., Hulmevllle, Langhorne, Langhorne Manor, Lower Makefield Twp., Middle-town Twp. (Bucks County), Penndel, Yardley. Population: 126,604.
 TV Market Ranking: 4. Original franchise award date: N.A. Franchise expiration date: N.A. Began: February 1,1968. Channel capacity: 31 (2-way capable). Channels available but not in use: 14. Basic Service
@@ -3932,9 +3931,9 @@ Fee: $19.95 installation; $11.95 monthly.
 Manager: Gayle Decker.
 Franchise fee: 3% gross basic + net pay program costs.
 Ownership: Tele-Communlcatlons Inc. (see Cable Group Ownership), 100%.
-LIMESTONE TOP. (Montour County)—See DANVILLE, PA.
+LIMESTONE TWP. (Montour County)—See DANVILLE, PA.
 LIMESTONE TWP. (Warren County)—See TIDIOUTE, PA.
-LINCOLN—See SOMERSET, PA. 
+LINCOLN—See SOMERSET, PA.
 LINCOLN—See also GLASSPORT, PA.
 LINCOLN TWP. (Bedford County)—See SAXTON, PA.
 LINCOLN TWP. (Huntingdon County)—See HUNTINGDON, PA.
@@ -3961,7 +3960,7 @@ LITITZ—See EPHRATA, PA.
 LITTLE MAHANOY TWP.—See COAL, PA.
 LITTLESTOWN—See BONNEAUVILLE, PA.
 LLEWELLYN—See POTTSVILLE, PA.
-LLOYDELL—See ADAMS TOP., PA.
+LLOYDELL—See ADAMS TWP., PA.
 LOCK HAVEN—SBC Cable of Pennsylvania Inc., 140 E. Market St., York, PA 17401. Phone: 717-848-5500. County: Clinton. Also serves Allison Twp., Bald Eagle Twp., Castanea Twp., Colebrook Twp.,
 Dunnstable Twp. (eastern portion), Fle-mlngton, Woodward Twp. (Clinton County). Population: 18,274.
 TV Market Ranking: Outside TV markets. Original franchise award date: N-A. Franchise expiration date: N.A. Began: January 1, 1952.
@@ -4008,7 +4007,7 @@ LONGSWAMP TWP.—See KUTZTOWN, PA.
 LORAIN—See JOHNSTOWN, PA.
 LORETTO—See CARROLLTOWN, PA.
 LORETTO—See also CRESSON, PA.
-LOWER ALLEN TWP.—See MECHANICS-BURG, PA.
+LOWER ALLEN TWP.—See MECHANICSBURG, PA.
 LOWER ALLEN TWP.—See also HARRISBURG, PA.
 LOWER ALSACE TWP—See READING, PA.
 LOWER BURRELL—See WESTMORELAND, PA.
@@ -4019,10 +4018,10 @@ LOWER FREDERICK—See SELLERSVILLE, PA.
 LOWER GWYNEDD TWP.—See PLYMOUTH TWP., PA.
 LOWER HEIDELBERG TWP. (Bedford County)—See READING, PA.
 LOWER MACUNGIE TWP.—See ALLENTOWN, PA.
-LOWER MACUNGIE TWP.—See also EM-MAUS, PA.
+LOWER MACUNGIE TWP.—See also EMMAUS, PA.
 LOWER MACUNGIE TWP.—See also NORTHAMPTON, PA.
 LOWER MAHANOY TWP.—See COAL, PA.
-LOWER MAKEFIELD TWP.—See LEVIT-TOWN, PA.
+LOWER MAKEFIELD TWP.—See LEVITTOWN, PA.
 LOWER MERION TWP.—Comcast Corp. of Lower Merion, 205 E. Levering Mill Rd., Bala Cynwyd, PA 19004. Phone: 215-667-8880. County: Montgomery. Also serves Narberth Borough. Population: 64,147.
 TV Market Ranking: 4. Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 1,1981.
 Channel capacity: 54 (2-way capable). Channels available but not In use: 15. Basic Service
@@ -4054,7 +4053,7 @@ LOWER MOUNT BETHEL TWP.—See EASTON, PA.
 LOWER NAZARETH TWP.—See NORTHAMPTON, PA.
 LOWER NAZARETH TWP.—See also ALLENTOWN, PA.
 LOWER PAXTON TWP. (Dauphin County)—See HARRISBURG, PA.
-LOWER POTTSGROVE TWP.—See POTT-STOWN, PA.
+LOWER POTTSGROVE TWP.—See POTTSTOWN, PA.
 LOWER PROVIDENCE TWP.—See NORRISTOWN, PA.
 LOWER SALFORD—See SELLERSVILLE, PA.
 LOWER SAUCON TWP.—See NORTHAMPTON, PA.
@@ -4070,11 +4069,11 @@ LOWER YODER TWP.—See JOHNSTOWN, PA.
 LOWHILL TWP.—See ALLENTOWN, PA.
 LOWHILL TWP.—See also NORTHAMPTON, PA.
 LOWVILLE—See WATTSBURG, PA.
-LOYALHANNA TWP.—See MURRYS-VILLE, PA.
+LOYALHANNA TWP.—See MURRYSVILLE, PA.
 LOYALHANNA TWP.—See also SAUNA VILLAGE, PA.
-LOYALSOCK TWP.—See WILLIAMSPORT, PA. 
-LUCINDA—See NORTH CLARION, PA. 
-Lundys Lana—See ALBION, PA. 
+LOYALSOCK TWP.—See WILLIAMSPORT, PA.
+LUCINDA—See NORTH CLARION, PA.
+Lundys Lane—See ALBION, PA.
 LUZERNE—See SCRANTON, PA.
 LUZERNE TWP. (Fayette County)—See UNIONTOWN, PA.
 LYCOMING TWP.—See WILLIAMSPORT, PA.
@@ -4104,7 +4103,7 @@ MACUNGIE—See EMMAUS, PA.
 MADISON—See GREENSBURG, PA.
 MAHAFFEY—See GRAMPIAN, PA.
 MAHANOY CITY—Service Electric Cable TV, 201 W. Centre St., Mahanoy City, PA 17948. Phone: 717-773-2585. Counties: Columbia, Northumberland & Schuylkill. Also serves Ashland, Barry Twp. (Schuylkill County), Butler Twp. (Schuylkill County), Centralla, Conyngham Twp. (Columbia County), Delano, East Brunswick Twp., East Cameron Twp., East Norwegian, Frackvllle, Gllberton, Glrardvllle, Gordon, Kline Twp., Mahanoy Twp., New Castle Twp. (Schuylkill County), New Ringgold, Norwegian, Rlngtown, Rush Twp., Ryan Twp., St. Clair, Schuylkill Twp. (Columbia County), Tamaqua, Union Twp. (Schuylkill County), Walker Twp. (Schuylkill County), West Mahanoy, West Penn Twp. (northwest portions). Population: 70,000.
-TV Market Ranking: 49 (Mahanoy City, Butler Twp., Delano, East Cameron Twp., Mahanoy Twp., Ringtown, Rush, Ryan, Tamaqua, Union Twp., Walker Twp. & West Penn Twp.); Below 100 (East Brunswick Twp. & New Ringgold); Outside TV markets (Barry Twp., Cen-tralia, Conyngham, East Norwegian, St. Clair & West Mahanoy). Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 1,1948. Channel capacity: 40. Channels available but not in use: None.
+TV Market Ranking: 49 (Mahanoy City, Butler Twp., Delano, East Cameron Twp., Mahanoy Twp., Ringtown, Rush, Ryan, Tamaqua, Union Twp., Walker Twp. & West Penn Twp.); Below 100 (East Brunswick Twp. & New Ringgold); Outside TV markets (Barry Twp., Centralia, Conyngham, East Norwegian, St. Clair & West Mahanoy). Original franchise award date: N.A. Franchise expiration date: N.A. Began: June 1,1948. Channel capacity: 40. Channels available but not in use: None.
 Basic Service
 Subscribers: 17,000 (01/01/88). Programming (received off air): WWLF-TV (I), Hazleton; KYW-TV (N), WCAU-TV (C), WPVI-TV (A),- Philadelphia; WTVE (I), Reading; WBRE-TV (N), WNEP-TV (A), WVIA-TV (P), WYOU (C) Scranton & Wilkes-Barre; allband FM. Programming (via microwave): WABC-TV (A), WCBS-TV (C), WNYW (I), WPIX (I), WWOR-TV (I), New York; WPHL-TV (I), WTAF-TV (I) Philadelphia. Programming (via satellite): Arts & Entertainment; CBN Cable Network; CNN; Country Music TV; Discovery Channel; ESPN; EWTN; Financial News Network; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon; QVC Network; Reuters News-View; The Travel Channel; USA Network; Video Hits One.
 Current originations: Time-weather; news ticker; stock ticker; bulletin board. Planned originations: Local live.
