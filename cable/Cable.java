@@ -168,7 +168,7 @@ public class Cable{
                 }
                 
                 if (dateTemp.indexOf("Channel") != -1) {
-                    dateTemp = dateTemp.substring(0, dateTemp.indexOf("Chan") - 1);
+                    dateTemp = dateTemp.substring(0, dateTemp.indexOf("Chan") - 2);
                 }
                 
                 System.out.print(dateTemp + "\t");
