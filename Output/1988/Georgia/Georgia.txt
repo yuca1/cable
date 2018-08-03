@@ -908,7 +908,7 @@ Miles of plant: 309.0 (coaxial). Homes passed: 11,047. Total homes in franchised
 Manager: Floye Hewatt. Chief technician: Brad Johnson.
 City fee: 3% of gross.
 Ownership: Wometco Cable TV Inc. (see Cable Group Ownership), 100%.
-CQRDELE—Storer Cable Communications, Box 666, 912 E. 16th Ave., Cordele, GA 31015, Phone: 912-883-4414. Counties: Crisp 8c Dooly. Also serves Vienna. Population: 13,800.
+CORDELE—Storer Cable Communications, Box 666, 912 E. 16th Ave., Cordele, GA 31015, Phone: 912-883-4414. Counties: Crisp 8c Dooly. Also serves Vienna. Population: 13,800.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: September 1,1968.
 Channel capacity: 22. Channels available but not In use: None.
 Basic Service
@@ -3346,7 +3346,7 @@ Tier 4
 Subscribers: 474 (02/28/85). Began: September 1,1982.
 Programming (via satellite): The Movie Channel.
 Fee: $15.00 Installation; $10.95 monthly. .
-Tiers
+Tier 5
 Subscribers: 353 (02/28/85). Began: September 1,1981.
 Programming (via satellite): Showtime. Fee: $15.00 Installation; $10.95 monthly.
 Equipment: Scientiflc-Atlanta headend; Delta-Benco-Cascade amplifiers; Times cable; JVC cameras; JVC VTRs; Oak set top converters; Scientiflc-Atlanta satellite antenna.

@@ -412,7 +412,7 @@ Tier 4
 Subscribers: 1,380 (12/23/87). Began: December 1,1985.
 Programming (via satellite): The Movie Channel.
 Fee: $15.00 installation; $11.95 monthly.
-Tiers
+Tier 5
 Subscribers: 4,430 (12/23/87). Began: December 1,1983.
 Programming (via satellite): Showtime. Fee: $15.00 installation; $11.95 monthly.
 Local advertising: Yes (insert only). Available in CNN, ESPN, MTV, USA Network programming.' Local sales manager: Todd Olson. Regional interconnect: Southwest Floridalnterconnect. Equipment: Scientiflc-Atlanta headend; GTE Sylvania amplifiers; Times & M/ A-Com cable; Pioneer set top converters; Zenith addressable set top converters; Scientlfic-Atlanta satellite antenna. Miles of plant: 836.0 (coaxial). Additional miles planned: 40.0 (coaxial). Homes passed: 57,341. Total homes in franchised area: 57,341.
@@ -549,7 +549,7 @@ Tier 2
 Subscribers: 4,483 (02/13/85). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $10.00 monthly.
-Tiers
+Tier 3
 Subscribers: 2,027 (02/13/85). Began: N.A.
 Programming (via satellite): Disney Channel; The Movie Channel; Showtime. Fee: $10.00 monthly (each).
 Local advertising: Yes. Rates: $5.00/ Week.
@@ -1118,7 +1118,7 @@ Tier 4
 Subscribers: 106 (08/01/87). Began: N.A.
 Programming (via satellite): The Movie Channel.
 Fee: N.A.
-Tiers
+Tier 5
 Subscribers: 190 (08/01/87). Began: N.A.
 Programming (via satellite): Showtime. Fee: N.A.
 Local advertising: Yes (locally produced & Insert),
@@ -1673,7 +1673,7 @@ Subscribers: 1,325 (02/01/85). Programming (received off air): WTVX (C), Fort Pl
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WWOR-TV (I) New York; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; CNN Headline News; ESPN; Financial News Network; Home Shopping Network; Life-
 time; MTV; Nashville Network; PTL; The Weather Channel; USA Network.
 Current originations; Bulletin board; public access.
-Fee; $25.00 Installation; $8.50 monthly. Her 1
+Fee; $25.00 Installation; $8.50 monthly. Tier 1
 Subscribers: 872 (02/01/85). Began; N.A.
 Programming (via satellite); HBO; The Movie Channel; Showtime.
 Fee: $8.00 monthly (each).
@@ -2740,7 +2740,7 @@ Tier 4
 Subscribers: 1,792 (12/23/87). Began: October 1,1985.
 Programming (via satellite): The Movie Channel.
 Fee: $15.00 Installation; $10.95 monthly.
-Tiers
+Tier 5
 Subscribers: 3,532 (12/23/87). Began: September 9,1982.
 Programming (via satellite): Showtime. Fee: $15.00 installation; $10.95 monthly.
 Local advertising: Yes (locally produced & insert). Available in locally originated & CNN, ESPN, FNN, MTV, USA Network programming. Rates: $18.00/30 Seconds. Local sales manager: Todd Olson. Regional Interconnect: Southwest Florida Interconnect.
@@ -3766,7 +3766,7 @@ Fee: $20.95 installation; $15.45 monthly; $10.00 Installation, $3.00 monthly (ea
 Expanded Basic 1
 Subscribers: 52,000 (01/01/88). Began: July 1,1976.
 Programming (via satellite): WGN-TV (I) Chicago; WWOR-TV (I) New York; AP NewsCable; Arts & Entertainment; CBN Cable Network; CNN; Dlscoveiy Channel; ESPN; Financial News Network; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon; USA Network; Video Hits One.
-Fee: $10.95 installation; $5.00 monthly, fieri
+Fee: $10.95 installation; $5.00 monthly, Tier 1
 Subscribers: 52,000 (01/01/88). Began: N.A.
 Programming (via satellite): Cinemax; Disney Channel; HBO; The Movie Channel; Showtime.
 Fee: $14.95 Installation; $7.50-$11.50 monthly (each).
@@ -4267,7 +4267,7 @@ Subscribers: 777 (12/22/87). Began: September 1,1985.
 Programming (via satellite): The Movie
 Channel.
 Fee: $9.00 monthly.
-Tiers
+Tier 5
 Subscribers: 1,591 (12/22/87). Began: September 1, 1985.
 Programming (via satellite): Showtime. Fee: $9.00 monthly.
 Addressable homes: 19,000 (12/22/87). Fee: $3.95.

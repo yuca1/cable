@@ -547,7 +547,7 @@ HUETTER—See COEUR D’ALENE, ID.
 IDAHO FALLS—Upper Valley Telecable Co. Inc., Box 1827, 240 First St., Idaho Falls, ID 83403. Phone: 208-523-4567. Counties: Bingham, Bonneville & Jefferson. Also serves Ammon, Basalt, Bingham County, Bonneville County, Firth, Iona, Jefferson County, Rigby, Rirle, Shelley, Ucon. Population: N.A. (area served).
 TV Market Ranking:. Below 100. Original franchise award date: N.A: Franchise expiration date: June 5, 1999. Began: December 15,1970.
 Channel capacity: 35. Channels available but not in use: 5.
-Dasin Qoruino
+Basic Service
 Subscribers: 16,000 (03/28/86). Programming (received off air): KIDK (C), KIFI-TV (N), Idaho Falls; KISU-TV (P), KPVI (A) Pocatello.
 Programming (via microwave):1 KBYU-TV (P), Provo; KSL-TV (C), KTVX (A), KUTV (N) Salt Lake City.
 Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; ESPN,
@@ -563,7 +563,7 @@ Tier 2
 Subscribers: 2,532 (03/28/86). Began: N.A.
 Programming (via satellite): Disney Channel; Nostalgia Channel.
 Fee: $20.00 installation; $10.00 monthly.
-Tler3
+Tier 3
 Subscribers: 3,885 (03/28/86). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $20.00 installation; $10.00 monthly.
@@ -583,7 +583,7 @@ City fee: 3% of gross.
 Ownership: Upper Valley Telecable Co. Inc. (see Cable Group Ownership), 100%.
 INKOM—See POCATELLO, ID.
 IONA—See IDAHO FALLS, ID.
-JEFFERSON COUNTY—See IDAHO FALLS. ID.
+JEFFERSON COUNTY—See IDAHO FALLS, ID.
 JEROME—See TWIN FALLS, ID.
 KAMIAH—Chambers Cable of Idaho Inc., Box 1145, 227 Johnson Ave., Oroflno, 83544. Phone: 208-476-4614. County: Lewis. Population: 1,478..
 TV Market Ranking: Outside TV markets. Originalfranchise award date: N.A. Franchise expiration date: August 19, 2003. Began: February 1,1980.
@@ -994,7 +994,7 @@ Franchise fee: 3% of gross.
 Ownership: Chambers Communications Corp. (see Cable Group Ownership), 100%. Purchased from Metro Cable Corp., May 1987.
 PAUL—See BURLEY, ID.
 PAYETTE—Chambers Cable of Payette Inc., 347 SW 19th St., Ontario, OR 97914. Phone: 503-889-3173. County: Payette. Also serves Fruitland. Population: 8,007.
-TV Market Ranking: Below 100 (Fruit-land); Outside TV markets (Payette). Original franchise award date: N.A. Franchise expiration date: January 1, 2000. Began: March 1,1981.
+TV Market Ranking: Below 100 (Fruitland); Outside TV markets (Payette). Original franchise award date: N.A. Franchise expiration date: January 1, 2000. Began: March 1,1981.
 Channel capacity: 30 (2-way capable). Channels available but not in use: 1. Basic Service
 Subscribers: 1,728 (01/01/88). Programming (received off air): KAID (P), KBCI-TV (C), KTVB (N), Boise; KIVI (A), KTRV (I) Nampa; allband FM. Programming (via satellite): WTBS (i) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; CNN Headline News; ESPN; MTV; Nickelodeon; PTL; USA .Network,
 Current originations: Time-weather; bulletin board; public access.
@@ -1305,7 +1305,7 @@ City fee: 3% of gross,
 Ownership: Way, Kenneth L„ 100%.
 STAR—See MIDDLETON, ID.
 Sugar City—See REXBURG, ID.
-SUN VALLEY—See KETCHUM, ID.	■
+SUN VALLEY—See KETCHUM, ID.
 SYRINGA—Syrlnga Community Cable TV, Kooskla, ID- 83539. Phone: 208-926-4116. County: Idaho. Population: 60.
 TV Market Ranking: Outside TV markets, Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: N.A. Channels available but not in use: N.A.
 Basic Service Subscribers: 24 (01/01/84). Programming: N.A.

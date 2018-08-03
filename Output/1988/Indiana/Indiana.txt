@@ -48,7 +48,7 @@ Channel capacity: 12 (plans two-way). Channels available but not in use: N.A. Ba
 Subscribers: 1,334 (07/01/83). Programming (received off air): WTTV (I), Bioomington-lndianapoiis; WFYI (P), WHMB-TV (I), WISH-TV (C), WRTV (A), WTHR (N), Indianapolis; WLFI-TV (C), Lafayette; WIPB (P) Muncie; allband FM.
 Programming (via microwave): WGN-TV (I) Chicago. Planned programming (via satellite): WTBS (I) Atlanta.
 Current originations: Time-weather; news ticker.
-Fee: $15.00 installation; $8.00 monthly. Tierl
+Fee: $15.00 installation; $8.00 monthly. Tier 1
 Subscribers: N.A. Began: November 1, 1976.
 Programming (via satellite): HBO.
 Fee: $20.00 installation; $8.00 monthly. Equipment: Jerrold headend; Jerrold amplifiers; AFC satellite antenna.
@@ -371,7 +371,7 @@ Basic Service
 Subscribers: 927 (07/01/83). Programming (received off air): WBBM-TV (C), WCFC-TV (I), WCIU-TV (I), WFLD (I), WGN-TV (I), WLS-TV (A), WMAQ-TV (N), Chicago; WFFT-TV (I), Fort Wayne; WHME-TV (I), WNDU-TV (N), WNIT-TV (P), WSBT-TV (C) South Bend.
 Programming (via satellite): WTBS (1) Atlanta; CBN Cable Network; CNN; ESPN; Lifetime; MTV; Nashville Network; USA Network.
 Fee: $20.00 Installation; $12.00 monthly; $20.00 installation, $3.00 monthly (each additional set).
-Tierl
+Tier 1
 Subscribers: N.A. Began: January 1, 1981.
 Programming (via satellite): Cinemax. Fee: $19.95 installation.
 Tier 2
@@ -399,7 +399,7 @@ TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expi
 Channel capacity: 12. Channels available but not in use: None.	^
 Basic Service
 Subscribers: 805 (02/29/84). Programming (received off air): WTTV (I), Bloomington-lndianapolis; WFLD (I), WGN-TV (I), Chicago; WSJV (A), Elkhart; WFYI (P), WHMB-TV(I), WISH-TV (C), WRTV (A), WTHR (N), Indianapolis; WLFI-TV (C), Lafayette; WNDU-TV (N) South Bend; allband FM. Programming (via satellite): ESPN.
-Fee: $20.00 Installation; $8.00 monthly. Tierl
+Fee: $20.00 Installation; $8.00 monthly. Tier 1
 Subscribers: 284 (02/29/84). Began: September 1,1980.
 Programming (via satellite): WTBS (I) Atlanta; HBO.
 Fee; $10.95 monthly; $20.00 converter. Equipment: Jerrold headend; Coral amplifiers; Comm/Scope cable; Vitek traps; Microdyne satellite antenna; Microdyne satellite receivers.
@@ -414,7 +414,7 @@ Channel capacity: 20. Channels available but not in use: 8.
 Basic Service
 Subscribers: 955 (12/01/87). Programming (received off air): WTTV (1), Bloomington-lndianapolis; WCET (P), WCPO-TV (C), WKRC-TV (A), WLWT (N), Cincinnati; WXIX-TV (I), Cincinnatl-Newport; WISH-TV (C), WRTV (A), WTHR (N) Indianapolis; allband FM.
 Fee: $20.00 installation; $13.95 monthly.
-Tierl
+Tier 1
 Subscribers: 77 (12/01/87). Began: N.A. Programming (via satellite): Disney Channel.
 Fee: $8.95 monthly.
 Tier 2
@@ -433,7 +433,7 @@ Channel capacity: 35 (2-way capable). Channels available but not in use; 16. Bas
 Subscribers: 662 (12/16/86). Programming (received off air): WTIU (P), Bloomington; WTTV (I), Bloomlng-ton-lndianapolis; WISH-TV (C), WTHR (N), Indianapolis; WAVE (N), \tyDRB-TV (I), WHAS-TV (C), WLKY-TV (A) Louisville; 1 FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; ESPN; Lifetime; MTV; Nashville Network; Nickelodeon.
 Current originations: Time-weather; news ticker; sports ticker; emergency alert; local sports.
-Fee: $25.00 Installation; $9.25 monthly; $20.00 converter; $10.00 installation, $2.00 monthly (each additional set). Tierl
+Fee: $25.00 Installation; $9.25 monthly; $20.00 converter; $10.00 installation, $2.00 monthly (each additional set). Tier 1
 Subscribers: 206 (12/16/86). Began: August 13,1982.
 Programming (via satellite): HBO.
 Fee: $15.00 installation; $9.65 monthly. Tier 2
@@ -645,7 +645,7 @@ Subscribers: 450 (09/01/87). Programming (received off air): WTIU (P), Bloomingt
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; CNN Headline News; ESPN; MTV; Nashville Network; Nickelodeon; USA Network.
 Current originations: Public access.
 Fee: $11,95 monthly.
-Tlerl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Disney Channel; HBO; The Movie Channel.
 Fee: $5.80 monthly (Disney), $6.80 monthly (HBO or TMC).
 Miles'of plant: 28.0 (coaxial).
@@ -683,7 +683,7 @@ Miles of plant: 19.0 (coaxial). Homes passed: 1,150.
 Manager: Louis F. Henderson. Ownership: Cardinal Communications Inc. (See Cable Group Ownership), 100%. Purchased from John Henderson, Gloria Linvilles1’ James Wallace, Dec. 1987.
 Note: Current Information not available.
 CRAWFORD COUNTY—Welbac Cable W, Box 405, 103 North St., Loogootee, IN 47553. Phone: 812-295-4202. County: Crawford. Also serves English. Population: 10.000.
-W Market Ranking: 38 (portions); Outside W markets (portions). Original franchise award date: N.A. Franchise expiration date: February 1, 1997. Began: November 1,1982.
+W Market Ranking: 38 (portions); Outside TV markets (portions). Original franchise award date: N.A. Franchise expiration date: February 1, 1997. Began: November 1,1982.
 Channel capacity: 35. Channels available but not In use: 15.
 Basic Service
 Subscribers: 424 (12/01/86). Programming (received off air): WTW (I), Bloomington-lndianapolls; WAVE (N), WDRB-W (I), WHAS-W (C), WKPC-W (P), WLKY-W (A) Louisville. Programming (via satellite): WTBS (I) Atlanta; WGN-W (I) Chicago; CBN Cable Network; ESPN; MW; Nashville Network; PTL; USA Network.
@@ -1167,7 +1167,7 @@ Programming (via satellite): WTBS (I)
 ■	Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; CNN Headline News; ESPN; Lifetime; Nashville Network; Nickelodeon; USA Network.
 Current originations: Message wheel; weather,
 Fee: $25.00 Installation (aerial), $50.00 Installation (underground); $16.50 monthly; $3.50 converter.
-Tierl
+Tier 1
 Subscribers: N.A. Began: November 1, 1982.
 Programming (via satellite): Cinemax; HBO; The Movie Channel; Showtime. Fee: $10.00 Installation; $12.50 monthly (each).
 Local advertising: Yes (locally produced). Local sales manager: Jerry Alexander. Regional Interconnect: No.
@@ -1582,7 +1582,7 @@ City fee: 3% of gross.
 Ownership: Bellsle Communications Inc. (see Cable Group Ownership), 100%. Purchased from Quality CATV Inc., Dec, 1987.
 Note: Current Information not available.
 JASONVILLE—Cable Systems USA, Box 600, RD No. 1, Tlonesta, PA 16353. Phone: 814-755-3618. Counties: Clay, Greene & Sullivan. Also serves Coalmont, Hymera. Population: 2,335.:	•>
-TV Market Ranking: Below 100. Original franchise award date: N.A. ■ Franchise expiration date: September 27, 1999. Began: November 1, 1981-Channel capacity: 35. Channels available but not in use: 16.
+TV Market Ranking: Below 100. Original franchise award date: N.A. ■ Franchise expiration date: September 27, 1999. Began: November 1, 1981. Channel capacity: 35. Channels available but not in use: 16.
 Basic Service
 Subscribers: 783 (01/01/88)., . " Programming (received off air): WTTV (I), Bloomington-lndlanapolis; WRTV (A), Indianapolis; WBAK-TV (A), WTHI-TV (C), WTWO (N), Terre Haute; WVUT (P) Vincennes.
 Programming (via satellite): .WTBS (I) Atlanta; WGN-TV (I) Chicago; WWOR-TV (I) New York; CBN Cable Network; CNN; ESPN; Financial News Network;.Lifetime; MTV; Nashville Network; Nickelodeon; Tempo TV; The Weather Channel;.USA Network; Video Hits One.
@@ -1684,7 +1684,7 @@ KINGSBURY—See LA PORTE, IN.
 KINGSFORD HEIGHTS—See LA PORTE, IN.
 KIBKLIN—See SHERIDAN, IN.
 KNIGHTSTOWN—Cable Systems USA, Box 600, RD No. 1, Tionesta, PA 16353, Phone: 814-755-3618. Counties: Henry & Rush. Also serves Carthage, Dunrelth, Henry County (portions), Rush COiinty (portions), Splceland. Population:'N.A. (area served).
-TV Market Ranking: 16 (KnightstoWn, Dunreith, Carthage, portions of Henry & Rush Counties; Below 100 (Spiceland). Original franchise award date: N.A. Fran-chise expiration date: April 19, 4998. Began: N.A.
+TV Market Ranking: 16 (Knightstown, Dunreith, Carthage, portions of Henry & Rush Counties; Below 100 (Spiceland). Original franchise award date: N.A. Fran-chise expiration date: April 19, 4998. Began: N.A.
 Channel capacity: 36. Channels available but not In use: 15.	'
 Basic Service	,
 Subscribers: 1,045 (01/01/88), . Programming (received off air): WTTV .. (I), Bloomington-lndlanapolis; WFYI (P), WISH-TV (C), WRTV (A), WTHR (N), WXIN (I) Indianapolis. " Programming (via satellite): CBN Cable Network; ESPN; Lifetime; Nickelodeon. Fee: $35.00 installation; $7.95 monthly; $2.00 monthly (each additional set). Expanded Basic 1	.
@@ -1758,7 +1758,7 @@ Channel capacity: 54 (2-way capable). Channels available but not in use: N.A. Ba
 Subscribers: 182 (01/01/85). Programming (received off air): WBBM-IV (C), WFLD (I), WGN-TV (I), WLS-TV (A), WMAQ-TV (N), WTTW (P), Chicago; WSJV (A), Elkhart; WHME-TV (I), WNDU-TV (N), WNIT-TV (P), WSBT-TV (C) South Bend; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; CNN; ESPN; Lifetime; Nickelodeon; The Weather Channel; USA Network.
 Current originations: Time-weather. Planned originations: Public access.
-Fee: $25.00 installation; $8.50 monthly; $1.50 monthly (each additional set). Her 1
+Fee: $25.00 installation; $8.50 monthly; $1.50 monthly (each additional set). Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Cinemax; HBO.
 Fee: $8.50 monthly (1st service), $7.50 monthly (2nd service).
 Local advertising: No.
@@ -1792,7 +1792,7 @@ Channel capacity: 35. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 240 (08/01/87). Programming (received off air): WANE-TV (C), WFFT-TV (1), WKJG-TV (N), WPTA (A), Fort Wayne; WISH-TV (C), WRTV (A), WTHR (N), Indianapolis; WIPB (P) Muncle.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; Discovery Channel; ESPN; Lifetime; Nashville Network; Nickelodeon; Trinity Bcstg. Network; USA Network; Video Hits One.
-Fee: $25.00 installation; $11.00 monthly, fieri
+Fee: $25.00 installation; $11.00 monthly, Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Cinemax; HBO.
 Fee: $10.00 Installation; $11.00 monthly (1st service), $10.00 monthly (2nd service).
 Local advertising: Planned. Available in locally originated & satellite distributed programming.
@@ -2148,7 +2148,7 @@ Basic Service
 Subscribers: 217 (08/01/87). Programming (received off air): WANE-TV (C), WFFT-TV (I), WKJG-TV (N), WPTA (A), Fort Wayne; WRTV (A), WTHR (N), Indianapolis; WIPB (P) Muncie.
 Programming (via satellite): WTBS (I) Atlanta;.WGN-TV (1) Chicago; CBN Cable Network; CNN; Discovery Channel; ESPN; Lifetime; Nashville Network; Nickelodeon; Trinity Bcstg. Network; USA Network; Video Hits One,
 Fee: $25.00 installation; $11.00 monthly.
-Tlerl
+Tier 1
 Subscribers: 217 (08/01/87). Began: N.A.
 Programming (via satellite): The Movie Channel; Showtime.
 Fee: $10.00 installation; $11.00 monthly (1st service), $10.00 monthly (2nd service).
@@ -2258,7 +2258,7 @@ Subscribers: N.A. Began: N.A. Programming (via satellite): Showtime, Fee: $15.00
 City fee: 3% of gross.
 Ownership: Heritage Communications Inc. (see Cable Group Ownership), 100%.
 MIDDLETOWN—Cable Systems USA, Box 600, RD No. 1, Tionesta, PA 16353. Phone: 814-755-3618. Counties: Hancock & Henry. Also serves Kennard, Shirley, Wilkinson. Population: 3,441.
-TV Market Ranking: 16 (Shirley, Wilkinson); Below 100 (Kennard, Middle-town). Original franchise award date: N.A.. Franchise expiration date: August 4,1996. Began: October 11,1982. Channel capacity: 30. Channels available but not in use: 10.
+TV Market Ranking: 16 (Shirley, Wilkinson); Below 100 (Kennard, Middletown). Original franchise award date: N.A.. Franchise expiration date: August 4,1996. Began: October 11,1982. Channel capacity: 30. Channels available but not in use: 10.
 Basic Service
 Subscribers: 745 (01/01/88). Programming (received off air): WTTV (1), Bloomington-lndianapolis; WHMB-VI (I), WISH-TV (C), WRTV (A), WTHR (N), Indianapolis; WIPB (P) Muncie; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; ESPN; Home Shopping Network; Life-
@@ -2362,7 +2362,7 @@ Channel capacity: 35 (plans two-way). Channels available but not in use: 13. Bas
 Subscribers: 178 (01/01/85). Programming (received off air): WTTV (I), Bloomington-lndlanapolis; WICD (N), Champaign; WRTV (A), Indianapolis; WBAK-TV (A), WTHI-TV (C), WTWO (N) Terre Haute; 1 FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; CNN Headline News; ESPN; Lifetime; Nashville Network; Nickelodeon; PTL; USA Network.
 Current originations: Message wheel. Fee: $25.00 installation (aerial), $50.00 Installation (underground); $16.50 monthly; $3.50 converter.
-Her 1
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite):. Cinemax; HBO; The Movie Channel; Showtime. Fee: $10.00 Installation; $12.50 monthly (each).
 Local advertising: Yes (locally produced). Local sales manager: Jerry Alexander. Regional Interconnect: No.
 Equipment: Sclentific-Atlanta headend; Theta-Corn amplifiers; Sclentific-Atlanta cable; Sclentific-Atlanta set top converters; Intercept traps; Sclentific-Atlanta satellite antenna; Sclentific-Atlanta satellite receivers.
@@ -2752,7 +2752,7 @@ Manager: Eilleen.Prather:
 City fee: 3% of gross.
 Ownership: Cardinal Communications Inc. (see Cable Group Ownership), 100%.
 NORTH WEBSTER—Triax Cablevislon, Box 274, 312 Main St., North Webster, IN 46555. Phone: 219-834-7631. Counties: Kosciusko & Noble. Also serves Cromwell, Kosciusko County, Leesburg, Pler-ceton. Population: N.A. (area served).
-TV Market Ranking: 80, 82 (Cromwell, portions of Kosciusko County, Leesburg & North Webster); 82 (portions of Ko-scuisko County & Pierceton). Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,
+TV Market Ranking: 80, 82 (Cromwell, portions of Kosciusko County, Leesburg & North Webster); 82 (portions of Koscuisko County & Pierceton). Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1,
 1984.
 Channel capacity: 54. Channels available but not in use: 27.
 Basic Service
@@ -3067,7 +3067,7 @@ Basic Service
 Subscribers: 507 (01/15/86). Programming (received off air): WBBM-TV (C), WFLD (I), WGN-TV (I), WLS-TV (A), WMAQ-TV (N), WTTW (P), Chicago; WRTV (A), WTHR (N), Indianapolis; WLFI-TV (C), Lafayette; WNDU-TV (N), WSBT-TV (C) South Bend; allband FM.
 Programming (via satellite): WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Lifetime; MTV; Nashville Network; Tempo TV; The Weather Channel; USA Network.
 Fee: $20.00 installation; $10.95 monthly.
-Tierl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Cinemax; Disney Channel.
 Fee: $9.00 monthly (Cinemax), $8.95 monthly (Disney).
 Tier 2
@@ -3083,7 +3083,7 @@ Channel capacity: 28. Channels available but not in use: 8.
 Basic Service
 Subscribers: 1,915 (11/01/85). Programming (received off air): WBBM-TV (C), WCIU-TV (I), WFLD (I), WGN-TV (I), WLS-TV (A), WMAQ-TV (N). WTTW (P), Chicago; WLFI-TV (C), Lafayette; WNDU-TV (N), WSBT-TV (C) South Bend; allband FM.
 Current originations: Time-weather.
-Fee: $20.00 installation; $9.50 monthly. Tierl
+Fee: $20.00 installation; $9.50 monthly. Tier 1
 Subscribers: 185 (11/15/82). Began: N.A.
 Programming (via satellite): Cinemax. Fee: N.A.
 Tier 2
@@ -3101,7 +3101,7 @@ Channel capacity: 35. Channels available but not In use: None.
 Basic Service
 Subscribers: 167 (02/29/84). Programming (received off air): WSJV (A), Elkhart; WISH-TV (C), WRTV (A), WTHR (N), Indianapolis; WLFI-TV (C), Lafayette; WHME-TV (I), WNDU-TV (N) South Bend.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; Nickelodeon.
-Fee: $20.00 installation; $8.50 monthly. Tierl
+Fee: $20.00 installation; $8.50 monthly. Tier 1
 Subscribers: 59 (02/29/84). Began: June 1,1981.
 Programming (via satellite): HBO.
 Fee: $20.00 deposit, $10.95 monthly. Equipment: Jerrold headend; C-COR amplifiers; CCS Hatfield cable; Vitek traps; Microdyne satellite antenna; Microdyne satellite receivers.
@@ -3380,7 +3380,7 @@ Tier 2
 Subscribers; 218 (01/01/85). Began; N.A.
 Programming (via satellite): HBO.
 Fee: N.A,
-Tiers
+Tier 3
 Subscribers'. 488 (01/01/85). Began: N.A.
 Programming (via satellite): The Movie Channel.
 Fee: N.A.
@@ -3985,7 +3985,7 @@ Basic Service
 Subscribers: 61 (08/01/87). Programming (received off air): WEHT (C), WEW (I), WFIE-TV (N), WNIN (P), WTVW (A) Evansville.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CNN; ESPN.
 Fee: N.A.
-Tierl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): The Movie Channel; Showtime.
 Fee: N.A.
 Miles of plant: 1.0 (coaxial). Homes passed: 120.
@@ -4000,7 +4000,7 @@ TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franc
 Channel capacity: 40. Channels available but not in use: 25.
 Basic Service
 Subscribers: 219 (12/01/87). Programming (via satellite): WTBS (I) Atlanta; C-SPAN; CBN Cable Network; CNN; ESPN; Lifetime; MTV; Nashville Network; Nickelodeon; USA Network. Fee: $10.45 monthly.
-Tierl
+Tier 1
 Subscribers: 41 (12/01/87). Began: N.A. Programming (via satellite): Clnemax. Fee: $9.95 monthly.
 Tier 2
 Subscribers: 97 (12/01/87). Began: N.A. Programming (via satellite): HBO.

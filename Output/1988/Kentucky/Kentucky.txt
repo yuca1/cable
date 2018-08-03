@@ -257,7 +257,7 @@ Subscribers: 354 (01/01/88). Programming (received off air): WLOS (A), Greenvill
 Fee: $35.00 installation; $8.50 monthly, Miles of plant: 35.0 (coaxial). Homes passed: 505.
 Manager: Bud Minerd. Chief technician: Walt Zlemba.
 Ownership: Cable Systems USA Assoc, (see Cable Group Ownership), 100%.
-BUCK OAK—See LEWis COUNTY, KY.
+BUCK OAK—See LEWIS COUNTY, KY.
 BUCK OAK—See also VANCEBURG, KY.
 BUCKEY—See JEREMIAH, KY.
 BUCKLOG CREEK—See INEZ, KY.
@@ -495,7 +495,7 @@ Tier 2
 Subscribers: 11 (08/15/85). Began: March 1,1985.
 Programming (via satellite): Disney Channel.
 Fee: N.A.
-Her 3
+Tier 3
 Subscribers: 27 (08/15/85). Began: March 1,1985.
 Programming (via satellite): HBO.
 Fee: N.A.
@@ -1166,7 +1166,7 @@ Fee: $10.00 Installation; $10.50 monthly.
 Tier 4
 Subscribers: 50 (01/01/88), Began: August 1, 1983.
 Programming (via satellite): Playboy Channel.
-Fee: $10.00 installation; $9.50 monthly. Tiers
+Fee: $10.00 installation; $9.50 monthly. Tier 5
 Subscribers: 80 (01/01/88). Began: August 1,1983.
 Programming (via satellite): Showtime. Fee: $10.00 installation; $10.50 monthly.
 Manager: Sherrie Jensen. Chief technician: Wayne Wilson.
@@ -1318,7 +1318,7 @@ Subscribers: 3,304 (02/04/87). Began: N.A.
 Programming (via satellite): HBO.
 Fee: N.A.
 Tier 3
-Subscribers: 65f6 (02/04/87). Began: N.A.
+Subscribers: 656 (02/04/87). Began: N.A.
 Programming (via satellite): The Movie Channel.
 Fee: N.A.
 Equipment: Jerrold headend; Jerrold amplifiers; Times cable; Scientlflc-Atlanta satellite antenna.
@@ -2324,7 +2324,7 @@ Basic Service
 Subscribers: 2,166 (01/01/87). Programming (received off air): WGRB (I), Campbellsville; WKZT-TV (P), Eliza-
 bethtown; WKYT-TV (C), WLEX-TV (N), Lexington; WAVE (N), WDRB-TV (I), WHAS-TV (C), WLKY-TV (A) Louisville; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; ESPN.
-Fee: $35.00 installation; $13.00 monthly; $25.00 installation, $4.00 monthly (each additional set), fieri
+Fee: $35.00 installation; $13.00 monthly; $25.00 installation, $4.00 monthly (each additional set), Tier 1
 Subscribers: 87 (01/01/87). Began: N.A. Programming (via satellite): Disney Channel.
 Fee: N.A.
 Tier 2
@@ -2346,13 +2346,13 @@ Basic Seivice
 Subscribers: Included with Bullitt County, KY.
 Programming (received off air): WKAS (P), Ashland; WKZT-TV (P), Elizabethtown; WAVE (N), WDRB-TV (I), WHAS-TV (C), WLKY-TV (A) Louisville. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; MTV. Planned programming (via satellite): HBO.
 Fee: $25.00 installation; $18.50 monthly.
-Tierl
+Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): WWOR-TV (I) New York. Planned programming (via satellite): Showtime.
 Fee: N.A.
 Miles of plant & homes passed Included with Bullitt County, KY.
 Ownership: Cooke Cablevision (see Cable Group Ownership), 100%. Purchased from First Carolina Communications Inc., Dec. 1987.
 LEITCHFIELD—TeleScrlpps Cable Co., 110 W. Main St., Elizabethtown, KY 42701. Phone: 502-765-2731. County: Grayson. Also serves Clarkson. Population: N.A. (area served).
-TV Market Ranking: Below 100 (Leltch-fleld); Outside TV markets (Clarkson). Original franchise award date: January 31,1964. Franchise expiration date: July 31,1994. Began: May 4,1965.
+TV Market Ranking: Below 100 (Leitchfield); Outside TV markets (Clarkson). Original franchise award date: January 31,1964. Franchise expiration date: July 31,1994. Began: May 4,1965.
 Channel capacity: 36. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 1,534 (11/30/86). Programming (received off air): WBKO (A), Bowling Green; WKZT-TV (P), Elizabethtown; WENT (C), WTVW (A), Evansville; WAVE (N), WDRB-TV (I), WHAS-TV (C), WLKY-TV (A), Louisville; WKRN-TV (A), WTVF (C) Nashville; allband FM.
@@ -2537,7 +2537,7 @@ Programming (via satellite): HBO.
 Fee: $35.00 installation; $9.95 monthly. Tier 4
 Subscribers: 285 (01/01/87). Began: N.A.
 Programming (via satellite): The Movie Channel.
-Fee: $35.00 installation; $9.95 monthly. Tiers
+Fee: $35.00 installation; $9.95 monthly. Tier 5
 Subscribers: 338 (01/01/87). Began: N.A.
 Programming (via satellite): Showtime. Fee: $35.00 installation; $9.95 monthly. Equipment: Scientific-Atlanta headend; VI-koa amplifiers; Comm/Scope & Times cable; Scientific-Atlanta set top converters; Scientific-Atlanta satellite antenna. Miles of plant: 269.0 (coaxial). Homes passed: 7,778. Total homes In franchised area: 7,778.
 Manager: Rick DeMarco. Chief technician: Charles Klncer.
@@ -3174,7 +3174,7 @@ Subscribers: 61 (01/01/87). Began: N.A. Programming (via satellite): Disney Chan
 Fee: $25.00 Installation; $8.95 monthly. Tier 2
 Subscribers: 122 (01/01/87). Began: September 1,1981.
 Programming (via satellite): HBO.
-Fee: $25.00 Installation; $9.95 monthly. Tiers
+Fee: $25.00 Installation; $9.95 monthly. Tier 3
 Subscribers: 117 (01/01/87). Began: N.A.
 Programming (via satellite): The Movie Channel.
 Fee: $25.00 Installation; $9.95 monthly. Equipment: Cadco & Sclentific-Atlanta headend; Coral amplifiers; Comm/Scope cable; Hamlin set top converters; Sclentific-Atlanta satellite antenna.
@@ -3205,7 +3205,7 @@ Tier 4
 Subscribers: 580 (01/01/88). Began: November 15,1982.
 Programming (via satellite): The Movie Channel.
 Fee: $20.00 installation; $10.00 monthly.
-Tiers .
+Tier 5
 Subscribers: 600 (01/01/88). Began: N.A.
 Programming (via satellite); Showtime. Fee: $20.00 installation; $10.00 monthly.
 Addressable homes: 5,750 (01/01/88). Local advertising: Yes (locally produced & insert). Available in locally originated & satellite distributed programming. Rates: $250.00/Hour; $150.00/30 Minutes. Local sales manager: Leonard J. Norcia.
@@ -3276,7 +3276,7 @@ Basic Service
 Subscribers: 3,016 (01/01/87). Programming (received off air): WCPO-TV (C), WKRC-TV (A), Cincinnati; WXIX-TV (I), Cincinnati-Newport; WDKY-TV (I), Danville; WKLE (P), WKYT-TV (C), WLEX-TV (N), WTVQ-TV (A), Lexington; WDRB-TV (I), WHAS-TV (C) Louisville; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WWOR-TV (I) New York; C-SPAN; C-SPAN II; CBN Cable Network; CNN; CNN Headline News; ESPN; Home Shopping Network; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; The Weather Channel; USA Network.
 Current originations: Bulletin board. Fee: $35.00 Installation; $16.00 monthly.
-Tlerl
+Tier 1
 Subscribers: 230 (01/01/87). Began: N.A.
 Programming (via satellite): Cinemax. Fee: $35.00 Installation; $9.95 monthly. Tier 2
 Subscribers: 269 (01/01/87). Began: N.A.
@@ -3327,7 +3327,7 @@ burg, KY 40330. Phone: 606-734-2305. County: Boyle. Population: 900.
 TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: February 1, 1993. Began: August 1, 1973.
 Channel capacity: 18. Channels available but not In use: None.
 Basic Service
-Subscribers: 317 (01/01/87). Programming (received off air): WDKY-TV (I), Danville; WKLE (P), WKYT-TV (C), WLEX-TV (N), WTVQ-TV (A), Lexington; WAVE (N), WDRB-TV (I), WHAS-TV (C), WLKY-TV (A) Louisville. Programming (via satellite): WTBS (I) Atlanta; CNN; ESPN; Nashville Network. Fee: $15.00 installation; $8.00 monthly. Tlerl
+Subscribers: 317 (01/01/87). Programming (received off air): WDKY-TV (I), Danville; WKLE (P), WKYT-TV (C), WLEX-TV (N), WTVQ-TV (A), Lexington; WAVE (N), WDRB-TV (I), WHAS-TV (C), WLKY-TV (A) Louisville. Programming (via satellite): WTBS (I) Atlanta; CNN; ESPN; Nashville Network. Fee: $15.00 installation; $8.00 monthly. Tier 1
 Subscribers: 47 (02/04/84). Began: November 16,1982.
 Programming (via satellite): HBO.
 Fee: $15.00 installation; $9.00 monthly. Equipment: Jerrold headend; Vikoa amplifiers; Times cable; Scientific-Atlanta satellite antenna; Scientific-Atlanta satellite receivers.
@@ -3689,7 +3689,7 @@ Ownership: Angel, Roy, 100%.
 Note: Current Information not available.
 ST. MATTHEWS-See LOUISVILLE, KY.
 ST. REGIS PARK—See JEFFERSON COUNTY, KY.
-SALQEE—See ALTRO, KY.
+SALDEE—See ALTRO, KY.
 SALT GEM—See KNOX COUNTY (eastern portion), KY.
 SALT LICK—Bathco Cable TV Co. Inc., 100 W. Henry St., Owlngsvllle, KY 40360. Phone: 606-674-2231. County: Bath. Also serves Midland, Owlngsvllle. Population: N.A. (area served),
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: April 4, 1990. Began: December 1,1975.
@@ -3728,8 +3728,8 @@ Ownership: Atkins, Gary, 100%.
 Note: Current information not available.
 SCALF—See KNOX COUNTY (eastern portion), KY.
 SCIENCE HILL—See SOMERSET, KY.
-SCOn COUNTY—See GEORGETOWN, KY.
-SCOnSVILLE—Tele-Media Co. of Southwest Kentucky, Box 422. Scottsvllle, KY 42164. Phone: 502-237-4800. County: Allen. Population: N.A. (area served).
+SCOTT COUNTY—See GEORGETOWN, KY.
+SCOTTSVILLE—Tele-Media Co. of Southwest Kentucky, Box 422. Scottsvllle, KY 42164. Phone: 502-237-4800. County: Allen. Population: N.A. (area served).
 TV Market Ranking: Below 100. Original franchise award date: November 12, 1979. Franchise expiration date: November 11, 1994. Began: N.A.
 Channel capacity: 35. Channels available but not In use: 15.
 Basic Service

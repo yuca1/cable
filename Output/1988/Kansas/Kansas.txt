@@ -959,7 +959,7 @@ Basic Service
 Subscribers: 393 (11/01/85). Programming (received off air): KTVC (C), Ensign; KUPK-TV (A), Garden City; KSNC (N), Great Bend; KWCH-TV (C) Hutchlnson-Wichita; 1 FM. Planned programming (via satellite): CBN Cable Network.
 Current originations: Time-weather.
 Fee: $12.50 installation; $11.00 monthly.
-Tierl
+Tier 1
 Planned programming (via satellite): HBO.
 Equipment: Jerrold headend; Jerrold amplifiers; Jerrold cable; R. H. Tyler satellite antenna.
 Miles of plant: 5.0 (coaxial).
@@ -1043,7 +1043,7 @@ TV Market Ranking: 67. Original franchise award date: N.A. Franchise expiration 
 Basic Service
 Subscribers: 195 (08/26/87). Programming (received off air): KPTS (P), KWCH-TV (C), Hutchinson-Wichita; KAKE-TV (A), KSNW (N) Wichita. Programming (via satellite): WTBS (1) Atlanta; WGN-TV (I) Chicago; CNN; Discovery Channel; ESPN; Nashville Network.
 Fee: $11.00 monthly.
-Tierl
+Tier 1
 Subscribers: 86 (08/26/87). Began: N.A. Programming (via satellite): Showtime. Fee: $11.00 monthly.
 Equipment: Scientlflc-Atlanta satellite antenna; Scientlflc-Atlanta satellite receivers.
 Manager: Jerrold Hoffman.
@@ -1055,7 +1055,7 @@ Basic Service,
 Subscribers: 95 (01/01/88). Programming (received off air): KTVC (C), Ensign; KSNG (N)r, KUPK-TV (A) Garden City.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN;. Nashville Network.
 Fee: $30.00 installation; $13.00 monthly.
-Tierl
+Tier 1
 Subscribers: 59 (01/01/88). Began: March 15,1984.
 Programming (via satellite): HBO.
 Fee: $30.00 Installation; $11.00 monthly.
@@ -1070,7 +1070,7 @@ Channel capacity: N.A, Channels available but not In use: N.A.
 Basic Service
 Subscribers: 314 (01/01/88). Programming (received off air): KWCH-TV (C), Hutchlnson-WIchlta; KSNT (N), KTKA-TV (A), KTWU (P), WIBW-TV (C), Topeka; KAKE-TV (A), KSAS-TV (I) Wichita.
 Programming (via satellite): WTBS (I) Atlanta; CNN; ESPN; Nashville Network. Fee: $12.00 monthly.
-Tierl
+Tier 1
 Subscribers: 141 (01/01/88). Began: N.A.
 Programming (via satellite): Cinemax; Disney Channel; HBO.
 Fee: $10.00 monthly (each).
@@ -1084,7 +1084,7 @@ Basic Service
 Subscribers: 920 (01/30/86). Programming (received off air): KCTV (C), Kansas City; KSNT (N), KTKA-TV (A), KTWU (P), WIBW-TV (C), Topeka; ..KAKE-TV (A) Wichita; allband FM. Programming (via microwave): KCTV (C), KMBC-TV (A), KSHB-TV (I) Kansas City.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN.
 Current originations: Time-weather.
-Fee: $10.00 installation; $9.70 monthly. Tierl
+Fee: $10.00 installation; $9.70 monthly. Tier 1
 Subscribers: 150 (01/30/86). Began: February 1,1980,
 Programming (via satellite): Showtime. Fee: $11.39 monthly.
 Equipment: Jerrold headend; Broadband & Jerrold amplifiers; Times cable; Jerrold set top converters; Pico traps; Scl-entific-Atlanta satellite antenna; Scien-tific-AManta satellite receivers.
@@ -1110,7 +1110,7 @@ Basic Service . .
 Subscribers: 131 (10/22/87), Programming (received off air): KPTS (P), KWCH-TV (C), Hutchlnson-WIchlta; KAKE-TV (A), KSAS-TV (I), KSNW (N) Wichita.7’-7 ■
 Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; ESPN; Nashville Network.
 Fee: $15.00 Installation; $10.00 monthly.'
-Tierl
+Tier 1
 Subscribers: 71 (10/22/87). Began: N.A. Programming (via satellite): HBO.
 Fee: $9.00 monthly.
 Miles of plant: 5.0 (coaxial). Homes passed: 240.
@@ -1123,7 +1123,7 @@ Basic Service
 Subscribers: 84 (01/01/88). Programming (received off air): KJRH (N), KOED-TV (P), KOKI-TV (I), KOTV (C), KTUL-TV (A) Tulsa.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; ESPN; Nashville Network.
 Fee: $12.45 monthly.
-Tierl
+Tier 1
 Subscribers: 50 (01/01/88). Began: N.A. Programming (via satellite): Disney Channel; HBO.
 Fee: $10.00 monthly (each).
 Miles of plant: 7.7 (coaxial). Homes passed: 200. Total homes in franchised area: 200.
@@ -1392,7 +1392,7 @@ Programming (via microwave): KAMR-TV (N), KFDA-TV (C), KVII-TV (A) Amarillo.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN.
 Current originations: Time-weather.
 Fee: $20.00 installation; $12.00 monthly; $15.00 installation, $1.00 monthly, (each additional set).
-Tierl
+Tier 1
 Subscribers: 416 (01/01/86). Began: November 1,1979.
 Programming (via satellite): HBO.
 Fee: $20.00 installation; $11.00 monthly.
@@ -1789,7 +1789,7 @@ Subscribers: 182 (07/05/83). Programming (received off air): KGIN (C), Grand Isl
 Bend; KHAS-TV (N), KHNE-TV (P), Hastings; KAYS-TV (C), KOOD (P), Hays; KSNB-TV (A) Superior.
 Programming (via satellite): WGN-TV (I) Chicago; ESPN.
 Fee: $18.00 installation; $10.50 monthly.
-Her 1
+Tier 1
 Subscribers: 79 (07/05/83). Began: N.A. Programming (via satellite): The Movie Channel.
 Fee: N.A.
 Ownership: Cableview Inc. (see Cable Group Ownership), 100%.
@@ -2069,7 +2069,7 @@ Subscribers: 1,157 (03/01/86). Programming (received off air): KCPT (P), KSHB-TV
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; Discovery Channel; ESPN; Lifetime; MTV; Nashville Network; Nickelodeon; USA Network.
 Current originations: Time-weather; program guide.
 Fee: $9.50 installation; $20.00 converter.
-Tlerl
+Tier 1
 Subscribers: 216 (11/17/82). Began: N.A.
 Programming (via satellite): Disney Channel; HBO; Showtime; The Movie Channel.
 Fee: N.A.
@@ -2299,7 +2299,7 @@ Fee: $20.00 Installation; $10.75 monthly; $10.00 installation, $2.25 monthly (ea
 Expanded Basic 1
 Subscribers: 2,087 (01/01/87). Began: July 1,1983.
 Programming (via satellite): Arts & Entertainment; ESPN; MTV; Nashville Network; Nickelodeon. Planned programming (via satellite): Cable Value Network.
-Fee: $10.00 installation; $4.00 monthly. Her 1
+Fee: $10.00 installation; $4.00 monthly. Tier 1
 Subscribers: 654 (01/01/87). Began: August 1,1981.
 Programming (via satellite): Cinemax. Fee: $10.00 installation; $10.50 monthly.
 Tier 2
@@ -2966,7 +2966,7 @@ Subscribers: 249 (01/01/88). Began: February 1,1986.
 Programming (via satellite): Cinemax. Fee: $20.00 installation; $9.95 monthly. Tier 2
 Subscribers: 88 (01/01/88). Began: February 1,1986.
 Programming (via satellite): Disney Channel.
-Fee: $20.00 Installation; $9.95 monthly, Tiers
+Fee: $20.00 Installation; $9.95 monthly, Tier 3
 Subscribers: 394 (01/01/88). Began: December 1,1978.
 Programming (via satellite): HBO.
 Fee: $20.00 Installation; $7.95 monthly. Local advertising: No.
@@ -3051,7 +3051,7 @@ Basic Service
 Subscribers: 146 (10/22/87). Programming (received off air): KPTS (P), KWCH-TV (C), Hutchinson-Wichita; KAKE-TV (A), KSAS-TV (I), KSNW (N) Wichita.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Nashville Network; Nickelodeon.
 Fee: $15.00 installation; $10.00 monthly.
-Tierl
+Tier 1
 Subscribers: 90 (10/22/87). Began: N.A. Programming (via satellite): HBO.
 Fee: $9.00 monthly.
 Miles of plant: 5.0 (coaxial). Homes passed: 260.
@@ -3067,7 +3067,7 @@ Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; American Movi
 Current originations: Time-weather; public access; public service announcements.
 Planned originations: Emergency alert, Fee: $25.00 Installation; $15.95 monthly; $4.00 converter; $14.95 Instal-
 lation, $2.50 monthly (each additional set).
-Tierl
+Tier 1
 Subscribers: 617 (01/01/88). Began: February 14,1979.
 Programming (via satellite): Cinemax; Disney Channel; HBO.
 Fee: $15.00 installation; $10.00 monthly (HBO or Cinemax); $8.50 monthly (Disney).
@@ -3082,7 +3082,7 @@ TV Market Ranking: Below 100. Original franchise award date: N.A. Franchise expi
 Channel capacity: 36. Channels available but not in use: N.A.
 Basic Service Subscribers: 60 (01/01/88). Programming (received off air): KSHB-TV (1), Kansas City; KSNT (N), KTKA-TV (A), KTWU (P), WIBW-TV (C) Topeka. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; C-SPAN; CNN; ESPN; Nashville Network; Nickelodeon.
 Fee: $14.95 monthly.
-Tierl
+Tier 1
 Subscribers: 55 (01/01/88). Began: N.A. Programming (via satellite): Cinemax; HBO.
 Fee: $10.00 monthly.
 Miles of plant: 2.5 (coaxial). Homes passed: 117.
@@ -3247,7 +3247,7 @@ Basic Service
 Subscribers: 175 (01/01/88). Programming (received off air): KTVC (C), Ensign; KSNG (N), KUPK-TV (A) Garden City; allband FM.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; ESPN.
 Current originations: Time-weather.
-Fee: $10.00 installation; $12.00 monthly, fieri
+Fee: $10.00 installation; $12.00 monthly, Tier 1
 Subscribers: 86 (03/01/85). Began: September 1,1982.
 Programming (via satellite): HBO.
 Fee: $15.00 Installation; $10.50 monthly.
@@ -3993,7 +3993,7 @@ Fee: $10.95 monthly (each).
 Miles of plant: 3.6 (coaxial). Homes passed: 147.
 City fee: 3% of gross.
 Ownership: Douglas Cable Communlca-. tions Inc. (see Cable Group Ownership), 100%.
-QUINTEB—Quinter Cable Co., 419 Main St., Quinter, KS 67752. Phone: 913-754-3480. County: Gove. Population: 953.
+QUINTER—Quinter Cable Co., 419 Main St., Quinter, KS 67752. Phone: 913-754-3480. County: Gove. Population: 953.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: N.A. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 320 (08/01/85). Programming (received off air): KLBY (A), Colby; KSNC (N), Great Bend; KAYS-TV (C), KOOD (P), Hays; KSNK
@@ -4067,7 +4067,7 @@ Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 258 (01/01/88). Programming (received off air): KCTV (C), KSHB-TV (I), WDAF-TV (N), Kansas City; KSNT (N), KTKA-TV (A), KTWU (P), WIBW-TV (C) Topeka. Programming (via satellite): WTBS (1) Atlanta; ESPN.
 Fee: $15.00 installation; $10.50 monthly.
-Tierl
+Tier 1
 Subscribers: 131 (01/01/88). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $12.00 installation; $10.00
@@ -4134,7 +4134,7 @@ Basic Service
 Subscribers: 665 (09/30/87). Programming (received off air): KCNC-TV (N), KMGH-TV (C), KUSA-TV (A), Denver; KLOE-TV (C), Goodland; KWNB-IV (A), Hayes Center; KSNK (N), McCook; KPNE-TV (P) North Platte; 1 FM. Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; ESPN; Lifetime; Nashville Network.
 Current originations: Bulletin board.
 Fee: $15.00 installation (St. Francis), $20.00 installation (Bird City); $13.50 monthly; $2.00 monthly (each additional set).
-Tierl
+Tier 1
 Subscribers: 58 (09/30/87). Began: N.A. Programming (via satellite): Disney Channel.
 Fee: $9.50 monthly.
 Tier 2
@@ -4154,7 +4154,7 @@ Subscribers: 526 (11/01/85). Programming (received off air): KSNC (N), Great Ben
 Programming (via satellite): WTBS (I)
 . Atlanta; CBN Cable Network; CNN Headline News; ESPN; Nashville Network. Current originations: Time-weather; bulletin board; message wheel; public service announcements.
 Fee: $16.00 installation; $10.00 monthly.
-Tierl
+Tier 1
 Subscribers: 297 (01/01/84). Began: October 1,1980.
 Programming (via satellite): HBO.
 Fee: $20.00 Installation; $10.73 monthly.
@@ -4171,7 +4171,7 @@ Channel capacity: 20. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 460 (01/30/86). Programming (received off air): KCTV (C), KMBC-TV (A), KSHB-TV (I), WDAF-TV (N), Kansas City; KSNT (N), KTKA-TV (A), KTWU (P), WIBW-TV (C) Topeka; 2 FMs.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; ESPN. Fee: $10.00 installation; $10.00 monthly; $10.00 installation, $1.00 monthly (each additional set).
-Tierl
+Tier 1
 Subscribers: 125 (01/30/86). Began: May 1,1980.
 Programming (via satellite): Showtime. Fee: $11.33 monthly.
 Equipment: Jerrold headend; Broadband amplifiers; Vikoa & Comm/Scope cable; Scientific-Atlanta satellite antenna. 1 Miles of plant: 7.5 (coaxial). Homes passed: 500. Total homes in franchised area: 500.
@@ -4182,7 +4182,7 @@ ST. PAUL—Cable TV of St. Paul, Box 435, Parson, KS 67357. Phone: 316-421-1577.
 Channel capacity: 35. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 137 (01/01/88). Programming (received off air): KODE-IV (A), KOZJ (P), KSNF (N), Joplin; KOAM-TV (C) Pittsburg-Joplin. ... Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Lifetime; Nashville Network; USA Network.
-' Fee: $15.00 Installation; $9.00 monthly. Tierl
+' Fee: $15.00 Installation; $9.00 monthly. Tier 1
 Subscribers: 47 (01/01/88). Began: N.A. Programming (via satellite): The Movie Channel.
 Fee: $8.00 monthly.
 Miles of plant: 6,0 (coaxial). Homes passed: 220.
@@ -4430,7 +4430,7 @@ Subscribers: 615 (09/30/87). Programming (received off air): KGIN (C), Grand Isl
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network.
 Current originations: Time-weather.
 Fee: $25.00 installation; $13.50 monthly; $2.00 monthly (each additional set).
-Her 1
+Tier 1
 Subscribers: 331 (09/30/87). Began: N.A.
 Programming (via satellite): HBO.
 Fee: $10.00 monthly.

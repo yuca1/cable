@@ -584,7 +584,7 @@ Equipment: Triple Crown headend; Wi-negard amplifiers; Comm/Scope cable; Pico tr
 City fee: 3% of gross.
 Ownership: Specchio Developers (see Cable Group Ownership), 100%. Purchased from Yard Electronic Services Inc., Jan. 1987.
 Note: Current information not available.
-BUCK HAWK TWP.—See ROCK ISUND, IL.
+BUCK HAWK TWP.—See ROCK ISLAND, IL.
 BUIRSVILLE—See ROYALTON, IL.
 BLANDINSVILLE—Liberty Cable TV, Box 508, 100 N. Scotland, Macomb, IL 62455. Phone: 308-833-4539. Counties:
 Hancock & McDonough. Also serves La Harpe. Population: 2,620.
@@ -899,7 +899,7 @@ TV Market Ranking: 11. Original franchise award date: N.A. Franchise expiration 
 Channel capacity: 35. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 2,632 (07/01/83). Programming (received off air): KDNL-TV (I), KETC (P), KMOV (C), KPLR-TV (I), KSDK (N), KTVI (A) St. Louis. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; WWOR-TV (I) New York; C-SPAN; CBN Cable Network; CNN; Discovery Channel; ESPN; Lifetime; Nashville Network; Nickelodeon; PTL; USA Network.
-Fee: $15.00 installation; $6.50 monthly. Tlerl
+Fee: $15.00 installation; $6.50 monthly. Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): Cinemax; Disney Channel; HBO; Showtime.
 Fee: $9,50 monthly (each).
 Equipment: AFC satellite antenna; Microdyne satellite receivers.
@@ -958,7 +958,7 @@ Subscribers: 84 (12/31/87). Began: N.A. Programming (via satellite): HBO.
 Fee: $10.00 installation; $10.00 monthly.
 Tier 2
 Subscribers: 20 (12/31/87). Began: N.A. Programming (via satellite): The Movie Channel.
-Fee: $10.00 Installation; $8.00 monthly. Tiers
+Fee: $10.00 Installation; $8.00 monthly. Tier 3
 Subscribers: 56 (12/31/87). Began: N.A. Programming (via satellite): Showtime. Fee: $10.00 Installation; $10.00 monthly.
 Miles of plant: 27.6 (coaxial). Homes passed: 1,100.
 Manager: Melanie Ward. Chief technician: WaltZiemba.
@@ -2403,7 +2403,7 @@ FORSYTH—See DECATUR, IL.
 FORT SHERIDAN—See HIGHLAND PARK, IL.
 FOUR LAKES—See LISLE, IL.
 FOWLER—See MENDON, IL.
-FOXLAKE—See WAUKEGAN. IL.
+FOXLAKE—See WAUKEGAN, IL.
 FOX RIVER GROVE—See CARPENTERSVILLE, IL.
 FOX RIVER VALLEY GARDENS—See McHENRY, IL.
 FRANKFORT—See ROMEOVILLE, IL.
@@ -3700,7 +3700,7 @@ City fee: 5% of gross.
 Ownership: Dowden Cable Partners L.P. (see Cable Group Ownership), 100%.
 LENZBURG—St. Clair Cable Vision Corp., Box 368, 2409 Broadway, Mount Vernon,
 IL 62864. Phone: 618-244-3910. County: St. Clair. Also serves Marlssa, New Athens. Population: 4,940.
-TV Market Ranking: 11 (Lenzburg & New Athens); Outside TV markets (Marlssa). Original franchise award date: N.A. Franchise expiration date: September 1, 1996. Began: August 1,1982.
+TV Market Ranking: 11 (Lenzburg & New Athens); Outside TV markets (Marissa). Original franchise award date: N.A. Franchise expiration date: September 1, 1996. Began: August 1,1982.
 Channel capacity: 35. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 673 (12/11/88). Programming (received off air): KFVS-TV (C), Cape Girardeau; KDNL-TV (I), KETC (P), KMOV (C), KPLR-TV (I), KSDK (N), KTVI (A) St. Louis. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; Lifetime; Nashville Network. Current originations: Time-weather.:
@@ -3906,7 +3906,7 @@ Channel capacity: 35. Channels available but not in use: 23.
 Basic Service
 Subscribers: 122 (07/01/85). Programming (received off air): WEEK-TV (N), WHOI (A), WMBD-TV (C), WIVP (P) Peoria.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Nashville Network.
-Fee: $30.00 installation; $9.00 monthly, fieri
+Fee: $30.00 installation; $9.00 monthly, Tier 1
 Subscribers: N.A. Began: January 1,
 1985.
 Programming (via satellite): Cinemax; HBO.
@@ -6096,7 +6096,7 @@ City fee: 3% of gross.
 Ownership: Star Cablevision Group (see Cable Group Ownership), 100%. Purchased from Combined Cable Corp., Jan. 1988.	......
 ROBBINS (village)—See CHICAGO HEIGHTS, IL.
 ROBINSON—Illinois Cablevision, Box 716A, 208 S. Cross St., Robinson, IL 62454. Phone: 618-544-2021. County: Crawford. Also serves Crawford County, Hutsonville. Oblong, Palestine. Population: N.A. (area served).
-TV Market Ranking: Below 100 (portions of Crawford County, Hutsonville, Palestine & Robinson); Outside TV markets (portions of Crawford County 8i Oblong). Original franchise award date: N.A. Franchise expiration date: January 1,1994. Began: August 15,1964. Channel capacity: 35. Channels available but not In use: N.A:
+TV Market Ranking: Below 100 (portions of Crawford County, Hutsonville, Palestine & Robinson); Outside TV markets (portions of Crawford County & Oblong). Original franchise award date: N.A. Franchise expiration date: January 1,1994. Began: August 15,1964. Channel capacity: 35. Channels available but not In use: N.A:
 Basic Service
 Subscribers: 3,550 (12/01/86). Programming (received off air): WTTV (I), Bloomlngton-lndlanapolis; WCIA (C), Champaign; WTVW (A), Evansville; WUSI-TV (P), Olney; WBAK-TV (A), WTHI-TV (C), WTWO (N), Terre Haute; WVUT (P) Vincennes; 1 FM. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network.
 Current originations: Time-weather; bulletin board; classified ads; leased access.
@@ -6307,14 +6307,14 @@ Fee: $11.00 monthly (each).
 Homes passed: 545.
 Ownership: Galaxy Cablevision L.P. (see Cable Group Ownership), 100%.
 Note: Current information not available.
-ROSSVILLE—See HOOPESTON, II.
+ROSSVILLE—See HOOPESTON, IL.
 ROUND LAKE—See McHENRY, IL.
 ROUND LAKE BEACH—See McHENRY, IL.
 ROUND LAKE HEIGHTS—See McHENRY, IL.
 ROUND LAKE PARK—See McHENRY, IL.
 ROXANA—See ALTON, IL.
 ROYALTON—C4 Media Corp. Co. I, Box 67, No. 2 Circle, Zeigler, IL 62999. Phone: 618-596-6550. Counties: Franklin, Jackson & Williamson. Also serves Blalrsville, Bush, Cambria, Dowell, Elk-ville, Hurst, Zeigler. Population: 7,227.
-TV Market Ranking: 69 (Bush, Cambria, Royalton & Zeigler); Below 100 (Blairs-ville, Dowell, Elkville & Hurst).' Original franchise award date: November 1, 1982. Franchise expiration date: October 1, 2007. Began: November 1,1982. Channel capacity: 35 (2-way capable). Channels available but not In use: 13. .... Basic Service
+TV Market Ranking: 69 (Bush, Cambria, Royalton & Zeigler); Below 100 (Blairsville, Dowell, Elkville & Hurst).' Original franchise award date: November 1, 1982. Franchise expiration date: October 1, 2007. Began: November 1,1982. Channel capacity: 35 (2-way capable). Channels available but not In use: 13. .... Basic Service
 Subscribers: 1,472 (01/01/85). ft;. Programming (received off air): KFVS-TV (C), Cape Girardeau; WSIU-TV.(P), Carbondale; WSIL-TV (A), Harrisburg; WTCT (I), Marion; WCEE (I), .‘Mount Vernon; WPSD-TV (N), Paducah; KPLR-TV (I), KSDK (N) St. Louis; allband FM. Programming (via satellite): WTBS (I) -. Atlanta; WGN-TV (I) Chicago; CBN'Cable Network; ESPN.	'l	l
 Fee: $19.95 Installation; $8.90 monthly; $19.95 converter.
 Expanded Basic 1
@@ -6373,7 +6373,7 @@ ST. DAVID—Triax Cablevision, 562 N. Henderson, Galesburg, IL 61401. Phone: 309
 TV Market Ranking: 83. Original franchise award date: N.A. Franchise expiration date: January 1,1997. Began: N.A. Channel capacity: 30 (plans two-way). Channels available but not In use: N.A. Basic Service Subscribers: N.A.
 Programming (received off air): WEEK-TV (N), WHOI (A), WMBD-TV (C), WTVP (P) Peoria.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Nickelodeon; USA Network:
-Fee: $25.00 installation; $17.00 monthly, fieri
+Fee: $25.00 installation; $17.00 monthly, Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): HBO.
 Fee: $1.00 monthly.
 Additional miles planned: 6.0 (coaxial). Manager: Rob Fischer. Chief technician: Doug Zimmerman.
@@ -6962,7 +6962,7 @@ TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franc
 Channel capacity: 36 (2-way capable). Channels available but not in use: N.A. Basic Service
 Subscribers: 170 (01/01/85). Programming (received off air): WEHT (C), WFIE-TV (N), WTVW (A), Evansville; WUSI-TV (P) Olney.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Arts & Entertainment; CBN Cable Network; CNN; ESPN; Nickelodeon; USA Network. Fee: $40.00 installation; $16.95 monthly; $40.00 installation, $2.25 monthly (each additional set).
-Tlerl
+Tier 1
 Subscribers: N.A. Began: January 1, 1984.
 Programming (via satellite): Cinemax; HBO.
 Fee: $40.00' installation; $8.95 monthly (Cinemax), $9.95 monthly (HBO). Equipment: Scientific-Atlanta amplifiers; Times Fiber cable; Antronix set top converters; Eagle traps; Winegard & International Satellite satellite antenna.
@@ -7351,7 +7351,7 @@ TV Market Ranking: 60. Original franchise award date: N.A. Franchise expiration 
 Basic Service
 Subscribers: 322 (07/01/85). Programming (received off air): KWQC-TV (N), Davenport; KIIN-TV (P), Iowa City; WQAD-TV (A), Moline; WHBF-TV (C) Rock Island.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Nashville Network.
-Fee: $30.00 installation; $8.75 monthly. Her 1
+Fee: $30.00 installation; $8.75 monthly. Tier 1
 Subscribers: N.A. Began: September 1,
 1984.
 Programming (via satellite): Cinemax; HBO.
@@ -7519,7 +7519,7 @@ Tier 7
 Subscribers: 317 (10/01/86). Began: N.A.
 Programming (via satellite): The Movie Channel.
 . Fee: $15.00 installation; S6.95-S9.95 monthly.
-Tiers
+Tier 8
 Subscribers: 1,382 (10/01/86). Began: N.A.
 Programming (via satellite): Showtime. Fee: $15.00 Installation; $6.95-$9.95 monthly,
 Local advertising: Yes. Available In locally originated, CNN, ESPN, MTV programming. Rates: $50.00/Day. Regional Interconnect: Centel Videopath; Cable Network Chicago.

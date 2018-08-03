@@ -29,7 +29,7 @@ Ownership: TCA Cable TV Inc. (see Cable Group Ownership), 100%.
 Abita Springs—See COVINGTON, LA.
 ACADIA PARISH—See RAYNE, LA.
 ACADIA PARISH (WARD 3)—See CHURCH POINT, LA.
-ACADIA PARISH (WARD 7)—See EUNICE,
+ACADIA PARISH (WARD 7)—See EUNICE, LA.
 ADDIS—Bayou Cable TV, Box 693, Plaque-mine, LA 70764. Phone: 318-687-8253. County: West Baton Rouge. Population: 724.
 TV Market Ranking: 87. Original franchise award date: N.A. Franchise expiration date: N.A. Began: August 1,1984.
 Channel capacity: N.A. Channels available but not in use: N.A,
@@ -413,7 +413,7 @@ Fee: $10.00 Installation; $7.95 monthly. Tier 2
 Subscribers: 120 (12/23/87). Began: January 1,1983.
 Programming (via satellite): HBO.
 Fee: $10.00 Installation; $10.95 monthly.
-Tiers
+Tier 3
 Subscribers: 179 (12/23/87). Began: N.A.
 Programming (via satellite): Showtime. Fee: $10.00 Installation; $9.95 monthly. Local advertising: Yes. Rates: $2.00/ Week.
 Equipment: Jerrold headend; Jerrold amplifiers; Times cable; System Concepts character generator; Jerrold set top converters; Sclentlflc-Atlanta satellite antenna; Sclentlflc-Atlanta satellite receivers.
@@ -876,7 +876,7 @@ Tier 2
 Subscribers: 1,068 (01/01/87). Began: October 1,1983.
 Programming (via satellite): Disney Channel.
 Fee: $10.00 installation; $10.00 monthly.
-Tiers
+Tier 3
 Subscribers: 3,813 (01/01/87). Began: January:!, 1980.
 Programming (via satellite): HBO.
 Fee: $10.00 Installation; $10.00 monthly.
@@ -1002,13 +1002,13 @@ City fee: 3% of gross.
 Ownership: Levine, Nathan A. (see Cable Group Ownership), 100%.
 Note: Current information not available.
 HORNBECK—See MANY, LA.
-HQTWELLS—Star CATV Investment Corn., Box 466, Sibley, LA 71073. Phone: 3f8-371-9400. County: Rapides. Also serves Boyce, Lake Cotlle, Population: 2,353.
+HOTWELLS—Star CATV Investment Corn., Box 466, Sibley, LA 71073. Phone: 3f8-371-9400. County: Rapides. Also serves Boyce, Lake Cotlle, Population: 2,353.
 Tv Market Ranking: Below 100. Original franchise award date: N.A. Franchise expiration date: January 1,1997. Began: September 1,1982.
 Channel capacity: 52. Channels available but not In use: N.A.
 Basic Service
 Subscribers: 529 (01/01/85). Programming (received off air): KALB-TV (N), KLAX-TV (A), KLPA-TV (P), Alexandria; KATC (A), KLFY-TV (C), Lafayette; KLTM-TV (P). KNOE-TV (C) Monroe.
 Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; CBN Cable Network; CNN; ESPN; Nickelodeon; The Weather Channel; USA Network.
-Fee: $25.00 Installation; $9.95 monthly; $3.00 monthly (each additional set). Tlerl
+Fee: $25.00 Installation; $9.95 monthly; $3.00 monthly (each additional set). Tier 1
 Subscribers: N.A. Began: N.A. Programming (via satellite): HBO; Showtime; The Movie Channel.
 Fee: $9.00 monthly (each).
 Manager: Dick Baumgamer.
@@ -1038,7 +1038,7 @@ Channel capacity: 12. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 412 (01/01/88). Programming (received off air): KATC (A), KLFY-TV (C), KLPB-TV (P), Lafayette; KPLC-TV (N) Lake Charles, Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN Headline News; Nashville Network; PTL; USA Network.
 Fee: $13.50 monthly.
-Tlerl
+Tier 1
 Subscribers: 165 (01/01/88). Began: May 1,1983.
 Programming (via satellite): HBO.
 Fee: $9.90 monthly.
@@ -1126,7 +1126,7 @@ Manager: Kenneth Herrington.
 City fee: 3% of gross.
 Ownership: Wometco Cable TV Inc. (see Cable Group Ownership), 100%.
 JONESBORO—Jonesboro-Hodge Cable TV, 515 S. Polk Ave., Jonesboro, LA 71251. Phone: 318-259-4447. County: Jackson. Also serves East Hodge, Hodge, Jackson Parish, North Hodge. Population: 10,000.
-TV Market Ranking: 99 (portions of Jack-son Parish); Below 100 (East Hodge, portions of Jackson Parish); Outside TV /markets (Hodge, Jonesboro, North Flodge, portions of Jackson Parish), „ Original franchise award date: N.A. Franchise expiration date: April 29, 1991.
+TV Market Ranking: 99 (portions of Jackson Parish); Below 100 (East Hodge, portions of Jackson Parish); Outside TV /markets (Hodge, Jonesboro, North Flodge, portions of Jackson Parish), „ Original franchise award date: N.A. Franchise expiration date: April 29, 1991.
 , Began: August 1,1968.
 Channel capacity: 12. Channels available rbgt.not in use: N.A.
 Basic Service
@@ -1409,7 +1409,7 @@ MADISON PARISH—See TALLULAH, LA.
 MADISONVILLE—See MANDEVILLE, LA.
 MAMOU—See VILLE PLATTE, LA.
 MANDEVILLE—Jackson Cable TV, Box 610, Mandevllje, LA 70448. Phone: 504-893-0212. County: St. Tammany. Also serves Madlsonville, St. Tammany Par-ish. Population: 22,028.
-TV Market Ranking: 31 (Mandevllle & portions of St. Tammany Parish); Outside TV markets (Madisonville & portions of St. Tammany Parish). Original
+TV Market Ranking: 31 (Mandeville & portions of St. Tammany Parish); Outside TV markets (Madisonville & portions of St. Tammany Parish). Original
 franchise award date: N.A. Franchise expiration date: November 15, 1993. Began: June 1,1979.
 Channel capacity: 35 (2-way capable). Channels available but not In use: 6. Basic Service
 Subscribers: 4,988 (12/23/87). Programming (received off air): WDSU-TV (N), WGNO-TV (I), WLAE-TV (P), WNOL-TV (I), WVUE (A), WWL-TV (C), WYES-TV (P) New Orleans. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago; Arts & Entertainment; C-SPAN; CBN Cable Network; CNN; CNN Headline News; Cable Value Network; Discovery Channel; ESPN; Hnancial News Network; Lifetime; MTV; Nashville Network; Nickelodeon; PTL; The Weather Channel; USA Network.
@@ -1770,10 +1770,10 @@ Channel capacity: 27 (2-way capable). Channels available but not in use: N.A. Ba
 Subscribers: 7,118 (12/23/87). Programming (received off air): KALB-TV (N), Alexandria; WAFB-TV (C), WBRZ (A), Baton Rouge; KADN (I), KATC (A), KLFY-TV (C), KLPB-TV (P), Ufayette; KPLC-TV (N) Lake Charles; 18 FMs. Programming (via satellite): WTBS (I) Atlanta; Black Entertainment TV; CBN Cable Network; CNN; Cable Value Network; ESPN; EWTN; Lifetime; MTV; Nashville Network; Nickelodeon; The Weather Channel; USA Network.
 Current originations: Time-weather.
 Fee: $20.00 installation; $13.50 monthly; $2.00 monthly (each additional set).
-Tierl
+Tier 1
 Subscribers: 346 (12/23/87). Began: January 1,1984.
 Programming (via satellite): Disney Channel.
-Fee: $10.00 installation; $7.95 monthly. Her 2
+Fee: $10.00 installation; $7.95 monthly. Tier 2
 Subscribers: 834 (12/23/87). Began: Januaiy 1,1982.
 Programming (via satellite): HBO.
 Fee: $10.00 installation; $10.95 monthly.
@@ -2095,11 +2095,11 @@ Fee: $10.00 monthly (each).
 City fee: 3% of gross.
 Ownership: Galaxy Cablevision L.P. (see Cable Group Ownership), 100%. Purchased from Star CATV Investment Corp., March 1987.
 Note: Current information not available.
-ST. LANDRY PARISH (portions)—See EUNICE. LA.
+ST. LANDRY PARISH (portions)—See EUNICE, LA.
 ST. UNDRY PARISH (portions)—See also OPELOUSAS, LA.
 ST. MARTIN PARISH—See MARTINVILLE, LA.
 ST. MARTINVILLE—TCA Cable TV Inc., Box 255, St. Martinvllle, LA 70582. Phone: 318-394-9713. County: St. Martin. Also serves Henderson, Parks, St. Martin Parish. Population: 34,000.
-TV Market Ranking: 87 (Henderson, portions of St. Martin Parish); Below 100 (Parks, St. Martinvllle, portions of St. Martin Parish). Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1,1980.
+TV Market Ranking: 87 (Henderson, portions of St. Martin Parish); Below 100 (Parks, St. Martinville, portions of St. Martin Parish). Original franchise award date: N.A. Franchise expiration date: N.A. Began: May 1,1980.
 Channel capacity: 12 (plans two-way). Channels available but not in use: None. Basic Service
 Subscribers: 5,655 (11/01/85). Programming (received off air): KALB-IV (N), Alexandria; WAFB-TV (C), WBRZ (A), WLPB-TV (P), WVLA (N), Baton Rouge; KADN (1), KATC (A), KLFY-TV (C), KLPB-TV (P) Lafayette. Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; ESPN; Nickelodeon.
 Fee: $20.00 installation; $10.45 monthly; $2.00 monthly (each additional set).
@@ -2190,7 +2190,7 @@ Basic Service
 Subscribers: 144 (01/01/85). Programming (received off air): KALB-TV (N), Alexandria; WAPT (A), Jackson; KLTM-TV (P), KNOE-TV (C) Monroe. Programming (via satellite): WTBS (I) Atlanta; WGN-TV (I) Chicago.
 Fee: $25.00 installation; $8.95 monthly; $2.00 monthly (each additional set). Ownership: Galaxy Cablevlsion L.P. (see Cable Group Ownership), 100%. Purchased from Star CATV Investment Corp., March 1987.
 Note: Current information not available.
-Springfield—See FRENCH SETTLEMENT,
+Springfield—See FRENCH SETTLEMENT, LA.
 SPRINGHILL—Universal Video Communications Inc., 204 First St. NE, Springhill, LA 70175. Phone: 318-539-9134. County: Webster. Also serves Cullen. Population: 8,452.
 TV Market Ranking: Outside TV markets. Original franchise award date: N.A. Franchise expiration date: N.A. Began: N.A. Channel capacity: N.A. Channels available but not in use: N.A.
 Basic Service
@@ -2333,7 +2333,7 @@ Ownership: Sammons Communications Inc. (see Cable Group Ownership), 100%.
 VIDRINE—See VILLE PLATTE, LA.
 VIENNA—See RUSTON, LA.
 VILLE PLATTE—Evangeline Cable TV Inc., Box 437, Vllle Platte, LA 70586. Phone: 318-363-5900. County: Evangeline. Plans service to Evangeline Parish, Reddell, Vi-drine, Mamou. Population: 13,025.
-TV Market Ranking: Below 100 (portions of Evangeline Parish, Mamou, Vllle Platte); Outside TV markets (portions of Evangeline Parish, Reddell, Vidrine). Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1978.
+TV Market Ranking: Below 100 (portions of Evangeline Parish, Mamou, Ville Platte); Outside TV markets (portions of Evangeline Parish, Reddell, Vidrine). Original franchise award date: N.A. Franchise expiration date: N.A. Began: January 1, 1978.
 Channel capacity: 18. Channels available but not in use: N.A.
 Basic Service
 Subscribers: 2,000 (09/01/86). Programming (received off air): KALB-TV (N), Alexandria; WAFB-TV (C), WLPB-TV (P), Baton Rouge; KFDM-TV (C), Beaumont; KADN (I), KATC (A). KLFY-TV (C), KLPB-TV (P), Lafayette; KPLC-TV (N) Lake Charles. Programming (via satellite): WTBS (I) Atlanta; CBN Cable Network; CNN; ESPN; EWTN.
